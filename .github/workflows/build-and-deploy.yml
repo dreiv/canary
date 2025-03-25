@@ -3,6 +3,10 @@ name: Build and Deploy
 on:
   push:
     branches: ['*'] # Triggers on all branches
+  workflow_run:
+    workflows: ['News Scraper'] # Name of the triggering workflow
+    types:
+      - completed # Trigger only when the triggering workflow completes
   workflow_dispatch:
 
 jobs:
