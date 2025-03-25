@@ -35,26 +35,27 @@ jobs:
           url = f"https://newsapi.org/v2/top-headlines?country=ro&apiKey={api_key}"
 
           try:
-            response = requests.get(url)
-            response.raise_for_status() # Raise HTTPError for bad responses (4xx or 5xx)
-            data = response.json()
+              os.makedirs("src/assets/", exist_ok=True)
+              response = requests.get(url)
+              response.raise_for_status()
+              data = response.json()
 
-            articles = data.get("articles", [])
-            if articles:
-              filename = "/src/assets/data.json" # Modified filename
-              with open(filename, "w") as f:
-                json.dump(articles, f, indent=4)
-              print(f"News scraped and saved to {filename}")
+              articles = data.get("articles", [])
+              if articles:
+                  filename = "src/assets/data.json"
+                  with open(filename, "w") as f:
+                      json.dump(articles, f, indent=4)
+                  print(f"News scraped and saved to {filename}")
 
-            else:
-              print("No articles found.")
+              else:
+                  print("No articles found.")
 
           except requests.exceptions.RequestException as e:
-            print(f"Error during request: {e}")
+              print(f"Error during request: {e}")
           except json.JSONDecodeError as e:
-            print(f"Error decoding JSON: {e}")
+              print(f"Error decoding JSON: {e}")
           except Exception as e:
-            print(f"An unexpected error occurred: {e}")
+              print(f"An unexpected error occurred: {e}")
 
           EOF
 
@@ -62,4 +63,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'Automated news scrape'
-          file_pattern: src/assets/data.json # Only commit the json files
+          file_pattern: src/assets/data.json
