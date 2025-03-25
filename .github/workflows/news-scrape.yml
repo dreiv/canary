@@ -62,4 +62,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'Automated news scrape'
-          file_pattern: news_scrape_*.json # Only commit the json files
+          file_pattern: src/assets/data.json # Only commit the json files
