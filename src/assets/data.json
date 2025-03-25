@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "  [email protected]",
+      "phone": "123-456-7890",
+      "address": "1234 Elm St, Springfield, IL 62701"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": "  [email protected]",
+      "phone": "123-456-7890",
+      "address": "1234 Elm St, Springfield, IL 62701"
+    },
+    {
+      "id": 3,
+      "name": "John Smith",
+      "email": "  [email protected]",
+      "phone": "123-456-7890",
+      "address": "1234 Elm St, Springfield, IL 62701"
+    },
+    {
+      "id": 4,
+      "name": "Jane Smith",
+      "email": "  [email protected]",
+      "phone": "123-456-7890",
+      "address": "1234 Elm St, Springfield, IL 62701"
+    }
+  ]
+}
