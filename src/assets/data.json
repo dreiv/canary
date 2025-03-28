@@ -1,6 +1,58 @@
 [
     {
         "source": {
+            "id": null,
+            "name": "Patriots.com"
+        },
+        "author": null,
+        "title": "Report: Patriots Sign Four-Time Pro Bowl WR Stefon Diggs - Patriots.com",
+        "description": "According to multiple reports, the Patriots are adding the former Texans and Bills receiver to bolster the offense.",
+        "url": "https://www.patriots.com/news/report-patriots-sign-four-time-pro-bowl-wr-stefon-diggs",
+        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/v1742945214/patriots/tnarees4rgsqi7oovykt",
+        "publishedAt": "2025-03-27T04:41:40Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "Tufts PhD student on visa arrested by immigration authorities, school says - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/US/tufts-phd-student-visa-arrested-immigration-authorities/story?id\\\\u003d120176245",
+        "urlToImage": null,
+        "publishedAt": "2025-03-27T04:29:57Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": null,
+        "title": "Lawsuit against OpenAI over newspaper copyright issues can proceed, judge rules - CBS News",
+        "description": "Several newspapers have sued OpenAI and Microsoft, seeking to end the practice of using their stories to train artificial intelligence chatbots.",
+        "url": "https://www.cbsnews.com/news/lawsuit-against-openai-newspaper-copyright/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/03/14/7b0656dd-1b90-40a5-8e0d-6005777b6c97/thumbnail/1200x630/1aaf892e4c6dc51cca7b0d0fbb376705/ap24059741756486.jpg?v=95354023eeb6141c58c08d9a5716f291",
+        "publishedAt": "2025-03-27T02:38:37Z",
+        "content": "A federal judge has ruled that The New York Times and other newspapers can proceed with a copyright lawsuit against OpenAI and Microsoft seeking to end the practice of using their stories to train ar\u2026 [+1670 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "TikTok: Trump says he may cut China tariffs to help seal deal to sell the app - BBC.com",
+        "description": "Trump also said he is willing to extend a 5 April deadline for a non-Chinese buyer of the platform to be found.",
+        "url": "https://www.bbc.com/news/articles/c241ezrpg69o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3498/live/6a3b5960-0ab8-11f0-9862-a9a842fe5e0b.jpg",
+        "publishedAt": "2025-03-27T01:52:13Z",
+        "content": "Peter HoskinsBusiness reporter, BBC News\r\nUS President Donald Trump says he may cut tariffs on China to help seal a deal for short video app TikTok to be sold by its owner ByteDance.\r\nTrump also said\u2026 [+2198 chars]"
+    },
+    {
+        "source": {
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
@@ -14,29 +66,42 @@
     },
     {
         "source": {
-            "id": "the-verge",
-            "name": "The Verge"
+            "id": "entertainment-weekly",
+            "name": "Entertainment Weekly"
         },
-        "author": "Emma Roth",
-        "title": "Robinhood is launching bank accounts that will deliver physical cash \u2018to your doorstep\u2019 - The Verge",
-        "description": "Robinhood is launching new checking and savings accounts for Gold subscribers, allowing users to send and receive money through the Robinhood Credit Card app.",
-        "url": "https://www.theverge.com/news/636733/robinhood-banking-launch-cash-deliveries",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK049_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "author": "https://www.facebook.com/entertainmentweekly",
+        "title": "'Survivor 48' recap: Eva and Joe make us all cry our eyes out - Entertainment Weekly News",
+        "description": "'Survivor 48' recap: Eva and Joe make us all cry our eyes out in the franchise's most impactful scene ever.",
+        "url": "https://ew.com/survivor-48-recap-eva-joe-make-us-all-cry-our-eyes-out-11703614",
+        "urlToImage": "https://ew.com/thmb/xtYD_PQPCiXukQIRJReEdqKqTC4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Survivor--32_03262025-4550ab2bfaec46ac8a84adccf3d6cae9.jpg",
         "publishedAt": "2025-03-27T01:30:00Z",
-        "content": "Gold subscribers can sign up for a checking or savings account through Robinhood later this year.\r\nGold subscribers can sign up for a checking or savings account through Robinhood later this year.\r\nR\u2026 [+2604 chars]"
+        "content": "Fine, I admit it: I cried.\r\nAnd not like a simple watering of the eyes. Im talking full, hot tears rolling down my cheek. Somewhere, Stephen Fishbach is searching for a local Staples store to buy a p\u2026 [+14730 chars]"
     },
     {
         "source": {
-            "id": "politico",
-            "name": "Politico"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": "Carmen Paun",
-        "title": "Documents reveal scope of Trump\u2019s foreign aid cuts - POLITICO",
-        "description": "The State Department sent the list of impacted grants and contracts to Congress, according to a document seen by POLITICO.",
-        "url": "https://www.politico.com/news/2025/03/26/documents-reveal-scope-of-trumps-foreign-aid-cuts-00252918",
-        "urlToImage": "https://static.politico.com/41/95/fa7ef62c46ffbdab584e92ee1d1b/ethiopia-tigray-usaid-51465.jpg",
-        "publishedAt": "2025-03-27T00:36:29Z",
-        "content": "Some notable cuts include:\r\n<ul><li>$880 million for Gavi, the Vaccine Alliance, which helps developing countries procure vaccines, covering the period from Sept. 30, 2022, to Dec. 31, 2030</li></ul>\u2026 [+2177 chars]"
+        "author": "Jeremy Roebuck, Marianne LeVine",
+        "title": "Appeals court upholds temporary block on Alien Enemies Act deportations - The Washington Post",
+        "description": "The Trump administration asked an appeals court to overturn Judge James E. Boasberg\u2019s temporary restraining order blocking the deportations.",
+        "url": "https://www.washingtonpost.com/immigration/2025/03/26/trump-deportations-venezuela-boasberg-appeals-court/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MGN54ZKJ4H7DMZKYXCR5KE4GBM_size-normalized.jpg&w=1440",
+        "publishedAt": "2025-03-27T01:03:49Z",
+        "content": "A federal appeals panel on Wednesday refused to allow the Trump administration to summarily deport migrants undera rarely invoked wartime power while litigation on the matter continues.\r\nThe 2-1 deci\u2026 [+6621 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Adithi Ramakrishnan",
+        "title": "A Venus flytrap wasp? Scientists uncover an ancient insect preserved in amber that snatched its prey - The Associated Press",
+        "description": "Scientists have discovered an ancient wasp with a body like a Venus flytrap to seize and snatch its prey. More than a dozen female wasps were found preserved in 99-million-year-old amber from northern Myanmar, dating back to the dinosaurs. Scientists think th\u2026",
+        "url": "https://apnews.com/article/parasitic-wasp-venus-flytrap-dad650c7d3c3592bd1c98fe855d09226",
+        "urlToImage": "https://dims.apnews.com/dims4/default/7f6f047/2147483647/strip/true/crop/3378x1900+311+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa2%2Fdb%2F3bcfb9ae773419895e67a66e4d8d%2Ff54cc1c5db2d4a6fac059b6ae2b9181e",
+        "publishedAt": "2025-03-27T01:02:00Z",
+        "content": "NEW YORK (AP) An ancient wasp may have zipped among the dinosaurs, with a body like a Venus flytrap to seize and snatch its prey, scientists reported Wednesday. \r\nThe parasitic wasps abdomen boasts a\u2026 [+2188 chars]"
     },
     {
         "source": {
@@ -66,16 +131,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "wgbh.org"
+            "id": "axios",
+            "name": "Axios"
         },
-        "author": "Tori Bedford, Sarah Betancourt",
-        "title": "Tufts international graduate student taken into ICE custody - GBH News",
-        "description": "The student was reportedly detained by Immigration and Customs Enforcement officials and remains in federal custody, according to an email sent by the university Tuesday evening.",
-        "url": "https://www.wgbh.org/news/local/2025-03-26/tufts-international-graduate-student-taken-into-ice-custody",
-        "urlToImage": "https://cdn.grove.wgbh.org/dims4/default/0e580bf/2147483647/strip/true/crop/2581x1355+0+251/resize/1200x630!/quality/70/?url=https%3A%2F%2Fk1-prod-gbh.s3.us-east-2.amazonaws.com%2Fbrightspot%2F23%2F4b%2F07684157465eb2c6ed469e520256%2Fap25031690120886.jpg",
-        "publishedAt": "2025-03-27T00:00:00Z",
-        "content": "A Tufts University international graduate student is in federal custody in Louisiana after being detained by Immigration and Customs Enforcement officials.\r\nRumeysa Ozturk, a Turkish national and PhD\u2026 [+6829 chars]"
+        "author": "Axios",
+        "title": "Trump imposes sweeping auto tariffs in latest trade crackdown - Axios",
+        "description": null,
+        "url": "https://www.axios.com/2025/03/26/trump-tariffs-autos-cars",
+        "urlToImage": null,
+        "publishedAt": "2025-03-26T23:44:09Z",
+        "content": null
     },
     {
         "source": {
@@ -105,106 +170,28 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
+            "id": null,
+            "name": "KOMO News"
         },
-        "author": "Dan Heching",
-        "title": "X-cuse me!? Marvel tees up major \u2018X-Men\u2019 and \u2018Avengers\u2019 returns for \u2018Doomsday\u2019 - CNN",
-        "description": "Perhaps attempting to prove that reports of imminent box office demise have been greatly exaggerated, Marvel on Wednesday announced major casting news for its upcoming \u201cAvengers\u201d sequel that both flex the power of its history and set it up for the future.",
-        "url": "https://www.cnn.com/2025/03/26/entertainment/avengers-doomsday-cast-chris-hemsworth-paul-rudd/index.html",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20250326-avengers.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-03-26T23:05:00Z",
-        "content": "Perhaps attempting to prove that reports of its box office demise have been greatly exaggerated, Marvel on Wednesday announced major casting news for its upcoming Avengers sequel that both flex the p\u2026 [+3974 chars]"
+        "author": "KOMO News Staff",
+        "title": "LIVE: Tracking strong thunderstorms moving through western Washington - KOMO News",
+        "description": "Strong, widespread thunderstorms are forecast in western Washington Wednesday afternoon through Wednesday night.",
+        "url": "https://komonews.com/news/local/puget-sound-forecast-seattle-severe-thunderstorm-watch-power-outages-hail-gusty-winds-chance-tornado-radar-thunder-lightning-nws",
+        "urlToImage": "https://komonews.com/resources/media2/16x9/1010/986/269x75/90/30d49b09-f1bb-454b-b284-406c463e3ac5-dn26QACAMSouth_frame_179342.jpeg",
+        "publishedAt": "2025-03-26T23:21:06Z",
+        "content": "SEATTLE Strong, widespread thunderstorms are forecast in western Washington Wednesday afternoon through Wednesday night.\r\nDangerous lightning and heavy downpours that lead to short-term urban floodin\u2026 [+4113 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "NPR"
+            "name": "CNBC"
         },
-        "author": "",
-        "title": "Appeals court sides with judge who blocked deportations under wartime authority - NPR",
-        "description": "The D.C. Circuit Court of Appeals panel denied the Trump administration's push to restart deportations of alleged gang members under a rarely used wartime authority known as the Alien Enemies Act.",
-        "url": "https://www.npr.org/2025/03/26/g-s1-56392/appeals-circuit-alien-enemies-act",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x4608+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2F8a%2Fe9d9e1c44534a0248bf31ebe3448%2Fgettyimages-2205557587.jpg",
-        "publishedAt": "2025-03-26T22:44:12Z",
-        "content": "A three-judge panel from the D.C. Circuit Court of Appeals has denied the White House's push to restart deportations under a rarely used wartime authority.\r\nBy a vote of 2 to 1, the judges on Wednesd\u2026 [+3528 chars]"
-    },
-    {
-        "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "ABC News",
-        "title": "Measles case confirmed in DC, individual may have exposed others on Amtrak train - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/Health/measles-case-confirmed-dc-individual-exposed-amtrak-train/story?id\\\\u003d120176123",
-        "urlToImage": null,
-        "publishedAt": "2025-03-26T21:56:17Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Hollywood Reporter"
-        },
-        "author": "James Hibberd",
-        "title": "\u2018Snow White\u2019 Producer\u2019s Son Slams \u201cImmature\u201d Rachel Zegler: \u201cClearly Hurt the Film\u201d - Hollywood Reporter",
-        "description": "Producer Marc Platt's son Jonah posted and deleted a scathing comment about the Disney star.",
-        "url": "http://www.hollywoodreporter.com/movies/movie-news/snow-white-marc-platt-jonah-slams-rachel-zegler-1236173434/",
-        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/03/MCDSNWH_WD028-H-2025.jpg?w=1296&h=730&crop=1",
-        "publishedAt": "2025-03-26T21:42:45Z",
-        "content": "A Snow Whiteproducer\u2019s son is harshly slamming Rachel Zegler, accusing the star of hurting the film with her social media comments. \r\nJonah Platt, son of Marc Platt, took to Instagram to defend his f\u2026 [+4267 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Trump announces 25% tariffs on car imports to US - BBC.com",
-        "description": "The US President says the tariffs on cars will come into effect on 2 April and car parts a month later.",
-        "url": "https://www.bbc.com/news/articles/cly341xr45vo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a4e2/live/f2c9e7f0-0a82-11f0-a145-69353f7d3b8c.jpg",
-        "publishedAt": "2025-03-26T21:39:50Z",
-        "content": "Natalie Sherman &amp; Michael RaceBusiness reporters, BBC News\r\nWatch: Trump announces 25% tariff on cars 'not made in the United States'\r\nUS President Donald Trump has announced new import taxes of \u2026 [+6075 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NPR"
-        },
-        "author": "Joe Hernandez",
-        "title": "What to know about Pituffik, the only U.S. military base in Greenland - NPR",
-        "description": "Vice President JD Vance will travel to Greenland this week, including a stop at Pituffik Space Base, the U.S. Defense Department's northernmost installation and its only outpost on the island.",
-        "url": "https://www.npr.org/2025/03/26/nx-s1-5341505/greenland-pituffik-space-military-base",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8159x4589+0+425/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2F25%2F62c3f5a34232b6fb1af3d66d91ed%2Fgettyimages-1708736725.jpg",
-        "publishedAt": "2025-03-26T21:01:38Z",
-        "content": "Vice President JD Vance this week will embark on a trip to Greenland, the massive but sparsely populated Arctic island with global strategic value.\r\nPresident Trump has repeatedly signaled in his sec\u2026 [+3148 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Variety"
-        },
-        "author": "Todd Spangler",
-        "title": "OpenAI CEO Responds to ChatGPT Users Creating Studio Ghibli-Style AI Images - Variety",
-        "description": "The latest version of OpenAI's image generation technology has resulted in a flood of users sharing images transformed in the style of Studio Ghibli.",
-        "url": "https://variety.com/2025/digital/news/openai-ceo-chatgpt-studio-ghibli-ai-images-1236349141/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2025/03/Studio-Ghibli-OpenAI-ChatGPT-Image.png?w=1000&h=563&crop=1",
-        "publishedAt": "2025-03-26T20:50:37Z",
-        "content": "The latest version of OpenAI\u2018s image generation technology has resulted in a flood of users sharing images on social media that have been transformed in the style of Studio Ghibli, the legendary Japa\u2026 [+2139 chars]"
-    },
-    {
-        "source": {
-            "id": "ars-technica",
-            "name": "Ars Technica"
-        },
-        "author": "Beth Mole",
-        "title": "Measles quickly spreading in Kansas counties with alarmingly low vaccination - Ars Technica",
-        "description": "Meanwhile, Texas kids reportedly getting liver damage from supplement touted by RFK Jr.",
-        "url": "https://arstechnica.com/health/2025/03/measles-quickly-spreading-in-kansas-counties-with-alarmingly-low-vaccination/",
-        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2202122508-1152x648.jpg",
-        "publishedAt": "2025-03-26T20:29:47Z",
-        "content": null
+        "author": "Brian Evans",
+        "title": "Stock futures fall as investors weigh Trump's auto tariffs: Live updates - CNBC",
+        "description": "Stocks are clinging to marginal gains this week.",
+        "url": "https://www.cnbc.com/2025/03/26/stock-market-today-live-updates-.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108075087-1734015882955-108075087-1734015769552-AP24347540770201.jpg?v=1743028366&w=1920&h=1080",
+        "publishedAt": "2025-03-26T22:52:00Z",
+        "content": "Stock futures were lower Wednesday as investors weighed news of President Donald Trump's 25% tariff aimed at foreign cars.\r\nFutures tied to the Dow Jones Industrial Average fell 120 points, or 0.2%. \u2026 [+2368 chars]"
     }
 ]
