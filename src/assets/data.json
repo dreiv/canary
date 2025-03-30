@@ -1,6 +1,19 @@
 [
     {
         "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Peter Marks, top US vaccine official, forced to resign - BBC.com",
+        "description": "In his resignation letter, Peter Marks said his new boss, Robert F Kennedy Jr, favoured \"misinformation and lies\".",
+        "url": "https://www.bbc.com/news/articles/cn8r87z8vl0o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d4e9/live/63b1aa70-0c45-11f0-a0c0-739436a55c3e.jpg",
+        "publishedAt": "2025-03-29T03:05:26Z",
+        "content": "A top vaccine official at the US Food and Drug Administration (FDA) was forced out of his job, US media reports. \r\nPeter Marks offered his letter of resignation to Health and Human Services (HHS) off\u2026 [+1787 chars]"
+    },
+    {
+        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
         },
@@ -11,19 +24,6 @@
         "urlToImage": "https://images.wsj.net/im-44864805/social",
         "publishedAt": "2025-03-29T02:33:16Z",
         "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CBS Sports"
-        },
-        "author": null,
-        "title": "Kentucky Wildcats vs. Tennessee Volunteers Live Score and Stats - March 28, 2025 Gametracker - CBS Sports",
-        "description": "Get real-time Men's College Basketball coverage and scores as Kentucky Wildcats takes on Tennessee Volunteers. We bring you the latest game previews, live stats, expert picks and recaps on CBSSports.com",
-        "url": "https://www.cbssports.com/college-basketball/gametracker/recap/NCAAB_20250328_UK@TENN/",
-        "urlToImage": "https://sportsfly.cbsistatic.com/fly-0925/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
-        "publishedAt": "2025-03-29T02:15:00Z",
-        "content": "INDIANAPOLIS (AP) Zakai Zeigler had 18 points and 10 assists, and Tennessee outhustled and outplayed Kentucky on both ends of the court in a 78-65 victory Friday night that sent the Volunteers to a s\u2026 [+3182 chars]"
     },
     {
         "source": {
@@ -66,6 +66,19 @@
     },
     {
         "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Rachael Bade, Dasha Burns",
+        "title": "In private meeting, Vance and top advisers suggested Trump oust Waltz - POLITICO",
+        "description": "The national security adviser almost got fired. He still might.",
+        "url": "https://www.politico.com/news/2025/03/28/waltz-trump-vance-wiles-private-meeting-00258904",
+        "urlToImage": "https://static.politico.com/86/22/3a876fc646738abcce9ca6b120f7/mideast-wars-yemen-us-67564.jpg",
+        "publishedAt": "2025-03-29T00:15:59Z",
+        "content": "They dont want to give the press a scalp, said one of the people, a White House ally close with the team.\r\nDespite simmering anger directed at the national security adviser from inside the White Hous\u2026 [+6438 chars]"
+    },
+    {
+        "source": {
             "id": "axios",
             "name": "Axios"
         },
@@ -76,6 +89,19 @@
         "urlToImage": "https://images.axios.com/QVcJxrwtZSl5yTunbc6Ug5VisKo=/0x0:3982x2240/1366x768/2025/03/28/1743172887696.jpg",
         "publishedAt": "2025-03-29T00:01:03Z",
         "content": "Saturday's partial solar eclipse offers the rare chance to see a \"double sunrise\" in the northeastern part of the country.\r\nWhy it matters: It's the only solar eclipse visible from the U.S. this year\u2026 [+3734 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Alexandra Skores, Aaron Cooper",
+        "title": "Collision warning sounds in cockpit of Delta plane due to close call with Air Force jet near Reagan National Airport - CNN",
+        "description": "A close call between a Delta Air Lines Airbus A319 taking off from Ronald Reagan Washington National Airport and a US Air Force T-38 jet, often used by the military for training, sounded alarms in the cockpit of the passenger plane Friday.",
+        "url": "https://www.cnn.com/2025/03/28/us/delta-military-jet-close-call-dca/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/150325082132-social-gfx-breaking-news.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-03-28T23:30:00Z",
+        "content": "A close call between a Delta Air Lines Airbus A319 taking off from Ronald Reagan Washington National Airport and a US Air Force T-38 jet, often used by the military for training, sounded alarms in th\u2026 [+2630 chars]"
     },
     {
         "source": {
@@ -105,29 +131,29 @@
     },
     {
         "source": {
-            "id": "fox-news",
-            "name": "Fox News"
+            "id": "axios",
+            "name": "Axios"
         },
-        "author": "Alexandra Koch, David Spunt",
-        "title": "Appeals court grants 'striking' temporary stay in Trump's firing of board leaders - Fox News",
-        "description": "A federal appeals court in Washington, D.C., on Friday overturned district court rulings that had ordered the reinstatement of fired adjudicatory entity members.",
-        "url": "https://www.foxnews.com/politics/appeals-court-grants-striking-temporary-stay-trump-firings-board-leaders",
-        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/03/trump_thumbs_up.jpg",
-        "publishedAt": "2025-03-28T22:32:00Z",
-        "content": "A D.C. federal appeals court on Friday handed the Trump administration a temporary victory, overturning district court rulings that ordered the National Labor Relations Board's (NLRB) Gwynne Wilcox a\u2026 [+3977 chars]"
+        "author": "Delano Massey",
+        "title": "Will Smith's new album \"Based on a True Story\" is his boldest yet - Axios",
+        "description": "Will Smith returns to rap with his most vulnerable and lyrically sharp album yet.",
+        "url": "https://www.axios.com/2025/03/28/review-will-smith-based-on-a-true-story-return-rap",
+        "urlToImage": "https://images.axios.com/y2G0q4mcvNpMwAXddYMFzubIIFQ=/0x442:8256x5086/1366x768/2025/03/28/1743169517531.jpg",
+        "publishedAt": "2025-03-28T23:18:17Z",
+        "content": "In \"Based on a True Story,\" Will Smith confronts it all the marriage, the slap, the backlash, the fall, the faith. And yes, he curses.\r\nWhy it matters: This isn't just Smith returning to rap after 20\u2026 [+3971 chars]"
     },
     {
         "source": {
-            "id": "abc-news",
-            "name": "ABC News"
+            "id": null,
+            "name": "WHIO"
         },
-        "author": "ABC News",
-        "title": "After months of cuts, State Department says it's officially shuttering USAID - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/US/after-months-cuts-state-department-officially-shuttering-usaid/story?id\\\\u003d120267238",
-        "urlToImage": null,
-        "publishedAt": "2025-03-28T22:07:30Z",
-        "content": null
+        "author": "WHIO Staff",
+        "title": "Ohio county confirms its first measles case - WHIO",
+        "description": "A case of measles has been identified in an Ohio county, according to the county's health department.",
+        "url": "https://www.whio.com/news/local/ohio-county-confirms-its-first-measles-case/RCNRLW2GEFE5JNWO4VZVKS3FKM/",
+        "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJ3RGZREXS5LOE3MMPECOQTLZKI.jpg?auth=7cda493b2b8ae5a828e6eabdd9185aa55d97243b5df0b4699f661d7f9b76e788&width=1200&height=630&smart=true",
+        "publishedAt": "2025-03-28T22:41:47Z",
+        "content": "A case of measles has been identified in Allen County, according to the Allen County Health Department.\r\n[DOWNLOAD: Free WHIO-TV News app for alerts as news breaks]\r\nThe individual with measles is un\u2026 [+1202 chars]"
     },
     {
         "source": {
@@ -157,16 +183,16 @@
     },
     {
         "source": {
-            "id": "politico",
-            "name": "Politico"
+            "id": null,
+            "name": "On3.com"
         },
-        "author": "Nahal Toosi, Adam Cancryn, Eric Bazail-Eimil",
-        "title": "The race for UN ambassador is on again, but some potential choices already saying no - POLITICO",
-        "description": "Trump may disdain the world body, but the ambassadorship is likely too prominent a position to leave empty.",
-        "url": "https://www.politico.com/news/2025/03/28/un-ambassador-race-00258472",
-        "urlToImage": "https://static.politico.com/05/e6/291b47814df7994fad7135e9cd2b/https-delivery-gettyimages.com/downloads/2194552734",
-        "publishedAt": "2025-03-28T20:41:14Z",
-        "content": "One outside possibility is GOP Sen. Bill Hagerty of Tennessee, who was Trumps first-term ambassador to Japan. The slim margins Republicans have in Congress may, however, affect his chances, especiall\u2026 [+5800 chars]"
+        "author": "Drew Franklin",
+        "title": "The KSR Pregame Show is live from Indianapolis before UK vs. Tennessee - KSR",
+        "description": "KSR is at Tin Roof Indianapolis for a preview of Kentucky vs. Tennessee before the Sweet 16.",
+        "url": "https://www.on3.com/teams/kentucky-wildcats/news/the-ksr-pregame-show-is-live-from-indianapolis-before-uk-vs-tennessee/",
+        "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2025/03/14152836/ksr-tin-roof-1.png",
+        "publishedAt": "2025-03-28T20:45:07Z",
+        "content": "Kentucky will soon tip off in its first Sweet 16 game under Mark Pope, playing the rival Tennessee Vols in Indianapolis. The high-stakes tournament game is scheduled for 7:39 p.m. ET at Lucas Oil Sta\u2026 [+714 chars]"
     },
     {
         "source": {
@@ -196,19 +222,6 @@
     },
     {
         "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Cameron Faulkner",
-        "title": "Lenovo\u2019s upcoming SteamOS handheld will cost $549.99, not $499.99, when it comes out - The Verge",
-        "description": "Lenovo shared with The Verge that its Legion Go S handheld gaming PC with SteamOS will start at $549.99, not $499.99, which is the price it shared at CES 2025.",
-        "url": "https://www.theverge.com/tech/638729/lenovo-legion-go-s-steamos-price-increase",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/247466_CES_2025_Lenovo_Legion_Go_S_SteamOS_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2025-03-28T20:16:01Z",
-        "content": "Itll ship with the same starting price as the Steam Deck OLED.\r\nThe SteamOS-powered version of Lenovos Legion Go S handheld gaming PC debuted at CES 2025 with a somewhat attractive $499.99 price tag.\u2026 [+1413 chars]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -219,31 +232,5 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25056607178392.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2025-03-28T20:08:00Z",
         "content": "A measles outbreak spanning Texas, New Mexico and Oklahoma reached at least 453 cases Friday and might be linked to cases in other states and across borders.\r\nTexas has reported 400 outbreak-associat\u2026 [+4924 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Push Square"
-        },
-        "author": "Stephen Tailby",
-        "title": "Baby Steps Previews Describe a Wacky But Engrossing Open World Excursion on PS5 - Push Square",
-        "description": "One foot in front of the other",
-        "url": "https://www.pushsquare.com/news/2025/03/baby-steps-previews-describe-a-wacky-but-engrossing-open-world-excursion-on-ps5",
-        "urlToImage": "https://images.pushsquare.com/b4dd9fb606e1e/large.jpg",
-        "publishedAt": "2025-03-28T20:00:00Z",
-        "content": "Subscribe to Push Square on YouTube155k\r\nWe've finally had some more details on Devolver Digital's upcoming PS5 console exclusive, Baby Steps.\r\nThis quirky game is literally a walking simulator, in w\u2026 [+1946 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Military Times"
-        },
-        "author": "Nikki Wentling",
-        "title": "Navy divers, Polish forces to aid in recovery of missing US soldiers - Military Times",
-        "description": "Maj. Gen. Curtis Taylor, commanding general of the 1st Armored Division, said it would be a \u201clong and difficult recovery operation.\u201d",
-        "url": "https://www.militarytimes.com/news/2025/03/28/navy-divers-polish-forces-to-aid-in-recovery-of-missing-us-soldiers/",
-        "urlToImage": "https://www.armytimes.com/resizer/v2/TQZYQVTH2NGEJOBPGRFJYVMSBQ.jpg?width=1200&auth=267a18736adaafe19c87f03595e6e7c5c4d467d8d21a72d4dd7772ea3cd7db64",
-        "publishedAt": "2025-03-28T19:28:41Z",
-        "content": "A specialized U.S. Navy dive crew and a unit of Polish Armed Forces engineers were traveling Friday to a training site in Lithuania to help with the recovery of four U.S. soldiers who were first repo\u2026 [+3226 chars]"
     }
 ]
