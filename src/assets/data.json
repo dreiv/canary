@@ -1,29 +1,55 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "BBC News"
+            "id": "espn",
+            "name": "ESPN"
         },
-        "author": null,
-        "title": "Peter Marks, top US vaccine official, forced to resign - BBC.com",
-        "description": "In his resignation letter, Peter Marks said his new boss, Robert F Kennedy Jr, favoured \"misinformation and lies\".",
-        "url": "https://www.bbc.com/news/articles/cn8r87z8vl0o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d4e9/live/63b1aa70-0c45-11f0-a0c0-739436a55c3e.jpg",
-        "publishedAt": "2025-03-29T03:05:26Z",
-        "content": "A top vaccine official at the US Food and Drug Administration (FDA) was forced out of his job, US media reports. \r\nPeter Marks offered his letter of resignation to Health and Human Services (HHS) off\u2026 [+1787 chars]"
+        "author": "ESPN",
+        "title": "Auburn 78-65 Michigan (Mar 28, 2025) Game Recap - ESPN",
+        "description": null,
+        "url": "https://www.espn.com/mens-college-basketball/recap?gameId\\\\u003d401746069",
+        "urlToImage": null,
+        "publishedAt": "2025-03-29T04:24:35Z",
+        "content": null
     },
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
+            "id": null,
+            "name": "Minneapolis Star Tribune"
         },
-        "author": "Douglas Belkin, Liz Essley Whyte",
-        "title": "Columbia University President Steps Down Amid Trump Battle - WSJ - The Wall Street Journal",
-        "description": "Katrina Armstrong has been under pressure in negotiations with Trump administration over federal funding",
-        "url": "https://www.wsj.com/us-news/education/columbia-university-interim-president-katrina-armstrong-is-stepping-down-7644f880",
-        "urlToImage": "https://images.wsj.net/im-44864805/social",
-        "publishedAt": "2025-03-29T02:33:16Z",
-        "content": null
+        "author": "Elliot Hughes, Elliot Hughes",
+        "title": "International graduate student at U detained by ICE agents - Star Tribune",
+        "description": "In an email to students, university officials called it a \u201cdeeply concerning situation.\u201d",
+        "url": "https://www.startribune.com/u-graduate-student-detained-by-ice-agents/601265118",
+        "urlToImage": "https://arc.stimg.co/startribunemedia/QP5ZC7TTUFDU3CVAXZJD43MQUQ.jpg?&w=1200&ar=1.91:1&fit=crop",
+        "publishedAt": "2025-03-29T03:41:02Z",
+        "content": "An international graduate student at the University of Minnesotas Carlson School of Management was detained Thursday by the U.S. Immigration and Customs Enforcement (ICE), a situation the U described\u2026 [+1309 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Matt Viser",
+        "title": "Vance uses Greenland visit to slam Denmark, as Trump escalates rhetoric - The Washington Post",
+        "description": "The trip came as Trump also significantly escalated his rhetoric about his desire to control the sparsely populated, semiautonomous Danish territory.",
+        "url": "https://www.washingtonpost.com/politics/2025/03/28/vance-greenland-trump-denmark-visit/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H27SWCFP3OXPS5A3YUJOUQQQJ4_size-normalized.jpg&w=1440",
+        "publishedAt": "2025-03-29T02:57:45Z",
+        "content": "President Donald Trump on Friday reiterated his desire to control Greenland, significantly escalating his rhetoric about obtaining the territory as Vice President JD Vance was dispatched to the far r\u2026 [+7208 chars]"
+    },
+    {
+        "source": {
+            "id": "espn",
+            "name": "ESPN"
+        },
+        "author": "Jeff Borzello",
+        "title": "UCLA lands MWC player of year Dent from portal - ESPN",
+        "description": "Guard Donovan Dent, who averaged 20.4 points and 6.5 assists for New Mexico this season, has committed to UCLA after entering the transfer portal.",
+        "url": "https://www.espn.com/mens-college-basketball/story/_/id/44448712/donovan-dent-commits-ucla-portal-new-mexico-exit",
+        "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0327%2Fr1469934_1296x729_16%2D9.jpg",
+        "publishedAt": "2025-03-29T02:30:00Z",
+        "content": "New Mexico transfer Donovan Dent, the best available player in the transfer portal, announced his commitment to UCLA on Friday.\r\nDent was also heavily linked to Kentucky since entering the transfer p\u2026 [+1100 chars]"
     },
     {
         "source": {
@@ -50,6 +76,19 @@
         "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TJE2SUMSRB3NOFLNRQWWR3ZU6U_size-normalized.jpg&w=1440",
         "publishedAt": "2025-03-29T00:35:15Z",
         "content": "The stock market moved lower Friday after new economic data revived concerns about the health of the economy ahead of possible new tariffs next week.\r\nNew economic data showed the Federal Reserves pr\u2026 [+2731 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "On3.com"
+        },
+        "author": "Nick Schultz",
+        "title": "WATCH: Peyton Manning showered with boos at Lucas Oil Stadium ahead of Tennessee vs. Kentucky - On3.com",
+        "description": ".",
+        "url": "https://www.on3.com/college/tennessee-volunteers/news/peyton-manning-showered-with-boos-lucas-oil-stadium-ahead-tennessee-vs-kentucky/",
+        "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2024/06/25070456/Untitled-design-77.png",
+        "publishedAt": "2025-03-29T00:22:30Z",
+        "content": "Friday night, Peyton Manning was back at his old stomping grounds at Lucas Oil Stadium. He was in attendance for Tennessees Sweet Sixteen matchup against Kentucky, and Big Blue Nation made its presen\u2026 [+2077 chars]"
     },
     {
         "source": {
@@ -118,19 +157,6 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Devan Cole, John Fritze",
-        "title": "Trump\u2019s \u2018state secrets\u2019 claim over deportation flight details breaks with past practice - CNN",
-        "description": "The Justice Department\u2019s decision to invoke the rarely used state secrets privilege in a bid to avoid giving a federal judge\u2019s details on questions on two deportation flights has opened a complicated new front in the government\u2019s ongoing resistance to turning\u2026",
-        "url": "https://www.cnn.com/2025/03/28/politics/state-secrets-deportation-flight-explainer/index.html",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/donald-trump-james-boasberg-split.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-03-28T23:27:00Z",
-        "content": "The Justice Departments decision to invoke the rarely used state secrets privilege in a bid to avoid giving a federal judge details on two deportation flights has opened a complicated new front in th\u2026 [+11101 chars]"
-    },
-    {
-        "source": {
             "id": "axios",
             "name": "Axios"
         },
@@ -157,80 +183,54 @@
     },
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "David Bauder",
-        "title": "Trump's FCC commissioner opens investigation into Walt Disney Co. and ABC for diversity policies - The Associated Press",
-        "description": "President Trump's head of the FCC had Disney and ABC in his sights. FCC Chairman Brendan Carr wrote to Walt Disney Co. CEO Robert Iger on Friday to say he was investigating his company to see if it is \u201cpromoting invidious forms of DEI discrimination.\u201d Carr no\u2026",
-        "url": "https://apnews.com/article/disney-fcc-trump-woke-dei-1aad33c3c2fa9db2143f578037ac4fad",
-        "urlToImage": "https://dims.apnews.com/dims4/default/f26c7fd/2147483647/strip/true/crop/6720x3780+0+350/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fae%2F55%2Ffb6292a8c8d9682421741127c363%2F7164559fafad4ba2a43406c8712bc66a",
-        "publishedAt": "2025-03-28T21:38:00Z",
-        "content": "President Donald Trumps FCC commissioner said Friday hes opening an investigation into the Walt Disney Co. and its ABC television network to see whether they are promoting invidious forms of DEI disc\u2026 [+2583 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Over 150 dead in Myanmar and Thailand after huge earthquake - BBC.com",
-        "description": "The quake hit central Myanmar with strong tremors felt as far as south-west China and Thailand.",
-        "url": "https://www.bbc.com/news/articles/c07z7kg5784o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/19c6/live/07358db0-0be2-11f0-8ae9-2975efdc7f47.jpg",
-        "publishedAt": "2025-03-28T21:18:59Z",
-        "content": "Jack Burgess and Anna Lamche\r\nA huge 7.7 magnitude earthquake has hit central Myanmar, according to the United States Geological Survey (USGS).\r\nAt least 144 people have died and 732 have been injure\u2026 [+4070 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "On3.com"
-        },
-        "author": "Drew Franklin",
-        "title": "The KSR Pregame Show is live from Indianapolis before UK vs. Tennessee - KSR",
-        "description": "KSR is at Tin Roof Indianapolis for a preview of Kentucky vs. Tennessee before the Sweet 16.",
-        "url": "https://www.on3.com/teams/kentucky-wildcats/news/the-ksr-pregame-show-is-live-from-indianapolis-before-uk-vs-tennessee/",
-        "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2025/03/14152836/ksr-tin-roof-1.png",
-        "publishedAt": "2025-03-28T20:45:07Z",
-        "content": "Kentucky will soon tip off in its first Sweet 16 game under Mark Pope, playing the rival Tennessee Vols in Indianapolis. The high-stakes tournament game is scheduled for 7:39 p.m. ET at Lucas Oil Sta\u2026 [+714 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Deadline"
-        },
-        "author": "Anthony D'Alessandro",
-        "title": "\u2018Snow White\u2019 Wishes On $15M+ Second Weekend, But Could Get Fired By Jason Statham\u2019s \u2018Working Man\u2019 \u2013 Box Office Update - Deadline",
-        "description": "GKIDS re-release of Hayao Miyazaki's 1997 anime Princess Mononoke is taking the lead at 330 Imax locations with $1.2M in a new 4K print.",
-        "url": "http://deadline.com/2025/03/box-office-snow-white-princess-mononoke-jenna-ortega-death-of-a-unicorn-1236353369/",
-        "urlToImage": "https://deadline.com/wp-content/uploads/2025/03/SNOW-WHITE-A-WORKING-MAN.jpg?w=1024",
-        "publishedAt": "2025-03-28T20:23:00Z",
-        "content": "2ND UPDATE MIDDAY: Disney\u2019s Snow Whitewith $4M today and potentially $15M+ for the weekend hopes to lead the weekend, but she could be undone by Amazon MGM Studios/Black Bear\u2019s Jason Statham movie A \u2026 [+3044 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Investopedia"
-        },
-        "author": "Nisha Gopalan",
-        "title": "CoreWeave Stock Finishes First Trading Session at IPO Price - Investopedia",
-        "description": "Shares in CoreWeave, a cloud computing company backed by Nvidia, wavered in their market debut Friday, following a $1.5 billion initial public offering that priced below its expected range.",
-        "url": "https://www.investopedia.com/coreweave-stock-finishes-first-trading-session-at-ipo-price-11704899",
-        "urlToImage": "https://www.investopedia.com/thmb/3G9tZBVTpr6my70m9uIJeuvVrAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2205311988-96b284e1e3ab441dae6b7723cbbb2e86.jpg",
-        "publishedAt": "2025-03-28T20:17:21Z",
-        "content": "<ul><li>Shares in CoreWeave, a cloud computing company backed by Nvidia, ended their first trading session right at their IPO price following a $1.5 billion initial public offering.</li><li>Shares of\u2026 [+1525 chars]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Neha Mukherjee, Deidre McPhillips",
-        "title": "Multistate measles outbreak crosses 450 cases, with possible international spread - CNN",
-        "description": "A measles outbreak spanning Texas, New Mexico and Oklahoma reached at least 453 cases Friday and might be linked to cases in other states and across borders.",
-        "url": "https://www.cnn.com/2025/03/28/health/measles-outbreak-crosses-450-cases/index.html",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25056607178392.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-03-28T20:08:00Z",
-        "content": "A measles outbreak spanning Texas, New Mexico and Oklahoma reached at least 453 cases Friday and might be linked to cases in other states and across borders.\r\nTexas has reported 400 outbreak-associat\u2026 [+4924 chars]"
+        "author": "Ramishah Maruf, Nathaniel Meyersohn",
+        "title": "Disney and ABC hit with FCC investigation over DEI policies - CNN",
+        "description": "The Federal Communications Commission is investigating ABC and its parent company Disney over its diversity, equity and inclusion actions, FCC Chair Brendan Carr announced Friday.",
+        "url": "https://www.cnn.com/2025/03/28/business/dei-disney-abc-fcc-investigation/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1246961846.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-03-28T21:21:00Z",
+        "content": "The Federal Communications Commission is investigating ABC and parent company Disney over its diversity, equity and inclusion actions, FCC Chair Brendan Carr announced Friday on social media.\r\nIn a l\u2026 [+2611 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "David Welch, Gabrielle Coppola, Keith Naughton",
+        "title": "Car Buyers Who Fear Tariff Price Hikes Are Swarming Dealerships - Bloomberg",
+        "description": "Car shoppers are descending on showrooms. Automakers are speeding up shipments of new vehicles. Dealers are huddling with their rivals to exchange ideas on how best to cope.",
+        "url": "https://www.bloomberg.com/news/articles/2025-03-28/car-buyers-who-fear-tariff-price-hikes-are-swarming-dealerships",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuc_tIUWSJhI/v1/1200x800.jpg",
+        "publishedAt": "2025-03-28T21:10:11Z",
+        "content": "Car shoppers are descending on showrooms. Automakers are speeding up shipments of new vehicles. Dealers are huddling with their rivals to exchange ideas on how best to cope. \r\nAnd a Hyundai Motor Co.\u2026 [+134 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Spaceflight Now"
+        },
+        "author": null,
+        "title": "Fram2 astronauts arrive in Florida ahead of polar spaceflight - Spaceflight Now",
+        "description": null,
+        "url": "https://spaceflightnow.com/2025/03/28/fram2-astronauts-arrive-in-florida-ahead-of-polar-spaceflight/",
+        "urlToImage": null,
+        "publishedAt": "2025-03-28T20:45:42Z",
+        "content": "The four astronauts of the Fram2 mission stand atop the crew access tower at Launch Complex 39A during a pad visit in mid-February. From left to right: Eric Philips, Chun Wang, Rabea Rogge, Jannicke \u2026 [+6174 chars]"
+    },
+    {
+        "source": {
+            "id": "polygon",
+            "name": "Polygon"
+        },
+        "author": "Michael McWhertor",
+        "title": "Nintendo Switch 2 pre-orders to start in early April, leaks say - Polygon",
+        "description": "Switch 2 pre-orders will open April 2 or April 9, according to reports from multiple retailers. Nintendo has yet to confirm.",
+        "url": "https://www.polygon.com/news/549116/nintendo-switch-2-pre-order-date-when",
+        "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/01/switch_1_to_switch_2_size_comparison.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "publishedAt": "2025-03-28T20:33:27Z",
+        "content": "Pre-orders for the Nintendo Switch 2 will open on Wednesday, April 2 if you believe retailer Best Buy Canada, which announced that pre-order date in a blog post (and then quickly pulled it) on Thursd\u2026 [+1161 chars]"
     }
 ]
