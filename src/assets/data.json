@@ -1,6 +1,58 @@
 [
     {
         "source": {
+            "id": null,
+            "name": "SciTechDaily"
+        },
+        "author": null,
+        "title": "Alien Clues in Strange Martian Stone: Scientists Stunned by Rover Discovery - SciTechDaily",
+        "description": "Pale rocks on the red planet reveal a watery past and suggest the potential for life. Sometimes, scientists have to dig, work, and sweat to make scientific discoveries. And sometimes, a robot rolls over a rock that turns out to be a revelation. That\u2019s what ha\u2026",
+        "url": "https://scitechdaily.com/?p=465929",
+        "urlToImage": "https://scitechdaily.com/images/NASA-Perseverance-Rover-Explores-Ancient-River.jpg",
+        "publishedAt": "2025-03-30T03:33:13Z",
+        "content": "Pale rocks found on Mars by NASA\u2019s Perseverance rover contain kaolinite, a mineral that forms in warm, wet environments, suggesting the planet may have once been much more hospitable to life. Scienti\u2026 [+7527 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Cleve R. Wootson Jr.",
+        "title": "Trump says he \u2018couldn\u2019t care less\u2019 if auto prices rise because of his tariffs - The Washington Post",
+        "description": "President Donald Trump expressed confidence that his tariff policy would prompt more Americans to buy cars made in the U.S.",
+        "url": "https://www.washingtonpost.com/politics/2025/03/29/trump-auto-tariffs-prices-rise/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XG75MME3TVQ5RNUK3CSSJUUABQ_size-normalized.jpg&w=1440",
+        "publishedAt": "2025-03-30T03:16:17Z",
+        "content": "President Donald Trump said on Saturday that he couldnt care less if car prices spike because of his 25 percent tariffs on auto imports, saying the levies will prompt more people to buy American cars\u2026 [+4227 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "CNN",
+        "title": "Before and after: Satellite images show the destruction left by Myanmar earthquake - CNN",
+        "description": null,
+        "url": "https://www.cnn.com/2025/03/29/asia/before-after-myanmar-earthquake-intl-hnk/index.html",
+        "urlToImage": null,
+        "publishedAt": "2025-03-30T02:30:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MLB Trade Rumors"
+        },
+        "author": "Nick Deeds",
+        "title": "Red Sox, Kristian Campbell In \"Deep Talks\" On Extension - MLB Trade Rumors",
+        "description": "Boston appears to be nearing a deal with one of the game's top prospects. Read more at MLB Trade Rumors.",
+        "url": "https://www.mlbtraderumors.com/2025/03/red-sox-kristian-campbell-in-deep-talks-on-extension.html",
+        "urlToImage": "https://cdn.mlbtraderumors.com/files/2025/03/USATSI_25528977-1024x683.jpg",
+        "publishedAt": "2025-03-30T02:21:42Z",
+        "content": "The Red Sox and star prospect Kristian Campbell are in \u201cdeep talks\u201d regarding a potential contract extension, according to a report from Chris Cotillo of MassLive. The terms of the potential deal bet\u2026 [+4830 chars]"
+    },
+    {
+        "source": {
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
@@ -15,15 +67,15 @@
     {
         "source": {
             "id": null,
-            "name": "The Official Website of the Ultimate Fighting Championship"
+            "name": "Hollywood Reporter"
         },
-        "author": null,
-        "title": "Official Scorecards | UFC Mexico - UFC",
-        "description": "See How The Judges Scored Every Round Of UFC Fight Night: Moreno vs Erceg, Live From Arena CDMX In Mexico City On March 29",
-        "url": "https://www.ufc.com/news/official-judges-scorecards-ufc-fight-night-moreno-vs-erceg-mexico-city",
-        "urlToImage": "https://ufc.com/images/styles/card/s3/2025-03/091424-Bruce-Buffer-Intro-HERO-GettyImages-2172030309.jpg?itok=a1U3Ojdn",
-        "publishedAt": "2025-03-30T01:53:42Z",
-        "content": "UFC returned to Mexico City for the second time in two years and seventh time overall for a pivotal flyweight showdown that saw former UFC flyweight champion\u00a0Brandon Moreno inch closer to a shot at t\u2026 [+590 chars]"
+        "author": "Steven Zeitchik",
+        "title": "Justine Bateman Wants to \u201cGive a Book of Matches\u201d to the Tech Companies So They Can Burn Down Hollywood - Hollywood Reporter",
+        "description": "In an interview with The Hollywood Reporter, the filmmaker and anti-AI activist offers a dark vision \u2014\u00a0 and a different path forward.",
+        "url": "http://www.hollywoodreporter.com/movies/movie-news/justine-bateman-ai-hollywood-film-festival-1236175619/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/03/GettyImages-1339317755.jpg?crop=0px%2C355px%2C3228px%2C1808px&resize=1440%2C810",
+        "publishedAt": "2025-03-30T02:06:31Z",
+        "content": "When it comes to Hollywood\u2019s AI future, few have been more vocal \u2014\u00a0 or critical \u2014\u00a0than Justine Bateman. \r\nArmed with a computer science degree from UCLA,\u00a0the veteran actor-filmmaker has sounded an al\u2026 [+13771 chars]"
     },
     {
         "source": {
@@ -50,19 +102,6 @@
         "urlToImage": "https://variety.com/wp-content/uploads/2025/03/GettyImages-1133953412-e1743290387976.jpg?crop=0px%2C33px%2C3403px%2C1914px&resize=1000%2C563",
         "publishedAt": "2025-03-30T00:46:00Z",
         "content": "Bruce Glover, a character actor who played the assassin Mr. Wint in \u201cDiamonds Are Forever\u201d and appeared on dozens of TV shows, died March 12. His son, the actor Crispin Glover, confirmed the actor\u2019s \u2026 [+1818 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Deadline"
-        },
-        "author": "Natalie Oganesyan",
-        "title": "Trump Says He \u201cCouldn\u2019t Care Less\u201d If Car Prices Go Up Due To Tariffs: \u201cPeople Are Gonna Buy American-Made\u201d - Deadline",
-        "description": "Donald Trump said he 'couldn't care less' if international automakers increase pricing due to his tariffs as people will 'buy American-made' vehicles.",
-        "url": "http://deadline.com/2025/03/trump-couldnt-care-less-car-prices-go-up-tariffs-1236354065/",
-        "urlToImage": "https://deadline.com/wp-content/uploads/2025/03/Trump-Address.jpg?w=1024",
-        "publishedAt": "2025-03-30T00:42:00Z",
-        "content": "President Donald Trump said he \u201ccouldn\u2019t care less\u201d if international automakers increase pricing due to his 25% tariffs on all foreign-made auto parts and imported vehicles announced several days ago\u2026 [+1969 chars]"
     },
     {
         "source": {
@@ -158,6 +197,19 @@
     {
         "source": {
             "id": null,
+            "name": "WUSA9.com"
+        },
+        "author": "Ittai Sopher",
+        "title": "Kite flies close to United flight approaching Reagan National Airport, video shows - WUSA9.com",
+        "description": "Dylan Oakes said he was at Gravelly Point in Arlington on Saturday afternoon when he saw a kite making contact with a United flight.",
+        "url": "https://www.wusa9.com/article/travel/flights/kite-contact-united-flight-reagan-national-gravelly-point-arlington-virginia/65-15d6b720-14dd-478e-84fa-a88fa8a792eb",
+        "urlToImage": "https://media.wusa9.com/assets/WUSA/images/cf9abf2e-55d0-42eb-9ae3-8adcbd5dde9d/20250329T205511/cf9abf2e-55d0-42eb-9ae3-8adcbd5dde9d_1140x641.jpg",
+        "publishedAt": "2025-03-29T23:42:00Z",
+        "content": "ARLINGTON, Va. A United plane made contact with a kite while attempting to land at Reagan National Airport Saturday afternoon, witnesses told WUSA9.\r\nThe pilot of United Airlines Flight 654 from Hous\u2026 [+5135 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "BBC News"
         },
         "author": null,
@@ -170,67 +222,28 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
+            "id": "entertainment-weekly",
+            "name": "Entertainment Weekly"
         },
-        "author": "Ross Adkin",
-        "title": "Voices are starting to emerge from quake devastated Myanmar. Here\u2019s what we are hearing - CNN",
-        "description": "A powerful, deadly earthquake struck at the heart of civil war-ravaged Myanmar on Friday, piling fresh misery on an impoverished nation that was cut off from much of the world even before this natural disaster struck.",
-        "url": "https://www.cnn.com/2025/03/29/asia/myanmar-earthquake-mandalay-explainer-hnk-intl/index.html",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2206642574-20250328175403290.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-03-29T21:44:00Z",
-        "content": "A powerful, deadly earthquake struck at the heart of civil war-ravaged Myanmar on Friday, piling fresh misery on an impoverished nation that was cut off from much of the world even before this natura\u2026 [+5886 chars]"
+        "author": "https://www.facebook.com/entertainmentweekly",
+        "title": "Fran Drescher says she has 'a little rotation' of friends with benefits: 'I'm Fran Drescher!' - Entertainment Weekly News",
+        "description": "Fran Drescher revealed that she now has 'a little rotation' of friends with benefits: 'I'm Fran Drescher! What do you think?!'",
+        "url": "https://ew.com/fran-drescher-has-rotation-of-friends-with-benefits-11705672",
+        "urlToImage": "https://ew.com/thmb/TSwlgssLwK0bOsLzq-zmy3aTVf4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Fran-Drescher-032925-tout-ba36c9c8662d4482a4b523586d06bd09.jpg",
+        "publishedAt": "2025-03-29T21:52:52Z",
+        "content": "Fran Drescher might be single, but she doesn't sound lonely.\r\nThe Nannystar gave an update on her dating life when recently asked about her \"friend with benefits\" situation first reported in 2020.\r\n\"\u2026 [+2735 chars]"
     },
     {
         "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
+            "id": null,
+            "name": "BBC News"
         },
         "author": null,
-        "title": "American woman detained in Afghanistan released by Taliban, source says - CBS News",
-        "description": "Zalmay Khalilzad, a former U.S. envoy to Kabul who is working on Taliban hostage releases, posted a picture of Faye Hall smiling with Qatar representatives ahead of her departure from Afghanistan on Saturday.",
-        "url": "https://www.cbsnews.com/news/faye-hall-american-woman-released-afghanistan/",
-        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/03/29/50cec835-2eea-40fe-ad82-6b3c989c213e/thumbnail/1200x630/49bda72187c843f34a0cc32414dbba20/faye-hall.png?v=95354023eeb6141c58c08d9a5716f291",
-        "publishedAt": "2025-03-29T20:34:21Z",
-        "content": "An American woman was freed by the Taliban after she, two British nationals and their Afghan translator were detained in Afghanistan earlier this year, according to a source with knowledge of the mat\u2026 [+4289 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Annika Kim Constantino",
-        "title": "Novo Nordisk's diabetes pill slashes risk of cardiovascular complications by 14% after four years - CNBC",
-        "description": "The results pave the way for Rybelsus to become a new treatment option for people living with diabetes and established heart disease.",
-        "url": "https://www.cnbc.com/2025/03/29/novo-nordisks-diabetes-pill-rybelsus-slashes-cardiovascular-risk.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122092-1743080297611-gettyimages-2197221612-AFP_36X663P.jpeg?v=1743080327&w=1920&h=1080",
-        "publishedAt": "2025-03-29T18:30:01Z",
-        "content": "Novo Nordisk on Saturday said its diabetes pill Rybelsus showed cardiovascular benefits in a late-stage trial, paving the way for it to become a new treatment option for people living with diabetes a\u2026 [+4334 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Bill Barrow",
-        "title": "Historians rip Trump attacks on the 'Black Smithsonian' - The Associated Press",
-        "description": "Civil rights advocates, historians and Black political leaders are sharply rebuking President Donald Trump for his order targeting the Smithsonian Institution. They argued that his executive order targeting the Smithsonian Institution is his administration\u2019s \u2026",
-        "url": "https://apnews.com/article/trump-black-history-smithsonian-dei-687fd306dc9c6d7611300d74fe49b8aa",
-        "urlToImage": "https://dims.apnews.com/dims4/default/0a9298a/2147483647/strip/true/crop/5876x3305+0+306/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8e%2Fb5%2F5a4d2f8f2034b33d9d8eabe8030f%2Fc2a7139404b94862ae759a342e9d1b07",
-        "publishedAt": "2025-03-29T18:13:00Z",
-        "content": "ATLANTA (AP) President Donald Trumps order accusing the Smithsonian Institution of not reflecting American history notes correctly that the countrys Founding Fathers declared that all men are created\u2026 [+7645 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "HuffPost"
-        },
-        "author": "Sebastian Murdock",
-        "title": "Texas Measles Outbreak Hits 400 Cases - HuffPost",
-        "description": "Of the 400 cases, 398 were people who were unvaccinated or had an unknown vaccination status.",
-        "url": "https://www.huffpost.com/entry/texas-measles-outbreak-hits-400-cases_n_67e80e69e4b051cf99eaad34",
-        "urlToImage": "https://img.huffingtonpost.com/asset/67e810021700002400e1b383.jpeg?cache=o3CMrbdXVf&ops=1200_630",
-        "publishedAt": "2025-03-29T16:39:20Z",
-        "content": "A deadly and fast-spreading measles outbreak that started in western Texas in January has grown to 400 cases in the state this week.\r\nThe latest data, reported Friday by the Texas Department of State\u2026 [+2528 chars]"
+        "title": "Amber Ruffin: Comedian dropped from hosting White House correspondents' dinner - BBC.com",
+        "description": "Ruffin has been attacked by the White House for being critical of the Trump administration.",
+        "url": "https://www.bbc.com/news/articles/c1wd7npdl4ro",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7d14/live/13207230-0cdb-11f0-a6b8-f91f29ac3e55.jpg",
+        "publishedAt": "2025-03-29T20:28:44Z",
+        "content": "The association hosting the White House correspondents' dinner has cancelled its headline comedy performance for this year's event after tensions with the Trump administration.\r\nComedian Amber Ruffin\u2026 [+1763 chars]"
     }
 ]
