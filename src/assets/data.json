@@ -1,6 +1,45 @@
 [
     {
         "source": {
+            "id": null,
+            "name": "Toyota.com"
+        },
+        "author": "Melissa Faulner",
+        "title": "Toyota Brightens the City Streets with New GR86 Yuzu Edition - Toyota USA Newsroom",
+        "description": "LONG BEACH, Calif. (April 3, 2025) \u2013 For 2026, the Toyota sports car lineup is getting brighter with the GR86 Yuzu Edition. This vibrant exterior color is a nod to a memorable special edition of GR86\u2019s predecessor, the Scion FR-S Release Series 1.0.",
+        "url": "https://pressroom.toyota.com/toyota-brightens-the-city-streets-with-new-gr86-yuzu-edition/",
+        "urlToImage": "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2025/04/2026-Toyota-GR86_Yuzu_002-1000x600.jpg",
+        "publishedAt": "2025-04-04T01:04:18Z",
+        "content": "<ul><li>Company Announces GR86 Yuzu Edition for 2026</li><li>GR86 Yuzu Edition Features Exclusive Yuzu Yellow Exterior Color, Black Wheels and a Performance Package</li><li>2.4-Liter, 4-Cylinder Boxe\u2026 [+10276 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "Trump says \u2018it\u2019s going very well\u2019 after tariffs roil markets - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/Politics/trust-president-trump-white-house-defending-tariffs-amid/story?id\\\\u003d120449641",
+        "urlToImage": null,
+        "publishedAt": "2025-04-04T00:43:58Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Yoon Suk Yeol: South Korea president's impeachment upheld by constitutional court - BBC",
+        "description": "The court unanimously voted to uphold Yoon Suk Yeol's impeachment over his short-lived declaration of martial law.",
+        "url": "https://www.bbc.com/news/live/c5yrpvggyyet",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6d2a/live/36e4a5d0-10fd-11f0-ac9f-c37d6fd89579.jpg",
+        "publishedAt": "2025-04-04T00:22:22Z",
+        "content": "Jean MackenzieSeoul correspondent\r\nNow we have a\r\nverdict, the immediate question is: will Yoon and his supporters accept it?\r\nYoon and his\r\nlawyers have fought the courts at every step, accusing the\u2026 [+1156 chars]"
+    },
+    {
+        "source": {
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
@@ -14,16 +53,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": "Alex Harring",
-        "title": "Dow futures fall after tariffs push market to biggest losses since 2020: Live updates - CNBC",
-        "description": "The three major indexes are on track to end the week down after Thursday's steep drop.",
-        "url": "https://www.cnbc.com/2025/04/03/stock-market-today-live-updates.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108126249-1743714616841-108126249-17437145052025-04-03t205543z_329070345_rc2kqdaltxit_rtrmadp_0_usa-stocks.jpg?v=1743714626&w=1920&h=1080",
-        "publishedAt": "2025-04-03T23:42:00Z",
-        "content": "Dow Jones Industrial Average futures slid Thursday night after President Donald Trump's tariff plan triggered the biggest slide in U.S. equities in five years.\r\nFutures tied to the blue-chip index lo\u2026 [+2310 chars]"
+        "author": "Abha Bhattarai, Shira Ovide",
+        "title": "Trump tariff price hikes could start with clothing, cars and coffee - The Washington Post",
+        "description": "Americans will bear the brunt of President Donald Trump\u2019s new tariffs, with price increases kicking in almost immediately on cars, clothing, electronics and some groceries.",
+        "url": "https://www.washingtonpost.com/business/2025/04/03/trump-tariffs-price-hikes-clothing-cars-coffee/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JRB3AFDD3Q7MVS5T73IRXE5EFE.jpg&w=1440",
+        "publishedAt": "2025-04-04T00:08:22Z",
+        "content": "Return to menuMuch of the fresh fruits and vegetables at U.S. supermarkets come from Mexico and Canada, which are not being hit with the latest round of tariffs. But shelf-stable items such as sugar,\u2026 [+1771 chars]"
     },
     {
         "source": {
@@ -54,54 +93,28 @@
     {
         "source": {
             "id": null,
-            "name": "Deadline"
-        },
-        "author": "Anthony D'Alessandro, Nancy Tartaglione",
-        "title": "Zoe Salda\u00f1a Shows Off \u2018Avatar: Fire And Ash\u2019 At Disney\u2019s CinemaCon - Deadline",
-        "description": "James Cameron's Avatar: Fire and Ash showed off a first look at CinemaCon ahead of its December 19, 2025 release.",
-        "url": "http://deadline.com/2025/04/avatar-fire-and-ash-first-look-1236358731/",
-        "urlToImage": "https://deadline.com/wp-content/uploads/2025/04/Avatar-Fire-And-Ash-CinemaCon.jpg?w=1024",
-        "publishedAt": "2025-04-03T23:11:00Z",
-        "content": "The box office year has been sluggish, but if one movie is going to bring the industry back alive it\u2019s James Cameron\u2018s Avatar: Fire and Ash on December 19.\r\nDisney showed a quick piece of footage of \u2026 [+1866 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Michael Liedtke",
-        "title": "Microsoft founder Bill Gates reflects upon a 50-year-old computer code that reshaped technology - AP News",
-        "description": "Even as he grows older, Microsoft founder Bill Gates still fondly remembers the catalytic computer code he wrote 50 years ago that opened up a new frontier in technology. Although the code that Gates printed out on a teletype machine may look crude compared t\u2026",
-        "url": "https://apnews.com/article/bill-gates-original-code-microsoft-anniversary-dd33373215f6d22ccf4faa2913f6075f",
-        "urlToImage": "https://dims.apnews.com/dims4/default/b36a69f/2147483647/strip/true/crop/1000x563+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fab%2F12%2Fec9e167a178172a3da5c625f0f09%2F47e45e7ac93d44a5b9d5513707d1943d",
-        "publishedAt": "2025-04-03T23:00:00Z",
-        "content": "Even as he grows older, Microsoft founder Bill Gates still fondly remembers the catalytic computer code he wrote 50 years ago that opened up a new frontier in technology.\r\nAlthough the code that Gate\u2026 [+2934 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Variety"
         },
-        "author": "Matt Donnelly",
-        "title": "Jeremy Allen White Sings \u2018Born to Run\u2019 as Bruce Springsteen Biopic Debuts Heart-Tugging First Trailer at CinemaCon - Variety",
-        "description": "Jeremy Allen White steps out of the kitchen and into the snug jeans of Bruce Springsteen, giving CinemaCon a first look at the new biopic.",
-        "url": "https://variety.com/2025/film/news/bruce-springsteen-movie-trailer-jeremy-allen-white-sings-born-to-run-1236359523/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2024/11/bruce-jeremy.jpg?crop=0px%2C0px%2C1000px%2C562px&resize=1000%2C563",
-        "publishedAt": "2025-04-03T22:28:00Z",
-        "content": "Jeremy Allen White proved he fits perfectly in the bum-hugging jeans of Bruce Springsteen, debuting a compelling first trailer for a biopic of the \u201cDancing in the Dark \u201d singer at CinemaCon in Las Ve\u2026 [+1988 chars]"
+        "author": "Rebecca Rubin",
+        "title": "'Avatar: Fire and Ash' Trailer at CinemaCon Teases Epic Battles - Variety",
+        "description": "\"Avatar: Fire and Ash\" debuted the first-ever look at CinemaCon.",
+        "url": "https://variety.com/2025/film/news/avatar-fire-and-ash-trailer-cinemacon-battles-1236358973/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2023/12/MCDAVTH_WD032.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2025-04-03T23:17:00Z",
+        "content": "It looks like someone finally turned in his homework on time.\r\nJames Cameron\u2019s \u201cAvatar: Fire and Water,\u201d the third and only installment in the saga that hasn\u2019t been plagued by endless release date de\u2026 [+4366 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "9to5google.com"
+            "name": "PBS"
         },
-        "author": "Abner Li",
-        "title": "Gemini Live rolling out Astra camera, screen sharing to more Android users - 9to5Google",
-        "description": "As of Thursday afternoon (PT), more Gemini app users on Android are seeing Astra's Live camera and screen sharing capabilities.",
-        "url": "http://9to5google.com/2025/04/03/gemini-live-astra-android-rollout/",
-        "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/gemini-live-sign-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "publishedAt": "2025-04-03T22:13:00Z",
-        "content": "As of Thursday afternoon (PT), more Gemini app users on Android are seeing Astra\u2019s Live camera and screen sharing capabilities.\r\nGoogle said it would begin rolling out in March, with the first report\u2026 [+1675 chars]"
+        "author": null,
+        "title": "Officials in 19 states sue to block Trump's election order, saying it's unconstitutional - PBS",
+        "description": "Democratic officials in 19 states filed a lawsuit Thursday against President Donald Trump's attempt to reshape elections across the U.S., calling it an unconstitutional invasion of states' clear authority to run their own elections.",
+        "url": "https://www.pbs.org/newshour/politics/officials-in-19-states-sue-to-block-trumps-election-order-saying-its-unconstitutional",
+        "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/04/2025-04-01T000851Z_1442888965_RC2GODA0GL9S_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+        "publishedAt": "2025-04-03T22:51:27Z",
+        "content": "WASHINGTON (AP) Democratic officials in 19 states filed a lawsuit Thursday against President Donald Trump\u2019s attempt to reshape elections across the U.S., calling it an unconstitutional invasion of st\u2026 [+3564 chars]"
     },
     {
         "source": {
@@ -118,32 +131,6 @@
     },
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Paul Wiseman",
-        "title": "What to know about the Trump tariffs upending global trade and markets - AP News",
-        "description": "The trade war President Donald Trump promised has begun, threatening the world economy and straining the United States\u2019 longstanding alliances in Europe and Asia. Goods imported from dozens of countries and territories are now going to be taxed at sharply hig\u2026",
-        "url": "https://apnews.com/article/trump-tariffs-economic-impact-trade-markets-3e38352ab5693852bfd9bc8dd2ac2d56",
-        "urlToImage": "https://dims.apnews.com/dims4/default/9e6d2c4/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6b%2F2b%2F6ec2f09641c357bc2797523ed1f3%2F26f7dc7a89bc45639b1bba4c2fff526b",
-        "publishedAt": "2025-04-03T22:02:00Z",
-        "content": "WASHINGTON (AP) The trade war President Donald Trump promised has begun, threatening the world economy and straining the United States longstanding alliances in Europe and Asia.\r\nGoods imported from \u2026 [+8469 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NPR"
-        },
-        "author": "",
-        "title": "Judge considers 'contempt' after Trump officials stonewall ruling on migrant removal flights - NPR",
-        "description": "U.S. District Judge James Boasberg Thursday pushed, once again, the Justice Department to explain its use of the Alien Enemies Act and provide key details and the timeline of the flights.",
-        "url": "https://www.npr.org/2025/04/03/nx-s1-5350982/judge-boasberg-considers-contempt-after-trump-officials-stonewall-alien-enemies-act-flights",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8035x4520+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F82%2Fe2%2Faf1c6c3d4242b832bd13fde38cc9%2Fgettyimages-2207562425.jpg",
-        "publishedAt": "2025-04-03T21:33:38Z",
-        "content": "WASHINGTON A federal judge on Thursday said there is a \"fair likelihood\" the Trump administration violated his orders over its decision to allow two flights carrying migrants to continue to El Salvad\u2026 [+2925 chars]"
-    },
-    {
-        "source": {
             "id": "axios",
             "name": "Axios"
         },
@@ -154,19 +141,6 @@
         "urlToImage": "https://images.axios.com/9NEJwg3kXyCUERacBk2Eh3yCr3s=/0x0:1920x1080/1366x768/2025/04/03/1743709851435.jpg",
         "publishedAt": "2025-04-03T21:28:51Z",
         "content": "Apple's leaders, customers and fans are all holding their breath to see whether Trump's gigantic new tariffs will hamstring the iPhone maker.\r\nWhy it matters: Steve Jobs and Tim Cook built the most s\u2026 [+3910 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Tom Cruise pays tribute to Top Gun co-star Val Kilmer - BBC",
-        "description": "At CinemaCon in Las Vegas, Cruise led the crowd in a moment of silence to honour Kilmer.",
-        "url": "https://www.bbc.com/news/articles/cz95xd15480o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3dd8/live/581cdd50-10bf-11f0-8636-fb1329c86f58.jpg",
-        "publishedAt": "2025-04-03T21:16:18Z",
-        "content": "Tom Cruise has paid tribute to his Top Gun co-star Val Kilmer, who died earlier this week aged 65. \r\nAppearing at CinemaCon in Las Vegas, Cruise led a crowd in The Colosseum theatre in a moment of si\u2026 [+2130 chars]"
     },
     {
         "source": {
@@ -197,15 +171,15 @@
     {
         "source": {
             "id": null,
-            "name": "Gizmodo.com"
+            "name": "DW (English)"
         },
-        "author": "Passant Rabie",
-        "title": "NASA\u2019s Mars Rover Captures a Giant Dust Devil Swallowing Its Friend - Gizmodo",
-        "description": "Mmmm, dusty.",
-        "url": "https://gizmodo.com/nasas-mars-rover-captures-a-giant-dust-devil-swallowing-its-friend-2000584896",
-        "urlToImage": "https://gizmodo.com/app/uploads/2025/04/Perseverance-Dust-Devil.jpg",
-        "publishedAt": "2025-04-03T20:46:41Z",
-        "content": "Mars is a devil eat devil world. The Perseverance rover recently witnessed a gruesome scene on the Red Planet, in which a dust devil consumed its smaller counterpart, morphing into one, slightly larg\u2026 [+2407 chars]"
+        "author": "Ella Joyner",
+        "title": "Tariff troubles overshadow US olive branch at NATO - DW",
+        "description": "US Secretary of State Rubio was more conciliatory in tone with NATO allies, but the growing transatlantic chasm is hard to gloss over. Ukraine's future and European security are existential questions for the alliance.",
+        "url": "https://www.dw.com/en/tariff-troubles-overshadow-us-olive-branch-at-nato/a-72132897",
+        "urlToImage": "https://static.dw.com/image/72127087_6.jpg",
+        "publishedAt": "2025-04-03T20:56:21Z",
+        "content": "US Secretary of State Marco Rubio arrived with a message of reassurance and firm instructions for skittish NATO foreign ministers as they assembled at alliance headquarters in Brussels on Thursday: W\u2026 [+6034 chars]"
     },
     {
         "source": {
@@ -222,28 +196,41 @@
     },
     {
         "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
+            "id": null,
+            "name": "NPR"
         },
-        "author": "Kyle Wiggers",
-        "title": "Devin, the viral coding AI agent, gets a new pay-as-you-go plan - TechCrunch",
-        "description": "Cognition, the startup behind the viral AI programming tool Devin, has introduced a new low-cost plan to incentivize sign-ups.",
-        "url": "https://techcrunch.com/2025/04/03/devin-the-viral-coding-ai-agent-gets-a-new-pay-as-you-go-plan/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1439425791-1.jpg?resize=1200,613",
-        "publishedAt": "2025-04-03T19:46:33Z",
-        "content": "Cognition, the startup behind the viral AI programming tool Devin, has introduced a new low-cost plan to incentivize signups.\r\nWhen Cognition released Devin last year, the tool quickly blew up on soc\u2026 [+1852 chars]"
+        "author": "Alana Wise",
+        "title": "Death toll rises as devastating spring storms batter the South and Midwest - NPR",
+        "description": "At least six people have died amid severe storms that are predicted to impact large areas of the United States through the weekend.",
+        "url": "https://www.npr.org/2025/04/03/g-s1-58088/deadly-spring-storms-continue-to-batter-the-south-and-midwest",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+378/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fde%2F36%2F74f9bb5e4148b9338e9e0081d603%2Ffor-weather-story.jpg",
+        "publishedAt": "2025-04-03T19:30:07Z",
+        "content": "The National Weather Service (NWS) is warning of \"potentially historic\" rainfall sweeping across the American South and Midwest through the weekend. This intense weather pattern has already resulted \u2026 [+2143 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "Jalopnik"
         },
-        "author": null,
-        "title": "Trump administration fires three National Security Council officials - BBC",
-        "description": "The firings come after a meeting between far-right activist Laura Loomer and President Donald Trump at the White House, CBS reports.",
-        "url": "https://www.bbc.com/news/articles/ckgerl183j3o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/72d4/live/840992b0-10aa-11f0-9af0-9909a653fc84.jpg",
-        "publishedAt": "2025-04-03T19:29:30Z",
-        "content": "The Trump administration has fired at least three officials at the National Security Council, with more firings expected, according to the BBC's US partner CBS News. \r\nIt is not clear why the staffer\u2026 [+1849 chars]"
+        "author": "Ryan Erik King",
+        "title": "Astronauts Lost Control Of Boeing Starliner While Docking With International Space Station - Jalopnik",
+        "description": "The Boeing Starliner incident which stranded NASA astronauts at the ISS for months was very nearly so much worse.",
+        "url": "https://www.jalopnik.com/1826001/boeing-starliner-nasa-thruster-failure-details/",
+        "urlToImage": "https://www.jalopnik.com/img/gallery/astronauts-lost-control-of-boeing-starliner-while-docking-with-international-space-station/l-intro-1743700458.jpg",
+        "publishedAt": "2025-04-03T19:25:00Z",
+        "content": "Wilmore noted that Starliner had two thrusters fail. If it lost another thruster, the spacecraft would lose control over its six possible movements in a 3D space. Typically, just being on the verge o\u2026 [+1403 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Live Science"
+        },
+        "author": "Stephanie Pappas",
+        "title": "A murderous star lurks at the center of this new NASA image - Live Science",
+        "description": "A new view of the Helix Nebula reveals a dying white dwarf star at the nebula's center. This star's violent eating habits could be responsible for strange X-ray emissions in the region.",
+        "url": "https://www.livescience.com/space/astronomy/jaw-dropping-nasa-image-reveals-a-dying-star-at-the-heart-of-the-helix-nebula-and-it-may-have-just-murdered-a-planet",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/uvwb5F9hs3CPMVedRQoiVL-1200-80.jpg",
+        "publishedAt": "2025-04-03T19:07:44Z",
+        "content": "A new X-ray look at the mesmerizing Helix Nebula reveals an alleged planet killer: a white dwarf that might be the source of strange emissions from the nebula.\r\nThe Helix Nebula, also known as Caldwe\u2026 [+2643 chars]"
     }
 ]
