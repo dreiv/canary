@@ -1,29 +1,81 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
         },
-        "author": "Chloe Taylor, Sophie Kiderlin",
-        "title": "European stocks plunge 3% as Trump's reciprocal tariffs take effect - CNBC",
-        "description": "European stocks traded lower on Wednesday, with markets struggling to maintain Tuesday's positive momentum.",
-        "url": "https://www.cnbc.com/2025/04/09/european-markets-stocks-news-data-and-earnings.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108128815-1744170954562-gettyimages-2208557601-20090101250408-99-473852.jpeg?v=1744170997&w=1920&h=1080",
-        "publishedAt": "2025-04-09T08:31:00Z",
-        "content": "In a note to clients on Wednesday, strategists at Deutsche Bank downwardly revised target prices for 19 companies.\r\nMany of the companies were in the European luxury and mining sectors. Gucci owner K\u2026 [+1096 chars]"
+        "author": "WSJ",
+        "title": "Stock Market Today: Dow Futures Fall 700 Points; Asian Markets Drop as Trump\u2019s New Tariffs Take Effect \u2013 Live Updates - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/livecoverage/stock-market-trump-tariffs-trade-war-04-09-25",
+        "urlToImage": null,
+        "publishedAt": "2025-04-09T10:11:00Z",
+        "content": null
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "Barron's"
         },
-        "author": "Anniek Bao",
-        "title": "China says it will continue to take 'resolute and forceful' countermeasures as U.S. tariffs kick in - CNBC",
-        "description": "China's foreign ministry reiterated Wednesday that it will take \"resolute and forceful\" measures to protect its own interests.",
-        "url": "https://www.cnbc.com/2025/04/09/china-vows-forceful-countermeasures-as-us-tariffs-kick-in-.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108128865-1744187046470-gettyimages-2202669582-20090101250304-99-109339.jpeg?v=1744187057&w=1920&h=1080",
-        "publishedAt": "2025-04-09T07:56:58Z",
-        "content": "China's foreign ministry reiterated Wednesday that Beijing will take \"resolute and forceful\" measures to protect its own interests, after net total tariffs of 104% on Chinese imports into the U.S. to\u2026 [+2408 chars]"
+        "author": "Callum Keown, Rupert Steiner, James Glynn, Dow Jones Newswires, Joe Light, Reshma Kapadia",
+        "title": "Trump's Tariffs Take Effect Today. Pharmaceutical Levies Announced 'Very Shortly,' and China Calls for Dialogue - Barron's",
+        "description": "President Donald Trump's reciprocal tariffs on more than 100 countries go live. Follow the latest news and analysis here.",
+        "url": "https://www.barrons.com/livecoverage/trump-tariffs-us-china-news",
+        "urlToImage": "https://images.barrons.com/im-52467919/social",
+        "publishedAt": "2025-04-09T09:31:00Z",
+        "content": "President Donald Trumps sweeping tariffs on countries around the world, including a 104% levy on Chinese imports, took effect early Wednesday, dramatically altering the global trade landscape.\r\nTrump\u2026 [+980 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Trump's tariffs: China urges unity against \u2018trade tyranny\u2019 - BBC",
+        "description": "Manufacturers and exporters are scrambling after 104% levy on China-made goods comes into effect.",
+        "url": "https://www.bbc.com/news/articles/c7vnn6y6g82o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9df6/live/46b704d0-1503-11f0-a0c4-0d08556af5ee.jpg",
+        "publishedAt": "2025-04-09T09:14:01Z",
+        "content": "Kelly Ng\r\nTrump's tariffs on Chinese imports are crippling for major Chinese exporters like the fast-fashion giant Shein \r\nChina has called for the world to unite against Trump's tariffs as the count\u2026 [+5598 chars]"
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Nicholas Wu, Holly Otterbein",
+        "title": "Democrats find Trump\u2019s haphazard tariffs are uniting them on trade - Politico",
+        "description": "The party has disagreed over tariff policy in the past, but have found common ground lately",
+        "url": "https://www.politico.com/news/2025/04/09/democrats-trump-tariffs-united-trade-032478",
+        "urlToImage": "https://static.politico.com/0d/3a/162de5514b23801cb1e4cfb6a499/house-progressives-press-conference-on-debt-ceiling-80597.jpg",
+        "publishedAt": "2025-04-09T08:45:00Z",
+        "content": "The problem is not tariffs, generally. Its the way that Trump is doing them, said Rep. Hillary Scholten (D-Mich.), from a swing state that relies heavily on car manufacturing. Trump tariffs are bad, \u2026 [+5788 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Marc Caputo, Alex Isenstadt",
+        "title": "\"We like it\": Why Trump's team shrugs at Navarro-Musk feud - Axios",
+        "description": "Public feuding by Musk's team of rivals reflects the smash-mouth, unapologetic style that's part of its policymaking process in private.",
+        "url": "https://www.axios.com/2025/04/09/navarro-musk-feud-tariffs-trump-white-house",
+        "urlToImage": "https://images.axios.com/xkLwMsYFN_5OapWJ_6Eo6kAqMCQ=/0x0:1920x1080/1366x768/2025/04/08/1744150965064.jpg",
+        "publishedAt": "2025-04-09T08:32:19Z",
+        "content": "Backstabbing was rampant in President Trump's first White House. In Trump 2.0, it's front-stabbing:\r\n<ul><li>Trump's trade adviser, Peter Navarro, slights Elon Musk's car company on TV. Musk, a senio\u2026 [+4247 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Elisabeth Buchwald",
+        "title": "Trump\u2019s massive \u2018reciprocal\u2019 tariffs upend global trade - CNN",
+        "description": "Despite rattled financial markets, threats of retaliation and some of President Donald Trump\u2019s biggest supporters encouraging him to back off his signature economic policy, he didn\u2019t give in. His administration piled on heaps of new \u201creciprocal\u201d tariffs Wedne\u2026",
+        "url": "https://www.cnn.com/2025/04/09/business/recession-effects-trump-reciprocal-tariffs-hnk-intl/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-2025-04-02t204647z-21420377-rc2wpdatum9v-rtrmadp-3-usa-trump-tariffs.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-04-09T08:16:00Z",
+        "content": "Despite rattled financial markets, threats of retaliation and some of President Donald Trumps biggest supporters encouraging him to back off his signature economic policy, he didnt give in. His admin\u2026 [+6920 chars]"
     },
     {
         "source": {
@@ -40,29 +92,29 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
+            "id": null,
+            "name": "Hollywood Reporter"
         },
-        "author": "Karina Tsui",
-        "title": "3 dead and 3 wounded in mass shooting in Virginia in which at least 1 shooter is on the loose - CNN",
-        "description": "Three people were killed and three others injured in a shooting in Spotsylvania County, in northeastern Virginia Tuesday evening, authorities said.",
-        "url": "https://www.cnn.com/2025/04/09/us/virginia-mass-shooting-spotsylvania-county/index.html",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25099017672483.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-04-09T05:13:00Z",
-        "content": "Three people were killed and three others injured in a shooting in Spotsylvania County, in northeastern Virginia Tuesday evening, authorities said.\r\nThe shooting happened at around 5:30 p.m. in the O\u2026 [+1029 chars]"
+        "author": "Jackie Strause",
+        "title": "\u2018The Handmaid\u2019s Tale\u2019 Bosses Unpack All Those Reunions in the First Three Episodes - The Hollywood Reporter",
+        "description": "Co-showrunners Eric Tuchman and Yahlin Chang speak to The Hollywood Reporter about everything that happens when June (Elisabeth Moss) and Serena (Yvonne Strahovski) get off that train.",
+        "url": "http://www.hollywoodreporter.com/tv/tv-features/the-handmaids-tale-season-6-premiere-reunions-explained-1236185613/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/04/174226_0321RT.jpg?w=1440&h=810&crop=1",
+        "publishedAt": "2025-04-09T03:23:04Z",
+        "content": "[This story contains spoilers from the three-episode season six premiere of The Handmaid\u2019s Tale, \u201cTrain,\u201d \u201cExile\u201d and \u201cDevotion.\u201d]\r\nThe biggest question for The Handmaid\u2019s Taleviewers heading into th\u2026 [+14117 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Financial Times"
+            "name": "Heat.com"
         },
-        "author": "Kana Inagaki, Arjun Neil Alim, Oliver Telling, Patricia Nilsson",
-        "title": "US tariffs cause car import pile-up at American ports - Financial Times",
-        "description": "Executive warns situation could become \u2018quite ugly\u2019 in a few weeks as carmakers park vehicles amid levy uncertainty",
-        "url": "https://www.ft.com/content/dca52e46-cd51-4325-8e79-6557cd601738",
-        "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc51c2d82-cd91-4972-8741-083758916f47.jpg?source=next-barrier-page",
-        "publishedAt": "2025-04-09T04:01:32Z",
-        "content": "Complete digital access to quality analysis and expert insights, complemented with our award-winning Weekend Print edition.\r\n<ul><li></li>Everything in Print<li></li>Weekday Print Edition<li></li>FT \u2026 [+202 chars]"
+        "author": null,
+        "title": "Pool Report on the Technical Fouls called during Tonight\u2019s Lakers at Thunder Game - Official NBA",
+        "description": "The Pool Report interview was conducted by Cliff Brunt, Associated Press with Crew Chief Tony Brothers following today\u2019s Lakers at Thunder game. \u00a0 April 8, 2025 \u00a0 QUESTION: Why was Luka Don\u010di\u0107 assessed his first technical foul by J.T. Orr? BROTHERS:\u00a0 He direc\u2026",
+        "url": "https://official.nba.com/pool-report-on-the-technical-fouls-called-during-tonights-lakers-at-thunder-game/",
+        "urlToImage": null,
+        "publishedAt": "2025-04-09T03:13:18Z",
+        "content": "The Pool Report interview was conducted by Cliff Brunt, Associated Press with Crew Chief Tony Brothers following todays Lakers at Thunder game. \r\nApril 8, 2025\r\nQUESTION: Why was Luka Doni assessed h\u2026 [+497 chars]"
     },
     {
         "source": {
@@ -92,19 +144,6 @@
     },
     {
         "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Chloe Atkins",
-        "title": "Judge gives Trump administration deadline to provide evidence against Mahmoud Khalil - NBC News",
-        "description": "An immigration judge in Louisiana ordered the federal government Tuesday to provide evidence by Wednesday justifying its attempt to deport a Columbia University student activist.",
-        "url": "https://www.nbcnews.com/news/us-news/judge-gives-trump-administration-deadline-provide-evidence-mahmoud-kha-rcna200341",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250328-mahmoud-khalil-mb-1245-246ccd.jpg",
-        "publishedAt": "2025-04-09T02:31:00Z",
-        "content": "An immigration judge in Louisiana ordered the federal government Tuesday to provide evidence by Wednesday justifying its attempt to deport a Columbia University student activist.\r\nAt a hearing, Judge\u2026 [+3264 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Variety"
         },
@@ -131,29 +170,16 @@
     },
     {
         "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
+            "id": "entertainment-weekly",
+            "name": "Entertainment Weekly"
         },
-        "author": "The Associated Press",
-        "title": "IRS acting commissioner is resigning over deal to send immigrants' tax data to ICE, sources say - NBC News",
-        "description": "Melanie Krause, acting head since February, will step down over the data-sharing document signed by Treasury Secretary Scott Bessent and Homeland Security Secretary Kristi Noem.",
-        "url": "https://www.nbcnews.com/politics/immigration/irs-acting-commissioner-krause-resigning-immigrants-tax-data-ice-rcna200343",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250408-irs-building-2021-ac-915p-257039.jpg",
-        "publishedAt": "2025-04-09T01:24:00Z",
-        "content": "WASHINGTON The acting commissioner of the\u00a0IRS is resigning over a deal to share immigrants tax data with Immigration and Customs Enforcement for the purpose of identifying and deporting people illega\u2026 [+4064 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "On3.com"
-        },
-        "author": "Zack Geoghegan",
-        "title": "ESPN's updated 2025 NBA Mock Draft features one Kentucky player - On3.com",
-        "description": "Could a Kentucky Wildcat hear his name called at the 2025 NBA Draft?",
-        "url": "https://www.on3.com/teams/kentucky-wildcats/news/espn-updated-2025-nba-mock-draft-features-one-kentucky-player/",
-        "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2025/03/23220300/Koby-Brea.png",
-        "publishedAt": "2025-04-09T01:00:03Z",
-        "content": "One Kentucky player from Mark Popes first roster continues to trend as a possible 2025 NBA Draft pick. \r\nFollowing the conclusion of the NCAA Tournament, ESPN draft experts Jonathan Givony and Jeremy\u2026 [+1425 chars]"
+        "author": "https://www.facebook.com/entertainmentweekly",
+        "title": "Robert Pattinson looking to spice up 'Dune 3' with villainous role - Entertainment Weekly",
+        "description": "'The Batman' star Robert Pattinson is looking to spice up 'Dune 3,' with an eye on a villainous role in Denis Villeneuve's sci-fi sequel.",
+        "url": "https://ew.com/robert-pattinson-dune-3-villain-role-11711682",
+        "urlToImage": "https://ew.com/thmb/DHzC09E2X52BgWUhi9GXQe2tY7M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/robert-pattinson-National-Board-Review-Annual-Awards-Gala-2025-040825-f8f8c8753a8c4dd196b2cfc23adc2656.jpg",
+        "publishedAt": "2025-04-09T00:01:16Z",
+        "content": "Robert Pattinson may be heading from Gotham City to Arrakis.\r\nThe star of The Batman is being eyed for a key role in the third Dune movie from director Denis Villeneuve, Entertainment Weekly has lear\u2026 [+2765 chars]"
     },
     {
         "source": {
@@ -167,44 +193,5 @@
         "urlToImage": "https://images.wsj.net/im-04199253/social",
         "publishedAt": "2025-04-08T23:49:00Z",
         "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Hawaii.gov"
-        },
-        "author": null,
-        "title": "MEASLES CASE CONFIRMED IN CHILD ON O\u02bbAHU \u2014 DOH NOTIFIES PUBLIC OF MEASLES EXPOSURE LOCATIONS - Hawaii Department of Health (.gov)",
-        "description": "HONOLULU \u2014 The Hawai\u02bbi Department of Health (DOH) State Laboratories Division last night confirmed a case of measles in an unvaccinated child under 5 years of age on O\u02bbahu. The DOH is investigating the case to identify those who might have been exposed and is\u2026",
-        "url": "https://health.hawaii.gov/news/newsroom/measles-case-confirmed-in-child-on-o%ca%bbahu-doh-notifies-public-of-measles-exposure-locations/",
-        "urlToImage": "https://health.hawaii.gov/news/wp-content/themes/hic_state_template_parent/images/og-image.jpg",
-        "publishedAt": "2025-04-08T23:05:52Z",
-        "content": "Posted on Apr 8, 2025 in Newsroom\r\nHONOLULU The Hawaii Department of Health (DOH) State Laboratories Division last night confirmed a case of measles in an unvaccinated child under 5 years of age on O\u2026 [+5714 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Live Science"
-        },
-        "author": "Skyler Ware",
-        "title": "A day on Uranus is 28 seconds longer than scientists thought - Live Science",
-        "description": "An 11-year Hubble study has finally revealed how long a day lasts on Uranus.",
-        "url": "https://www.livescience.com/space/uranus/scientists-finally-know-how-long-a-day-on-uranus-is",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/BjmFsw32kxWfDQVkh49gWf-1200-80.jpg",
-        "publishedAt": "2025-04-08T23:01:01Z",
-        "content": "A day on Uranus is about half a minute longer than previously thought, according to new research.\r\nAn analysis of 11 years of Hubble Space Telescope observations shows that Uranus\r\n' day lasts 17 hou\u2026 [+2720 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "9News.com KUSA"
-        },
-        "author": "Melissa Reeves (9NEWS)",
-        "title": "3rd measles case in Colorado confirmed in Archuleta County adult - 9News",
-        "description": "CDPHE confirmed the measles case in an adult, announcing the person was contagious between March 26 and April 3 and did not leave the state.",
-        "url": "https://www.9news.com/article/news/health/adult-measles-case-archuleta-county-pagosa-springs/73-cebe6bc8-477b-4623-8629-9ab94d8d88a6",
-        "urlToImage": "https://media.9news.com/assets/KUSA/images/fc4b78ee-a642-422f-9a9c-ab1280f624b7/20250408T221207/fc4b78ee-a642-422f-9a9c-ab1280f624b7_1140x641.jpg",
-        "publishedAt": "2025-04-08T22:47:00Z",
-        "content": "ARCHULETA COUNTY, Colo. State health officials on Tuesday confirmed a case of measles in an adult living in Archuleta County the third reported in Colorado this year.\r\nThe Colorado Department of Publ\u2026 [+1985 chars]"
     }
 ]
