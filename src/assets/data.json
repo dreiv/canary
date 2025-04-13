@@ -1,6 +1,58 @@
 [
     {
         "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Sara Cline, Kate Brumback",
+        "title": "Columbia University activist Mahmoud Khalil can be deported, immigration judge finds - AP News",
+        "description": "A Louisiana immigration judge has found that the U.S. can deport Columbia University graduate student Mahmoud Khalil can be deported as a national security risk. Immigration Judge Jamee Comans made the determination Friday. Khalil participated in pro-Palestin\u2026",
+        "url": "https://apnews.com/article/mahmoud-khalil-columbia-protester-ruling-deport-fd9e80583af3109d7de0a5264e79ea61",
+        "urlToImage": "https://dims.apnews.com/dims4/default/5f565a7/2147483647/strip/true/crop/5760x3240+0+300/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2Fc9%2Fa19f52a2e1515baefa11b9f77ef3%2Fdcf131bf16984a18a5165ef5048ef8e3",
+        "publishedAt": "2025-04-12T00:27:00Z",
+        "content": "JENA, La. (AP) Columbia University graduate student Mahmoud Khalil can be kicked out of the U.S. as a national security risk, an immigration judge in Louisiana found Friday during a hearing over the \u2026 [+6288 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NBCSports.com"
+        },
+        "author": "Mike Florio",
+        "title": "Derek Carr injury opens door for Saints to take Shedeur Sanders at No. 9 - NBC Sports",
+        "description": "The Panthers could keep that from happening, by trading out of the No. 8 pick.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/derek-carr-injury-opens-door-for-saints-to-take-shedeur-sanders-at-no-9",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/a5b73fc/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F8d%2Fd293b3e744b0bdfe9ae6fe3be779%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D24545817",
+        "publishedAt": "2025-04-11T23:51:47Z",
+        "content": "The unexpected news that Saints quarterback Derek Carr has a shoulder injury makes it even more likely that the Saints will take a serious look at Colorado quarterback Shedeur Sanders when New Orlean\u2026 [+1065 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Federal News Network"
+        },
+        "author": "Drew Friedman",
+        "title": "Federal benefits face possible cuts in House Republicans\u2019 budget resolution - Federal News Network",
+        "description": "Proposals for the GOP budget resolution are already circulating, including possibilities for changing federal benefits in retirement and health insurance.",
+        "url": "https://federalnewsnetwork.com/benefits/2025/04/federal-benefits-face-possible-cuts-in-house-republicans-budget-resolution/",
+        "urlToImage": "https://federalnewsnetwork.com/wp-content/uploads/2025/04/GettyImages-1346089552-scaled.jpg",
+        "publishedAt": "2025-04-11T22:58:10Z",
+        "content": "Although the details of House Republicans narrowly approved budget framework are still up in the air, some initial proposals show the possibility of changes to federal benefits, mainly in retirement \u2026 [+10018 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Whitehouse.gov"
+        },
+        "author": null,
+        "title": "Military Mission for Sealing the Southern Border of the United States and Repelling Invasions - The White House (.gov)",
+        "description": "NATIONAL SECURITY PRESIDENTIAL MEMORANDUM/NSPM-4 MEMORANDUM FOR THE SECRETARY OF DEFENSE\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 THE SECRETARY OF THE INTERIOR\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 THE",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/04/military-mission-for-sealing-the-southern-border-of-the-united-states-and-repelling-invasions/",
+        "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg",
+        "publishedAt": "2025-04-11T22:48:34Z",
+        "content": "NATIONAL SECURITY PRESIDENTIAL MEMORANDUM/NSPM-4\r\nMEMORANDUM FOR THE SECRETARY OF DEFENSETHE SECRETARY OF THE INTERIORTHE SECRETARY OF AGRICULTURETHE SECRETARY OF HOMELAND SECURITY\r\nSUBJECT:\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Mil\u2026 [+5633 chars]"
+    },
+    {
+        "source": {
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
@@ -14,29 +66,16 @@
     },
     {
         "source": {
-            "id": "abc-news",
-            "name": "ABC News"
+            "id": "ars-technica",
+            "name": "Ars Technica"
         },
-        "author": "ABC News",
-        "title": "Judge rules Columbia activist Mahmoud Khalil can be deported - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/US/judge-decides-columbia-activist-mahmoud-khalil-deported-us/story?id\\\\u003d120726623",
-        "urlToImage": null,
-        "publishedAt": "2025-04-11T22:03:02Z",
+        "author": "Samuel Axon",
+        "title": "Researchers find AI is pretty bad at debugging\u2014but they\u2019re working on it - Ars Technica",
+        "description": "Even when given access to tools, AI agents can\u2019t reliably debug software.",
+        "url": "https://arstechnica.com/ai/2025/04/researchers-find-ai-is-pretty-bad-at-debugging-but-theyre-working-on-it/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/linux-scripts-1152x648.jpg",
+        "publishedAt": "2025-04-11T22:26:58Z",
         "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NBCSports.com"
-        },
-        "author": "Mike Florio",
-        "title": "Derek Carr injury raises possibility of Aaron Rodgers to the Saints - NBC Sports",
-        "description": "The Aaron Rodgers waiting game just got a little more interesting.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/derek-carr-injury-raises-possibility-of-aaron-rodgers-to-the-saints",
-        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/6035b30/2147483647/strip/true/crop/4805x2703+0+251/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fef%2Fc0%2F16295fda4e7db34985727f684d35%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1340189917",
-        "publishedAt": "2025-04-11T21:21:00Z",
-        "content": "The Aaron Rodgers waiting game just got a little more interesting.\r\nWith Saints quarterback Derek Carr reportedly suffering from a shoulder injury that could impact his availability for 2025, the Sai\u2026 [+689 chars]"
     },
     {
         "source": {
@@ -44,11 +83,24 @@
             "name": "The Wall Street Journal"
         },
         "author": "WSJ",
-        "title": "The Fox Host Whose Show Caught Trump\u2019s Attention During Tariff Meltdown - WSJ",
+        "title": "Stock Market Today: Dow, S&P 500 and Nasdaq Rise Despite Recession Fears; Treasury Yield Surges - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/business/media/the-fox-host-whose-show-caught-trumps-attention-during-tariff-meltdown-f2959895",
+        "url": "https://www.wsj.com/livecoverage/stock-market-trump-tariffs-trade-war-04-11-25",
         "urlToImage": null,
-        "publishedAt": "2025-04-11T21:20:00Z",
+        "publishedAt": "2025-04-11T22:01:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "New York City helicopter crash latest: Authorities search for answers after 6 killed - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/US/authorities-search-answers-deadly-tourist-new-york-city/story?id\\\\u003d120707831",
+        "urlToImage": null,
+        "publishedAt": "2025-04-11T21:22:30Z",
         "content": null
     },
     {
@@ -66,68 +118,55 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "politico",
+            "name": "Politico"
         },
-        "author": "Dan Mangan",
-        "title": "Luigi Mangione defense asks judge to block death penalty in CEO murder case - CNBC",
-        "description": "Mangione is charged with fatally shooting UnitedHealthcare CEO Brian Thompson on a New York City street in December.",
-        "url": "https://www.cnbc.com/2025/04/11/luigi-mangione-death-penalty-brian-thompson-case.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108105908-17401702152025-02-21t202801z_1440528033_rc27zcal85co_rtrmadp_0_unitedhealth-ceo.jpeg?v=1740170306&w=1920&h=1080",
-        "publishedAt": "2025-04-11T19:49:19Z",
-        "content": "Lawyer for Luigi Mangione on Friday asked a federal judge in New York to block prosecutors from seeking to impose the death penalty if he is convicted of murdering UnitedHealthcare CEO Brian Thompson\u2026 [+3096 chars]"
+        "author": "Dasha Burns, Myah Ward",
+        "title": "Military contractors pitch unprecedented prison plan for detained immigrants - Politico",
+        "description": "Erik Prince wants to cut a deal to skirt immigration laws and transport detainees from the US to El Salvador.",
+        "url": "https://www.politico.com/news/2025/04/11/military-contractors-prison-plan-detained-immigrants-erik-prince-00287208",
+        "urlToImage": "https://static.politico.com/bd/8b/03ea66424425ab1f63207c682126/cpac-2025-35902.jpg",
+        "publishedAt": "2025-04-11T20:54:17Z",
+        "content": "The group has had multiple talks with administration officials, and the ideas laid out in the proposal are likely to be a top subject in the bilateral meetings with El Salvador at the White House nex\u2026 [+8897 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Ed.gov"
+            "name": "Variety"
         },
-        "author": null,
-        "title": "U.S. Department of Education Announces Consequences for Maine\u2019s Title IX Noncompliance - U.S. Department of Education (.gov)",
-        "description": "U.S. Department of Education Announces Consequences for Maine\u2019s Title IX Noncompliance",
-        "url": "http://www.ed.gov/about/news/press-release/us-department-of-education-announces-consequences-maines-title-ix-noncompliance",
-        "urlToImage": "http://www.ed.gov/themes/custom/edgov/images/ed-og.png",
-        "publishedAt": "2025-04-11T19:15:16Z",
-        "content": "Today, the U.S. Department of Education (ED) referred its Title IX investigation into the Maine Department of Education (MDOE) to the U.S. Department of Justice (DOJ) for further enforcement action. \u2026 [+1809 chars]"
+        "author": "Selome Hailu",
+        "title": "\u2018The Pitt\u2019 Hits Season Average of 10 Million Viewers Since Premiere - Variety",
+        "description": "'The Pitt' was averaging 10 million viewers per episode ahead of its Season 1 finale on Thursday. The finale also hit a series high, according to WBD.",
+        "url": "https://variety.com/2025/tv/news/the-pitt-ratings-viewers-1236367516/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2025/01/ThePitt-NoahWyle-Episode2.jpg?crop=0px%2C1px%2C1200px%2C675px&resize=1000%2C563",
+        "publishedAt": "2025-04-11T20:17:00Z",
+        "content": "The first 14 episodes of \u201cThe Pitt\u201d are averaging 10 million viewers.\r\nMeasured by Warner Bros. Discovery, this total accounts for the worldwide average number of people who have watched the medical \u2026 [+1359 chars]"
     },
     {
         "source": {
-            "id": "abc-news",
-            "name": "ABC News"
+            "id": "usa-today",
+            "name": "USA Today"
         },
-        "author": "ABC News",
-        "title": "RFK Jr. pledges an answer to the 'autism epidemic' by September - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/Health/rfk-jr-pledges-answer-autism-epidemic-september/story?id\\\\u003d120694914",
-        "urlToImage": null,
-        "publishedAt": "2025-04-11T19:12:04Z",
-        "content": null
+        "author": "Matt Hayes",
+        "title": "Tennessee QB Nico Iamaleava has plenty of options if he wants to leave Vols - USA Today",
+        "description": "If Tennessee can't keep QB Nico Iamaleava, here are five schools with NIL money who would be in position to land him.",
+        "url": "https://www.usatoday.com/story/sports/ncaaf/2025/04/11/nico-iamaleava-tennessee-qb-transfer-landing-spots/83047950007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/11/USAT/83048887007-nico.jpg?crop=5768,3246,x0,y135&width=3200&height=1801&format=pjpg&auto=webp",
+        "publishedAt": "2025-04-11T19:36:33Z",
+        "content": "So Tennessee quarterback Nico Iamaleava is, according to reports,\u00a0negotiating with the Vols\u00a0to stay in Knoxville for the 2025 season.\u00a0\r\nThats 14 weeks before the start of the\u00a0college football season.\u2026 [+3641 chars]"
     },
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
+            "id": "cnn",
+            "name": "CNN"
         },
-        "author": "WSJ",
-        "title": "Exclusive | Witkoff Says U.S. Open to Compromise Ahead of Iran Nuclear Talks - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/world/middle-east/steve-witkoff-interview-iran-nuclear-talks-e41e0114",
-        "urlToImage": null,
-        "publishedAt": "2025-04-11T18:37:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Corey Atad",
-        "title": "All the \u2018Black Mirror\u2019 Season 7 Episodes Ranked - WIRED",
-        "description": "If world events aren\u2019t satisfying your dystopia itch, here\u2019s WIRED\u2019s guide to the new season of \u2018Black Mirror.\u2019",
-        "url": "https://www.wired.com/story/all-the-black-mirror-season-7-episodes-ranked/",
-        "urlToImage": "https://media.wired.com/photos/67f83f958a259093966ff2a6/191:100/w_1280,c_limit/Ranking-Black-Mirror-Culture-BM7_Eulogy_Unit_02332_RT.jpg",
-        "publishedAt": "2025-04-11T18:16:19Z",
-        "content": "Every day, the world seems to be slipping further and further into dystopia, with President Donald Trump placing tariffs on islands inhabited by penguins and the country's head of Medicare and Medica\u2026 [+7732 chars]"
+        "author": "Alex Marquardt, Abbas Al Lawati, Kylie Atwood",
+        "title": "US and Iran to begin critical nuclear talks as Trump threatens war - CNN",
+        "description": "Iran and the United States will begin crucial talks on Saturday to reach a new nuclear deal in an effort to ease tensions and avert another conflict in the Middle East that could further engulf the wider region.",
+        "url": "https://www.cnn.com/2025/04/11/politics/us-iran-nuclear-talks/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/02-gettyimages-2203660315.JPG?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-04-11T18:57:00Z",
+        "content": "Iran and the United States will begin crucial talks on Saturday to reach a new nuclear deal in an effort to ease tensions and avert another conflict in the Middle East that could further engulf the w\u2026 [+7249 chars]"
     },
     {
         "source": {
@@ -157,80 +196,15 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "CBS Sports"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "Patrick McDonald",
-        "title": "2025 Masters leaderboard: Live coverage, scoreboard updates, golf scores today in Round 2 at Augusta National - CBS Sports",
-        "description": "Live scores, updates and highlights from the second round of the 89th Masters at Augusta National Golf Club",
-        "url": "https://www.cbssports.com/golf/news/2025-masters-leaderboard-live-coverage-scoreboard-updates-golf-scores-today-in-round-2-at-augusta-national/live/",
-        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/04/11/df0c231a-ca79-4051-97cc-bc654981efe8/thumbnail/1200x675/30c2433e6b5bf704d437ba553baa14f8/masters-leaderboard-azaleas-2025-g.jpg",
-        "publishedAt": "2025-04-11T18:07:14Z",
-        "content": "On a day where there were low scores to be had for those playing in the morning, Rory McIlroy took full advantage. A day after collapsing in his final four holes with double bogeys on 15 and 17 to tu\u2026 [+2420 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Will Weissert",
-        "title": "Trump is undergoing his annual physical after years of reluctance to share medical information - AP News",
-        "description": "President Donald Trump is undergoing his annual physical. The exam will potentially give the public its first details in years about the health of a man who in January was the oldest in U.S. history to be sworn in as president. The 78-year-old Republican says\u2026",
-        "url": "https://apnews.com/article/trump-physical-past-medial-records-oldest-president-fcac7240c4a2cf98c1c30709506ab4f1",
-        "urlToImage": "https://dims.apnews.com/dims4/default/e8de587/2147483647/strip/true/crop/4457x2507+0+232/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe2%2F90%2F5313b9f1d543a52abf05846e6e5f%2F404bb7940cd447f0b6aa3a3c3a64944d",
-        "publishedAt": "2025-04-11T17:55:00Z",
-        "content": "WASHINGTON (AP) Donald Trump is undergoing his annual physical on Friday, potentially giving the public its first details in years about the health of a man who in January became the oldest in U.S. h\u2026 [+5112 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Phys.Org"
-        },
-        "author": "Ann Motrunich",
-        "title": "High school student uses AI to reveal 1.5 million previously unknown objects in space - Phys.org",
-        "description": "Through his research at Caltech, a local high school student revealed 1.5 million previously unknown objects in space, broadened the potential of a NASA mission, and published a single-author paper.",
-        "url": "https://phys.org/news/2025-04-high-school-student-ai-reveal.html",
-        "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/exploring-space-with-a.jpg",
-        "publishedAt": "2025-04-11T17:51:05Z",
-        "content": "Through his research at Caltech, a local high school student revealed 1.5 million previously unknown objects in space, broadened the potential of a NASA mission, and published a single-author paper.\r\u2026 [+6659 chars]"
-    },
-    {
-        "source": {
-            "id": "nfl-news",
-            "name": "NFL News"
-        },
-        "author": null,
-        "title": "Gennaro Filice 2025 NFL mock draft 2.0: RB Ashton Jeanty goes top 5! Cowboys jump for Jalon Walker - NFL.com",
-        "description": "In his second mock of the 2025 NFL Draft, Gennaro Filice forecasts running back Ashton Jeanty will be a top-five pick. Plus, the Cowboys trade up to grab a familiar type of player. Check out the complete first-round projection, 1-32.",
-        "url": "https://www.nfl.com/news/gennaro-filice-2025-nfl-mock-draft-2-0-rb-ashton-jeanty-goes-top-5-cowboys-jump-for-jalon-walker",
-        "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/maa7o2vecgiwdzutz2ah",
-        "publishedAt": "2025-04-11T17:48:00Z",
+        "author": "Ani Freedman",
+        "title": "The truth about alcohol and your brain: Scientists put a number on the years heavy drinking takes off your life - Fortune",
+        "description": "Researchers discovered that heavy drinking could take 13 years off your life.",
+        "url": "https://fortune.com/well/article/alcohol-brain-health-lifespan/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/04/GettyImages-2170260822-e1744388100823.jpg?resize=1200,600",
+        "publishedAt": "2025-04-11T18:08:00Z",
         "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Michael Wayland",
-        "title": "GM cutting jobs, idling Canadian electric van plant due to 'market demand' - CNBC",
-        "description": "General Motors is cutting production of its all-electric delivery vans at a plant in Canada ahead of idling the facility through much of this year.",
-        "url": "https://www.cnbc.com/2025/04/11/gm-cutting-jobs-idle-canada-electric-van-plant.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107036203-1648147873440-MY22_EV600_frt34.jpg?v=1668713401&w=1920&h=1080",
-        "publishedAt": "2025-04-11T17:47:48Z",
-        "content": "DETROIT General Motors is cutting production of its all-electric BrightDrop delivery vans at a plant in Canada and will idle the facility through much of 2025, the company confirmed Friday.\r\nThe CAMI\u2026 [+2592 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Alexander  Tin",
-        "title": "Weekly measles cases top 90 in U.S. for first time in years - CBS News",
-        "description": "Arkansas, Hawaii and Indiana have joined a list of two dozen states with confirmed measles cases.",
-        "url": "https://www.cbsnews.com/news/measles-cases-weekly-top-90-first-time-years-cdc/",
-        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/07/02/f51bdaca-e805-497f-ac63-87512d4f26e8/thumbnail/1200x630g8/61033adab0efca6ba877823db762172b/GettyImages-457163942.jpg?v=653dd6912cdd8596c9bfea812c355f95",
-        "publishedAt": "2025-04-11T17:44:00Z",
-        "content": "The number of measles cases reported in the U.S. in a single week has topped 90 for the first time since a record wave in 2019, according to figures published Friday by the Centers for Disease Contro\u2026 [+3386 chars]"
     }
 ]
