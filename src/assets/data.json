@@ -1,6 +1,32 @@
 [
     {
         "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Tierney Sneed, John Fritze",
+        "title": "Supreme Court temporarily pauses deportations under Alien Enemies Act - CNN",
+        "description": "The Supreme Court early Saturday morning paused the deportation of immigrants potentially subject to the Alien Enemies Act, freezing action in a fast-developing case involving a group of immigrants in Texas who say the Trump administration was working to remo\u2026",
+        "url": "https://www.cnn.com/2025/04/18/politics/boasberg-deportation-flights-alien-enemies-act/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2209055943.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-04-19T22:20:00Z",
+        "content": "The Supreme Court early Saturday morning paused the deportation of immigrants potentially subject to the Alien Enemies Act, freezing action in a fast-developing case involving a group of immigrants i\u2026 [+6510 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Hanna Arhirova",
+        "title": "Ukraine wary of Putin\u2019s Easter truce and says it will reciprocate only a genuine ceasefire - AP News",
+        "description": "Ukraine says it will reciprocate any genuine ceasefire by Moscow, but has voiced skepticism after Russian President Vladimir Putin announced a temporary Easter truce in Ukraine starting Saturday. The announcement from Kyiv came as Russia and Ukraine conducted\u2026",
+        "url": "https://apnews.com/article/russia-ukraine-war-kursk-drones-3c940cf913f22eb21803841b4d026db8",
+        "urlToImage": "https://dims.apnews.com/dims4/default/46ed338/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F19%2F08%2F87f0e201c5d881e29d2b7a3daa5d%2Fb9912ad6e50244d3b278cb18ac8ad976",
+        "publishedAt": "2025-04-19T20:29:00Z",
+        "content": "CHERNIHIV REGION, Ukraine (AP) Ukraine said it would reciprocate any genuine ceasefire by Moscow, but voiced skepticism after Russian President Vladimir Putin announced a temporary Easter truce in Uk\u2026 [+5485 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "NPR"
         },
@@ -15,28 +41,54 @@
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "CBS Sports"
         },
-        "author": null,
-        "title": "Putin declares 'Easter truce', as Ukraine says he 'cannot be trusted' - BBC",
-        "description": "The Russian president says he ordered his forces to \"stop all military activity\" until the end of Sunday.",
-        "url": "https://www.bbc.com/news/articles/c787v5gxny7o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5767/live/db076e40-1d28-11f0-b700-f1f963c8c095.jpg",
-        "publishedAt": "2025-04-19T19:23:24Z",
-        "content": "Russian President Vladimir Putin says he has ordered his forces to \"stop all military activity\" in Ukraine, as he declared an \"Easter truce\" until the end of Sunday. \r\nHe said the 30-hour truce would\u2026 [+3009 chars]"
+        "author": "",
+        "title": "Knicks vs. Pistons odds, score prediction, time: 2025 NBA playoff picks, Game 1 best bets from proven model - CBS Sports",
+        "description": "SportsLine's model just revealed its NBA predictions for Detroit Pistons vs. New York Knicks in the first round of the 2025 NBA playoffs on Saturday",
+        "url": "https://www.cbssports.com/nba/news/knicks-vs-pistons-odds-score-prediction-time-2025-nba-playoff-picks-game-1-best-bets-from-proven-model/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/04/18/ade680f9-5518-408b-bbe0-b8237125e56e/thumbnail/1200x675/b842fbc952b5328db03aaf4f4a8c719e/cameron-payne-cbs.jpg",
+        "publishedAt": "2025-04-19T20:00:59Z",
+        "content": "The No. 3 seed New York Knicks will host the No. 6 seed Detroit Pistons in Game 1 of an Eastern Conference first-round playoff matchup on Saturday evening in the 2025 NBA playoffs. New York and Detro\u2026 [+4127 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Gizmodo.com"
+            "name": "Page Six"
         },
-        "author": "Germain Lussier",
-        "title": "Dave Filoni Explains the Impact Losing Ray Stevenson Had on Ahsoka Season 2 - Gizmodo",
-        "description": "Game of Thrones actor Rory McCann is in season two of Ahsoka, taking over the role of Baylan Skoll from the late Ray Stevenson.",
-        "url": "https://gizmodo.com/dave-filoni-explains-the-impact-losing-ray-stevenson-had-on-ahsoka-season-2-2000591812",
-        "urlToImage": "https://gizmodo.com/app/uploads/2025/04/Baylan-Skoll-SWCJ-1.jpg",
-        "publishedAt": "2025-04-19T18:52:12Z",
-        "content": "When Ray Stevenson died, Ahsoka season two almost died with it. Dave Filoni, the show\u2019s creator, was at Star Wars Celebration Japan this weekend and did a panel about his Disney+ show. Along the way,\u2026 [+3466 chars]"
+        "author": "Eileen Reslen",
+        "title": "'RHOC' alum Lydia McLaughlin 'devastated' after brother is fatally shot by police during traffic stop - Page Six",
+        "description": "Geoffrey Shyam Stirling was reportedly pulled over by police while driving his motorcycle on Thursday.",
+        "url": "https://pagesix.com/2025/04/19/celebrity-news/rhoc-alum-lydia-mclaughlin-devastated-after-brother-is-fatally-shot-by-police-during-traffic-stop/",
+        "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2025/04/102965060.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2025-04-19T18:11:23Z",
+        "content": "Lydia McLaughlin, who appeared on two seasons of \u201cThe Real Housewives of Orange County,\u201d is heartbroken after her brother was fatally shot by police earlier this week.\r\n\u201cMy family and I are devastate\u2026 [+2773 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "DW (English)"
+        },
+        "author": "Karl Sexton, Kate Hairsine",
+        "title": "US: Trump says will 'pass' on Ukraine talks if too difficult - DW",
+        "description": "US President Donald Trump said the clock was ticking on closing a Ukraine peace deal. Meanwhile, the US will reduce the number of troops based in Syria to fewer than 1,000 in the coming months. DW has the latest.",
+        "url": "https://www.dw.com/en/us-trump-says-will-pass-on-ukraine-talks-if-too-difficult/live-72285227",
+        "urlToImage": "https://static.dw.com/image/72288045_6.jpg",
+        "publishedAt": "2025-04-19T18:03:02Z",
+        "content": "US Senator Chris Van Hollen (right) says his meeting with Kilmar Abrego Garcia (left) at a hotel was stagedImage: Press Office Senator Van Hollen/AP Photo/picture alliance\r\nUS Senator Chris Van Holle\u2026 [+1617 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "KQED"
+        },
+        "author": "Guy Marzorati",
+        "title": "Loren Taylor Concedes to Barbara Lee in Oakland Mayoral Election - KQED",
+        "description": "Former East Bay Rep. Barbara Lee will be the next mayor of Oakland after former City Councilmember Loren Taylor conceded the race on Saturday.",
+        "url": "https://www.kqed.org/news/12036555/barbara-lee-takes-decisive-lead-over-loren-taylor-in-oakland-mayoral-election",
+        "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2025/04/250415-OAKLAND-MAYORAL-RESULTS-AC-06-KQED-1020x680.jpg",
+        "publishedAt": "2025-04-19T18:00:33Z",
+        "content": "Interim Mayor Kevin Jenkins released a public letter congratulating Lee on her election as the next Mayor of Oakland.\r\n\u201cYour leadership comes at a pivotal time,\u201d he said. \u201cBarbara Lee has long been a\u2026 [+1715 chars]"
     },
     {
         "source": {
@@ -80,15 +132,15 @@
     {
         "source": {
             "id": null,
-            "name": "CBS Sports"
+            "name": "WhatCulture"
         },
-        "author": "",
-        "title": "2025 NFL mock draft: Four QBs come off the board in first round, including Jalen Milroe to NFC contender - CBS Sports",
-        "description": "The 2025 NFL Draft is less than a week away",
-        "url": "https://www.cbssports.com/nfl/news/2025-nfl-mock-draft-four-qbs-come-off-the-board-in-first-round-including-jalen-milroe-to-nfc-contender/",
-        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/01/08/8f457d7e-d5f7-4942-b042-d798bbb69530/thumbnail/1200x675/158cac19a7da1976bcc66aebaaeea58c/usatsi-jalen-milroe-alabama.jpg",
-        "publishedAt": "2025-04-19T16:21:00Z",
-        "content": "We are less than a week away from the 2025 NFL Draft, so I might as well jump into the mock draft fray. While I commend my CBS Sports NFL Draft brethren who give out mock drafts like they are Hallowe\u2026 [+1945 chars]"
+        "author": "Scott Carlson",
+        "title": "5 Ups & 4 Downs From WWE Hall Of Fame 2025 (Results & Review) - WhatCulture.com",
+        "description": "Triple H dominates ceremony with lengthy induction, Hart/Austin lavish praise on each other.",
+        "url": "https://whatculture.com/wwe/5-ups-4-downs-from-wwe-hall-of-fame-2025-results-review",
+        "urlToImage": "https://d2thvodm3xyo6j.cloudfront.net/media/2025/04/839eb3e13e926547c3b748d3d9c1b52e-1200x675.png",
+        "publishedAt": "2025-04-19T16:35:03Z",
+        "content": "WWE\r\nOf all the WWE Hall of Fame ceremonies the company has ever\r\nhad, this was certainly one of them.\r\nWhat else is there to say about a three-and-a-half-hour\r\nevent where nearly half the program is\u2026 [+1133 chars]"
     },
     {
         "source": {
@@ -119,19 +171,6 @@
     {
         "source": {
             "id": null,
-            "name": "Formula 1"
-        },
-        "author": "F1",
-        "title": "FP3: Norris pips McLaren team mate Piastri in final practice at the Saudi Arabian GP - Formula 1",
-        "description": "Lando Norris ended the third and final practice session of the Saudi Arabian Grand Prix weekend fastest of all, leading his McLaren team-mate Oscar Piastri by 0.024s while George Russell was best of the rest in third.",
-        "url": "https://www.formula1.com/en/latest/article/fp3-norris-pips-mclaren-team-mate-piastri-in-final-practice-at-the-saudi.1yUxtfZ6ZrB949evTW1ywo",
-        "urlToImage": "https://media.formula1.com/image/upload/t_16by9Centre/f_auto/q_auto/v1745072610/fom-website/2025/Saudi%20Arabia/GettyImages-2210993522.jpg",
-        "publishedAt": "2025-04-19T14:54:46Z",
-        "content": "With 10 minutes gone, Lewis Hamilton headed out to discover if overnight improvements had transformed his prospects after struggling on Friday. Although his initial effort fell short of Bearmans then\u2026 [+1086 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "BBC News"
         },
         "author": null,
@@ -144,29 +183,42 @@
     },
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
+            "id": null,
+            "name": "BBC News"
         },
-        "author": "Matthew Lee, Jon Gambrell",
-        "title": "Iran and the US conclude a second round of negotiations over Tehran's nuclear program in Rome - AP News",
-        "description": "Iran and the United States will begin having experts meet to discuss details of a possible deal over Tehran\u2019s rapidly advancing nuclear program. That word comes from the top Iranian diplomat after a second round of negotiations Saturday in Rome. The comments \u2026",
-        "url": "https://apnews.com/article/iran-us-nuclear-negotiations-rome-oman-5539236d72216f55aa7766be90b963b2",
-        "urlToImage": "https://dims.apnews.com/dims4/default/ff4a3cf/2147483647/strip/true/crop/6263x3523+0+327/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb5%2F07%2F25836bc978c87f303da0c63dd0ab%2Fb13aa3a29dd64a63b27a0fcde6290a13",
-        "publishedAt": "2025-04-19T14:22:00Z",
-        "content": "ROME (AP) Iran and the United States will begin having experts meet to discuss details of a possible deal over Tehrans rapidly advancing nuclear program, the top Iranian diplomat said Saturday after \u2026 [+6290 chars]"
+        "author": null,
+        "title": "Hopes for Iran nuclear talks tempered by threats and mixed messages - BBC",
+        "description": "Iranian and US officials agree to continue with a third round of high-stakes talks on a new nuclear deal.",
+        "url": "https://www.bbc.com/news/articles/cwy7n905jqdo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d062/live/af66bad0-1ce1-11f0-80b3-83959215671c.png",
+        "publishedAt": "2025-04-19T14:34:51Z",
+        "content": "Parham Ghobadi\r\nIran and the US have held a second round of high-stakes nuclear talks in Rome - and agreed to meet again next week - even as hopes for de-escalation are tempered by mounting military \u2026 [+6478 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Prideofdetroit.com"
+        },
+        "author": "Jeremy Reisman",
+        "title": "POD Community Mock Draft: Breaking down 2nd round picks - Pride Of Detroit",
+        "description": "A look at the the second-round picks made in our 2025 NFL mock draft made by our Pride of Detroit community.",
+        "url": "https://www.prideofdetroit.com/2025/4/19/24411843/2025-nfl-mock-draft-breaking-down-2nd-round-picks",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/aq3k5hywrq3TNys3h26YLd3NTZ4=/0x66:920x548/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25926129/2025_community_mock_draft_logo.png",
+        "publishedAt": "2025-04-19T14:30:00Z",
+        "content": "Our 2025 Pride of Detroit Community Mock Draft concluded its first round earlier this week. Now its time to dive into the second round. Our selected Pride of Detroit commenters have been working behi\u2026 [+1334 chars]"
     },
     {
         "source": {
             "id": "the-verge",
             "name": "The Verge"
         },
-        "author": "Brandon Widder",
-        "title": "The Apple Watch Series 10 is back on sale for a record low of $299 - The Verge",
-        "description": "The Apple Watch Series 10 is on sale starting at $299 right now. You can save on 8BitDo\u2019s new Ultimate 2 Wireless Controller and the Elgato Stream Deck MK.2.",
-        "url": "https://www.theverge.com/tech/651889/apple-watch-series-10-8bitdo-ultimate-2-wireless-controller-deal-sale",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25623045/247270_Apple_watch_series_10_AKrales_0076.jpg?quality=90&strip=all&crop=0%2C13.882635253054%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2025-04-19T14:00:41Z",
-        "content": "Were also seeing the first discount of note on 8BitDos latest wireless controller with drift-free TMR joysticks.\r\nWere also seeing the first discount of note on 8BitDos latest wireless controller wit\u2026 [+2987 chars]"
+        "author": "Lauren Feiner",
+        "title": "Google is in more danger than ever of being broken up - The Verge",
+        "description": "Google will begin arguments to keep its Chrome browser in a remedies trial over its monopoly in search. It will soon face a trial over its monopoly in ad tech.",
+        "url": "https://www.theverge.com/policy/652170/google-search-ad-tech-remedies-antitrust-chrome-breakup",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0000_4.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-04-19T14:00:00Z",
+        "content": "Google will fight to keep its Chrome browser in a search antitrust trial starting Monday, after losing an ad-tech suit.\r\nGoogle will fight to keep its Chrome browser in a search antitrust trial start\u2026 [+5515 chars]"
     },
     {
         "source": {
@@ -180,19 +232,6 @@
         "urlToImage": "https://cdn.mos.cms.futurecdn.net/ubY9QH5fSdZMMco9rYuiP4.jpg",
         "publishedAt": "2025-04-19T13:00:00Z",
         "content": "The longest molecules ever found on Mars\r\n have been unearthed by NASA's Curiosity rover, and they could mean the planet is strewn with evidence for ancient life.\r\nMolecule chains containing up to tw\u2026 [+5385 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Mae Anderson",
-        "title": "U.S. small manufacturers hope to benefit from tariffs, but some worry about uncertainty - AP News",
-        "description": "The Trump administration has called U.S. manufacturing an \u201ceconomic and national security\u201d priority and says tariffs will force companies to have more products made in the U.S. to avoid steep price increases on their imports, leading to \u201cbetter-paying America\u2026",
-        "url": "https://apnews.com/article/trump-tariffs-manufacturing-textiles-imports-exports-ad8bd39b3bfeb1383e9301e48a9a8dc2",
-        "urlToImage": "https://dims.apnews.com/dims4/default/4eab4a4/2147483647/strip/true/crop/7696x4329+0+401/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbe%2Fb4%2Fe51b52f0efa82d5252fa72521926%2F295e5291d48f4244bdc33dd689b2e0a3",
-        "publishedAt": "2025-04-19T12:54:00Z",
-        "content": "NASHVILLE, Tenn. (AP) Drew Greenblatt is fully on board with the Trump administrations use of tariffs to rebalance a global trading system that it says favors foreign companies over U.S. manufacturer\u2026 [+6367 chars]"
     },
     {
         "source": {
@@ -219,31 +258,5 @@
         "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/04/GettyImages-2199150203-e1745003414447.jpg?resize=1200,600",
         "publishedAt": "2025-04-19T12:00:00Z",
         "content": null
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Sharon Goldman",
-        "title": "A customer support AI went rogue\u2014and it\u2019s a warning for every company considering replacing workers with automation - Fortune",
-        "description": "A hallucinating customer support bot\u2014and a viral backlash\u2014shows how fast things can go wrong in the age of AI automation.",
-        "url": "https://fortune.com/article/customer-support-ai-cursor-went-rogue/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/04/GettyImages-748338005.jpg?resize=1200,600",
-        "publishedAt": "2025-04-19T12:00:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Denise Chow",
-        "title": "Annual Lyrid meteor shower peaks overnight Monday - NBC News",
-        "description": "It\u2019s spring skywatching at its best: The annual Lyrid meteor shower is back, offering people across the Northern Hemisphere a chance to catch shooting stars in the night sky.",
-        "url": "https://www.nbcnews.com/science/space/annual-lyrid-meteor-shower-peaks-overnight-monday-rcna201439",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-08/240809-perseids-radiant-credit-preston-dyches-ch-1458-4998be.jpg",
-        "publishedAt": "2025-04-19T12:00:00Z",
-        "content": "Its spring skywatching at its best: The annual Lyrid meteor shower is back, offering people across the Northern Hemisphere a chance to catch shooting stars in the night sky.\r\nThe meteor shower began \u2026 [+2379 chars]"
     }
 ]
