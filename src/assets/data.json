@@ -1,29 +1,42 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": "Sean Conlon",
-        "title": "S&P 500 futures rise after three-day winning streak, Alphabet beat: Live updates - CNBC",
-        "description": "The moves follow the three major averages closing solidly in the green during Thursday's session, putting them on a three-day winning streak.",
-        "url": "https://www.cnbc.com/2025/04/24/stock-market-today-live-updates.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108136098-17455036212025-04-24t134926z_586299269_rc2d4ea8bz9f_rtrmadp_0_usa-stocks.jpeg?v=1745503773&w=1920&h=1080",
-        "publishedAt": "2025-04-25T05:09:00Z",
-        "content": "S&amp;P 500 futures rose early Friday on the heels of Wall Street seeing its third straight day of gains and Alphabet's latest quarterly results.\r\nFutures linked to the S&amp;P 500 were 0.45% higher,\u2026 [+2483 chars]"
+        "author": "Aijaz Hussain, Rajesh Roy",
+        "title": "UN urges India and Pakistan to use restraint as tensions soar after Kashmir attack - AP News",
+        "description": "Indian officials said the army had a brief exchange of fire with Pakistani soldiers along their highly militarized frontier in the Himalayan region of Kashmir, as the nuclear-armed rivals ramped up tit-for-tat diplomatic offensive following a deadly attack on\u2026",
+        "url": "https://apnews.com/article/kashmir-india-pakistan-pahalgam-tourist-attack-tensions-94de38a3c24137dcc25e77dffc4cc5f2",
+        "urlToImage": "https://dims.apnews.com/dims4/default/b6a6ab6/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc3%2F78%2F55fbd2dc70d370e6f5f9eff1bfc9%2Fdbb83cc5180c43c6ad61eb92ea0b4391",
+        "publishedAt": "2025-04-25T06:21:00Z",
+        "content": "SRINAGAR, India (AP) Indian officials said the army had a brief exchange of fire with Pakistani soldiers along their highly militarized frontier in the disputed Himalayan region of Kashmir, as the nu\u2026 [+4554 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": "Lee Ying Shan",
-        "title": "Asia-Pacific markets climb as investors assess a possible thaw in U.S.-China trade war - CNBC",
-        "description": "Asia-Pacific markets rose Friday after Wall Street saw its third straight day of gains as tech stocks rallied.",
-        "url": "https://www.cnbc.com/2025/04/25/asia-pacific-markets-live-tokyo-cpi-gold-us-china.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108115939-1741929513555-gettyimages-1220737608-shibuyacrossrushhour-5.jpeg?v=1742947637&w=1920&h=1080",
-        "publishedAt": "2025-04-25T04:55:00Z",
-        "content": "Asia markets rose after Wall Street gained for a third straight day as tech stocks rallied, with investors assessing the trade climate as the U.S. tones down tariff rhetoric and\u00a0China reportedly mull\u2026 [+1626 chars]"
+        "author": "Dan Lamothe",
+        "title": "Hegseth\u2019s chief of staff exits amid Pentagon turmoil - The Washington Post",
+        "description": "Joe Kasper leaves the role voluntarily, but his departure adds to the sense of instability that has gripped the Defense Department for weeks.",
+        "url": "https://www.washingtonpost.com/national-security/2025/04/24/hegseth-joe-kasper/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I23JO3CNKQO7AVJ6ENVPE2IAY4.JPG&w=1440",
+        "publishedAt": "2025-04-25T06:17:01Z",
+        "content": "Defense Secretary Pete Hegseths chief of staff departed his post Thursday, he said, the latest twist in an extended period of turmoil at the Pentagon that has included infighting among Hegseths advis\u2026 [+4694 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Natasha Bertrand, Haley Britzky, Zachary Cohen",
+        "title": "Houthis\u2019 successful targeting of US drones is hampering Trump\u2019s mission to kill group\u2019s senior leadership - CNN",
+        "description": "In the month since the US launched a major military campaign targeting the Houthi rebel group in Yemen, the militants have successfully shot down at least seven multi-million-dollar American drones, hindering the US\u2019 ability to move into \u201cphase two\u201d of the op\u2026",
+        "url": "https://www.cnn.com/2025/04/25/politics/houthis-target-drones-hampering-trump-mission/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap25108556551193.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-04-25T04:35:00Z",
+        "content": "In the month since the US launched a major military campaign targeting the Houthi rebel group in Yemen, the militants have successfully shot down at least seven multi-million-dollar American drones, \u2026 [+6312 chars]"
     },
     {
         "source": {
@@ -53,16 +66,29 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "CBS Sports"
+            "id": "espn",
+            "name": "ESPN"
         },
-        "author": "",
-        "title": "Did Shedeur Sanders get drafted? Colorado QB shocks some by falling out of first round of NFL Draft 2025 - CBS Sports",
-        "description": "The polarizing signal-caller did not hear his name called Thursday night",
-        "url": "https://www.cbssports.com/nfl/draft/news/did-shedeur-sanders-get-drafted-colorado-qb-shocks-some-by-falling-out-of-first-round-of-nfl-draft-2025/",
-        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/04/24/549cc5fe-8056-4f86-b29e-0b98f14b6d78/thumbnail/1200x675/df8610486bf6f6815786d7cc44a3cee3/shedeur-sanders.jpg",
-        "publishedAt": "2025-04-25T03:54:00Z",
-        "content": "It happened:\u00a0Colorado's\u00a0quarterback\u00a0Shedeur Sanders\u00a0completely fell out the first round of the 2025 NFL Draft.\u00a0\r\nThrough the pre-draft process, it was tough to remember a more enigmatic, polarizing, \u2026 [+5534 chars]"
+        "author": "Ohm Youngmisuk",
+        "title": "Sources: Butler in jeopardy for G3 with contusion - ESPN",
+        "description": "Jimmy Butler underwent an MRI that revealed no structural damage, but the Golden State Warriors star is in serious jeopardy of missing Game 3 with a deep glute muscle contusion, league sources told ESPN's Shams Charania.",
+        "url": "https://www.espn.com/nba/story/_/id/44843947/warriors-butler-unlikely-game-3-contusion",
+        "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0424%2Fr1483152_1296x729_16%2D9.jpg",
+        "publishedAt": "2025-04-25T03:15:00Z",
+        "content": "Jimmy Butler underwent an MRI that revealed no structural damage, but the Golden State Warriors star is in serious jeopardy of missing Game 3 with a deep glute muscle contusion, league sources told E\u2026 [+2774 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NBCSports.com"
+        },
+        "author": "Myles Simmons",
+        "title": "Giants trade up to No. 25, select QB Jaxson Dart - NBC Sports",
+        "description": "New York acquired the 25th overall pick from Houston to select Dart, setting him up to be the club's QB of the future.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-trade-up-to-no-25-select-qb-jaxson-dart",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/cf071ab/2147483647/strip/true/crop/4199x2362+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4a%2F0d%2F90663d5f4cba8ad5db91c00ded57%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2192409359",
+        "publishedAt": "2025-04-25T03:00:35Z",
+        "content": "The Giants have traded back into the first round, acquiring the No. 25 overall pick from the Texans. \r\nNew York has selected quarterback Jaxson Dart with the pick. \r\nDart, 21, spent the last three se\u2026 [+762 chars]"
     },
     {
         "source": {
@@ -76,45 +102,6 @@
         "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RDW5LX3YGRALJTKTMOFRQROV54_size-normalized.jpg&w=1440",
         "publishedAt": "2025-04-25T02:58:52Z",
         "content": "A federal judge on Tuesday blocked the Trump administration from pulling federal funds from San Francisco, Santa Clara County, and 14 other cities and counties it deems sanctuary jurisdictions, handi\u2026 [+2433 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Deadline"
-        },
-        "author": "Dominic Patten",
-        "title": "Blake Lively & Publicist Thwacked By Justin Baldoni & PR Team Over \u201cPloy To Obtain Subpoena Power\u201d; Jonesworks Lawyer Slams \u201cEmpty Gusto\u201d Of \u2018It Ends With Us\u2019 Director - Deadline",
-        "description": "The legal war between It Ends With Us stars Blake Lively & Justin Baldoni just either went up a level or hit a new low depending on your perspective",
-        "url": "http://deadline.com/2025/04/justin-baldoni-counterclaims-blake-lively-smear-campaign-1236376756/",
-        "urlToImage": "https://deadline.com/wp-content/uploads/2025/04/lively-reynolds-time-100-2025-getty.jpg?w=1024",
-        "publishedAt": "2025-04-25T02:58:00Z",
-        "content": "Earlier this year, a federal judge called the various bitter and big bucks demanding lawsuits between Blake Lively and Justin Baldoni over what may have occurred during the making of It Ends With Usa\u2026 [+7766 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Lolita Baldor",
-        "title": "Houthi rebels have shot down 7 US Reaper drones worth $200 million in recent weeks - AP News",
-        "description": "Houthi rebels in Yemen have shot down seven U.S. Reaper drones in less than six weeks. It's a loss of aircraft worth more than $200 million in what is becoming the most dramatic cost to the Pentagon of the military campaign against the Iran-backed militants. \u2026",
-        "url": "https://apnews.com/article/houthis-us-warships-red-sea-e6e97a7131c48640ccf74b1916628234",
-        "urlToImage": "https://dims.apnews.com/dims4/default/2323266/2147483647/strip/true/crop/6549x3684+0+341/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa1%2F96%2F769b9410f96632c82ec6b517ddae%2Fefc8bea4a5ff4983a073f75514f75c86",
-        "publishedAt": "2025-04-25T02:36:00Z",
-        "content": "WASHINGTON (AP) Houthi rebels in Yemen have shot down seven U.S. Reaper drones in less than six weeks, a loss of aircraft worth more than $200 million in what is becoming the most dramatic cost to th\u2026 [+4964 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Cincy Jungle"
-        },
-        "author": "Jason Garrison",
-        "title": "6 winners and 4 losers from Bengals\u2019 first-round selection of Shemar Stewart - Cincy Jungle",
-        "description": "Here are some winners and losers from the Bengals selection of Texas A&M\u2019s Shemar Stewart.",
-        "url": "https://www.cincyjungle.com/2025/4/24/24416171/bengals-6-winners-4-losers-shemar-stewart-cincinnati-draft-picks-nfl",
-        "urlToImage": "https://cdn.vox-cdn.com/thumbor/VaOASzhiQjMfRzm_zGh3zVK4Raw=/0x585:8167x4861/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25968248/usa_today_26008007.jpg",
-        "publishedAt": "2025-04-25T02:33:21Z",
-        "content": "The Cincinnati Bengals have made it official with the announcement of their selection of Texas A&amp;Ms Shemar Stewart with the No. 17 overall pick. \r\nThe freakish athlete edge rusher will join a def\u2026 [+4137 chars]"
     },
     {
         "source": {
@@ -134,6 +121,19 @@
             "id": null,
             "name": "New York Post"
         },
+        "author": "Fox News",
+        "title": "Trump\u2019s executive order mandating proof of citizenship to vote blocked by federal judge after flurry of legal setbacks - New York Post",
+        "description": "A federal judge in Washington, D.C., on Thursday blocked a portion of President Donald Trump\u2019s executive order on election integrity.",
+        "url": "https://nypost.com/2025/04/24/us-news/trumps-executive-order-on-voting-blocked-by-federal-judge/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/04/103248221.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2025-04-25T01:32:00Z",
+        "content": "A federal judge in Washington, D.C., on Thursday blocked a portion of President Donald Trump\u2019s executive order on election integrity, specifically provisions related to providing documentary proof of\u2026 [+3102 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Post"
+        },
         "author": "Shane Galvin",
         "title": "Ex-New Mexico judge, wife arrested for allegedly harboring illegal Tren de Aragua member in their home - New York Post",
         "description": "Former Do\u00f1a Ana County Magistrate Judge Joel Cano and his wife, Nancy Cano, were taken into custody Thursday after federal agents raided their Las Cruces home.",
@@ -141,6 +141,32 @@
         "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/04/103253336.jpg?quality=75&strip=all&w=1024",
         "publishedAt": "2025-04-25T01:26:00Z",
         "content": "A recently resigned New Mexico judge and his wife were arrested in a federal raid on their family home Thursday, after it was revealed they harbored an accused member of Tren de Aragua, according to \u2026 [+2642 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Whitehouse.gov"
+        },
+        "author": null,
+        "title": "Presidential Message on the 35th Anniversary of the Hubble Space Telescope - The White House (.gov)",
+        "description": "Today, we celebrate the 35th anniversary of the Hubble Space Telescope, an awe-inspiring testament to America\u2019s longstanding ingenuity, leadership, and",
+        "url": "https://www.whitehouse.gov/briefings-statements/2025/04/presidential-message-on-the-35th-anniversary-of-the-hubble-space-telescope/",
+        "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
+        "publishedAt": "2025-04-25T01:17:42Z",
+        "content": "Today, we celebrate the 35th anniversary of the Hubble Space Telescope, an awe-inspiring testament to Americas longstanding ingenuity, leadership, and innovation.\r\nSince its launch in 1990, Hubble ha\u2026 [+1542 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Rebecca Falconer",
+        "title": "Russia's Lavrov says the Kremlin is \"ready to reach a deal\" on Ukraine - Axios",
+        "description": "His comments to CBS News come hours after Trump issued rare criticism of Russian President Vladimir Putin.",
+        "url": "https://www.axios.com/2025/04/25/russia-lavrov-ukraine-deal-trump-putin-deal",
+        "urlToImage": "https://images.axios.com/Ma6_9XnNR1P-gtIKL6Ro4U4POfA=/0x167:3758x2281/1366x768/2025/04/25/1745542224108.jpg",
+        "publishedAt": "2025-04-25T01:10:33Z",
+        "content": "Russian Foreign Minister Sergei Lavrov on Thursday concurred with President Trump's assertion that talks to end the war with Ukraine were \"moving in the right direction,\" according to an excerpt from\u2026 [+692 chars]"
     },
     {
         "source": {
@@ -170,32 +196,6 @@
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Justine McDaniel",
-        "title": "Scientists made \u2018tiny earthquakes\u2019 to find where Yellowstone\u2019s magma begins - The Washington Post",
-        "description": "For the first time, geoscientists detected the top of Yellowstone\u2019s magma reservoir. It is active and dynamic, but not in danger of erupting, they found.",
-        "url": "https://www.washingtonpost.com/nation/2025/04/24/yellowstone-magma-cap/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FGXKVZACEAI63C7LFNHEQGYVAA.jpg&w=1440",
-        "publishedAt": "2025-04-25T00:30:09Z",
-        "content": "Underneath Yellowstone National Park, magma bubbles and flows. But exactly how close it is to the surface has long been a mystery to scientists until now.\r\nFor the first time, researchers have detect\u2026 [+4470 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Rob Maaddi",
-        "title": "Cam Ward goes to the Titans, who get their QB with the No. 1 overall pick in the NFL draft - AP News",
-        "description": "Cam Ward has gone from zero-star recruit to No. 1 pick in the NFL draft. Travis Hunter is taking his versatility to Jacksonville following a blockbuster deal. After the Tennessee Titans selected Ward first overall, the Jaguars moved up from No. 5 to select th\u2026",
-        "url": "https://apnews.com/article/nfl-draft-2025-8047d03bcba02eb5eb37c96fd8e2c48a",
-        "urlToImage": "https://dims.apnews.com/dims4/default/b50530f/2147483647/strip/true/crop/7469x4201+0+390/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8c%2F36%2Fecde731c95017b2df1cc3358efab%2F9e51415e9d7c4b3dbd69f73da33a3892",
-        "publishedAt": "2025-04-25T00:20:00Z",
-        "content": "GREEN BAY, Wis. (AP) Cam Ward has gone from zero-star recruit to No. 1 pick in the NFL draft. Travis Hunter is taking his versatility to Jacksonville following a blockbuster deal.\r\nAfter the Tennesse\u2026 [+5431 chars]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -212,19 +212,6 @@
             "id": "associated-press",
             "name": "Associated Press"
         },
-        "author": "Gene Johnson",
-        "title": "Judge maintains death penalty as possible punishment for Bryan Kohberger despite autism diagnosis - AP News",
-        "description": "A judge has ruled that prosecutors can pursue the death penalty against Bryan Kohberger if he is convicted of murdering four University of Idaho students in 2022. This is despite the defendant\u2019s recent autism diagnosis. Thirty-year-old Kohberger is charged in\u2026",
-        "url": "https://apnews.com/article/idaho-students-murder-kohberger-death-penalty-6b0a6aa075dcd8da401c43fd17b43a75",
-        "urlToImage": "https://dims.apnews.com/dims4/default/65844c9/2147483647/strip/true/crop/4068x2288+0+212/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe5%2F96%2F7579849a373f24d7e904c87985e0%2F18f0a98dffd94fb38fb49221e8aee8b5",
-        "publishedAt": "2025-04-25T00:05:00Z",
-        "content": "A judge ruled Thursday that prosecutors can pursue the death penalty against Bryan Kohberger if he is convicted of murdering four University of Idaho students in 2022, despite the defendants recent a\u2026 [+3199 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
         "author": "Jennifer Peltz",
         "title": "Weinstein accuser had \u2018zero interest\u2019 in sex with him, friend testifies - AP News",
         "description": "Friends of one of Harvey Weinstein\u2019s accusers have told the jury at his retrial that the woman told them long ago that the former studio boss sexually assaulted her. One of the friends, Christine Pressman, also testified Thursday that she once suggested the a\u2026",
@@ -232,18 +219,5 @@
         "urlToImage": "https://dims.apnews.com/dims4/default/613b523/2147483647/strip/true/crop/6318x3554+0+62/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7f%2F82%2F938ca480e3c7b21c4338f8ac93ec%2F1f1fba378a2e4addacf6919d7114a144",
         "publishedAt": "2025-04-24T23:57:00Z",
         "content": "NEW YORK (AP) Friends of one of Harvey Weinsteins accusers testified Thursday that the woman told them long ago that Weinstein sexually assaulted her.\r\nAdding a new perspective to the ex-movie moguls\u2026 [+4300 chars]"
-    },
-    {
-        "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Juan Perez Jr.",
-        "title": "Federal judges temporarily block Education Department from enforcing DEI orders - Politico",
-        "description": "Federal judges on Thursday dealt three separate blows to the Education Department\u2019s plans to enforce sweeping bans on diversity, equity and inclusion efforts in the nation\u2019s K-12 schools.",
-        "url": "https://www.politico.com/news/2025/04/24/federal-judge-temporarily-blocks-education-department-from-enforcing-dei-orders-00307831",
-        "urlToImage": "https://static.politico.com/88/d1/76d030a84a64b952d7e0a6f853a8/unlimiteduse-04-23-2025-whitehouse-016.jpg",
-        "publishedAt": "2025-04-24T23:30:05Z",
-        "content": "A ruling in favor of a preliminary injunction\r\n requested by the National Education Association from Landya McCafferty, a New Hampshire federal judge appointed by former President Barack Obama, stopp\u2026 [+4478 chars]"
     }
 ]
