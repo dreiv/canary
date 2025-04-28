@@ -1,16 +1,29 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Daily Beast"
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
-        "author": "Catherine Bouris",
-        "title": "RFK Jr.\u2019s Wish Is Coming True: Everybody\u2019s Getting Measles - The Daily Beast",
-        "description": "The number of measles cases in the U.S. has risen to 884 across 29 states.",
-        "url": "https://www.thedailybeast.com/rfk-jrs-wish-is-coming-true-everybodys-getting-measles/",
-        "urlToImage": "https://www.thedailybeast.com/resizer/v2/DVAMDQZEWFDTDEUFHLYZVLHLSY.jpg?smart=true&auth=88f48deb22219519ad0b4c8d74e9206d2923470c93dd42ed00a2069b1b2ded3d&width=1200&height=630",
-        "publishedAt": "2025-04-27T07:47:00Z",
-        "content": "RFK Jr.s vision for America is rapidly becoming reality, with the number of measles cases skyrocketing across the country, bringing the number of confirmed cases to a total of 884.\r\nAccording to data\u2026 [+2506 chars]"
+        "author": null,
+        "title": "Shein Hikes US Prices as Much as 377% Ahead of Tariff Increases - Bloomberg.com",
+        "description": "Fast-fashion giant Shein Group Ltd. raised US prices of its products from dresses to kitchenware ahead of imminent tariffs on small parcels, in an early sign of the potential effect of the trade war on American consumers.",
+        "url": "https://www.bloomberg.com/news/articles/2025-04-27/shein-hikes-us-prices-as-much-as-377-ahead-of-tariff-increases",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNRq.t0B3qnY/v1/1200x899.jpg",
+        "publishedAt": "2025-04-27T09:01:23Z",
+        "content": "Supply Lines is a daily newsletter that tracks global trade. Sign up here.\r\nFast-fashion giant Shein Group Ltd. raised US prices of its products from dresses to kitchenware ahead of imminent tariffs \u2026 [+97 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Dan Balz, Scott Clement, Emily Guskin",
+        "title": "Trump approval sinks as Americans criticize his major policies, poll finds - The Washington Post",
+        "description": "President Donald Trump\u2019s 100 days poll finds a lower approval rating, growing opposition to his agenda and opposition to many of his major initiatives.",
+        "url": "https://www.washingtonpost.com/politics/2025/04/27/trump-poll-approval-rating-100-days/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5Q5ZZPSBTYHN4XLGNUC7MNZ2QA.JPG&w=1440",
+        "publishedAt": "2025-04-27T08:30:44Z",
+        "content": "As he nears the end of his first 100 days in office, President Donald Trump is facing growing opposition to his ambitious and controversial agenda, with his approval rating in decline, majority oppos\u2026 [+10283 chars]"
     },
     {
         "source": {
@@ -30,6 +43,19 @@
             "id": "associated-press",
             "name": "Associated Press"
         },
+        "author": "Jon Gambrell",
+        "title": "Iran and the US hold hours of expert talks in Oman over Tehran's rapidly advancing nuclear program - AP News",
+        "description": "A person with knowledge of the discussions told The Associated Press that the third round of talks between Iran and the United States over Tehran\u2019s rapidly advancing nuclear program have ended. The person close to U.S. mediator Steve Witkoff spoke on conditio\u2026",
+        "url": "https://apnews.com/article/iran-us-nuclear-talks-oman-f2e4ecf49c62c11a0240153d7f900d0d",
+        "urlToImage": "https://dims.apnews.com/dims4/default/a61f09e/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdf%2F65%2F301cb2baf511f99243fbbbdce856%2F19bff9aab044437d911586b47ad11611",
+        "publishedAt": "2025-04-27T05:26:00Z",
+        "content": "MUSCAT, Oman (AP) Iran and the United States held in-depth negotiations in Oman over Tehrans rapidly advancing nuclear program on Saturday, ending the discussions with a promise for more talks and pe\u2026 [+5306 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
         "author": "Rob Gillies",
         "title": "It might be Carney vs. Poilievre to lead Canada, but Trump is unofficially on the ballot - AP News",
         "description": "Donald Trump might as well be on the ballot when Canadians vote for a new government. The U.S. president\u2019s trade war and threats to make Canada the 51st state have infuriated Canadians and led to a surge in nationalism that has helped the Liberal Party flip t\u2026",
@@ -40,16 +66,16 @@
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": null,
+            "name": "Suntimes.com"
         },
-        "author": "Emmanuel Felton, Maegan Vazquez",
-        "title": "Three U.S. citizens, ages 2, 4 and 7, swiftly deported from Louisiana - The Washington Post",
-        "description": "The cases have renewed concerns that the Trump administration\u2019s expedited deportations are violating the rights of both citizens and noncitizens.",
-        "url": "https://www.washingtonpost.com/immigration/2025/04/26/us-citizen-children-deported-ice/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G6ZJAVAPSD7KDNZCWSG5D2QIHU_size-normalized.jpg&w=1440",
-        "publishedAt": "2025-04-27T05:06:11Z",
-        "content": "Three U.S. citizen children from two different families were deported with their mothers by Immigration and Customs Enforcement during the early hours of Friday morning. One of them is a 4-year-old w\u2026 [+4733 chars]"
+        "author": "Georgia Nicols",
+        "title": "Horoscope for Sunday, April 27, 2025 - Chicago Sun-Times",
+        "description": null,
+        "url": "https://chicago.suntimes.com/horoscopes/2025/04/27/horoscopes-today-sunday-april-27-2025",
+        "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+        "publishedAt": "2025-04-27T05:04:12Z",
+        "content": "Moon alert\r\nAfter 2:30 a.m. Chicago time, there are no restrictions to shopping or important decisions. The moon is in Taurus.\r\nAries (March 21-April 19)\r\nThis day has its challenges because the moon\u2026 [+3769 chars]"
     },
     {
         "source": {
@@ -63,19 +89,6 @@
         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/98a4/live/3becab10-232a-11f0-bba9-e917e8966a5e.png",
         "publishedAt": "2025-04-27T05:00:17Z",
         "content": "A \"number of people have been killed\" after a car was driven into a crowd in the Canadian city of Vancouver, local police have said.\r\nVancouver Police said \"multiple others\" were injured during an in\u2026 [+984 chars]"
-    },
-    {
-        "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "ABC News",
-        "title": "Trump has lowest 100-day approval rating in 80 years: POLL - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/Politics/trump-lowest-100-day-approval-rating-80-years/story?id\\\\u003d121165473",
-        "urlToImage": null,
-        "publishedAt": "2025-04-27T04:11:19Z",
-        "content": null
     },
     {
         "source": {
@@ -106,6 +119,19 @@
     {
         "source": {
             "id": null,
+            "name": "Theaugustapress.com"
+        },
+        "author": "Greg Rickabaugh",
+        "title": "Columbia County deputy killed, another shot during I-20 traffic stop - The Augusta Press",
+        "description": "A Columbia County deputy was killed and another injured during a traffic stop on I-20 involving suspect James Blake Montgomery.",
+        "url": "https://theaugustapress.com/columbia-county-deputy-killed-another-shot-during-i-20-traffic-stop-manhunt-underway/",
+        "urlToImage": "https://media.theaugustapress.com/uploads/2025/04/Montgomery.png",
+        "publishedAt": "2025-04-27T03:00:00Z",
+        "content": "A Columbia County deputy was killed in the line of duty and another wounded Saturday afternoon on Interstate 20 during an attempted traffic stop.\r\nSuspect James Blake Montgomery, 38, was being hunted\u2026 [+2868 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Heat.com"
         },
         "author": null,
@@ -115,19 +141,6 @@
         "urlToImage": null,
         "publishedAt": "2025-04-27T02:53:15Z",
         "content": "The Pool Report interview was conducted by Tomer Azarly (ClutchPoints) with Crew Chief Zach Zarba following todays Nuggets at Clippers game.\r\nApril 26, 2025\r\nQUESTION:\u00a0There was that altercation at t\u2026 [+1884 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Dawgs By Nature"
-        },
-        "author": "Damon Wolfe",
-        "title": "Browns Roster: Scouting the UDFA signings - Dawgs By Nature",
-        "description": "A deeper look at what the Browns are getting from their UDFA signings.",
-        "url": "https://www.dawgsbynature.com/2025/4/26/24418366/cleveland-browns-udfa-signings-nfl-draft-priority-free-agents",
-        "urlToImage": "https://cdn.vox-cdn.com/thumbor/GB-QUgZYeviytswzzQrmIa-EtxI=/0x0:6000x3141/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25972293/usa_today_25086897.jpg",
-        "publishedAt": "2025-04-27T02:38:32Z",
-        "content": "The 2025 NFL Draft is in the books, and the Cleveland Browns stole the show by making two blockbuster moves involving the marquee stars from the University of Colorado. The front office has turned it\u2026 [+2347 chars]"
     },
     {
         "source": {
@@ -183,29 +196,42 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Eonline.com"
+            "id": "the-hill",
+            "name": "The Hill"
         },
-        "author": null,
-        "title": "Princess Lilibet Is Heard Praising Mom Meghan Markle's Cooking - Yahoo",
-        "description": "Speaking in American accent,Prince Harry and Meghan Markle's daughter Princess Lilibet, 3, can be heard commenting on her mother's homemade strawberry preserves in a sweet video.",
-        "url": "https://www.eonline.com/news/1416710/princess-lilibet-is-heard-praising-mom-meghan-markles-cooking-in-adorable-video",
-        "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20250426/9747691a-5e59-4382-9f4a-0c5d08c89613_1745709453.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-        "publishedAt": "2025-04-27T00:04:00Z",
-        "content": "While the series showcases Meghan's love of hosting, cooking, gardening and decorating, she also sheds light on some of her other interests.\r\nFor instance, in one episode, she hosts a game night for \u2026 [+1208 chars]"
+        "author": "Filip Timotija",
+        "title": "Bolton calls Trump, Zelensky meeting a \u2018significant\u2019 step towards \u2018sensible conversation\u2019 - The Hill",
+        "description": "Former national security adviser John Bolton said the Saturday meeting between President Trump and Ukrainian President Volodymyr Zelensky in Rome is a \u201csignificant\u201d step towards reestablishing a better channel of communication between the heads of state. \u201cI t\u2026",
+        "url": "https://thehill.com/policy/international/5269679-bolton-calls-trump-zelensky-meeting-a-significant-step-towards-sensible-conversation/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/11/John-Bolton-White-House.png?w=1280",
+        "publishedAt": "2025-04-27T00:15:00Z",
+        "content": "Skip to content\r\nFormer national security adviser John Bolton said the Saturday meeting between President Trump and Ukrainian President Volodymyr Zelensky in Rome is a \u201csignificant\u201d step towards rees\u2026 [+2695 chars]"
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": null,
+            "name": "BBC News"
         },
-        "author": "Barak Ravid",
-        "title": "U.S. says \"further progress was made\" in third round of nuclear talks with Iran - Axios",
-        "description": "Talks on Saturday were the first time parties dived into technical details of a possible nuclear deal.",
-        "url": "https://www.axios.com/2025/04/26/us-iran-nuclear-talks-meet-next-week",
-        "urlToImage": "https://images.axios.com/TH9tak6hX5gRnD_uF0PAgmPfhpk=/0x0:6000x3375/1366x768/2025/04/26/1745678207209.jpg",
-        "publishedAt": "2025-04-26T22:05:04Z",
-        "content": "The U.S. and Iran concluded on Saturday the third round of nuclear talks and agreed to meet again on May 3, said Omani foreign minister Badr Al-Busaidi, who is mediating between the parties. \r\nWhy it\u2026 [+2095 chars]"
+        "author": null,
+        "title": "Russia claims it has regained full control of Kursk from Ukraine - BBC",
+        "description": "Ukraine denies Russian claims it has been forced out of the border region.",
+        "url": "https://www.bbc.com/news/articles/cx26166ngpdo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/977d/live/645a2660-22b5-11f0-9a6d-939f656e85b8.jpg",
+        "publishedAt": "2025-04-26T21:41:18Z",
+        "content": "Russia's army chief made the claims in a video meeting with President Vladimir Putin\r\nRussia's military says it has regained full control of the country's western Kursk region - a claim denied by Ukr\u2026 [+3891 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Emma Tucker",
+        "title": "Federal judge says 2-year-old US citizen was deported with mother to Honduras - CNN",
+        "description": "A federal judge said Friday a two-year-old US citizen was deported with her mother to Honduras. The Trump administration says her mother asked officials to take her with her, documents show.",
+        "url": "https://www.cnn.com/2025/04/25/us/toddler-deported-honduras-us-citizen-judge/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1229247391.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-04-26T20:35:00Z",
+        "content": "A federal judge said Friday a 2-year-old US citizen was deported with her mother to Honduras. The Trump administration says her mother asked officials to take her with her, documents show.\r\nUS Distri\u2026 [+4598 chars]"
     },
     {
         "source": {
@@ -219,18 +245,5 @@
         "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/04/newspress-collage-mvl0t6krx-1745696736364.jpg?quality=75&strip=all&1745682348&w=1024",
         "publishedAt": "2025-04-26T19:55:00Z",
         "content": "Tariffs are consuming so many headlines that you might have missed how Harvard, the pinnacle of the Ivy League, is struggling to come to terms with a simple, undeniable reality: Its about to get its \u2026 [+4198 chars]"
-    },
-    {
-        "source": {
-            "id": "entertainment-weekly",
-            "name": "Entertainment Weekly"
-        },
-        "author": "https://www.facebook.com/entertainmentweekly",
-        "title": "JoJo Siwa's ex says singer 'dumped' them at 'Celebrity Big Brother' U.K. wrap party - Entertainment Weekly",
-        "description": "JoJo Siwa's ex Kath Ebbs says the singer 'dumped' them at the 'Celebrity Big Brother' U.K. wrap party with Chris Hughes, Siwa's new friend from the show, in the next room: 'Which is f---ing crazy.'",
-        "url": "https://ew.com/jojo-siwa-ex-kath-ebbs-says-she-dumped-them-at-celebrity-big-brother-uk-party-11722728",
-        "urlToImage": "https://ew.com/thmb/AzQUZ2xuNJkFA1JmumMDj2OBKKg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/jojo-siwa-kath-ebbs-relationship-ended-042625-af85e930dd0c4e45bdc7c4233b2bded0.jpg",
-        "publishedAt": "2025-04-26T19:51:45Z",
-        "content": "JoJo Siwa's ex is speaking out about the singer-dancer's buzzy appearance on Celebrity Big Brother U.K and revealing that their relationship just ended.\r\nKath Ebbs, who began dating the Dance Moms al\u2026 [+4171 chars]"
     }
 ]
