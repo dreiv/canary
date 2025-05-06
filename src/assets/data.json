@@ -1,42 +1,81 @@
 [
     {
         "source": {
+            "id": "bleacher-report",
+            "name": "Bleacher Report"
+        },
+        "author": "Zach Bachar",
+        "title": "Curry, Butler, Hield Wow Fans as Warriors Eliminate Rockets from NBA Playoff Bracket - Bleacher Report",
+        "description": null,
+        "url": "https://bleacherreport.com/articles/25193058-curry-butler-hield-wow-fans-warriors-eliminate-rockets-nba-playoff-bracket",
+        "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2212922639_large_cropped.jpg?w=3800&h=2000",
+        "publishedAt": "2025-05-05T03:21:27Z",
+        "content": "The Golden State Warriors' backcourt helped lead the team to a 103-89 win over the Houston Rockets in Game 7 of their first-round playoff series on Sunday night.\r\nStephen Curry and Buddy Hield combin\u2026 [+1365 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "Kim Jong Un\u2019s Latest Gift to Russia Is Migrant Workers - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/world/asia/kim-jong-uns-latest-gift-to-russia-is-migrant-workers-916693a4",
+        "urlToImage": null,
+        "publishedAt": "2025-05-05T03:00:00Z",
+        "content": null
+    },
+    {
+        "source": {
             "id": null,
-            "name": "SciTechDaily"
+            "name": "TODAY"
         },
-        "author": null,
-        "title": "Once-in-a-Lifetime Sky Show: A \u201cNew Star\u201d Will Soon Light Up the Night - SciTechDaily",
-        "description": "May skies are brimming with action: shooting stars from Halley\u2019s Comet, brilliant planets at dawn and dusk, and a once-in-a-lifetime nova that could light up the night sky any day now. Eta Aquarids & Waiting for a Nova! The annual Eta Aquarid meteor shower pe\u2026",
-        "url": "https://scitechdaily.com/?p=473664",
-        "urlToImage": "https://scitechdaily.com/images/Looking-Up-at-Stars-Trees-Arrow.jpg",
-        "publishedAt": "2025-05-05T01:36:15Z",
-        "content": "Catch meteors, planets, and possibly a new star as May serves up dazzling views and a rare nova waiting to burst into sight.\r\nMay skies are brimming with action: shooting stars from Halley\u2019s Comet, b\u2026 [+7027 chars]"
+        "author": "Chrissy Callahan",
+        "title": "Meri Brown Found Out About Garrison's Death While Filming 'Sister WIves' - TODAY.com",
+        "description": "'Sister Wives' shows the moment Meri Brown learned Garrison had died while filming an interview",
+        "url": "https://www.today.com/popculture/tv/meri-brown-found-out-garrisons-death-filming-sister-wives-rcna204418",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2022-11/sister-wives-meri-mc-221107-copy-bfabd7.jpg",
+        "publishedAt": "2025-05-05T02:00:00Z",
+        "content": "This story discusses suicide.\u00a0If you or someone you know is in crisis, call 988 to reach the Suicide and Crisis Lifeline. You can also call the network, previously known as the National Suicide Preve\u2026 [+2743 chars]"
     },
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
+            "id": "abc-news",
+            "name": "ABC News"
         },
-        "author": "Tia Goldenberg, Ohad Zwigenberg",
-        "title": "A missile from Yemen halts flights in Israel hours before vote on intensifying Gaza war - AP News",
-        "description": "A missile launched by Iranian-backed rebels in Yemen briefly halted flights and commuter traffic at Israel\u2019s main international airport. It's the first time a missile has struck Ben-Gurion International Airport since the war in Gaza began. It struck Sunday ne\u2026",
-        "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-04-05-2025-44737a4e5eba0bdd2cfe9b008b600d0c",
-        "urlToImage": "https://dims.apnews.com/dims4/default/6006415/2147483647/strip/true/crop/5148x2896+0+268/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fff%2F22%2Fab72256e1d38edb8fc5c623d0767%2Fbdefc24a659844dc9b54fe7960b336e1",
-        "publishedAt": "2025-05-05T01:31:00Z",
-        "content": "BEN-GURION INTERNATIONAL AIRPORT, Israel (AP) A missile launched by Iranian-backed rebels in Yemen briefly halted flights and commuter traffic at Israels main international airport on Sunday after it\u2026 [+5073 chars]"
+        "author": "ABC News",
+        "title": "Ohio deputy fatally struck by man whose son had been shot by police: Authorities - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/US/ohio-deputy-fatally-struck-man-son-shot-police/story?id\\\\u003d121438975",
+        "urlToImage": null,
+        "publishedAt": "2025-05-05T01:43:27Z",
+        "content": null
     },
     {
         "source": {
-            "id": "espn",
-            "name": "ESPN"
+            "id": "axios",
+            "name": "Axios"
         },
-        "author": "ESPN staff",
-        "title": "Follow along as Warriors, Rockets face off in Game 7 - ESPN",
-        "description": "Follow along for highlights, live updates of Game 7 between the Golden State Warriors and Houston Rockets.",
-        "url": "https://www.espn.com/nba/story/_/id/44998261/golden-state-warriors-houston-rockets-game-7-2025-nba-playoffs-highlights-results",
-        "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0505%2Fr1488133_1296x729_16%2D9.jpg",
-        "publishedAt": "2025-05-05T01:05:00Z",
-        "content": "It's the two best words in sports: Game 7.\r\nEditor's Picks\r\nThe Houston Rockets host the Golden State Warriors on Sunday in Game 7 of their Western Conference first-round series. The winner faces the\u2026 [+976 chars]"
+        "author": "Rebecca Falconer",
+        "title": "Pence on Jan. 6: \"I did my duty that day to support the peaceful transfer of power\" - Axios",
+        "description": "\"Leaders in both political parties ... did their duty,\" Pence said as he accepted the  John F. Kennedy Profile in Courage Award.",
+        "url": "https://www.axios.com/2025/05/05/pence-jfk-courage-award-jan-6-trump",
+        "urlToImage": "https://images.axios.com/VVuxjxwjMymNJdkeI4sMg64dlEc=/0x120:2912x1758/1366x768/2025/05/04/1746395940081.jpg",
+        "publishedAt": "2025-05-05T01:41:40Z",
+        "content": "Former Vice President Mike Pence spoke of the importance of the U.S. Constitution in bringing people together as he received the John F. Kennedy Profile in Courage Award for his actions on Jan. 6.\r\nT\u2026 [+2986 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Post"
+        },
+        "author": "Christian Arnold",
+        "title": "Dave Portnoy decides punishment for those involved in anti-Semitic \u2018f\u2014k the Jews\u2019 sign at Barstool Sports bar - New York Post",
+        "description": "Dave Portnoy said he was trying to make this a learning experience rather than \u201cf\u2013king burn\u201d the people who ordered a disgusting anti-Semitic sign.",
+        "url": "https://nypost.com/2025/05/04/sports/dave-portnoy-decides-punishment-for-those-involved-in-anti-semitic-sign-at-barstool-sports-bar/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/newspress-collage-jiyv8siqc-1746406467187.jpg?quality=75&strip=all&1746392137&w=1024",
+        "publishedAt": "2025-05-05T01:35:00Z",
+        "content": "Dave Portnoy said he was trying to make this a learning experience rather than fking burn the people who ordered the disgusting sign that had an anti-Semitic message on it at one of Barstools bars in\u2026 [+3611 chars]"
     },
     {
         "source": {
@@ -53,16 +92,16 @@
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": null,
+            "name": "KSL.com"
         },
-        "author": "Rebecca Falconer",
-        "title": "Oil prices drop after OPEC+ agrees to ramp up production despite tepid demand - Axios",
-        "description": "President Trump's tariffs have added downward pressure on prices.",
-        "url": "https://www.axios.com/2025/05/04/oil-falls-opec-production-surge",
-        "urlToImage": "https://images.axios.com/4JUS5CHG9K-VNXY7VnPFH_KJZtg=/0x0:8256x4644/1366x768/2025/05/04/1746398772004.jpg",
-        "publishedAt": "2025-05-04T23:54:12Z",
-        "content": "Oil prices have dropped, days after OPEC+ agreed to accelerate production for a second straight month.\r\nWhy it matters: President Trump's tariffs have added downward pressure on prices and raised con\u2026 [+1045 chars]"
+        "author": "Andrea Shalal, Reuters",
+        "title": "Trump says won't remove Fed chair Powell, says good parts of economy are his doing - KSL News",
+        "description": "President Donald Trump said he will not remove Jerome Powell as Federal Reserve Board chairman before his term ends in May 2026 while describing the central banker as \"a total stiff\" and repeating calls for the Fed to lower interest rates.",
+        "url": "https://www.ksl.com/article/51306552/trump-says-wont-remove-fed-chair-powell-says-good-parts-of-economy-are-his-doing",
+        "urlToImage": "https://img.ksl.com/slc/3083/308394/30839428.jpeg?filter=kslv2/responsive_story_lg",
+        "publishedAt": "2025-05-05T00:33:32Z",
+        "content": "WASHINGTON President Donald Trump said he will not remove Jerome Powell as Federal Reserve Board chairman before his term ends in May 2026 while describing the central banker as \"a total stiff\" and r\u2026 [+3727 chars]"
     },
     {
         "source": {
@@ -118,19 +157,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "NBCSports.com"
-        },
-        "author": "Brentley Romine",
-        "title": "Scottie Scheffler caps dominant Byron Nelson win with record-tying 72-hole score - NBC Sports",
-        "description": "Scheffler fired an 8-under 63 on Sunday at TPC Craig Ranch to finish at 31-under 253, tying the low 72-hole mark on the PGA Tour.",
-        "url": "https://www.nbcsports.com/golf/news/scottie-scheffler-caps-dominant-byron-nelson-win-with-record-tying-72-hole-score",
-        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/be5b892/2147483647/strip/true/crop/8256x4644+0+177/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa7%2F72%2F4b68e96b4addbf17644c3f860896%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2213416231",
-        "publishedAt": "2025-05-04T22:21:37Z",
-        "content": "Scottie Scheffler capped a dominant victory at the CJ Cup Byron Nelson with the lowest 72-hole score in PGA Tour history.\r\nScheffler fired an 8-under 63 on Sunday at TPC Craig Ranch to finish at 31-u\u2026 [+3633 chars]"
-    },
-    {
-        "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },
@@ -158,6 +184,19 @@
     {
         "source": {
             "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Ryan Young",
+        "title": "Scottie Scheffler runs away with The CJ Cup Byron Nelson, matches PGA Tour scoring record in historic win - Yahoo Sports",
+        "description": "The top-ranked golfer in the world held a 10-shot lead briefly on Sunday while wrapping up a dominant week in Texas.",
+        "url": "https://sports.yahoo.com/golf/breaking-news/article/scottie-scheffler-runs-away-with-the-cj-cup-byron-nelson-matches-pga-tour-scoring-record-in-historic-win-221204044.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DmocD_ufE6LbFJM0NTD4vQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-05/1009c160-292c-11f0-9bff-b09843c8f900",
+        "publishedAt": "2025-05-04T22:12:04Z",
+        "content": "If there was ever a place for Scottie Scheffler to run away with a tournament and pick up his first win of the season, its at TPC Craig Ranch.\r\nThe top-ranked golfer in the world blew out the field t\u2026 [+3808 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "TMZ"
         },
         "author": "TMZ Staff",
@@ -167,57 +206,5 @@
         "urlToImage": "https://imagez.tmz.com/image/cb/16by9/2025/05/04/cb21336ac94f4a85adb9650331268561_xl.jpg",
         "publishedAt": "2025-05-04T22:07:08Z",
         "content": "Brooklyn Beckhamand Nicola Peltz's absence from David Beckham's 50th birthday is all due to family tension ... 'cause we've learned they tried to meet up and celebrate David privately -- but, they we\u2026 [+1928 chars]"
-    },
-    {
-        "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "ABC News",
-        "title": "Brazilian police arrest 2 suspects over alleged plot targeting Lady Gaga's concert in Rio - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/International/brazilian-police-arrest-2-suspects-bomb-plot-targeting/story?id\\\\u003d121448479",
-        "urlToImage": null,
-        "publishedAt": "2025-05-04T21:33:03Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Lauren Edmonds",
-        "title": "Here's What Happens If You Don't Have a Real ID After May 7 - Business Insider",
-        "description": "The Department of Homeland Security will  start enforcing Real IDs on May 7. Here's everything you need to know.",
-        "url": "https://www.businessinsider.com/real-id-everything-you-need-to-know-2025-5",
-        "urlToImage": "https://i.insider.com/681645c2c6ad288d147ff405?width=1200&format=jpeg",
-        "publishedAt": "2025-05-04T20:39:00Z",
-        "content": "Travelers in the United States could have their vacations derailed this summer if they don't secure a Real ID.\r\nThe May 7 deadline set by Homeland Security is fast approaching, meaning adults boardin\u2026 [+4555 chars]"
-    },
-    {
-        "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "ABC News",
-        "title": "Catholic community reacts to Trump's AI image of himself as the pope - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/Politics/catholic-community-reacts-trumps-ai-image-pope/story?id\\\\u003d121447607",
-        "urlToImage": null,
-        "publishedAt": "2025-05-04T20:03:45Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Barak Ravid",
-        "title": "UN and aid groups denounce Israeli-U.S. plan for Gaza aid delivery - Axios",
-        "description": "\"It contravenes fundamental humanitarian principles and appears designed to reinforce control over life-sustaining items as a pressure tactic.\"",
-        "url": "https://www.axios.com/2025/05/04/un-rejects-israel-gaza-aid-plan",
-        "urlToImage": "https://images.axios.com/dotvl7_8NvfR5pmIQzDBocNrnWU=/0x118:3000x1806/1366x768/2025/05/04/1746387666335.jpg",
-        "publishedAt": "2025-05-04T19:43:58Z",
-        "content": "The UN and all aid organizations operating in Gaza jointly announced they would not cooperate with an Israeli-U.S. plan to establish a new mechanism for aid delivery to Palestinians in the enclave be\u2026 [+3859 chars]"
     }
 ]
