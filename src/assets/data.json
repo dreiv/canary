@@ -1,55 +1,81 @@
 [
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": "WSJ",
-        "title": "Stock Market Today: Dow Futures Fall; Trump Threatens 'Straight 50% Tariff' on EU \u2014 Live Update - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-tariffs-trade-war-05-23-2025",
-        "urlToImage": null,
-        "publishedAt": "2025-05-23T12:20:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Page Six"
-        },
-        "author": "Gabi Duncan",
-        "title": "\u2018Today\u2019 show co-host Sheinelle Jones\u2019 husband dead at 45 after \u2018aggressive\u2019 cancer battle - Page Six",
-        "description": "The 47-year-old news anchor has been absent from the NBC talk show for months while dealing with the \u201cfamily health matter.\u201d",
-        "url": "https://pagesix.com/2025/05/23/celebrity-news/today-show-co-host-sheinelle-jones-husband-dead-at-45-after-cancer-battle/",
-        "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2025/05/105149667.jpg?quality=75&strip=all&w=1024",
-        "publishedAt": "2025-05-23T12:20:00Z",
-        "content": "\u201cToday\u201d show co-host Sheinelle Jones\u2019 husband, Uche Ojeh, has died following a long battle with brain cancer. He was 45.\r\nHer colleagues announced the news on air Friday morning amid Jones\u2019 extended \u2026 [+2764 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Yahoo Finance",
-        "title": "Tariffs live updates: Trump threatens Apple with 25% tariff if iPhones not made in US - Yahoo Finance",
-        "description": "Yahoo Finance is chronicling the latest news and updates on Trump's tariffs.",
-        "url": "https://finance.yahoo.com/news/live/tariffs-live-updates-trump-threatens-new-tariffs-on-apple-eu-in-latest-escalation-of-trade-war-191201009.html",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/D38r8A8Tl.cWeC3C8Rn1eg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-05/f308b2b0-3263-11f0-9f67-130702b6aa79",
-        "publishedAt": "2025-05-23T11:41:29Z",
-        "content": "President Trump on Monday took aim at another giant corporation in his ongoing trade war, threatening Apple (AAPL) with increased duties if the company does not make iPhones in the US. He also attack\u2026 [+7944 chars]"
+        "author": "Vivian Ho",
+        "title": "Container ship barely misses Norwegian man\u2019s house after running aground - The Washington Post",
+        "description": "The bow of the 11,000-ton NCL Salten remained in the man\u2019s backyard as authorities investigated the cause.",
+        "url": "https://www.washingtonpost.com/world/2025/05/23/norway-cargo-ship-aground-fjord-nclsalten/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-23-2025/t_5365a0fd3913480d9ec4be07f6641de9_name_2___1920x1080___24p_00_00_07_09_Still008.jpg&w=1440",
+        "publishedAt": "2025-05-23T13:59:52Z",
+        "content": "A man in Norway woke to find a 443-foot shipping vessel towering over his home after it ran aground into his yard.\r\nJohan Helberg had slept through the initial impact of the NCL Salten as it sailed i\u2026 [+1870 chars]"
     },
     {
         "source": {
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Ivana Kottasov\u00e1, Victoria Butenko, Svitlana Vlasova",
-        "title": "Ukraine and Russia begin large-scale prisoner exchange, source says - CNN",
-        "description": "A major prisoner exchange between Russia and Ukraine is now under way, according to a Ukrainian source familiar with the matter.",
-        "url": "https://www.cnn.com/2025/05/23/europe/ukraine-and-russia-biggest-prisoner-exchange-war-intl",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2214733850.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-05-23T11:08:00Z",
-        "content": "A major prisoner exchange between Russia and Ukraine is now under way, according to a Ukrainian source familiar with the matter.\r\nThe swap started on Friday, with Kyiv and Moscow swapping hundreds of\u2026 [+1766 chars]"
+        "author": "David Goldman, Clare Duffy",
+        "title": "Trump threatens Apple with a 25% tariff if it doesn\u2019t build iPhones in America - CNN",
+        "description": "President Donald Trump on Friday demanded Apple make its iPhones in the United States or face a 25% tariff.",
+        "url": "https://www.cnn.com/2025/05/23/economy/trump-threatens-tariff-apple",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2170408802.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-05-23T13:48:00Z",
+        "content": "President Donald Trump on Friday demanded Apple make its iPhones in the United States or face a 25% tariff.\r\nI have long ago informed Tim Cook of Apple that I expect their iPhones that will be sold i\u2026 [+6013 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Taylor Swift summons withdrawn from Justin Baldoni-Blake Lively case - BBC",
+        "description": "The pop star's team complained that the legal order was an \"unwarranted fishing expedition\".",
+        "url": "https://www.bbc.com/news/articles/cm2k0dmvvkgo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3091/live/e63708a0-37b5-11f0-9e4d-b7a43daeff47.jpg",
+        "publishedAt": "2025-05-23T13:09:29Z",
+        "content": "Taylor Swift will not be drawn into the legal battle between Blake Lively and Justin Baldoni after a court summons for the pop star was withdrawn.\r\nBaldoni and Lively co-starred in 2024 film It Ends \u2026 [+2291 chars]"
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "James Bikales, Kelsey Tamborrino",
+        "title": "Senate Republicans look to curb House rollback of IRA tax credits - Politico",
+        "description": "The House bill passed Thursday includes more aggressive cuts to the clean energy credits than earlier drafts.",
+        "url": "https://www.politico.com/news/2025/05/23/senate-republicans-house-rollback-ira-tax-credits-00366212",
+        "urlToImage": "https://static.politico.com/f3/bd/97c1012c4a26993b4a954a582279/u-s-congress-67490.jpg",
+        "publishedAt": "2025-05-23T13:05:10Z",
+        "content": "The Senate, where Republicans can only afford to lose three votes, likely represents the final chance to pare back some of the changes, which industry groups have warned could undermine billions in i\u2026 [+4038 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Deadline"
+        },
+        "author": "Ted Johnson",
+        "title": "Uche Ojeh, Husband Of \u2018Today\u2019 Co-Host Sheinelle Jones, Dies At 45 - Deadline",
+        "description": "Uche Ojeh, the husband of Today co-host Sheinelle Jones, has died, the show announced on Friday. The cause was a form of brain cancer, glioblastoma, Today host Savannah Guthrie told viewers. He was 45. \u201cThere are no words for the pain that we feel for Sheinel\u2026",
+        "url": "http://deadline.com/2025/05/uche-ojeh-dies-sheinelle-jones-husband-1236409430/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2025/05/Screenshot-2025-05-23-at-8.43.06\u202fAM.jpeg?w=1024",
+        "publishedAt": "2025-05-23T12:46:00Z",
+        "content": "Uche Ojeh, the husband of Today co-host Sheinelle Jones, has died, the show announced on Friday.\r\nThe cause was a form of brain cancer, glioblastoma, Today host Savannah Guthrie told viewers. He was \u2026 [+1516 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Kevin Breuninger",
+        "title": "Trump recommends 50% tariff on European Union starting June 1 - CNBC",
+        "description": "President Donald Trump believes European Union proposals have not matched those from other trading partners, U.S. Treasury Secretary Scott Bessent said.",
+        "url": "https://www.cnbc.com/2025/05/23/trump-recommends-50percent-tariff-on-european-union-starting-june-1.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108130692-17443731112025-04-10t210106z_520964121_rc28vdae4zm3_rtrmadp_0_usa-trump-tariffs.jpeg?v=1744373176&w=1920&h=1080",
+        "publishedAt": "2025-05-23T11:47:50Z",
+        "content": "President Donald Trump on Friday said he is \"recommending a straight 50% Tariff on the European Union\" after complaining that tradenegotiations have stalled.\r\nThe steep new import duties would start \u2026 [+4063 chars]"
     },
     {
         "source": {
@@ -66,16 +92,29 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
+            "id": null,
+            "name": "BBC News"
         },
-        "author": "Gianluca Mezzofiore, Audrey Ash, Holmes Lybrand, Sara Smart, John Miller",
-        "title": "\u2018Only sane thing to do:\u2019 Writings, interviews tied to suspect in Israeli embassy staffer killings show political activism - CNN",
-        "description": "Authorities reviewing writings tied to DC shooting suspect accused of killing Israeli Embassy staffers outside Jewish museum.",
-        "url": "https://www.cnn.com/2025/05/22/us/israel-embassy-dc-shooting-suspect-writings-invs",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-05-22t035613z-607900042-rc2rmealrth3-rtrmadp-3-washington-shooting-israel.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-05-23T09:40:00Z",
-        "content": "The suspect accused of killing two Israeli embassy staffers has a history of political activism, including denouncing corporate power, US military actions and police abuses, according to a CNN review\u2026 [+7871 chars]"
+        "author": null,
+        "title": "North Korea: Satellite photos show Kim Jong Un's damaged warship - BBC",
+        "description": "Kim Jong Un has called the shipyard accident a \"criminal act\" and vowed to find those responsible.",
+        "url": "https://www.bbc.com/news/articles/cx2qgdnxxe2o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9f5e/live/d84931e0-37b1-11f0-8519-3b5a01ebe413.png",
+        "publishedAt": "2025-05-23T10:07:49Z",
+        "content": "North Korean leader Kim Jong Un has called the accident a \"criminal act\"\r\nSatellite images have for the first time shown the extent of a shipyard accident in North Korea that damaged a new warship in\u2026 [+1665 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Sarah Perkel",
+        "title": "Microsoft CPO says she 'fundamentally' disagrees with the idea that people shouldn't study computer science - Business Insider",
+        "description": "The Microsoft CPO says it's possible software engineers will be viewed as \"software operators\" in the future, but the role is unlikely to disappear.",
+        "url": "https://www.businessinsider.com/microsoft-cpo-computer-science-degree-coding-important-skills-project-managers-2025-5",
+        "urlToImage": "https://i.insider.com/682e1b94c6ad288d1481909c?width=1024&format=jpeg",
+        "publishedAt": "2025-05-23T09:59:00Z",
+        "content": "Microsoft's CPO Aparna Chennapragada doesn't buy the idea that coding is on its way out.\r\n\"A lot of folks think about, 'Oh, don't bother studying computer science or the coding is dead,' and I just f\u2026 [+3019 chars]"
     },
     {
         "source": {
@@ -102,6 +141,19 @@
         "urlToImage": null,
         "publishedAt": "2025-05-23T09:11:15Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Delano Massey, Russell Contreras, Zachary Basu",
+        "title": "\"Like a pendulum\": How America's racial reckoning unraveled - Axios",
+        "description": "The America that marched for George Floyd five years ago is gone.",
+        "url": "https://www.axios.com/2025/05/23/george-floyd-anniversary-trump-racial-justice",
+        "urlToImage": "https://images.axios.com/rck0OP8WcH-YN-l6aH_UkXnm-vA=/0x0:1920x1080/1366x768/2025/05/22/1747947066279.jpg",
+        "publishedAt": "2025-05-23T09:01:48Z",
+        "content": "The America that marched for George Floyd five years ago is gone, buried beneath a backlash that has hardened\u00a0 for now into a new political and cultural order.\r\nWhy it matters: Floyd's murder by a Mi\u2026 [+4558 chars]"
     },
     {
         "source": {
@@ -145,6 +197,19 @@
     {
         "source": {
             "id": null,
+            "name": "Andscape.com"
+        },
+        "author": "Marc J. Spears",
+        "title": "Shai Gilgeous-Alexander gets his MVP award and a surprise from Chris Paul - Andscape",
+        "description": "OKLAHOMA CITY \u2013 Shai Gilgeous-Alexander had just received the NBA Most Valuable Player award when he noticed something suspicious. There was a man sitting court\u2026",
+        "url": "https://andscape.com/features/shai-gilgeous-alexander-gets-his-mvp-award-and-a-surprise-from-chris-paul/",
+        "urlToImage": "https://andscape.com/wp-content/uploads/2025/05/GettyImages-2215845767-e1747981605177.jpg?w=700",
+        "publishedAt": "2025-05-23T06:39:53Z",
+        "content": "OKLAHOMA CITY Shai Gilgeous-Alexander had just received the NBA Most Valuable Player award when he noticed something suspicious. There was a man sitting courtside next to his wife, Hailey, that he ha\u2026 [+7053 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "NPR"
         },
         "author": "The Associated Press",
@@ -157,41 +222,15 @@
     },
     {
         "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "ABC News",
-        "title": "3rd woman arrested for allegedly assisting New Orleans inmate escapee still at large - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/US/3rd-woman-arrested-allegedly-assisting-new-orleans-inmate/story?id\\\\u003d122100704",
-        "urlToImage": null,
-        "publishedAt": "2025-05-23T03:41:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Lesley Wroughton, Tabelo Timse",
-        "title": "In South Africa, Trump\u2019s false claims spark a renewed racial reckoning - The Washington Post",
-        "description": "Trump\u2019s false \u201cgenocide\u201d claims forced race to the forefront of national conversation in South Africa in a way rarely seen since the end of apartheid.",
-        "url": "https://www.washingtonpost.com/world/2025/05/22/south-africa-trump-white-farmers/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LDL4AZG3G5UWKYOVWWHGMDOFG4_size-normalized.jpg&w=1440",
-        "publishedAt": "2025-05-23T00:44:33Z",
-        "content": "CAPE TOWN, South Africa False claims made by U.S. President Donald Trump in the Oval Office on Wednesday that South Africas Black majority is trying to wipe out White Afrikaners have roiled this coun\u2026 [+6614 chars]"
-    },
-    {
-        "source": {
             "id": null,
-            "name": "Variety"
+            "name": "Financial Times"
         },
-        "author": "J. Kim Murphy",
-        "title": "\u2018Avengers\u2019 Delayed: Marvel Pushes \u2018Doomsday\u2019 and \u2018Secret Wars\u2019 to December 2026 and 2027 - Variety",
-        "description": "Disney has delayed the release of 'Avengers: Doomsday' from May 2026 to December 2026, and 'Secret Wars' from May 2027 to December 2027.",
-        "url": "https://variety.com/2025/film/news/avengers-delayed-doomsday-secret-wars-december-1236407485/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2024/07/GettyImages-2163362112.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2025-05-22T23:00:00Z",
-        "content": "The Avengers will need a few more months to assemble. Disney has delayed the release of Marvel Studios\u2018 upcoming team-up features \u201cAvengers: Doomsday\u201d and \u201cAvengers: Secret Wars.\u201d \r\n\u201cDoomsday\u201d is now\u2026 [+2866 chars]"
+        "author": "Harriet Clarfelt, Kate Duguid",
+        "title": "Investors shift away from US bond market on fears over Donald Trump\u2019s policies - Financial Times",
+        "description": "Worries about trade wars and a rising debt load have shaken faith in the Treasury market",
+        "url": "https://www.ft.com/content/47267a76-feb1-46a7-97af-0c1584d20b45",
+        "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fead0e6b7-8001-4758-984a-68d605139b91.jpg?source=next-barrier-page",
+        "publishedAt": "2025-05-23T04:01:55Z",
+        "content": "White House Watch newsletter\r\nSign up for your free, indispensable guide to what Trumps second term means for Washington, business and the world."
     }
 ]
