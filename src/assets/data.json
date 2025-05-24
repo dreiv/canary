@@ -1,15 +1,54 @@
 [
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": "WSJ",
-        "title": "Booz Allen Cuts 2,500 Consulting Jobs as Trump Cracks Down on Federal Spending - WSJ",
+        "author": "Mark Berman",
+        "title": "Judge strikes down Trump\u2019s executive order against Jenner & Block law firm - The Washington Post",
+        "description": "The ruling said the president was trying \u201cto chill legal representation the administration doesn\u2019t like\u201d by punishing several law firms.",
+        "url": "https://www.washingtonpost.com/politics/2025/05/23/trump-jenner-block-order-struck-down/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P4C37KWKF6UJNDZ6Y2E6GE64UU.JPG&w=1440",
+        "publishedAt": "2025-05-23T22:19:50Z",
+        "content": "A federal judge on Friday struck down President Donald Trumps executive order sanctioning the law firm Jenner &amp; Block, the second time a court has quashed one of Trumps efforts to punish a firm.\r\u2026 [+5414 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Kylie Atwood, Kit Maher, Alex Marquardt",
+        "title": "More than 100 National Security Council staffers put on administrative leave - CNN",
+        "description": "The Trump administration has put more than 100 officials at the National Security Council at the White House on administrative leave on Friday as part of a restructuring under interim national security adviser and Secretary of State Marco Rubio, according to \u2026",
+        "url": "https://www.cnn.com/2025/05/23/politics/national-security-council-administrative-leave-trump",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2203684118-20250418164902721.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-05-23T22:09:00Z",
+        "content": "The Trump administration has put more than 100 officials at the National Security Council at the White House on administrative leave on Friday as part of a restructuring under interim national securi\u2026 [+3077 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Susan Svrluga",
+        "title": "Judge temporarily blocks effort to ban Harvard from enrolling foreign students - The Washington Post",
+        "description": "On Thursday, the Department of Homeland Security had abruptly revoked the university\u2019s ability to enroll foreign students.",
+        "url": "https://www.washingtonpost.com/education/2025/05/23/harvard-lawsuit-international-students-trump-administration/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AHDVJANYU4VPD2WLU5VIK3GNDQ_size-normalized.jpg&w=1440",
+        "publishedAt": "2025-05-23T21:34:57Z",
+        "content": "A federal judge in Massachusetts on Friday blocked the Trump administration's effort to ban international students from Harvard University, an unprecedented tactic by the federal government as it tri\u2026 [+10615 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "At least 12 people injured in Hamburg train station stabbing, suspect in custody: Authorities - ABC News",
         "description": null,
-        "url": "https://www.wsj.com/business/earnings/booz-allen-hamilton-revenue-outlook-below-estimates-96a293cc",
+        "url": "https://abcnews.go.com/International/hamburg-train-station-stabbing-attack/story?id\\\\u003d122123879",
         "urlToImage": null,
-        "publishedAt": "2025-05-23T20:13:00Z",
+        "publishedAt": "2025-05-23T20:04:15Z",
         "content": null
     },
     {
@@ -53,29 +92,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "BBC News"
+            "id": "axios",
+            "name": "Axios"
         },
-        "author": "Caryn James",
-        "title": "Mountainhead review: Succession creator's nightmare vision of a world run by billionaire tech bros - BBC",
-        "description": "Succession creator Jesse Armstrong's dystopian feature film debut, premiering on HBO, imagines a world run by super-rich tycoons, and has \"timely resonance\" in this \"high-tech moment\".",
-        "url": "https://www.bbc.com/culture/article/20250521-mountainhead-review",
-        "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0lckptn.jpg",
-        "publishedAt": "2025-05-23T19:01:31Z",
-        "content": "(Credit: Fred Hayes/ HBO)\r\nSuccession showrunner Jesse Armstrong's dystopian feature film debut, premiering on HBO, has \"timely resonance\" in this \"high-tech moment\".\r\nWhat if tech bros ruled the wor\u2026 [+5692 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Leslie Josephs",
-        "title": "Boeing, Justice Department reach deal to avoid prosecution over deadly 737 Max crashes - CNBC",
-        "description": "Boeing and DOJ reached an agreement that will allow the aircraft maker to avoid prosecution for fraud over the deadly 737 Max charges.",
-        "url": "https://www.cnbc.com/2025/05/23/boeing-737-max-crashes-doj.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/106900990-16243865972021-06-22t135306z_1206340375_rc2p5o9xvre0_rtrmadp_0_boeing-737max-fund.jpeg?v=1748031297&w=1920&h=1080",
-        "publishedAt": "2025-05-23T18:35:38Z",
-        "content": "The U.S. Justice Department said Friday that it has reached a deal with Boeing that will allow the aircraft maker to avoid prosecution over two crashes of its 737 Max planes that killed 346 people.\r\n\u2026 [+5351 chars]"
+        "author": "Ben Berkowitz",
+        "title": "Trump tells Apple to build iPhones in U.S. or pay 25% tariff - Axios",
+        "description": "It's a dramatic escalation with the tech giant, which was reportedly planning to move production from China to India.",
+        "url": "https://www.axios.com/2025/05/23/trump-tariff-apple-iphone",
+        "urlToImage": "https://images.axios.com/885mbvmAxrCDNJ6qMSXvsjGXfkU=/0x0:5120x2880/1366x768/2025/05/23/1748000457449.jpg",
+        "publishedAt": "2025-05-23T19:03:05Z",
+        "content": "President Trump on Friday warned Apple that it needed to build U.S.-sold iPhones in the United States or face a 25% tariff.\r\nWhy it matters: Apple already committed to a $500 billion U.S. expansion, \u2026 [+1718 chars]"
     },
     {
         "source": {
@@ -93,15 +119,28 @@
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "Space.com"
         },
-        "author": null,
-        "title": "Billy Joel cancels tour after rare brain condition diagnosis - BBC",
-        "description": "Doctors have told the veteran US singer to stop performing as he recovers from the rare condition.",
-        "url": "https://www.bbc.com/news/articles/cx2q95d4wy1o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e493/live/ce513150-37f8-11f0-8519-3b5a01ebe413.jpg",
-        "publishedAt": "2025-05-23T17:49:24Z",
-        "content": "Billy Joel has cancelled all forthcoming tour dates after being diagnosed with a rare brain condition.\r\nThe 76-year-old singer-songwriter - known for classic hits like Piano Man, Uptown Girl and We D\u2026 [+1850 chars]"
+        "author": "Sharmila Kuthunur",
+        "title": "The moon doesn't have a magnetic field, so why does it have magnetic rocks? - Space",
+        "description": "An ancient asteroid impact may be to blame.",
+        "url": "https://www.space.com/astronomy/moon/the-moon-doesnt-have-a-magnetic-field-so-why-does-it-have-magnetic-rocks",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/UcnibwPCnxiXQ2Hj9SDkFH.jpg",
+        "publishedAt": "2025-05-23T18:00:00Z",
+        "content": "For decades, scientists have been trying to understand why some rocks on the moon are strongly magnetized even though the moon has no magnetic field today.\r\nMoon rocks brought to Earth during NASA's \u2026 [+3387 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Daily Beast"
+        },
+        "author": "Emell Derra Adolphus",
+        "title": "Authorities Called After Britney Spears Lights Cig on Flight - The Daily Beast",
+        "description": "The pop star tried to keep the party going on a plane as she made her way back from vacation in Cabo San Lucas, Mexico.",
+        "url": "https://www.thedailybeast.com/obsessed/authorities-called-after-britney-spears-lights-cig-on-flight/",
+        "urlToImage": "https://www.thedailybeast.com/resizer/v2/KKCMVORLLNA2NJ4EXMBB2A4I4Q.jpg?smart=true&auth=fdf6fdf76b0c79c4cb61ec777d15090c919dafd3b48b2cc03e4eba60f1ee0f60&width=1200&height=630",
+        "publishedAt": "2025-05-23T17:47:00Z",
+        "content": "Authorities waited on the ground for pop star Britney Spears after she lit up a cigarette and started smoking on a private flight to Los Angeles.\r\nSpears was coming back from vacation in Cabo San Luc\u2026 [+1749 chars]"
     },
     {
         "source": {
@@ -115,32 +154,6 @@
         "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
         "publishedAt": "2025-05-23T17:43:33Z",
         "content": "OpenAI is updating the AI model powering\u00a0Operator, its AI agent that can autonomously browse the web and use certain software within a cloud-hosted virtual machine to fulfill users\u2019 requests.\r\nSoon, \u2026 [+1818 chars]"
-    },
-    {
-        "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Elena Schneider",
-        "title": "Dems roll out ads hitting Republicans on Medicaid - Politico",
-        "description": "Democratic groups are preparing to start running ads next week attacking House Republicans for their vote to cut Medicaid spending.",
-        "url": "https://www.politico.com/news/2025/05/23/democrats-ads-medicaid-spending-00367272",
-        "urlToImage": "https://static.politico.com/33/ab/80e552fd4b6d92eccad2a651edee/u-s-congress-32350.jpg",
-        "publishedAt": "2025-05-23T17:30:00Z",
-        "content": "The core argument in the midterms and the TLDR on this budget is its the largest cut to Medicaid in history, said Jesse Ferguson, a Democratic strategist. As people find that out, they know its not a\u2026 [+3129 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Hamburg stabbing: Several injured in knife attack at railway station - BBC",
-        "description": "A 39-year-old woman has been arrested and a major operation is under way, German police say.",
-        "url": "https://www.bbc.com/news/articles/cm26v7n5y4eo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e23e/live/a550d960-3800-11f0-8947-7d6241f9fce9.jpg",
-        "publishedAt": "2025-05-23T17:29:27Z",
-        "content": "Several people have suffered life-threatening injuries in a knife attack at the main railway station in the German city of Hamburg, police have said.\r\nThe city's fire department said 12 people were i\u2026 [+1884 chars]"
     },
     {
         "source": {
@@ -170,32 +183,6 @@
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Vivian Ho",
-        "title": "Container ship barely misses Norwegian man\u2019s house after running aground - The Washington Post",
-        "description": "The bow of the 11,000-ton NCL Salten remained in the man\u2019s backyard as authorities investigated the cause.",
-        "url": "https://www.washingtonpost.com/world/2025/05/23/norway-cargo-ship-aground-fjord-nclsalten/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-23-2025/t_5365a0fd3913480d9ec4be07f6641de9_name_2___1920x1080___24p_00_00_07_09_Still008.jpg&w=1440",
-        "publishedAt": "2025-05-23T16:59:52Z",
-        "content": "A man in Norway woke to find a 443-foot shipping vessel towering over his home after it ran aground into his yard.\r\nJohan Helberg had slept through the initial impact of the NCL Salten as it sailed i\u2026 [+2524 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "MLB Trade Rumors"
-        },
-        "author": "Steve Adams",
-        "title": "Braves DFA Orlando Arcia, Activate Ronald Acuna From IL - MLB Trade Rumors",
-        "description": "The Braves designated shortstop Orlando Arcia for assignment and activated Ronald Acuna Jr. from the injured list. Read more at MLB Trade Rumors.",
-        "url": "https://www.mlbtraderumors.com/2025/05/braves-dfa-orlando-arcia-activate-ronald-acuna-jr.html",
-        "urlToImage": "https://cdn.mlbtraderumors.com/files/2025/05/orlando-arcia-braves-1024x683.jpg",
-        "publishedAt": "2025-05-23T16:27:23Z",
-        "content": "The Braves announced Friday that they\u2019ve designated infielder Orlando Arcia for assignment. His active roster spot will go to returning All-Star Ronald Acu\u00f1a Jr., whose previously reported reinstatem\u2026 [+2443 chars]"
-    },
-    {
-        "source": {
             "id": "abc-news",
             "name": "ABC News"
         },
@@ -209,28 +196,41 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Defector.com"
+            "id": "entertainment-weekly",
+            "name": "Entertainment Weekly"
         },
-        "author": null,
-        "title": "Colossal Biosciences Can\u2019t Have It Both Ways - Defector",
-        "description": "On April 7, the New Yorker and Time ran nearly identical stories that might be better described as press releases for the de-extinction company Colossal Biosciences. The two stories differed slightly: the New Yorker\u2018s headline proclaimed \u201cThe Dire Wolf Is Bac\u2026",
-        "url": "https://defector.com/colossal-biosciences-cant-have-it-both-ways",
-        "urlToImage": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/05/2501_DW_3Month_NonExclusive-e1748009708745.jpeg",
-        "publishedAt": "2025-05-23T15:57:00Z",
-        "content": "On April 7, the New Yorker and Time ran nearly identical stories that might be better described as press releases for the de-extinction company Colossal Biosciences. The two stories differed slightly\u2026 [+5480 chars]"
+        "author": "https://www.facebook.com/entertainmentweekly",
+        "title": "'Today' pays tribute to cohost Sheinelle Jones' husband after he dies of cancer - Entertainment Weekly",
+        "description": "'Today' is paying tribute to show cohost Sheinelle Jones' husband, Uche Ojeh, after announcing that he has died from an aggressive form of brain cancer: 'You are our family.'",
+        "url": "https://ew.com/today-show-sheinelle-jones-husband-tribute-after-he-dies-of-cancer-11740855",
+        "urlToImage": "https://ew.com/thmb/kTu12ysZnblbfTBhZVCk7BH0JEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Uche-Ojeh-Sheinelle-Jones-052325-tout-7fad1d2fe3d4425babdf21b22e0298f3.jpg",
+        "publishedAt": "2025-05-23T15:12:16Z",
+        "content": "The Today crew is paying tribute to cohost Sheinelle Jones' husband, Uche Ojeh, after announcing that he has died from an aggressive form of brain cancer. Ojeh was 45.\r\nDuring\u00a0the NBC morning show's \u2026 [+3625 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Gematsu"
+            "name": "BBC News"
         },
-        "author": "Sal Romano",
-        "title": "FANTASY LIFE i: The Girl Who Steals Time free DLC \u2018Update the World!\u2019 announced - Gematsu",
-        "description": "Publisher LEVEL-5 and developer LEVEL-5 Osaka Office have announced plans to release a free downloadable content for FANTASY LIFE i: The Girl Who Steals Time, which includes new recipes and expande\u2026",
-        "url": "https://www.gematsu.com/2025/05/fantasy-life-i-the-girl-who-steals-time-free-dlc-update-the-world-announced",
-        "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/05/Fantasy-Life-i-Free-DLC_05-23-25.jpg",
-        "publishedAt": "2025-05-23T15:49:24Z",
-        "content": "Publisher LEVEL-5 and developer LEVEL-5 Osaka Office have announced plans to release a free downloadable content for FANTASY LIFE i: The Girl Who Steals Time, which includes new recipes and expanded \u2026 [+898 chars]"
+        "author": null,
+        "title": "Senzo Mchunu: South Africa crime statistics debunk 'white genocide' claims - BBC",
+        "description": "Of the six most recent victims of farm killings, five were black and one white, the latest figures show.",
+        "url": "https://www.bbc.com/news/articles/cgr5xe7z0y0o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7feb/live/26b7c740-37d7-11f0-8947-7d6241f9fce9.jpg",
+        "publishedAt": "2025-05-23T15:00:43Z",
+        "content": "Wedaeli Chibelushi &amp; Nomsa MasekoBBC News, London &amp; Johannesburg\r\nSouth Africa's latest crime statistics debunk claims that a genocide is being committed against white people, the country's p\u2026 [+3389 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "",
+        "title": "Ukraine and Russia begin the largest prisoner-of-war exchange since the invasion - NPR",
+        "description": "Ukraine and Russia have begun the exchange of 1,000 prisoners of war, the largest such swap since the beginning of Russia's full-scale invasion of Ukraine in February 2022.",
+        "url": "https://www.npr.org/2025/05/23/nx-s1-5408714/ukraine-russia-prisoners-exchange",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1280x720+0+67/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F19%2Fd8%2Fb9c9769345e7a887dfb75d479fe4%2Fgettyimages-2215927259.jpg",
+        "publishedAt": "2025-05-23T14:50:58Z",
+        "content": "A CITY IN NORTHERN UKRAINE Ukraine and Russia began the exchange of 1,000 prisoners of war Friday, the largest such swap since the beginning of Russia's full-scale invasion of Ukraine in February 202\u2026 [+3108 chars]"
     }
 ]
