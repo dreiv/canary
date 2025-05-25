@@ -2,10 +2,36 @@
     {
         "source": {
             "id": null,
+            "name": "Heat.com"
+        },
+        "author": "John Schuhmann",
+        "title": "Knicks-Pacers: 5 takeaways as Pascal Siakam powers Indiana to 2-0 lead in East Finals - NBA",
+        "description": "Pascal Siakam catches fire, Indiana dominates the transition game and New York drops to 3-5 at home this postseason.",
+        "url": "https://www.nba.com/news/knicks-pacers-takeaways-game-2-2025-nba-playoffs",
+        "urlToImage": "https://cdn.nba.com/manage/2025/05/siakam-emotion.jpg",
+        "publishedAt": "2025-05-24T06:34:15Z",
+        "content": "Pascal Siakam scores a playoff career-high 39 points on 15- for 23 shooting in the Pacers' 6th consecutive playoff road victory.\r\nNEW YORK\u00a0\u00a0The normal games are just as important as the crazy ones, a\u2026 [+8247 chars]"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "TOI Lifestyle Desk",
+        "title": "\u200bNew COVID variant NB.1.8.1 behind surge in cases recently: Symptoms associated with it\u200b - Times of India",
+        "description": "As of May 2025, a new COVID-19 variant, NB.1.8.1, is making headlines globally. Emerging as a subvariant of the Omicron lineage JN.1, NB.1.8.1 has been linked to recent surges in cases across Asia and has now been detected in the United States. While health a\u2026",
+        "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/new-covid-variant-nb-1-8-1-behind-surge-in-cases-recently-symptoms-associated-with-it/photostory/121373694.cms",
+        "urlToImage": "https://static.toiimg.com/photo/121373730.cms",
+        "publishedAt": "2025-05-24T04:49:14Z",
+        "content": "The symptoms of NB.1.8.1 are largely consistent with those of previous Omicron variants. Commonly reported symptoms include:\r\nSore throat\r\nFatigue\r\nMild cough\r\nFever\r\nMuscle aches\r\nCongestion\r\nReport\u2026 [+777 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "BBC News"
         },
         "author": null,
-        "title": "Hamburg stabbing: Eighteen injured in knife attack as woman arrested - BBC",
+        "title": "Eighteen injured in Hamburg knife attack as woman arrested - BBC",
         "description": "A 39-year-old woman is understood to have acted alone with no \"political motive\", German police say.",
         "url": "https://www.bbc.com/news/articles/cm26v7n5y4eo",
         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e23e/live/a550d960-3800-11f0-8947-7d6241f9fce9.jpg",
@@ -24,32 +50,6 @@
         "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/05/24/ed0df3c0-aa75-410f-8bfb-16b9e8c35c2e/thumbnail/1200x675/4022f7508932c2231f400b122fa878ab/052325-tomthibodeau.jpg",
         "publishedAt": "2025-05-24T04:36:00Z",
         "content": "No lineup in basketball has played more than the starting five for the New York Knicks. The group of Jalen Brunson, Josh Hart, Mikal Bridges, OG Anunoby and Karl-Anthony Towns played 940 minutes duri\u2026 [+7568 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "KCRA Sacramento"
-        },
-        "author": "Lindsay Weber",
-        "title": "Inn Fire: Mono County fire closes highway, evacuations ordered - KCRA",
-        "description": "A fire spanning hundreds of acres in Mono County is forcing evacuations and shutting down a major central Sierra highway.",
-        "url": "https://www.kcra.com/article/inn-fire-mono-county-closes-highway-395-may-23/64869461",
-        "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/499523942-1140363294799055-5969403515625129958-n-68313825f1148.jpg?crop=1.00xw:0.753xh;0,0.219xh&resize=1200:*",
-        "publishedAt": "2025-05-24T03:54:00Z",
-        "content": "MONO CITY, Calif. \u2014A fire spanning hundreds of acres in Mono County is forcing evacuations and shutting down a major central Sierra highway. \r\nThe Inn Fire sparked on Thursday afternoon on the west s\u2026 [+1527 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Sports Illustrated"
-        },
-        "author": "Mike McDaniel",
-        "title": "Stephen A. Smith Incensed After Knicks Fall Down 2-0 in Eastern Conference Finals - Sports Illustrated",
-        "description": "The ESPN media personality was incredibly frustrated after seeing his favorite team lose both homes games to start the Eastern Conference finals.",
-        "url": "https://www.si.com/nba/stephen-a-smith-incensed-after-knicks-fall-down-2-0-in-eastern-conference-finals",
-        "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3283,h_1846,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01jw03xs4zx93z87wkn6.jpg",
-        "publishedAt": "2025-05-24T03:15:53Z",
-        "content": "ESPN media personality Stephen A. Smith posted a video on social media immediately following the New York Knicks second straight loss at Madison Square Garden on Friday night to open up the Eastern C\u2026 [+999 chars]"
     },
     {
         "source": {
@@ -131,19 +131,6 @@
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Vivian Ho",
-        "title": "Container ship barely misses Norwegian man\u2019s house after running aground - The Washington Post",
-        "description": "The bow of the 11,000-ton NCL Salten remained in the man\u2019s backyard as authorities investigated the cause.",
-        "url": "https://www.washingtonpost.com/world/2025/05/23/norway-cargo-ship-aground-fjord-nclsalten/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LNYQR42GNKWV3GEVFKBHG3Z7D4_size-normalized.jpg&w=1440",
-        "publishedAt": "2025-05-24T00:29:52Z",
-        "content": "A man in Norway woke to find a 443-foot shipping vessel towering over his home after it ran aground into his yard.\r\nJohan Helberg had slept through the initial impact of the NCL Salten as it sailed i\u2026 [+2524 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "TMZ"
         },
@@ -160,39 +147,26 @@
             "id": null,
             "name": "Hollywood Reporter"
         },
-        "author": "Kevin Dolak",
-        "title": "This Week in Sean \u201cDiddy\u201d Combs\u2019 Trial: Freezer Meat, DNA Evidence and Kompromat - The Hollywood Reporter",
-        "description": "A wide range of testimony was heard in the sex-trafficking and racketeering case as prosecutors and the rap mogul's defense team spoke with rapper Kid Cudi, \"The Punisher\" and Roberta Ventura.",
-        "url": "http://www.hollywoodreporter.com/news/general-news/diddy-trial-highlights-may-19-22-kid-cudi-dna-punisher-1236229116/",
-        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/05/GettyImages-22164856511.jpg?w=1296&h=730&crop=1",
-        "publishedAt": "2025-05-24T00:14:12Z",
-        "content": "Sean \u201cDiddy\u201d Combs\u2019 federal sex-trafficking and racketeering trial finished its second week of testimony on Thursday, with the jury hearing a wide range of evidence as prosecutors try to prove that, \u2026 [+9012 chars]"
+        "author": "Pamela McClintock",
+        "title": "\u2018Lilo & Stitch\u2019 Targeting $170M-$180M Box Office Bow, \u2018Mission: Impossible\u2019 Eyes Series-Best $78M - The Hollywood Reporter",
+        "description": "The two films are now guaranteed to fuel the biggest Memorial Day weekend in history, while 'Lilo & Stitch' will supplant Tom Cruise's 'Top Gun: Maverick' as the holiday's top opener of all time (he is, of course, also the star of the new 'M:I' movie).",
+        "url": "http://www.hollywoodreporter.com/movies/movie-news/lilo-stitch-mission-impossible-reckoning-record-box-office-1236228391/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/05/NEW-NEW-Lilo-and-Stitch-Live-and-Mission-Impossible-The-Final-Reckoning-Split-Publicity-H-2025.jpg?w=1296&h=730&crop=1",
+        "publishedAt": "2025-05-23T23:46:16Z",
+        "content": "The Memorial Day box office is already delivering in a major way and the long holiday weekend has barely begun.\r\nDisney\u2019s live-action redo\u00a0Lilo &amp; Stitch\u00a0and Tom Cruise\u2018s final Mission: Impossible\u2026 [+4034 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Variety"
+            "id": "nbc-news",
+            "name": "NBC News"
         },
-        "author": "Angelique Jackson",
-        "title": "Margaret Qualley and Aubrey Plaza Get Raunchy in Ethan Coen\u2019s Detective Movie \u2018Honey Don\u2019t!,\u2019 Earning Rowdy 6-Minute Cannes Ovation - Variety",
-        "description": "Margaret Qualley is a lesbian detective in Ethan Coen's \"Honey, Dont,\" which debuted at the Cannes Film Festival with a six-minute standing ovation.",
-        "url": "https://variety.com/2025/film/news/maragaret-qualley-cannes-honey-dont-premiere-lesbians-1236392096/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2025/05/GettyImages-2216754880.jpg?crop=0px%2C41px%2C5296px%2C2979px&resize=1000%2C563",
-        "publishedAt": "2025-05-24T00:11:00Z",
-        "content": "Ethan Coen\u2019s raunchy, gory detective movie \u201cHoney Don\u2019t!,\u201d starring Margaret Qualley, Aubrey Plaza and Chris Evans, premiered to a rowdy Cannes crowd at midnight on Friday. The film earned a six-minu\u2026 [+2334 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Spaceflight Now"
-        },
-        "author": null,
-        "title": "SpaceX completes 450th Falcon booster landing during Friday Starlink mission - Spaceflight Now",
-        "description": null,
-        "url": "https://spaceflightnow.com/2025/05/23/live-coverage-spacex-to-launch-west-coast-falcon-9-with-starlink-satellites/",
-        "urlToImage": null,
-        "publishedAt": "2025-05-24T00:03:21Z",
-        "content": "SpaceX Falcon 9 booster 1075 touches down on the droneship, \u2018Of Course I Still Love you,\u2019 during the Starlink 11-16 mission. This marked the 450th landing of a Falcon booster to date. Image: SpaceX v\u2026 [+1110 chars]"
+        "author": "Ryan J. Reilly",
+        "title": "Trump executive order targeting Jenner law firm unconstitutional, judge rules - NBC News",
+        "description": "WASHINGTON \u2014 President Donald Trump\u2019s executive order against the Jenner & Block law firm is unlawful because it violates the First Amendment, a judge ruled late Friday.",
+        "url": "https://www.nbcnews.com/politics/justice-department/trump-executive-order-targeting-jenner-law-firm-unconstitutional-judge-rcna205230",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250510-donald-trump-oval-wm-305p-63a19f.jpg",
+        "publishedAt": "2025-05-23T23:42:21Z",
+        "content": "WASHINGTON President Donald Trumps executive order against the Jenner &amp; Block law firm is unlawful because it violates the First Amendment, a judge\u00a0ruled\u00a0late Friday.\u00a0\r\nU.S. District Judge John B\u2026 [+2144 chars]"
     },
     {
         "source": {
@@ -222,16 +196,29 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "BBC News"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": null,
-        "title": "Can Trump's pricey 'Golden Dome' missile defence system be done? - BBC",
-        "description": "Experts believe that it will take decades and hundreds of billions of dollars to build the 'Golden Dome'.",
-        "url": "https://www.bbc.com/news/articles/cyvmj6mem70o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/369c/live/5f1f8550-37cd-11f0-8d2d-9ff0cdfc8abf.jpg",
-        "publishedAt": "2025-05-23T23:22:07Z",
-        "content": "Bernd Debusmann Jr\r\nTrump said the Golden Dome will be completed by the end of his term. \r\nWarheads raining down from beyond the Earth's atmosphere. Faster-than-sound cruise missiles striking US infr\u2026 [+7602 chars]"
+        "author": "Michelle Boorstein, Emily Wax-Thibodeaux, Molly Hennessy-Fiske, Rachel Hatzipanagos",
+        "title": "For U.S. Jews, D.C. museum killings deepen resolve \u2014 and fear - The Washington Post",
+        "description": "The killings of two Israeli Embassy staffers amplify the confusion felt since the Oct. 7, 2023, attacks about where Jews belong.",
+        "url": "https://www.washingtonpost.com/nation/2025/05/23/dc-shooting-isreal-anti-semitism/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UJUOIG2RNZCYPWK2Q6RMN74AOA.jpg&w=1440",
+        "publishedAt": "2025-05-23T22:38:47Z",
+        "content": "For Rabbi Ruth Balinsky Friedman, who teaches Jewish text at a D.C.-area high school, the killings of two Israeli Embassy workers this week have deepened the isolation shes felt as an American Jew in\u2026 [+6926 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Live Science"
+        },
+        "author": "Peter Ray Allison",
+        "title": "Scientists create 'super laser' amplifier that could make the internet 10 times faster - Live Science",
+        "description": "Scientists have designed an amplifier that can transmit 10 times more information per second than current fiber-optic systems can, which could be helpful for medical treatment and diagnosis.",
+        "url": "https://www.livescience.com/technology/engineering/groundbreaking-amplifier-could-lead-to-super-lasers-that-make-the-internet-10-times-faster",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/93yqbKm6yk9VLpJHUvSpA8.jpg",
+        "publishedAt": "2025-05-23T22:38:00Z",
+        "content": "Scientists have developed a new type of laser\r\n amplifier that can transmit information 10 times faster than current technology.\r\nLaser amplifiers boost the intensity of light beams. This particular \u2026 [+3969 chars]"
     },
     {
         "source": {
