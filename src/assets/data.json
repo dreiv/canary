@@ -27,6 +27,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Ryan Young",
+        "title": "Wright State stuns No. 1 Vanderbilt with historic upset in baseball regionals - Yahoo Sports",
+        "description": "The Commodores are now the first No. 1 seed to fail to reach its regional final since 1999.",
+        "url": "https://sports.yahoo.com/mlb/article/wright-state-stuns-no-1-vanderbilt-with-historic-upset-in-baseball-regionals-040543929.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WCWDoqEocn18xhXgipYNzw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/57cfcdf0-3f52-11f0-849f-98d2851bc66d",
+        "publishedAt": "2025-06-02T04:06:00Z",
+        "content": "Wright State pulled off a historic upset Sunday afternoon in Nashville.\r\nWright State stunned top-seeded Vanderbilt in its own regional in a 5-4 win on Sunday afternoon. That sent the No. 1 seed in t\u2026 [+1318 chars]"
+    },
+    {
+        "source": {
             "id": "politico",
             "name": "Politico"
         },
@@ -53,29 +66,29 @@
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": null,
+            "name": "Variety"
         },
-        "author": "Miriam Berger, Abbie Cheeseman, Louisa Loveluck, Hazem Balousha",
-        "title": "More than 30 killed by gunfire near U.S. aid site in Gaza - The Washington Post",
-        "description": "More than 170 were wounded as they headed to an aid point, the Gaza Health Ministry said. Israel\u2019s military said it was \u201cunaware of injuries caused by IDF fire.\u201d",
-        "url": "https://www.washingtonpost.com/world/2025/06/01/israel-gaza-aid-rafah-shooting/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JY6YHHY47E6ZJMHHHFJWJR7Y5E.jpg&w=1440",
-        "publishedAt": "2025-06-02T03:00:00Z",
-        "content": "JAFFA, Israel Scores of Palestinians were killed and wounded trying to reach a food distribution site in southern Gaza on Sunday, according to residents, medics and the local health ministry.\r\nAt lea\u2026 [+9048 chars]"
+        "author": "Cynthia Littleton",
+        "title": "Investigative Reporters Sound the Alarm at Peabody Awards - Variety",
+        "description": "Investigative reporters sound the alarm on Trump-era upheaval and Lorne Michaels speaks from the heart as the Peabody Awards are handed out.",
+        "url": "https://variety.com/2025/tv/news/peabody-awards-investigative-trump-lorne-michaels-1236415384/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2025/06/AR4_2466-e1748841666557.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2025-06-02T02:50:00Z",
+        "content": "Peabody Award winners sounded the alarm on the threats to democratic norms, criminal justice reform and forward progress in diversity and inclusion goals as the 85th annual kudos were handed out Sund\u2026 [+6613 chars]"
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
+            "id": null,
+            "name": "POLITICO.eu"
         },
-        "author": "Ivana Kottasov\u00e1",
-        "title": "Russia and Ukraine may meet again for peace talks. But neither side gives reason for optimism - CNN",
-        "description": "Since last sitting down with Ukraine to talk peace, Russia has launched four of its five largest drone attacks against the country, killed more than 340 of its civilians and continued to peddle its false narrative about the unprovoked war it has been waging f\u2026",
-        "url": "https://www.cnn.com/2025/06/01/europe/russia-ukraine-peace-talks-trump-latam-intl",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-05-24t032632z-123839087-rc20oeaj3bj2-rtrmadp-3-ukraine-crisis-attack-kyiv-20250530144509506.JPG?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-06-02T02:28:00Z",
-        "content": "Since last sitting down with Ukraine to talk peace, Russia has launched four of its five largest drone attacks against the country, killed more than 340 of its civilians and continued to peddle its f\u2026 [+6736 chars]"
+        "author": "Esther Webber",
+        "title": "UK has fingers in its ears over Trump\u2019s defense threat - politico.eu",
+        "description": "Britain\u2019s political leaders are refusing to engage with suggestions that the country\u2019s security calculation might be changing.",
+        "url": "https://www.politico.eu/article/uk-trumps-defense-threat-strategic-defense-ukraine-russia-war-nato-starmer-europe/",
+        "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/05/30/12856599-scaled.jpg",
+        "publishedAt": "2025-06-02T02:27:27Z",
+        "content": "Starmers government acknowledged this from the outset, stating that the review should take a NATO first approach.\u00a0\r\nYet the sands have shifted again since the SDR was launched last summer, with the r\u2026 [+1269 chars]"
     },
     {
         "source": {
@@ -157,19 +170,6 @@
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Jason Ma",
-        "title": "Dow futures dip as Wall Street weighs likelihood of Trump's latest tariff threat, while U.S. eyes call to resolve China trade snag - Fortune",
-        "description": "The \"TACO\" trade will be tested as markets wait to see if Trump will actually follow through with his 50% steel duty or if he will put it on hold soon.",
-        "url": "https://fortune.com/2025/06/01/dow-futures-dip-as-wall-street-weighs-likelihood-of-trumps-latest-tariff-threat-while-u-s-eyes-call-to-resolve-china-trade-snag/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/06/GettyImages-2217313226-e1748813503572.jpg?resize=1200,600",
-        "publishedAt": "2025-06-02T00:26:00Z",
-        "content": null
-    },
-    {
-        "source": {
             "id": "abc-news",
             "name": "ABC News"
         },
@@ -183,16 +183,29 @@
     },
     {
         "source": {
-            "id": "bleacher-report",
-            "name": "Bleacher Report"
+            "id": null,
+            "name": "BBC News"
         },
-        "author": "Taylyn Hadley",
-        "title": "Vanderbilt Baseball Eliminated by Wright State, 1st No. 1 Seed to Miss Regional Final - Bleacher Report",
-        "description": "Wright State stunned top-seeded Vanderbilt with a 5\u20134 victory Sunday in the Nashville Regional, eliminating the Vanderbilt Commodores from the NCAA tournament.",
-        "url": "https://bleacherreport.com/articles/25201128-vanderbilt-baseball-eliminated-wright-state-1st-no-1-seed-miss-regional-final",
-        "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2217551826_large_image.jpg?w=3800&h=2000",
-        "publishedAt": "2025-06-01T23:49:56Z",
-        "content": "Wright State stunned top-seeded Vanderbilt with a 54 victory Sunday in the Nashville Regional, eliminating the Vanderbilt Commodores from the NCAA tournament.\r\nWith the loss, Vanderbilt becomes the f\u2026 [+1162 chars]"
+        "author": null,
+        "title": "Red Cross says at least 21 killed and dozens shot in Gaza aid incident - BBC",
+        "description": "Reports say an incident occurred in Rafah in the early hours of Sunday as people were queueing for aid.",
+        "url": "https://www.bbc.com/news/articles/c991j01lym3o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c91a/live/9f1b45d0-3edb-11f0-a5a9-d3df92c0769e.jpg",
+        "publishedAt": "2025-06-02T00:19:11Z",
+        "content": "Sebastian UsherMiddle East regional editor\r\nRushdi Abualouf\r\nA \"mass casualty influx\" of people, many with gunshot or shrapnel wounds, was received at a Red Cross field hospital in southern Gaza, the\u2026 [+6521 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Earth.com"
+        },
+        "author": null,
+        "title": "Scientists identify two global ocean bands heating at record rates - Earth.com",
+        "description": "A study reveals that two ocean bands are heating up at an unprecedented rate, disrupting climate patterns and marine ecosystems.",
+        "url": "https://www.earth.com/news/scientists-identify-two-global-ocean-bands-heating-at-record-rates/",
+        "urlToImage": "https://cff2.earth.com/uploads/2025/05/30042025/scientists-identify-two-global-ocean-bands-heating-record-rate.jpg",
+        "publishedAt": "2025-06-01T23:59:22Z",
+        "content": "Oceans are absorbing more heat than ever before. Researchers indicate that these waters have gained warmth at an unprecedented rate, and that shift affects weather patterns and marine life.\r\nScientis\u2026 [+4887 chars]"
     },
     {
         "source": {
