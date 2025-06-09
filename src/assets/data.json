@@ -1,6 +1,45 @@
 [
     {
         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Tom Warren",
+        "title": "Xbox console games are suddenly showing up inside the Xbox PC app - The Verge",
+        "description": "Microsoft has started showing Xbox console games inside the Xbox PC app. It\u2019s part of Microsoft\u2019s ongoing work to bring Xbox and Windows closer together.",
+        "url": "https://www.theverge.com/news/682235/xbox-pc-games-console-library-xbox-360",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/xboxpcapp.jpg?quality=90&strip=all&crop=0%2C8.1151832460733%2C100%2C83.769633507853&w=1200",
+        "publishedAt": "2025-06-08T09:08:58Z",
+        "content": "Were starting to see some early signs of Microsoft bringing Xbox and Windows closer together.\r\nWere starting to see some early signs of Microsoft bringing Xbox and Windows closer together.\r\nSomething\u2026 [+2279 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "Ukraine drone barrage targets Moscow as Zelenskyy demands accountability for Putin - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/International/ukraine-drone-barrage-targets-moscow-zelenskyy-demands-accountability/story?id\\\\u003d122623892",
+        "urlToImage": null,
+        "publishedAt": "2025-06-08T08:50:39Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Miguel Uribe Turbay: Colombia presidential candidate shot in head - BBC",
+        "description": "The opposition senator was hit three times during rally in Bogota and is in a critical condition in hospital.",
+        "url": "https://www.bbc.com/news/articles/c9dq8yxxy8zo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4b9d/live/aa4305d0-4410-11f0-97fc-8175165e17d2.jpg",
+        "publishedAt": "2025-06-08T08:15:42Z",
+        "content": "Frances Mao &amp; Ian Aikman\r\nA Colombian presidential candidate is in a critical condition after he was shot three times - reportedly twice in the head - at a campaign event in the capital, Bogot\u00e1.\r\u2026 [+2728 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "The Official Website of the Ultimate Fighting Championship"
         },
@@ -28,6 +67,19 @@
     {
         "source": {
             "id": null,
+            "name": "The Texas Tribune"
+        },
+        "author": "By Andrea Drusch, San Antonio Report",
+        "title": "Air Force veteran Gina Ortiz Jones wins runoff race for San Antonio mayor - The Texas Tribune",
+        "description": "Jones, who served in the Biden administration, defeated Rolando Pablos, a former Texas secretary of state, in a high-profile, bitterly partisan contest.",
+        "url": "https://www.texastribune.org/2025/06/07/san-antonio-mayor-gina-ortiz-jones/",
+        "urlToImage": "https://thumbnails.texastribune.org/p5ypmIftaaUnRL19g-WrL5IezkE=/1200x630/filters:quality(95):focal(0x0:3984x2380)/static.texastribune.org/media/files/420c8389490708b3951e6b4ffd0869a5/Jones%20Watch%20Party%20SA%20Report.jpg",
+        "publishedAt": "2025-06-08T05:29:46Z",
+        "content": "Audio recording is automated for accessibility. Humans wrote and edited the story. See our AI policy, and give us feedback.\r\nSign up for The Brief, The Texas Tribunes daily newsletter that keeps read\u2026 [+9553 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "BBC News"
         },
         "author": null,
@@ -37,19 +89,6 @@
         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7ce2/live/2b299000-413d-11f0-bace-e1270fc31f5e.png",
         "publishedAt": "2025-06-08T04:31:59Z",
         "content": "Even wars have rules. They don't stop soldiers killing each other but they're intended to make sure that civilians caught up in the fighting are treated humanely and protected from as much danger as \u2026 [+29211 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Financial Times"
-        },
-        "author": "Michael Acton",
-        "title": "Apple\u2019s struggles to update Siri lead to investor concerns over AI strategy - Financial Times",
-        "description": "iPhone-maker hit by technological challenges that have led to delays to the full rollout of its \u2018Apple Intelligence\u2019 features",
-        "url": "https://www.ft.com/content/785aeb00-6784-4d64-a706-0cb44288e6be",
-        "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1fd38e60-2de3-476f-918f-666481d1f552.jpg?source=next-barrier-page",
-        "publishedAt": "2025-06-08T04:00:01Z",
-        "content": "Complete digital access to quality analysis and expert insights, complemented with our award-winning Weekend Print edition.\r\n<ul><li></li>Everything in Print<li></li>Weekday Print Edition<li></li>FT \u2026 [+202 chars]"
     },
     {
         "source": {
@@ -63,45 +102,6 @@
         "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250409-Kilmar-Abrego-Garcia-mn-0755-d8ceeb.jpg",
         "publishedAt": "2025-06-08T03:51:00Z",
         "content": "The sudden return of Kilmar Abrego Garcia to the United States on Friday to face federal charges of smuggling migrants across the country was a messaging triumph for the Trump administration. \r\nThe n\u2026 [+7621 chars]"
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": "The New York Times",
-        "title": "Gina Ortiz Jones, a Progressive, Is Elected San Antonio\u2019s Mayor - The New York Times",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQjZRU3U4WjAyd1NGQjFMa3pzNjZkYnpPcXZ2blUtTHYxTTd1S002VDZxSjFLU1pGT1RfcmNOSGxLakJDRGRxSEh2cXVET2MtVmhlU3Y0NmhkVTI3cThmNkZEOW50ZUk3ZTRENG9XcFJkQm5DMmYyamxOSmN3SHQ2cFBDbTF4MExadldLTXln?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2025-06-08T03:14:16Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": null,
-        "title": "Cloudy skies can\u2019t dim joy as thousands fill nation\u2019s capital for World Pride parade - AP News",
-        "description": "Gray skies and drizzle gave way to sunshine, multicolored flags and celebrations as the nation\u2019s capital hosted the World Pride parade. Tens of thousands of people participated Saturday in parades and other festivities, in defiance of what activists say is an\u2026",
-        "url": "https://apnews.com/article/world-pride-parade-trump-lgbtq-trans-e6f26563b3d48eea0720262c8f990270",
-        "urlToImage": "https://dims.apnews.com/dims4/default/16e5d71/2147483647/strip/true/crop/3708x2086+0+282/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F53%2F11%2Fccf310c1d311ef27c10e18db42f2%2F82c0035116ca47078f2e9502af425bf8",
-        "publishedAt": "2025-06-08T02:43:00Z",
-        "content": "WASHINGTON (AP) Gray skies and drizzle gave way to sunshine, multicolored flags and celebrations as the nations capital held the World Pride parade Saturday. \r\nMembers of Batal\u00e1 Washington D.C. perfo\u2026 [+5684 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Ava Wallace",
-        "title": "Coco Gauff tops Aryna Sabalenka to give the French Open an American champion - The Washington Post",
-        "description": "With the win, Gauff became the first American champion in Paris, woman or man, since Serena Williams in 2015.",
-        "url": "https://www.washingtonpost.com/sports/2025/06/07/coco-gauff-french-open-womens-final-winner/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CSDUKDEDABWHLWMBQRTVUZKJSI.jpg&w=1440",
-        "publishedAt": "2025-06-08T02:42:13Z",
-        "content": "Tennis fans have grown accustomed to American champions who dictate. Serena Williams revolutionized womens tennis with her powerful game and unmatched serve that gave her the immediate upper hand in \u2026 [+4272 chars]"
     },
     {
         "source": {
@@ -119,6 +119,19 @@
     {
         "source": {
             "id": null,
+            "name": "Wrestleview.com"
+        },
+        "author": "Mike Tedesco",
+        "title": "WWE Money in the Bank Results \u2013 6/7/25 (Men\u2019s and Women\u2019s MITB Ladder Matches, Cena and Paul vs. Rhodes and Uso) - Wrestleview.com",
+        "description": "WWE Money in the Bank ResultsJune 7, 2025Inglewood, California (Intuit Dome)Commentary: Michael Cole, Wade Barrett, and Pat McAfeeResults\u2026",
+        "url": "https://www.wrestleview.com/wwe-money-in-the-bank/352919-live-wwe-money-in-the-bank-results-june-7-2025-inglewood/",
+        "urlToImage": "https://www.wrestleview.com/wp-content/uploads/2025/06/20250526_MITB_Match_MensTag_16x9_tonight-32bb2e1a9a837dd5335903ed83831ff8.jpg",
+        "publishedAt": "2025-06-08T02:15:00Z",
+        "content": "WWE Money in the Bank ResultsJune 7, 2025Inglewood, California (Intuit Dome)Commentary: Michael Cole, Wade Barrett, and Pat McAfeeResults by: Mike Tedesco of Wrestleview.com\r\nPre-Show Arrivals\r\nWorld\u2026 [+34197 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "BBC News"
         },
         "author": null,
@@ -128,6 +141,19 @@
         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10e8/live/379c8130-439f-11f0-bace-e1270fc31f5e.jpg",
         "publishedAt": "2025-06-08T00:37:55Z",
         "content": "Sarah Rainsford\r\nSonny Olumati was born in Italy - but still has no citizenship at 39\r\nSonny Olumati was born in Rome and has lived in Italy all his life but the country he calls home does not recogn\u2026 [+6750 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "WTOP"
+        },
+        "author": "WTOP Staff",
+        "title": "Man shot, 2 others stabbed in Dupont Circle - WTOP",
+        "description": "A man was shot and two others were reportingly stabbed after an incident in the area of Dupont Circle in Northwest D.C. Saturday night.",
+        "url": "https://wtop.com/dc/2025/06/man-shot-2-others-stabbed-in-dupont-circle/",
+        "urlToImage": "https://wtop.com/wp-content/uploads/2022/10/012918_dc_police-1-e1587783223169-1.jpg",
+        "publishedAt": "2025-06-08T00:35:29Z",
+        "content": "A man was shot and two others stabbed after an incident in Northwest D.C. Saturday night.\r\nJust after 7 p.m., there was a fight between a group of teens at Dupont Circle Park, police said. Two of tho\u2026 [+941 chars]"
     },
     {
         "source": {
@@ -147,13 +173,26 @@
             "id": null,
             "name": "Heat.com"
         },
-        "author": null,
+        "author": "Shaun Powell",
         "title": "A closer look at the striking metamorphosis of Tyrese Haliburton - NBA",
-        "description": null,
-        "url": "https://www.nba.com/news/a-closer-look-at-the-striking-metamorphosis-of-tyrese-haliburton",
-        "urlToImage": "https://cdn.nba.com/logos/nba/fallback/NBA.Com-National-Basketball-Association.png",
-        "publishedAt": "2025-06-08T00:10:57Z",
-        "content": "The page you are looking for is not available.\r\nGo to thehomepage or search."
+        "description": "Indiana's dynamic point guard is carving out an entirely new reputation with his impressive play during these playoffs.",
+        "url": "https://www.nba.com/news/haliburton-metamorphosis",
+        "urlToImage": "https://cdn.nba.com/manage/2025/06/haliburton-iso-060725.jpg",
+        "publishedAt": "2025-06-08T00:15:33Z",
+        "content": "Get an All-Access pass as Tyrese Haliburton comes up huge again and Indiana takes a 1-0 series lead in the 2025 NBA Finals.\r\nOKLAHOMA CITY \u00a0The last time he played for a world title, Tyrese Haliburto\u2026 [+9263 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Mercury News"
+        },
+        "author": "Jon Wilner",
+        "title": "House vs. NCAA settlement: Gonzaga, Big East and billable hours the biggest winners (fans, bloat, Olympic sports among the losers) - The Mercury News",
+        "description": "Schools that don\u2019t need to feed the football beast can plow their cash into acquiring the best basketball rosters possible.",
+        "url": "https://www.mercurynews.com/2025/06/07/house-vs-ncaa-settlement-gonzaga-big-east-and-billable-hours-the-biggest-winners-fans-bloat-olympic-sports-among-the-losers/",
+        "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2022/03/BNG-L-NCAA-0325-09.jpg?w=1024&h=683",
+        "publishedAt": "2025-06-07T23:39:52Z",
+        "content": "There was no immediate reaction from Gonzaga following court approval of the landmark House vs. NCAA lawsuit settlement on Friday evening.\r\nNo statement on the Bulldogs\u2019 website. Nothing from athleti\u2026 [+7034 chars]"
     },
     {
         "source": {
@@ -197,28 +236,15 @@
     {
         "source": {
             "id": null,
-            "name": "New York Post"
+            "name": "Local3news.com"
         },
-        "author": "Thomas Gamba-Ellis",
-        "title": "Steelers quickly settle any Aaron Rodgers jersey number mystery after signing - New York Post",
-        "description": "Aaron Rodgers has already found his jersey number with the Steelers.",
-        "url": "https://nypost.com/2025/06/07/sports/steelers-settle-aaron-rodgers-jersey-number-after-signing/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/06/newspress-collage-tqwpp536o-1749336255939.jpg?quality=75&strip=all&1749321868&w=1024",
-        "publishedAt": "2025-06-07T22:54:00Z",
-        "content": "Aaron Rodgers has already found his jersey number with the Steelers.\r\nRodgers, 41, is set to wear No. 8 next season with Pittsburgh, the team shared in a social media post.\r\nThe number previously bel\u2026 [+2146 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Amy B Wang",
-        "title": "Trump threatens \u2018very serious consequences\u2019 if Musk backs Democrats - The Washington Post",
-        "description": "Trump warns his former ally against backing any Democratic candidates to challenge the Republicans, as a messy feud between the two escalates.",
-        "url": "https://www.washingtonpost.com/politics/2025/06/07/trump-musk-feud-democrats/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q2OOQEDCYD6LVV6DHZA53LWFNM_size-normalized.JPG&w=1440",
-        "publishedAt": "2025-06-07T22:21:50Z",
-        "content": "President Donald Trump on Saturday threatened very serious consequences against Elon Musk if the tech billionaire and former adviser were to fund any Democratic candidates, the latest escalation in r\u2026 [+3483 chars]"
+        "author": "Emma Karnes",
+        "title": "Multiple wires and trees down across the TN Valley following evening destructive severe weather - Local 3 News",
+        "description": "Email storm damage photos to weather@local3news.com and be sure to download Local 3's Weather App to stay updated.",
+        "url": "https://www.local3news.com/local-news/multiple-wires-and-trees-down-across-the-tn-valley-following-evening-destructive-severe-weather/article_dd69db0e-d87c-41d2-985e-d23bb6222a4a.html",
+        "urlToImage": "https://bloximages.newyork1.vip.townnews.com/local3news.com/content/tncms/assets/v3/editorial/d/d6/dd69db0e-d87c-41d2-985e-d23bb6222a4a/6844cb305ceb1.preview.png?crop=673%2C353%2C1%2C249",
+        "publishedAt": "2025-06-07T22:59:00Z",
+        "content": null
     },
     {
         "source": {
