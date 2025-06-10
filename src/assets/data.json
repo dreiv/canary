@@ -2,6 +2,32 @@
     {
         "source": {
             "id": null,
+            "name": "CNBC"
+        },
+        "author": "Anniek Bao",
+        "title": "China exports growth misses expectations despite tariff truce; imports plunge amid weak consumption - CNBC",
+        "description": "U.S. and China struck a preliminary deal in Geneva, Switzerland, last month that led both sides to drop a majority of tariffs.",
+        "url": "https://www.cnbc.com/2025/06/09/china-may-trade-data-exports-imports-after-tariff-ceasefire-.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108154340-1749031454645-gettyimages-2215899445-cfoto-chinesev250522_npUxt.jpeg?v=1749031479&w=1920&h=1080",
+        "publishedAt": "2025-06-09T03:12:00Z",
+        "content": "China's exports growth missed expectations in May, dragged down by a sharp decline in shipments to the U.S.,\u00a0with analysts saying effects of a Beijing-Washington trade truce will be visible in June d\u2026 [+3264 chars]"
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Politico",
+        "title": "What to know about Trump\u2019s travel ban taking effect Monday - Politico",
+        "description": null,
+        "url": "https://www.politico.com/news/2025/06/08/what-to-know-about-trumps-travel-ban-taking-effect-monday-00394123",
+        "urlToImage": null,
+        "publishedAt": "2025-06-09T01:33:34Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
             "name": "BBC News"
         },
         "author": null,
@@ -54,28 +80,15 @@
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "SpaceNews"
         },
-        "author": null,
-        "title": "The huge sums energy firms get to NOT provide power - BBC",
-        "description": "Could the government's radical plan to change the way the UK distributes electricity really bring down bills - or just lead to a postcode lottery?",
-        "url": "https://www.bbc.com/news/articles/cdedjnw8e85o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0b8f/live/37479ac0-42ec-11f0-b6e6-4ddb91039da1.png",
-        "publishedAt": "2025-06-08T23:01:26Z",
-        "content": "It is 1am on 3 June. A near gale force wind is blasting into Scotland. Great weather for the Moray East and West offshore wind farms, you would have thought.\r\nThe two farms are 13 miles off the north\u2026 [+11325 chars]"
-    },
-    {
-        "source": {
-            "id": "espn",
-            "name": "ESPN"
-        },
-        "author": "ESPN staff",
-        "title": "Shai Gilgeous-Alexander's John Lennon shirt headlines NBA Finals Game 2 fits - ESPN",
-        "description": "The Indiana Pacers and Oklahoma City Thunder showed off the drip before Game 2 of the 2025 NBA Finals.",
-        "url": "https://www.espn.com/nba/story/_/id/45475528/2025-nba-finals-game-2-pacers-thunder-fashion-arrivals-tunnel-looks",
-        "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0608%2Fr1504194_1296x729_16%2D9.jpg",
-        "publishedAt": "2025-06-08T22:37:00Z",
-        "content": "Game 2 of the 2025 NBA Finals brought Sunday's best as players from the Indiana Pacers and Oklahoma City Thunder arrived pregame.\r\nEditor's Picks\r\nIndiana took Game 1 behind a shocking Tyrese Halibur\u2026 [+1093 chars]"
+        "author": "Jeff Foust",
+        "title": "Starliner future plans still in limbo - SpaceNews",
+        "description": "A year after the launch of a flawed crewed test flight of Boeing\u2019s CST-100 Starliner, NASA has yet to determine the next mission for the spacecraft.",
+        "url": "http://spacenews.com/starliner-future-plans-still-in-limbo/",
+        "urlToImage": "https://spacenews.com/wp-content/uploads/2025/02/53988402529_bec93e5a26_k.jpg",
+        "publishedAt": "2025-06-08T22:16:00Z",
+        "content": "WASHINGTON A year after the launch of a flawed crewed test flight of Boeings CST-100 Starliner, NASA has yet to determine the next mission for the spacecraft with mixed signals about the vehicles fut\u2026 [+4417 chars]"
     },
     {
         "source": {
@@ -105,19 +118,6 @@
     },
     {
         "source": {
-            "id": "the-hill",
-            "name": "The Hill"
-        },
-        "author": "Sarah Fortinsky",
-        "title": "ABC News suspends Terry Moran over post calling Trump a \u2018world-class hater\u2019 - The Hill",
-        "description": "ABC News on Sunday suspended senior national correspondent Terry Moran after he sharply criticized President Trump and his top aide, Stephen Miller, in a social media post earlier that day. In the since-deleted post on the social platform X \u2014 screenshots of w\u2026",
-        "url": "https://thehill.com/homenews/media/5339459-abc-news-suspends-terry-moran-over-post-calling-trump-a-world-class-hater/",
-        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/06/GettyImages-1230717673.jpg?w=1280",
-        "publishedAt": "2025-06-08T21:41:00Z",
-        "content": "Skip to content\r\nABC News on Sunday suspended senior national correspondent Terry Moran after he sharply criticized President Trump and his top aide, Stephen Miller, in a social media post earlier th\u2026 [+1905 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Page Six"
         },
@@ -144,6 +144,19 @@
     },
     {
         "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Kyle Orland",
+        "title": "Microsoft dives into the handheld gaming PC wars with the Asus ROG Xbox Ally - Ars Technica",
+        "description": "Bespoke handheld interface hides the desktop while offering access to \u201call Windows games.\u201d\u2026",
+        "url": "https://arstechnica.com/gaming/2025/06/microsoft-dives-into-the-handheld-gaming-pc-wars-with-the-asus-rog-xbox-ally/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/BOOTUP_KV-1152x648-1749415872.jpg",
+        "publishedAt": "2025-06-08T20:52:48Z",
+        "content": null
+    },
+    {
+        "source": {
             "id": null,
             "name": "AL.com"
         },
@@ -154,6 +167,32 @@
         "urlToImage": "https://www.al.com/resizer/v2/HAACPIGYRBFEXI2JXF6JCXHLUE.jpg?auth=e11105332959ce80fb84cbdf6a1ad8a95fe78c9ee9411558db3c68454820c9e0&width=1280&quality=90",
         "publishedAt": "2025-06-08T20:31:00Z",
         "content": "According to information released by ADPH, the investigation is taking place in Lee County, involving one person who was not yet eligible for vaccine. The CDC recommends that children get their first\u2026 [+2474 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "The Associated Press",
+        "title": "A runaway pet zebra has been captured in Tennessee - NBC News",
+        "description": "MURFREESBORO, Tenn. \u2014 A runaway pet zebra that was on the loose for more than a week in Tennessee and became an internet sensation in the process was captured Sunday, authorities said",
+        "url": "https://www.nbcnews.com/news/us-news/runaway-pet-zebra-captured-tennessee-rcna211725",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250608-zebra-escape-capture-vl-351p-eb2aba.jpg",
+        "publishedAt": "2025-06-08T19:56:32Z",
+        "content": "MURFREESBORO, Tenn. A runaway pet zebra that was on the loose for more than a week in Tennessee and became an internet sensation in the process was captured Sunday, authorities said.\r\nEd the Zebra wa\u2026 [+1348 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Page Six"
+        },
+        "author": "Vanessa Serna",
+        "title": "Billie Eilish and Nat Wolff passionately kiss in Italy after fueling romance rumors - Page Six",
+        "description": "The \u201cBirds of a Feather\u201d singer and the \u201cPaper Towns\u201d actor were photographed packing on the PDA on a balcony in Venice.",
+        "url": "https://pagesix.com/2025/06/08/celebrity-news/billie-eilish-and-nat-wolff-passionately-kiss-in-italy/",
+        "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2025/06/billie-nat.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2025-06-08T19:43:00Z",
+        "content": "New couple alert.\r\nBillie Eilish was spotted packing on the PDA with Nat Wolff during a romantic getaway to Venice, Italy.\r\nThe Ocean Eyes singer and the Paper Towns star were seen passionately kissi\u2026 [+2253 chars]"
     },
     {
         "source": {
@@ -196,15 +235,15 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Eurogamer.net"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Victoria Phillips Kennedy",
-        "title": "Call of Duty: Black Ops 7 announced, promises to be \"most mind-bending\" Black Ops ever - Eurogamer",
-        "description": "As is tradition, the Call of Duty series is returning once again for its annual dollop of guns and ammunition, and today Activision has announced Black Ops 7.",
-        "url": "https://www.eurogamer.net/call-of-duty-black-ops-7-announced-promises-to-be-most-mind-bending-black-ops-ever",
-        "urlToImage": "https://assetsio.gnwcdn.com/Call-of-Duty-Black-Ops-7-trailer-screenshot-showing-Milo-Ventimiglia-looking-at-a-red-butterfly-as-glass-cracks-around-it.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "publishedAt": "2025-06-08T18:15:01Z",
-        "content": "As is tradition, the Call of Duty series is returning once again for its annual dollop of guns and ammunition, and today Activision has announced Black Ops 7.\r\nThe next series entry is being helmed b\u2026 [+1817 chars]"
+        "author": null,
+        "title": "Powerful 6.3 magnitude earthquake shakes central Colombia - CBS News",
+        "description": "The shallow quake struck at 8:08 a.m. at a depth of 6.2 miles about 10.5 miles from Paratebueno, a city about 116 miles southeast of Bogota.",
+        "url": "https://www.cbsnews.com/news/earthquake-central-colombia-paratebueno/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/06/08/6b40c8aa-6ab3-45b5-a2f2-50373ffecf0b/thumbnail/1200x630/188cb129cc86a6f3b311d2def032e91a/gettyimages-2218585708.jpg?v=8e774d26301ae5e7a27489083c0cf8b6",
+        "publishedAt": "2025-06-08T18:06:54Z",
+        "content": "A powerful 6.3 magnitude earthquake struck central Colombia early Sunday, sending residents, the U.S. Geological Survey said. No casualties were immediately reported.\r\nThe shallow quake struck at 8:0\u2026 [+1241 chars]"
     }
 ]
