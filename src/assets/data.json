@@ -1,6 +1,45 @@
 [
     {
         "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Jordain Carney, Meredith Lee Hill",
+        "title": "An old Capitol Hill troublemaker is trying to clinch a megabill deal - Politico",
+        "description": "Mark Meadows has re-emerged as a behind-the-scenes sounding board for Republican hard-liners.",
+        "url": "https://www.politico.com/news/2025/06/14/mark-meadows-gop-megabill-00405984",
+        "urlToImage": "https://static.politico.com/c1/54/f4219f7c4cae84f12d677e7bd158/supreme-court-georgia-meadows-35599.jpg",
+        "publishedAt": "2025-06-14T14:00:00Z",
+        "content": "His most recent headlines have concerned his role in the stop the steal efforts that followed the 2020 election and his interactions with Trump during the Jan. 6 Capitol riots. Reports of an immunity\u2026 [+5808 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Variety"
+        },
+        "author": "Michaela Zee",
+        "title": "Harvey Weinstein Accuser Kaja Sokola: \u2018The Devastating Part Was Not the Trial Itself \u2014 It Was the Betrayal of My Sister\u2019 - Variety",
+        "description": "Kaja Sokola, who testified against Harvey Weinstein in his New York retrial, discusses his acquittal on her charge and her sister's betrayal in court.",
+        "url": "https://variety.com/2025/film/news/harvey-weinstein-accuser-kaja-sokola-sister-betrayal-1236429955/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2025/06/GettyImages-2213399004.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2025-06-14T14:00:00Z",
+        "content": "Kaja Sokola spent five intense days testifying in Harvey Weinstein\u2018s New York retrial. Her testimony covered two alleged instances of sexual assault: one in 2002, when she was 16, and another at a Tr\u2026 [+8842 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Ashley Strickland",
+        "title": "14,000-year-old mummified \u2018puppies\u2019 weren\u2019t dogs at all, new research shows - CNN",
+        "description": "Mummified remains of two 14,000-year-old puppies, with their fur and stomach contents intact, may be wolf cubs, according to new research.",
+        "url": "https://www.cnn.com/2025/06/14/science/ice-age-wolf-pups",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/img-9902-20250613175944055.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-06-14T13:45:00Z",
+        "content": "Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nTwo well-preserved ice age puppies found in Northern S\u2026 [+8273 chars]"
+    },
+    {
+        "source": {
             "id": "abc-news",
             "name": "ABC News"
         },
@@ -14,27 +53,40 @@
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": "politico",
+            "name": "Politico"
         },
-        "author": "Frances Vinall, Victoria Bisset, Vivian Ho, Heidi Levine, Joy Sung, Lior Soroka, Alon Rom, Victoria Craw, Kareem Fahim, Adam Taylor, Mohamad El Chamaa, Susannah George, Michael Birnbaum, Matt Viser, Dan Lamothe, Alex Horton, Mikhail Klimentov, Gerry Shih, Jintak Han",
-        "title": "Live updates: Iran and Israel continue airstrikes; Iran casts doubt on nuclear talks with U.S. - The Washington Post",
-        "description": "The Iranian and Israeli strikes mark the most sustained, direct attacks ever between the two rivals. Three people were killed in Israel and at least 78 in Iran, officials said.",
-        "url": "https://www.washingtonpost.com/world/2025/06/14/israel-iran-attacks-live-tehran-tel-aviv/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KFAGYR7G3U2AUJ7LPDDQUR6MLY_size-normalized.JPG&w=1440",
-        "publishedAt": "2025-06-14T13:25:13Z",
-        "content": "Middle East conflict \r\nIsraels military launched a large-scale bombing campaign on the Gaza Strip on March 18, breaking the fragile ceasefire with Hamas that had been in place since late January. Fol\u2026 [+1502 chars]"
+        "author": "Zach Montellaro",
+        "title": "Israel warns \u2018Tehran will burn\u2019 as Iran fires drones and missiles in response to Israeli strikes - Politico",
+        "description": "Iran's top diplomat said Saturday that nuclear talks with the United States were now \"unjustifiable.\"",
+        "url": "https://www.politico.com/news/2025/06/14/israel-iran-strikes-counterattack-00406122",
+        "urlToImage": "https://static.politico.com/21/ad/827019c346f0be316db42afbd663/aptopix-israel-iran-mideast-wars-80244.jpg",
+        "publishedAt": "2025-06-14T13:18:23Z",
+        "content": "Iran has fired waves of missiles back in return Friday and early Saturday, some of which were not intercepted and struck in Israel. And Israel has since launched new waves of attacks, with the Israel\u2026 [+2523 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "InStyle"
+        },
+        "author": "https://www.facebook.com/InStyle",
+        "title": "Prince Louis and Prince George\u2019s Antics Steal the Spotlight at Trooping the Colour - instyle.com",
+        "description": "Prince George, Princess Charlotte, and Prince Louis joined their parents Prince William and Kate Middleton at Trooping the Colour 2025 on June 14, alongside the rest of the royal family.",
+        "url": "https://www.instyle.com/prince-george-princess-charlotte-prince-louis-trooping-the-colour-2025-11750517",
+        "urlToImage": "https://www.instyle.com/thmb/rPiPocu7qCgWGb1BHuPHgP_QO30=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/LouisGeorgeSocial-90d0d3e5b95d47ee8c4b9c200d446183.jpg",
+        "publishedAt": "2025-06-14T12:54:24Z",
+        "content": "Prince George, Princess Charlotte, and Prince Louis made another Trooping the Colour appearance at this years festivitiesand the Wales trio is as entertaining as ever.\r\nAfter riding in the carriage p\u2026 [+5055 chars]"
     },
     {
         "source": {
             "id": "the-times-of-india",
             "name": "The Times of India"
         },
-        "author": null,
+        "author": "TOI Sports Desk",
         "title": "Watch: Keshav Maharaj in tears; South Africa beat Australia to end 27-year ICC trophy drought - Times of India",
-        "description": null,
+        "description": "Cricket News: South Africa clinched their first ICC trophy in 27 years, defeating Australia in a thrilling World Test Championship Final at Lord's. Aiden Markram's",
         "url": "https://timesofindia.indiatimes.com/sports/cricket/news/watch-keshav-maharaj-in-tears-south-africa-beat-australia-to-end-27-year-icc-trophy-drought/articleshow/121849083.cms",
-        "urlToImage": null,
+        "urlToImage": "https://static.toiimg.com/thumb/msid-121849372,width-1070,height-580,imgsize-40910,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
         "publishedAt": "2025-06-14T12:46:00Z",
         "content": null
     },
@@ -66,6 +118,19 @@
     },
     {
         "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Stephen Neukam",
+        "title": "Scoop: Every Senate Dem demands Trump withdraw military from Los Angeles - Axios",
+        "description": "\"Respect for our Constitution and for our civilian law enforcement demands nothing less,\" the Senate Democrats wrote.",
+        "url": "https://www.axios.com/2025/06/14/senate-democrats-trump-withdrawal-military-los-angeles",
+        "urlToImage": "https://images.axios.com/kOJqHoXocK3yMy-9hbRSJIYtkzo=/0x556:5187x3474/1366x768/2025/06/14/1749863042854.jpg",
+        "publishedAt": "2025-06-14T12:20:19Z",
+        "content": "Sen. Alex Padilla (D-Calif.) led the entire Senate Democratic in writing to President Trump Saturday, demanding he remove all military forces from Los Angeles and cease threats to further deploy troo\u2026 [+210 chars]"
+    },
+    {
+        "source": {
             "id": "associated-press",
             "name": "Associated Press"
         },
@@ -79,6 +144,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Space.com"
+        },
+        "author": "Robert Z. Pearlman",
+        "title": "Space humbles the SEAL-doctor-astronaut | On the ISS this week June 9-13, 2025 - Space",
+        "description": "A look back at the week's activities for the Expedition 73 crew.",
+        "url": "https://www.space.com/space-exploration/international-space-station/space-humbles-the-seal-doctor-astronaut-on-the-iss-this-week-june-9-13-2025",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/NRk9XAptohr8yYaUWXrAJ5.jpg",
+        "publishedAt": "2025-06-14T12:00:00Z",
+        "content": "With this week's (June 9 through June 13) expected arrival of a visiting crew delayed just before their launch, science and maintenance work on board the International Space Station was lighter than \u2026 [+6031 chars]"
+    },
+    {
+        "source": {
             "id": "cbs-news",
             "name": "CBS News"
         },
@@ -89,6 +167,19 @@
         "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/06/13/b748edc0-b06e-4210-bee1-421bb1c5e0c6/thumbnail/1200x630g2/38406aec49cf52de9ae83171cc52edc0/curtis-jackson-family-4-7-25-aprox-1-mo-post-op.jpg?v=d2f497bd9339ad99d2e0559414346698",
         "publishedAt": "2025-06-14T12:00:00Z",
         "content": "Curtis Jackson was feeling fit and healthy in late 2020 when he decided to update his life insurance policy: He was in better shape than he'd been in a while, but he wanted to make sure his wife and \u2026 [+5726 chars]"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Kathryn  Watson",
+        "title": "Trump military parade marking Army's 250th birthday takes place in Washington, D.C., today - CBS News",
+        "description": "President Trump is expected to deliver remarks at the 250th Anniversary of the U.S. Army Grand Military Parade and Celebration, an event he envisioned.",
+        "url": "https://www.cbsnews.com/news/trump-military-parade-army-anniversary-festival-washington-dc/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/06/14/b5a40aaf-3d63-429e-8abd-cf8eab87e692/thumbnail/1200x630/4f3b6d17bbcd1c82b4926efe4b7116c2/ap25165483352839.jpg?v=d2f497bd9339ad99d2e0559414346698",
+        "publishedAt": "2025-06-14T11:00:00Z",
+        "content": "Washington \u2014 President Trump is attending a military parade Saturday evening to celebrate the Army's 250th anniversary festivities as he celebrates his 79th birthday. \u00a0\r\nThe 250th Birthday of the U.S\u2026 [+6252 chars]"
     },
     {
         "source": {
@@ -145,45 +236,6 @@
     {
         "source": {
             "id": null,
-            "name": "NPR"
-        },
-        "author": "Ayana Archie",
-        "title": "'No Kings' protests against Trump planned nationwide to coincide with military parade - NPR",
-        "description": "The coalition of organizations behind the protests say the parade is being fueled by Trump's ego. The parade, which is not formally linked to Trump, will mark the 250th anniversary of the U.S. Army.",
-        "url": "https://www.npr.org/2025/06/14/nx-s1-5432708/no-kings-protests-military-parade",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5360x3015+0+530/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffc%2F96%2Febbd1ce741299bd9960a88246a1c%2Fap25164680059438.jpg",
-        "publishedAt": "2025-06-14T10:00:00Z",
-        "content": "About 2,000 \"No Kings\" protestsare planned Saturday in response to the Trump administration's plans to hold alarge-scale military parade this weekend, an event organizer told NPR. \r\nOrganizers are ac\u2026 [+2605 chars]"
-    },
-    {
-        "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Melissa Chan",
-        "title": "He chose to serve longer in the Army. Now he's saddled with $40,000 in moving costs. - NBC News",
-        "description": "Charles Levine was blindsided in February when he was about to retire from the Army and found out it would not cover more than $40,000 in final moving costs \u2014 an end-of-service benefit given to retirees",
-        "url": "https://www.nbcnews.com/news/us-news/army-retirement-moving-costs-rcna212015",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250612-Charles-Levine-taliban-cave-ew-314p-b0192c.jpg",
-        "publishedAt": "2025-06-14T10:00:00Z",
-        "content": "Charles Levine was blindsided in February when he was about to retire from the Army and found out it would not cover more than $40,000 in final moving costs an end-of-service benefit given to retiree\u2026 [+5630 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "InStyle"
-        },
-        "author": "https://www.facebook.com/InStyle",
-        "title": "Kate Middleton Glows in First Trooping the Colour After Cancer Remission - instyle.com",
-        "description": "Kate Middleton made her second Trooping the Colour appearance since announcing her cancer diagnosis in March 2024, and five months after announcing in January 2025 that she was in remission.",
-        "url": "https://www.instyle.com/kate-middleton-first-trooping-the-colour-after-cancer-remission-2025-11751315",
-        "urlToImage": "https://www.instyle.com/thmb/24qztrnTxD0h9Vhul21qsoaPxzA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/KateSocial1-4f1d3f72bf76481bbb24ae8600cf9cd1.jpg",
-        "publishedAt": "2025-06-14T09:57:41Z",
-        "content": "While last years Trooping the Colour was Kate Middletons first appearance at the annual event since her cancer diagnosisand her first public appearance for the entirety of 2024 up to that pointthe Pr\u2026 [+3617 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "MMA Fighting"
         },
         "author": "Alexander K. Lee",
@@ -193,44 +245,5 @@
         "urlToImage": "https://cdn.vox-cdn.com/thumbor/tt98APVYjXv-47m3-YzReHcTguU=/0x0:6490x3398/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/26027388/usa_today_20266776.jpg",
         "publishedAt": "2025-06-14T09:00:00Z",
         "content": "MMA Fighting has UFC Atlanta results for the Usman vs. Buckley event, a live blog for the top two fights, and more from State Farm Arena in Atlanta on Saturday night.\r\nIn the main event, former UFC w\u2026 [+1284 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Live Science"
-        },
-        "author": "Alice Sun",
-        "title": "Does the color purple really exist? - Live Science",
-        "description": "The color purple is, in a way, invented by our brains.",
-        "url": "https://www.livescience.com/health/neuroscience/does-the-color-purple-really-exist",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZzWzZBLRAKGfwUFAhRUXUS.jpg",
-        "publishedAt": "2025-06-14T09:00:00Z",
-        "content": "The world is awash with the color purple \u2014 lavender flowers, amethyst gemstones, plums, eggplants and purple emperor butterflies. But if you look closely at the visible-light portion of the electroma\u2026 [+4429 chars]"
-    },
-    {
-        "source": {
-            "id": "al-jazeera-english",
-            "name": "Al Jazeera English"
-        },
-        "author": "Al Jazeera",
-        "title": "Thunder-Pacers: SGA, OKC rally to win Game 4 of NBA Finals - Al Jazeera",
-        "description": "Shai Gilgeous-Alexander\u2019s strong fourth quarter carries Oklahoma City Thunder to crucial road win over Indiana Pacers.",
-        "url": "https://www.aljazeera.com/sports/2025/6/14/thunder-pacers-sga-okc-rally-to-win-game-4-of-nba-finals",
-        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/AFP__20250614__2220036247__v2__HighRes__2025NbaFinalsGameFour-1749889198_6a1c97-1749890354.jpg?resize=1200%2C630&quality=80",
-        "publishedAt": "2025-06-14T08:46:41Z",
-        "content": "Shai Gilgeous-Alexander scored 15 of his 35 points in the fourth quarter as the Oklahoma City Thunder rallied for a gritty 111-104 victory over the Indiana Pacers that levelled the NBA Finals at two \u2026 [+3950 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Investor's Business Daily"
-        },
-        "author": null,
-        "title": "Dow Jones Futures: Israel-Iran Attacks Hit Market; The Next AI Winners After Nvidia, Broadcom? - Investor's Business Daily",
-        "description": "Be ready for offense or defense. Several AI hardware plays are setting up.",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-israel-iran-attacks-ai-winners-nvidia-broadcom/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2024/04/ISRAEL_iranmissile_041524_adobe.jpg",
-        "publishedAt": "2025-06-14T02:53:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
     }
 ]
