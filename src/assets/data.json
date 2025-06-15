@@ -1,29 +1,81 @@
 [
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": "Barak Ravid",
-        "title": "Trump: The war between Israel and Iran should end - Axios",
-        "description": "The current crisis between Israel and Iran will be a test case for Trump's strategy of mending relations between the U.S. and Russia.",
-        "url": "https://www.axios.com/2025/06/14/trump-putin-nuclear-talks-iran-kremlin",
-        "urlToImage": "https://images.axios.com/NAKfpiLnljJiOEJvHs23b3N4Sx4=/0x0:5259x2958/1366x768/2025/06/14/1749919841951.jpg",
-        "publishedAt": "2025-06-14T19:46:52Z",
-        "content": "What he's saying: \"President Putin called this morning to very nicely wish me a Happy Birthday, but to more importantly, talk about Iran, a country he knows very well. He feels, as do I, this war in \u2026 [+3152 chars]"
+        "author": "Adam Taylor",
+        "title": "Trump administration considers adding 36 countries to travel ban list - The Washington Post",
+        "description": "An internal memo reviewed by The Post sets a 60-day deadline for the targeted nations to conform with certain requirements, or face a full or partial entry ban.",
+        "url": "https://www.washingtonpost.com/national-security/2025/06/14/trump-travel-ban-expansion/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ONND35DIE7BYJJRHQF53DSQLW4_size-normalized.jpg&w=1440",
+        "publishedAt": "2025-06-14T22:38:40Z",
+        "content": "The United States is considering restricting entry to citizens of an additional 36 countries in what would be a significant expansion of the travel ban announced by the Trump administration early thi\u2026 [+4010 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "AOL"
+            "name": "Page Six"
+        },
+        "author": "BreAnna Bell",
+        "title": "\u2018Real Housewives\u2019 executive tragically dies giving birth to newborn son - Page Six",
+        "description": "The production executive, who died on June 9, is survived by her husband, Kevin, their 3-year-old daughter, Emma, and their newborn son.",
+        "url": "https://pagesix.com/2025/06/14/celebrity-news/real-housewives-executive-tragically-dies-during-childbirth/",
+        "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2025/06/106485320.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2025-06-14T21:02:00Z",
+        "content": "\u201cReal Housewives\u201d executive Lauren Miller has tragically died giving birth to her son, Jackson.\r\n\u201cIt is with devastated hearts that we share that our beloved colleague, Lauren, died unexpectedly just\u2026 [+4177 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
         },
         "author": null,
-        "title": "'Real Housewives' Exec Dies During Childbirth and Stars Are Showing Support - AOL.com",
-        "description": null,
-        "url": "https://www.aol.com/real-housewives-exec-dies-during-192309320.html",
-        "urlToImage": null,
-        "publishedAt": "2025-06-14T19:45:58Z",
-        "content": null
+        "title": "'No Kings' anti-Trump protests across US ahead of his military parade - BBC",
+        "description": "Thousands gather in streets, squares and parks on what is billed as a nationwide day of defiance.",
+        "url": "https://www.bbc.com/news/articles/c70622038yxo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5d36/live/04ddd4e0-4955-11f0-8d35-db6aa603eef9.jpg",
+        "publishedAt": "2025-06-14T20:55:17Z",
+        "content": "Thousands of people have gathered in cities across the US to join protests against President Donald Trump, hours ahead of his military parade in Washington DC.\r\nThe demonstrations organised by a grou\u2026 [+2840 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Torey Van Oot, Nick Halter, Kyle Stokes",
+        "title": "Minnesota lawmakers shot in \"targeted\" home attacks - Axios",
+        "description": "Police are searching for the suspect, who they described as armed and dangerous.",
+        "url": "https://www.axios.com/local/twin-cities/2025/06/14/minnesota-lawmakers-shot-targeted-attacks",
+        "urlToImage": "https://images.axios.com/trD8I0cLaIM-jlRtrOAq0Ka3J9g=/0x0:1920x1080/1366x768/2025/06/14/1749906441744.jpg",
+        "publishedAt": "2025-06-14T20:45:15Z",
+        "content": "A57-year-old Minnesota man, Vance Luther Boelter, has been identified as a suspect in the attacks. The FBI is offering a reward of up to $50,000 for information leading to his arrest and conviction.\r\u2026 [+2761 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CBS Sports"
+        },
+        "author": "Robby Kalland",
+        "title": "2025 U.S. Open leaderboard live coverage: Scoreboard updates, golf scores, tee times for Round 3 at Oakmont - CBS Sports",
+        "description": "Live scores, updates and highlights from Moving Day of the 125th U.S. Open at Oakmont",
+        "url": "https://www.cbssports.com/golf/news/2025-u-s-open-leaderboard-live-coverage-scoreboard-updates-golf-scores-tee-times-for-round-3-at-oakmont/live/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/06/14/56958d06-e88e-4369-b841-5664f81bf36a/thumbnail/1200x675/4e5b7a9a1321b25306799804e87faaf5/rory-mcilroy-us-open-g.png",
+        "publishedAt": "2025-06-14T20:33:13Z",
+        "content": "Three of the biggest names in the field started their day at +4 for the championship, seven shots off the lead but with a chance to apply some pressure to the leaders if they could make any positive \u2026 [+1148 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Texas Tribune"
+        },
+        "author": "By Ayden Runnels",
+        "title": "Texas DPS warns state lawmakers of \u201ccredible threats\u201d after two Minnesota legislators shot - The Texas Tribune",
+        "description": "A law enforcement alert said the threat was toward Texas legislators planning to attend a protest against Donald Trump. The Texas Capitol has been evacuated.",
+        "url": "https://www.texastribune.org/2025/06/14/texas-credible-threats-lawmakers/",
+        "urlToImage": "https://thumbnails.texastribune.org/AoB0KsJ2A0AfnC76CzARhDaLQ5U=/1200x630/filters:quality(95):focal(0x165:3000x2000)/static.texastribune.org/media/files/e2b6d2fb358d2c3852b200f22a8a0c0a/DPS%20Texas%20Capitol%20MG%20TT%2007.jpg",
+        "publishedAt": "2025-06-14T19:19:58Z",
+        "content": "Audio recording is automated for accessibility. Humans wrote and edited the story. See our AI policy, and give us feedback.\r\nSign up for The Brief, The Texas Tribunes daily newsletter that keeps read\u2026 [+3396 chars]"
     },
     {
         "source": {
@@ -54,15 +106,15 @@
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "Rolling Stone"
         },
-        "author": null,
-        "title": "'No Kings' anti-Trump protests across US ahead of his military parade - BBC",
-        "description": "Thousands gather in streets, squares and parks on what is billed as a nationwide day of defiance.",
-        "url": "https://www.bbc.com/news/articles/c70622038yxo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5d36/live/04ddd4e0-4955-11f0-8d35-db6aa603eef9.jpg",
-        "publishedAt": "2025-06-14T18:53:09Z",
-        "content": "Thousands of people have gathered in cities across the US to join protests against President Donald Trump, hours ahead of his military parade in Washington DC.\r\nThe demonstrations organised by a grou\u2026 [+2840 chars]"
+        "author": "Naomi LaChance",
+        "title": "ICE Will Pause Farm, Restaurant Raids After Trump Social Media Post - Rolling Stone",
+        "description": "Donald Trump\u2019s administration said it\u2019s pausing ICE immigration raids on farms, restaurants, and hotels, following the president\u2019s social media post.",
+        "url": "http://www.rollingstone.com/politics/politics-news/trump-ice-pause-farm-restaurant-hotel-raids-truth-social-1235365010/",
+        "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/06/ice-protests-one.jpg?w=1600&h=900&crop=1",
+        "publishedAt": "2025-06-14T18:47:03Z",
+        "content": "Following a rare admission that his immigration policies were hurting farming and hospitality businesses, Donald Trump\u2019s Immigration and Customs Enforcement (ICE) will hold off on raids on workers in\u2026 [+3860 chars]"
     },
     {
         "source": {
@@ -92,16 +144,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "CBS Sports"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": "Robby Kalland",
-        "title": "2025 U.S. Open leaderboard live coverage: Scoreboard updates, golf scores, tee times for Round 3 at Oakmont - CBS Sports",
-        "description": "Live scores, updates and highlights from Moving Day of the 125th U.S. Open at Oakmont",
-        "url": "https://www.cbssports.com/golf/news/2025-u-s-open-leaderboard-live-coverage-scoreboard-updates-golf-scores-tee-times-for-round-3-at-oakmont/live/",
-        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/06/14/56958d06-e88e-4369-b841-5664f81bf36a/thumbnail/1200x675/4e5b7a9a1321b25306799804e87faaf5/rory-mcilroy-us-open-g.png",
-        "publishedAt": "2025-06-14T18:16:45Z",
-        "content": "OAKMONT, Pa. -- With only three players under par as Moving Day begins, Oakmont Country Club is certainly not beating the allegations. The toughest golf course in the United States continues to show \u2026 [+1031 chars]"
+        "author": null,
+        "title": "Putin and Trump discussed Middle East tensions, Ukraine talks on phone call, Kremlin says - AP News",
+        "description": "Russian President Vladimir Putin and U.S. President Donald Trump have held a lengthy phone call to discuss the escalating situation in the Middle East and Ukraine peace talks. Trump in a posting on his Truth Social platform said they spent the bulk of Saturda\u2026",
+        "url": "https://apnews.com/article/russia-us-putin-trump-498642958089922ffc038330041e9987",
+        "urlToImage": "https://dims.apnews.com/dims4/default/310c81a/2147483647/strip/true/crop/4240x2385+0+221/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F31%2Fcf%2F3b003273a567a19cd707b92b4b2e%2F9840efa19dbf4629be2b3719d16fa08a",
+        "publishedAt": "2025-06-14T17:11:00Z",
+        "content": "Russian President Vladimir Putin and U.S. President Donald Trump held a lengthy call Saturday to discuss the escalating situation in the Middle East and Russias war in Ukraine.\r\nTrump in a posting on\u2026 [+2804 chars]"
     },
     {
         "source": {
@@ -118,16 +170,16 @@
     },
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
+            "id": "techcrunch",
+            "name": "TechCrunch"
         },
-        "author": null,
-        "title": "South Africa\u2019s emotional WTC triumph: Proteas win first major cricket trophy in 27 years - AP News",
-        "description": "South Africa has won the World Test Championship against titleholder Australia by five wickets after knocking off the last 69 runs required on the fourth morning of the final in London. The Proteas achieved their first major cricket title in 27 years, sparkin\u2026",
-        "url": "https://apnews.com/article/south-africa-australia-wtc-final-667bef80ea1a0b2f8ee45e0b2caf1d15",
-        "urlToImage": "https://dims.apnews.com/dims4/default/e5b4557/2147483647/strip/true/crop/3716x2090+0+193/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4c%2F9b%2F1cd9fd6457440aeeab7e9cc47079%2Ffaeb0475294448369a5cbadcb48e3f9f",
-        "publishedAt": "2025-06-14T16:45:00Z",
-        "content": "LONDON (AP) Chokers no more.\r\nThe South Africans consigned the label to history when they ripped the World Test Championship mace from Australias callused grip inside four days of a riveting final at\u2026 [+4398 chars]"
+        "author": "Sarah Perez",
+        "title": "The App Store\u2019s new AI-generated tags are live in the beta - TechCrunch",
+        "description": "Apple's plans to improve App Store discoverability using AI tagging techniques are now available in the developer beta build of iOS 26. However, the tags",
+        "url": "https://techcrunch.com/2025/06/14/the-app-stores-new-ai-generated-tags-are-live-in-the-beta/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/03/apple-app-store-ios-2021.jpg?w=1180",
+        "publishedAt": "2025-06-14T16:01:49Z",
+        "content": "Apple\u2019s plans to improve App Store discoverability using AI tagging techniques are now available in the developer beta build of iOS 26.\r\nHowever, the tags do not appear on the public App Store as of \u2026 [+1786 chars]"
     },
     {
         "source": {
@@ -144,32 +196,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Responsiblestatecraft.org"
-        },
-        "author": "Eldar Mamedov",
-        "title": "Pure Orwell: Europe condemns Iran for attacks on its own territory - Responsible Statecraft",
-        "description": "In their hypocrisy over Israel, EU elites once again expose the rotting corpse of the so-called 'rules based order'",
-        "url": "https://responsiblestatecraft.org/europe-reaction-israel-attack/",
-        "urlToImage": "https://responsiblestatecraft.org/media-library/europe-emmanuel-macron-ursula-von-der-leyen-iran-attacks.png?id=61010897&width=1200&height=600&coordinates=0%2C51%2C0%2C197",
-        "publishedAt": "2025-06-14T14:06:56Z",
-        "content": "A war of words has erupted about whos to blame. Russia is trying to paint the Ukrainian side as trying to deceive its public on the true scale of battlefield losses, while Ukraine accuses its opponen\u2026 [+6005 chars]"
-    },
-    {
-        "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Jordain Carney, Meredith Lee Hill",
-        "title": "An old Capitol Hill troublemaker is trying to clinch a megabill deal - Politico",
-        "description": "Mark Meadows has re-emerged as a behind-the-scenes sounding board for Republican hard-liners.",
-        "url": "https://www.politico.com/news/2025/06/14/mark-meadows-gop-megabill-00405984",
-        "urlToImage": "https://static.politico.com/c1/54/f4219f7c4cae84f12d677e7bd158/supreme-court-georgia-meadows-35599.jpg",
-        "publishedAt": "2025-06-14T14:00:00Z",
-        "content": "His most recent headlines have concerned his role in the stop the steal efforts that followed the 2020 election and his interactions with Trump during the Jan. 6 Capitol riots. Reports of an immunity\u2026 [+5808 chars]"
-    },
-    {
-        "source": {
             "id": "the-verge",
             "name": "The Verge"
         },
@@ -180,32 +206,6 @@
         "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0193_5c29e2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "publishedAt": "2025-06-14T14:00:00Z",
         "content": "Answering the Nintendo Switch 2s lingering accessibility questions\r\nNintendo has kept quiet about the devices accessibility options, even though its off to a good start.\r\nAnswering the Nintendo Switc\u2026 [+7694 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Ashley Strickland",
-        "title": "14,000-year-old mummified \u2018puppies\u2019 weren\u2019t dogs at all, new research shows - CNN",
-        "description": "Mummified remains of two 14,000-year-old puppies, with their fur and stomach contents intact, may be wolf cubs, according to new research.",
-        "url": "https://www.cnn.com/2025/06/14/science/ice-age-wolf-pups",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/img-9902-20250613175944055.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-06-14T13:45:00Z",
-        "content": "Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nTwo well-preserved ice age puppies found in Northern S\u2026 [+8273 chars]"
-    },
-    {
-        "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "ABC News",
-        "title": "2 Minnesota lawmakers shot in apparent 'targeted' incident: Officials - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/US/2-minnesota-lawmakers-shot-targeted-incident-officials/story?id\\\\u003d122840751",
-        "urlToImage": null,
-        "publishedAt": "2025-06-14T13:30:36Z",
-        "content": null
     },
     {
         "source": {
@@ -222,15 +222,41 @@
     },
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
+            "id": null,
+            "name": "Space.com"
         },
-        "author": null,
-        "title": "As Trump goes to G7 summit, other world leaders aim to show they\u2019re not intimidated - AP News",
-        "description": "President Donald Trump has long bet that he can scare allies into submission. It's a gamble that is increasingly being tested ahead of the Group of Seven summit beginning Monday in Canada. His return to the White House has disrupted global affairs \u2014 with the \u2026",
-        "url": "https://apnews.com/article/trump-g7-fear-summit-taco-trade-117f9034f2a06d23bfbb2de201431c54",
-        "urlToImage": "https://dims.apnews.com/dims4/default/0931983/2147483647/strip/true/crop/3000x1688+0+100/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F53%2F38%2Fd571a611efd7828c8d9239564b3e%2F7ce54117f04c403b96317f604e9272a3",
-        "publishedAt": "2025-06-14T12:09:00Z",
-        "content": "WASHINGTON (AP) \r\nPresident Donald Trump has long bet that he can scare allies into submission a gamble that is increasingly being tested ahead of the Group of Seven summit beginning Monday in Canada\u2026 [+6858 chars]"
+        "author": "Robert Z. Pearlman",
+        "title": "Space humbles the SEAL-doctor-astronaut | On the ISS this week June 9-13, 2025 - Space",
+        "description": "A look back at the week's activities for the Expedition 73 crew.",
+        "url": "https://www.space.com/space-exploration/international-space-station/space-humbles-the-seal-doctor-astronaut-on-the-iss-this-week-june-9-13-2025",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/NRk9XAptohr8yYaUWXrAJ5.jpg",
+        "publishedAt": "2025-06-14T12:00:00Z",
+        "content": "With this week's (June 9 through June 13) expected arrival of a visiting crew delayed just before their launch, science and maintenance work on board the International Space Station was lighter than \u2026 [+6031 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SpaceNews"
+        },
+        "author": "Jeff Foust",
+        "title": "ESA studying impacts of proposed NASA budget cuts - SpaceNews",
+        "description": "ESA is weighing options for programs affected by proposed major budget cuts at NASA as it also seeks to expand cooperation with other nations.",
+        "url": "http://spacenews.com/esa-studying-impacts-of-proposed-nasa-budget-cuts/",
+        "urlToImage": "https://spacenews.com/wp-content/uploads/2025/06/envision-venus.jpeg",
+        "publishedAt": "2025-06-14T11:43:24Z",
+        "content": "PARIS The European Space Agency is weighing options for programs affected by proposed major budget cuts at NASA as it also seeks to expand cooperation with other nations.\r\nAt a June 12 press briefing\u2026 [+5297 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "mlive.com"
+        },
+        "author": "Holiday Mathis",
+        "title": "Holiday Mathis horoscopes for June 14, 2025 - MLive.com",
+        "description": "The Cosmic Closet: See Zodiac signs and horoscopes on 06/14/25 for today\u2019s birthday, celebrity profiles (Lucy Hale) and Aquarius, Pisces, Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn.",
+        "url": "https://www.mlive.com/advice/2025/06/daily-horoscopes-for-june-14-2025.html",
+        "urlToImage": "https://www.mlive.com/resizer/v2/UWAF5BJHNJDALCXJLFCHCXO6LY.jpg?auth=101a6a133868713ada2ddd659ff57ad18d19d028db402157d4123b6116de8bfe&width=1280&quality=90",
+        "publishedAt": "2025-06-14T11:01:00Z",
+        "content": "HOROSCOPES BY HOLIDAY\r\nThe Cosmic Closet\r\n On this day when the moon aligns with Pluto and then squares Venus, life is like organizing a closet. You build and build and just as something starts to fe\u2026 [+4467 chars]"
     }
 ]
