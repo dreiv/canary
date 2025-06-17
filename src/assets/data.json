@@ -2,6 +2,32 @@
     {
         "source": {
             "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Man suspected of shooting Minnesota lawmakers arrested after huge manhunt - BBC",
+        "description": "Vance Luther Boelter is accused of killing Democrat Melissa Hortman and her husband Mark, and injuring two others.",
+        "url": "https://www.bbc.com/news/articles/cg5v5l4eylyo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7954/live/fd82fc40-4a7e-11f0-84b6-6bf0f66205f1.jpg",
+        "publishedAt": "2025-06-16T07:00:01Z",
+        "content": "A 57-year-old man has been arrested in the US state of Minnesota on suspicion of killing a Democratic state lawmaker and her husband.\r\nThe arrest on Sunday night was the culmination of a huge two-day\u2026 [+3044 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Associated Press",
+        "title": "Protester shot and killed at \u2018No Kings\u2019 rally in Utah, police say - CNN",
+        "description": "A man who was believed to be part of a peacekeeping team for the \u201cNo Kings\u201d protest in Salt Lake City shot at a person who was brandishing a rifle at demonstrators, striking both the rifleman and a bystander who later died at the hospital, authorities said Su\u2026",
+        "url": "https://www.cnn.com/2025/06/16/us/salt-lake-city-no-kings-protest-shooting",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25166078207650.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-06-16T06:40:00Z",
+        "content": "A man who was believed to be part of a peacekeeping team for the No Kings protest in Salt Lake City shot at a person who was brandishing a rifle at demonstrators, striking both the rifleman and a bys\u2026 [+3512 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "CNBC"
         },
         "author": "Alex Harring",
@@ -31,25 +57,12 @@
             "name": "NPR"
         },
         "author": "The Associated Press",
-        "title": "Spaniards turn water pistols on visitors to protest mass tourism - NPR",
-        "description": "The tourists who were targeted by water blasts laughed it off. Cities like Barcelona and the island of Mallorca have seen housing costs skyrocket as homes are diverted to the short-term rental market.",
-        "url": "https://www.npr.org/2025/06/16/nx-s1-5434829/spain-tourism-protests-water-pistols-barcelona-mallorca",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5120x2880+0+267/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F12%2F97%2F2a1cc8fd4a9192640fb70f8d0f26%2Fap25166445762365.jpg",
-        "publishedAt": "2025-06-16T05:09:45Z",
-        "content": "BARCELONA, Spain Protesters used water pistols against unsuspecting tourists in Barcelona and on the Spanish island of Mallorca on Sunday as demonstrators marched to demand a rethink of an economic m\u2026 [+5881 chars]"
-    },
-    {
-        "source": {
-            "id": "fox-news",
-            "name": "Fox News"
-        },
-        "author": "Anders Hagstrom",
-        "title": "Iranian missiles kill over a dozen as Israeli strikes destroy Tehran's energy infrastructure - Fox News",
-        "description": "Israel faced retaliation from Iran after launching missiles against Tehran's leadership and energy infrastructure as part of \"Operation Rising Lion\" this weekend. Iran's military responded with a wave of missile strikes against Israel, which have killed at le\u2026",
-        "url": "https://www.foxnews.com/live-news/israel-iran-missile-strikes-tehran-tel-aviv",
-        "urlToImage": "https://livenews.foxnews.com/images/2025/06/40d557b77ee0a7a5c309eeb3582521e9.jpg",
-        "publishedAt": "2025-06-16T04:50:43Z",
-        "content": "Israeli U.N. Ambassador Danny Danon said Sunday that he and other leaders from his country, ahead of the G7 meeting in Canada this week, expect moral clarity and that the world understands Israel is \u2026 [+2063 chars]"
+        "title": "G7 leaders gather in Canada for a summit overshadowed by Israel-Iran crisis - NPR",
+        "description": "Also looming over the meeting are President Trump's inflammatory threats to make Canada the 51st state and take over Greenland.",
+        "url": "https://www.npr.org/2025/06/16/nx-s1-5434828/g7-canada-israel-iran-trump-trade-wars",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4963x2792+0+259/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F4a%2F24cce0df40d88c52a424e6a2b0d2%2Fap25167123426990.jpg",
+        "publishedAt": "2025-06-16T04:57:35Z",
+        "content": "KANANASKIS, Alberta Leaders of some of the world's biggest economic powers arrived in the Canadian Rockies on Sunday for a Group of Seven summit, overshadowed by an escalating conflict between Israel\u2026 [+4678 chars]"
     },
     {
         "source": {
@@ -63,19 +76,6 @@
         "urlToImage": "https://images.axios.com/YFTV1PsSiLQbWUEuTI5NlSRqNPE=/385x840:5701x3830/1366x768/2025/06/16/1750036995793.jpg",
         "publishedAt": "2025-06-16T04:18:45Z",
         "content": "<ul><li>It builds on the president's April order directing federal agencies to document \"sanctuary cities\" that are not complying with his immigration agenda, when the White House said those that fai\u2026 [+3765 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Newspaper headlines: 'Retreat over grooming gangs' and 'Say sorry for delay' - BBC",
-        "description": "The prime minister's new call for a national inquiry into grooming gangs features in the papers.",
-        "url": "https://www.bbc.com/news/articles/c8d1d08gj1zo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/364e/live/7494e900-4a3a-11f0-84b6-6bf0f66205f1.jpg",
-        "publishedAt": "2025-06-16T04:14:11Z",
-        "content": "US President Donald Trump's comments on the conflict between Israel and Iran make a number of the front pages. \r\nThe Times highlights his remarks that the US could become involved and that Tehran wou\u2026 [+1871 chars]"
     },
     {
         "source": {
@@ -119,28 +119,15 @@
     {
         "source": {
             "id": null,
-            "name": "Minnesotareformer.com"
-        },
-        "author": "Madison McVan",
-        "title": "Vance Boelter, accused of assassination of DFL House leader Melissa Hortman, apprehended - Minnesota Reformer",
-        "description": "Boelter is a Christian who voted for President Donald Trump and opposes abortion and LGBTQ rights, according to interviews with his childhood friend and videos of his sermons posted online.",
-        "url": "https://minnesotareformer.com/2025/06/15/vance-boelter-accused-of-assassination-of-dfl-house-leader-melissa-hortman-apprehended/",
-        "urlToImage": "https://minnesotareformer.com/wp-content/uploads/2025/06/GettyImages-2219605928.jpg",
-        "publishedAt": "2025-06-16T03:36:05Z",
-        "content": "by Madison McVan, Minnesota ReformerJune 15, 2025\r\nLaw enforcement officers on Sunday night arrested Vance Boelter, who is accused of assassinating Rep. Melissa Hortman and her husband at their home \u2026 [+7856 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "hoopsrumors.com"
+            "name": "Eonline.com"
         },
         "author": null,
-        "title": "Suns Notes: Durant Trade, Draft Workout - Hoops Rumors",
-        "description": "Kevin Durant's wishes might not align with the Suns' preferred trade return, pressure on Brian Gregory, and Ryan Nembhard's pre-draft workout.",
-        "url": "https://www.hoopsrumors.com/2025/06/suns-notes-durant-trade-draft-workout.html",
-        "urlToImage": "https://cdn.hoopsrumors.com/files/2025/06/Kevin-Durant-900x600.jpg",
-        "publishedAt": "2025-06-16T03:04:31Z",
-        "content": "The Suns are not promising to move Kevin Durant to one of his preferred destinations, reports Marc Stein for The Stein Line. While the team is amenable to the idea of a win-win trade, should the offe\u2026 [+1730 chars]"
+        "title": "Sister Wives ' Janelle Says Kody & Robyn's Courtship Wasn't Appropriate - Yahoo",
+        "description": "Sister Wives star Kody Brown may describe his meet-cute with wife Robyn Brown as love at first sight. But his former spouse Janelle Brown has a different take on their yearlong courtship.",
+        "url": "https://www.eonline.com/news/1418663/sister-wives-janelle-brown-says-robyn-kody-courtship-wasnt-appropriate",
+        "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024826/rs_1200x1200-240926082852-sisterwives.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+        "publishedAt": "2025-06-16T03:00:00Z",
+        "content": "Griping about the familys inability to pay off Coyote Pass, Janelle said Kody claimed to have \"all these other debts.\" And, yet, shes watched him snap up other assets like trailers and home d\u00e9cor. \"I\u2026 [+1239 chars]"
     },
     {
         "source": {
@@ -154,19 +141,6 @@
         "urlToImage": "https://www.wweek.com/resizer/v2/EYGKWWX645GHDCTEPMCQKWNJ7E.jpg?smart=true&auth=ecb7a742393223bf2a1478ceca80e593f8a518243fe3223e3e7e8373a8fb68a3&width=1200&height=630",
         "publishedAt": "2025-06-16T02:19:00Z",
         "content": "A peaceful march through downtown Portland against President Donald Trump and his administration drew about 50,000 people Saturdaybut hours later, a smaller, breakaway protest at the U.S. Immigration\u2026 [+5249 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Hollywood Reporter"
-        },
-        "author": "Tony Maglio",
-        "title": "HBO\u2019s \u2018The Mortician\u2019 Ended With What Sounds Like a Murder Confession - The Hollywood Reporter",
-        "description": "\u201cI don't want to comment on the allegation of what it seems he's implying,\u201d director Joshua Rof\u00e9 told The Hollywood Reporter. \u201cThat's clear \u2014 that's very clear to the audience, right?\u201d",
-        "url": "http://www.hollywoodreporter.com/tv/tv-features/the-mortician-hbo-david-sconce-murder-confession-the-jinx-1236290279/",
-        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/06/david-sconce_0-H-2025.jpg?w=1296&h=730&crop=1",
-        "publishedAt": "2025-06-16T02:00:55Z",
-        "content": "The Mortician had HBO\u2019s most Jinx-like ending since, well, The Jinx.\r\nJoshua Rof\u00e9\u2019s three-part documentary series concluded on Sunday night, in HBO\u2019s primo 9 p.m. time slot. The final few minutes of \u2026 [+3841 chars]"
     },
     {
         "source": {
@@ -209,6 +183,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Pokemon.com"
+        },
+        "author": null,
+        "title": "Pikachu Plush & Promo Card Revealed Ahead of the 2025 World Championships - Pokemon.com",
+        "description": "See what was shown during the conclusion of the North America International Championships.",
+        "url": "https://www.pokemon.com/us/pokemon-news/pikachu-plush-promo-card-revealed-ahead-of-the-2025-world-championships",
+        "urlToImage": "https://www.pokemon.com/static-assets/content-assets/cms2/img/attend-events/championship/2025-naic/closing-ceremony/2025-naic-169.png",
+        "publishedAt": "2025-06-16T01:08:53Z",
+        "content": "Following three incredible days of action in New Orleans, the closing ceremony for the North America International Championships offered fans new details on what to expect from the upcoming Pok\u00e9mon W\u2026 [+689 chars]"
+    },
+    {
+        "source": {
             "id": "abc-news",
             "name": "ABC News"
         },
@@ -219,19 +206,6 @@
         "urlToImage": null,
         "publishedAt": "2025-06-16T00:58:52Z",
         "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "KSL.com"
-        },
-        "author": "Logan Stefanich, KSL.com",
-        "title": "'Innocent bystander' shot, killed by member of 'peacekeeping' group at Salt Lake rally - KSL News",
-        "description": "Arthur Folasa Ah Loo, 39, died Saturday after being shot during a \"No Kings\" protest and march in Salt Lake City on Saturday, police said.",
-        "url": "https://www.ksl.com/article/51330407/innocent-bystander-shot-killed-by-member-of-peacekeeping-group-at-salt-lake-rally",
-        "urlToImage": "https://img.ksl.com/slc/3089/308951/30895100.jpeg?filter=kslv2/responsive_story_lg",
-        "publishedAt": "2025-06-16T00:55:01Z",
-        "content": "SALT LAKE CITY Utah resident Arthur Folasa Ah Loo, 39, died Saturday after he was shot during a large \"No Kings\" protest in downtown Salt Lake City.\r\nAh Loo an \"innocent bystander,\" fashion designer \u2026 [+9083 chars]"
     },
     {
         "source": {
