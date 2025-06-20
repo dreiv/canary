@@ -2,6 +2,58 @@
     {
         "source": {
             "id": null,
+            "name": "Financial Times"
+        },
+        "author": "Chloe Cornish, Andrew England",
+        "title": "Gulf monarchies hold rival Iran close as Israel conflict rages - Financial Times",
+        "description": "Saudi Arabia, UAE and other states in region fear becoming targets for retaliation if US strikes Iran",
+        "url": "https://www.ft.com/content/2ee29b55-fc8d-4b52-80c6-021663de0bf4",
+        "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9fafed58-88ea-4cb3-b6cf-436cb8029f8e.jpg?source=next-barrier-page",
+        "publishedAt": "2025-06-19T17:27:17Z",
+        "content": "Complete digital access to quality analysis and expert insights, complemented with our award-winning Weekend Print edition.\r\n<ul><li></li>Everything in Print<li></li>Weekday Print Edition<li></li>FT \u2026 [+202 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News - Breaking News, Latest News and Videos",
+        "title": "Supreme Court upholds a state law banning some gender-affirming care for transgenders kids - ABC News - Breaking News, Latest News and Videos",
+        "description": null,
+        "url": "https://abcnews.go.com/Politics/supreme-court-upholds-state-law-banning-gender-affirming/story?id\\\\u003d122963919",
+        "urlToImage": null,
+        "publishedAt": "2025-06-19T16:38:15Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Holly Bailey, Tim Craig, Daniel Wu, Praveena Somasundaram, Mar\u00eda Luisa Pa\u00fal",
+        "title": "\u2018He\u2019s right there!\u2019: How the Minnesota attacks and manhunt unfolded - The Washington Post",
+        "description": "As questions mount over what led to the shootings, which officials said were politically motivated, harrowing details have emerged about the attacks and the manhunt.",
+        "url": "https://www.washingtonpost.com/nation/2025/06/19/minnesota-lawmaker-shooting-timeline/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UNHPMVQSMRQSIGEWS77XPJEGFM_size-normalized.jpg&w=1440",
+        "publishedAt": "2025-06-19T16:02:06Z",
+        "content": "MINNEAPOLIS Wendy Thomas and her neighbors in Green Isle, Minnesota, had been asked to remain vigilant on Sunday as law enforcement officers, aided by drones and a state police helicopter, combed the\u2026 [+12003 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Kalhan Rosenblatt",
+        "title": "Trump extends TikTok ban deadline by another 90 days - NBC News",
+        "description": "President Donald Trump has extended the deadline for TikTok\u2019s parent company, ByteDance, to sell the short-form video app to an American owner by another 90 days",
+        "url": "https://www.nbcnews.com/tech/social-media/trump-extends-tiktok-ban-deadline-another-90-days-rcna213720",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250618-tiktok-ch-1034-1dcd72.jpg",
+        "publishedAt": "2025-06-19T15:29:00Z",
+        "content": "President Donald Trump has extended the deadline for TikToks parent company, ByteDance, to sell the short-form video app to an American owner by another 90 days.\r\nOn Thursday, Trump signed an executi\u2026 [+3605 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "KOMO News"
         },
         "author": "DEVI SHASTRI AP Health Writer",
@@ -27,6 +79,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Eonline.com"
+        },
+        "author": null,
+        "title": "Eric Dane Seemingly Debuts New Romance on Red Carpet - Yahoo",
+        "description": "Eric Dane appears to be dating photographer Janell Shirtcliff, as the pair stepped out hand-in-hand at a Los Angeles premiere amid his battle with ALS.",
+        "url": "https://www.eonline.com/news/1418931/eric-dane-seemingly-dating-janell-shirtcliff-new-girlfriend",
+        "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20250617/32610ec5-7f1c-4ee0-a94d-2e9c7978f172_1750188406.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+        "publishedAt": "2025-06-19T14:22:25Z",
+        "content": "Eric Dane is getting McSteamy once again.\r\nThe Grey's Anatomy alum appeared to debut a new relationship with filmmaker Janell Shirtcliff at the premiere of Prime Video's Countdown in Los Angeles June\u2026 [+953 chars]"
+    },
+    {
+        "source": {
             "id": "nbc-news",
             "name": "NBC News"
         },
@@ -37,6 +102,19 @@
         "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250619-lively-baldoni-swift-mb-1429-206fb9.jpg",
         "publishedAt": "2025-06-19T14:05:32Z",
         "content": "A federal judge denied Blake Lively's request to keep some of her private text messages with Taylor Swift from Justin Baldoni, marking a major legal victory for the embattled \"It Ends with Us\" actor \u2026 [+2968 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Sports Illustrated"
+        },
+        "author": "Liam McKeone",
+        "title": "Top NBA Draft Prospect Suddenly Cancels Workout With 76ers - Sports Illustrated",
+        "description": "Ace Bailey surprisingly bailed on his workout with Philadelphia with less than a week to go before the NBA draft.",
+        "url": "https://www.si.com/nba/ace-bailey-76ers-workout-nba-draft",
+        "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3000,h_1687,x_0,y_37/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01jy45np25b4dzrbp8r6.jpg",
+        "publishedAt": "2025-06-19T13:47:39Z",
+        "content": "The Philadelphia 76ers are slotted to pick third in the first round of the 2025 NBA draft next week. Their selection is one of much intrigue because the first two picks seem pretty set; the Dallas Ma\u2026 [+1278 chars]"
     },
     {
         "source": {
@@ -105,19 +183,6 @@
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Jim VandeHei, Mike Allen",
-        "title": "Behind the Curtain: Trump's gut-check - Axios",
-        "description": "Trump's economic advisers are warning him of hotels, restaurants, landscaping and construction companies going belly up.",
-        "url": "https://www.axios.com/2025/06/19/trump-deportation-farm-hotel-workers",
-        "urlToImage": "https://images.axios.com/iWySbnehKXGoUePNq-iGWDhW9yc=/1366x768/smart/2025/02/28/171953-1740763193532.jpg",
-        "publishedAt": "2025-06-19T12:23:46Z",
-        "content": "Why it matters: Trump, in private, is clearly wrestling with the political realities of long-time workers who paid taxes and committed no crimes (after coming here illegally) getting deported by the \u2026 [+3387 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "BBC News"
         },
@@ -132,6 +197,19 @@
     {
         "source": {
             "id": null,
+            "name": "Forbes"
+        },
+        "author": "Davey Winder",
+        "title": "16 Billion Apple, Facebook, Google And Other Passwords Leaked \u2014 Act Now - Forbes",
+        "description": "Change all your account passwords now \u2014 don\u2019t wait: 16 billion credentials are confirmed as having been leaked.",
+        "url": "https://www.forbes.com/sites/daveywinder/2025/06/19/16-billion-apple-facebook-google-passwords-leaked---change-yours-now/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6687e04c8c1bdb7dd76b1118/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-06-19T11:45:00Z",
+        "content": "The biggest password leak in history confirmed.\r\ngetty\r\nUpdate, June 19, 2025: This story, originally published on June 18, has been updated with comments from the founders of Keeper Security regardi\u2026 [+5779 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "CNBC"
         },
         "author": "Arjun Kharpal",
@@ -141,83 +219,5 @@
         "urlToImage": "https://image.cnbcfm.com/api/v1/image/108003184-1720537744351-Samsung_Z_Fold6_Cover_Image.jpg?v=1720627873&w=1920&h=1080",
         "publishedAt": "2025-06-19T11:34:22Z",
         "content": "Samsung will unveil a thinner version of its flagship foldable smartphone at a launch likely set to take place next month, as it battles Chinese rivals to deliver the slimmest devices to the market.\r\u2026 [+2785 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Hayley Cuccinello",
-        "title": "The U.S. added a thousand new millionaires a day in 2024: Report - CNBC",
-        "description": "America's millionaire population totals 23.8 million, the most of any country, according to a new study by UBS.",
-        "url": "https://www.cnbc.com/2025/06/19/united-states-millionaires-wealth.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108161303-1750274777666-gettyimages-717163877-gi_0610516.jpeg?v=1750274898&w=1920&h=1080",
-        "publishedAt": "2025-06-19T11:30:01Z",
-        "content": "Mercer Island, a wealthy enclave just outside Seattle.\r\nA version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor an\u2026 [+3555 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Greg McKenna",
-        "title": "Goldman Sachs says Trump's spending plan won't stop the national debt from hitting 'unsustainable' highs not seen since World War II - Fortune",
-        "description": "If borrowing costs remain high, future lawmakers could be left in a tough spot.",
-        "url": "https://fortune.com/2025/06/19/goldman-sachs-says-trumps-spending-plan-wont-stop-the-national-debt-from-hitting-unsustainable-highs-not-seen-since-world-war-ii/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/06/GettyImages-2216484722-e1750270139346.jpg?resize=1200,600",
-        "publishedAt": "2025-06-19T10:33:00Z",
-        "content": "President Donald Trump has claimed the GOPs Big, Beautiful bill will put the U.S. on a sustainable fiscal path. Economists at Goldman Sachs say it wont prevent the nations debt from surpassing levels\u2026 [+4359 chars]"
-    },
-    {
-        "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "GREG BEACHAM AP sports writer",
-        "title": "After a whopping sale, the Los Angeles Lakers will no longer be the Buss family business - ABC News - Breaking News, Latest News and Videos",
-        "description": "The Buss family\u2019s decision to sell a controlling stake in the Los Angeles Lakers at a franchise valuation of $10 billion marks the end of nearly a half-century when one of the most valuable properties in the entire sports world was run by an eccentric ...",
-        "url": "https://abcnews.go.com/Business/wireStory/after-whopping-sale-los-angeles-lakers-longer-buss-123001808",
-        "urlToImage": "https://i.abcnewsfe.com/a/31c1c9bb-4f7e-446f-93a2-37a4f13e0a3b/wirestory_b6eae6cc430b0cfbe323f4c0ba252637_16x9.jpg?w=1600",
-        "publishedAt": "2025-06-19T10:11:43Z",
-        "content": "LOS ANGELES -- The Buss family's decision to sell a controlling stake in the Los Angeles Lakers at an eye-popping franchise valuation of $10 billion marks the end of nearly a half-century when one of\u2026 [+6966 chars]"
-    },
-    {
-        "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": null,
-        "title": "Playbook: Inside Trump\u2019s thinking on Iran - Politico",
-        "description": "And infighting swells inside the DNC.",
-        "url": "https://www.politico.com/newsletters/playbook/2025/06/19/inside-trumps-thinking-on-iran-00414192",
-        "urlToImage": "https://static.politico.com/34/9f/3c70273b43ae9498497f33869f36/https-delivery-gettyimages.com/downloads/2211811906",
-        "publishedAt": "2025-06-19T10:00:19Z",
-        "content": "With help from Eli Okun, Bethany Irvine and Ali Bianco\r\nGood Thursday morning, and Happy Juneteenth. This is Jack Blanchard.\r\nINCOMING: The first big heatwave of the summer is on its way to D.C., per\u2026 [+22701 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Space.com"
-        },
-        "author": "Robert Lea",
-        "title": "'The models were right!' Astronomers locate universe's 'missing' matter in the largest cosmic structures - Space",
-        "description": "\"The 'missing' matter may truly be lurking in hard-to-see threads woven across the universe.\"",
-        "url": "https://www.space.com/astronomy/astronomers-turn-up-missing-matter-in-the-largest-structures-in-the-cosmos-the-models-were-right",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/d4zUK2Z7CoSeXJugPM9ydD.png",
-        "publishedAt": "2025-06-19T10:00:00Z",
-        "content": "Astronomers have discovered a vast tendril of hot gas linking four galaxy clusters and stretching out for 23 million light-years, 230 times the length of our galaxy. With 10 times the mass of the Mil\u2026 [+4984 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "What are the risks of bombing a nuclear site? - BBC",
-        "description": "Destroying Iran's stores of enriched uranium would bring danger for people nearby but not trigger another Chernobyl.",
-        "url": "https://www.bbc.com/news/articles/c5ykjvl1y9jo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/da02/live/eb6293d0-4cf5-11f0-b48b-8b6357a99d04.jpg",
-        "publishedAt": "2025-06-19T09:56:46Z",
-        "content": "Rebecca Morelle, Alison Francis and Victoria Gill\r\nIran's Natanz nuclear site has been a target of Israel's airstrikes\r\nThe IAEA has described the attacks on Iran's nuclear facilities as \"deeply conc\u2026 [+4138 chars]"
     }
 ]
