@@ -1,16 +1,42 @@
 [
     {
         "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News - Breaking News, Latest News and Videos",
+        "title": "What to know about COVID variant NB.1.8.1 causing 'razor blade throat' - ABC News - Breaking News, Latest News and Videos",
+        "description": null,
+        "url": "https://abcnews.go.com/Health/covid-variant-nb181-causing-razor-blade-throat/story?id\\\\u003d123004186",
+        "urlToImage": null,
+        "publishedAt": "2025-06-19T21:39:27Z",
+        "content": null
+    },
+    {
+        "source": {
             "id": "espn",
             "name": "ESPN"
         },
         "author": null,
-        "title": "Jac jack: Royals' Caglianone belts first MLB HR - ESPN",
-        "description": "Almost two weeks after his debut, Royals rookie Jac Caglianone pulled a 95.5 mph fastball over the wall in right-center field for his first major league home run.",
-        "url": "https://www.espn.com/mlb/story/_/id/45545360/royals-jac-caglianone-connects-first-major-league-home-run",
-        "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0619%2Fr1508779_1296x729_16%2D9.jpg",
-        "publishedAt": "2025-06-19T19:59:00Z",
-        "content": "Jun 19, 2025, 03:59 PM ET\r\nARLINGTON, Texas -- Jac Caglianone has his first career home run just shy of two weeks after his debut with the Kansas City Royals, and a day after the 22-year-old prospect\u2026 [+1204 chars]"
+        "title": "Dodgers: Asked ICE agents to leave parking lot - ESPN",
+        "description": "The Dodgers said they asked U.S. Immigration and Customs Enforcement agents to leave after they \"requested permission to access the parking lots.\"",
+        "url": "https://www.espn.com/mlb/story/_/id/45545612/dodgers-ask-ice-agents-leave-dodger-stadium-parking-lot",
+        "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0619%2Fr1508806_1296x729_16%2D9.jpg",
+        "publishedAt": "2025-06-19T20:51:00Z",
+        "content": "Jun 19, 2025, 04:51 PM ET\r\nLOS ANGELES -- The Los Angeles Dodgers organization said Thursday that it asked U.S. Immigration and Customs Enforcement agents to leave the Dodger Stadium grounds after th\u2026 [+3609 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Trump to decide on US action in Israel-Iran conflict within two weeks - BBC",
+        "description": "Trump's press secretary said the president believes there is a \"substantial chance of negotiations\" with Iran.",
+        "url": "https://www.bbc.com/news/articles/cjel350eyw5o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6245/live/ca0d4320-4d4e-11f0-86d5-3b52b53af158.jpg",
+        "publishedAt": "2025-06-19T20:49:09Z",
+        "content": "Lucy Clarke-Billings\r\nUS President Donald Trump will decide whether or not the US gets directly involved in the Iran-Israel conflict within the next two weeks, the White House has said. \r\nIn a White \u2026 [+4576 chars]"
     },
     {
         "source": {
@@ -40,16 +66,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "New York Post"
+            "id": "abc-news",
+            "name": "ABC News"
         },
-        "author": "Diana Glebova",
-        "title": "Trump to make final decision 'within the next two weeks' on US taking military action against Iran - New York Post",
-        "description": "Trump said Wednesday that the Iranians were looking to go to the White House to talk to him directly.",
-        "url": "https://nypost.com/2025/06/19/us-news/trump-to-make-final-decision-within-the-next-two-weeks-on-us-taking-military-action-against-iran/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/06/trump-iran-nuclear-site-strike-comp-1.jpg?quality=75&strip=all&w=1024",
-        "publishedAt": "2025-06-19T18:45:00Z",
-        "content": "WASHINGTON President Trump said Thursday he would make his final decision on whether to strike Iran in the next two weeks, because hes still hoping for negotiations.\r\nBased on the fact that theres a \u2026 [+3676 chars]"
+        "author": "ABC News - Breaking News, Latest News and Videos",
+        "title": "The ocean is changing colors, researchers say. Here's what it means. - ABC News - Breaking News, Latest News and Videos",
+        "description": null,
+        "url": "https://abcnews.go.com/US/ocean-changing-colors-researchers-means/story?id\\\\u003d122927595",
+        "urlToImage": null,
+        "publishedAt": "2025-06-19T18:09:49Z",
+        "content": null
     },
     {
         "source": {
@@ -67,54 +93,15 @@
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "NPR"
         },
-        "author": null,
-        "title": "Plastic bags: Have bans and fees curbed shoreline litter? - BBC",
-        "description": "Shoreline litter data research shows policies caused a relative decrease in the percentage of plastic bags.",
-        "url": "https://www.bbc.com/news/articles/cdeznkxyek0o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e908/live/364d1c40-4cff-11f0-86d5-3b52b53af158.jpg",
-        "publishedAt": "2025-06-19T18:01:05Z",
-        "content": "Tim DoddClimate and science reporter\r\nBanning or charging for plastic bags is helping stop them ending up on US shorelines, a study of the country's litter suggests.\r\nData from thousands of cleanups \u2026 [+3136 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Barron's"
-        },
-        "author": "Barron's",
-        "title": "Trump Weighs U.S. Attacks on Iran, Russia Warns Against Intervention - Barron's",
-        "description": null,
-        "url": "https://www.barrons.com/articles/israel-iran-trump-attack-us-war-6f3759e7",
-        "urlToImage": null,
-        "publishedAt": "2025-06-19T17:42:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "PEOPLE"
-        },
-        "author": "https://www.facebook.com/peoplemag",
-        "title": "Gigi Hadid Shares Hand-Drawn Breakfast Menu for Daughter Khai in Personal Glimpse into Her Spring - Yahoo",
-        "description": "Gigi Hadid shared a new Instagram post including photos of her daughter Khai, whom she shares with ex Zayn Malik. See everything from the pair's hangouts to what the model made her kid for breakfast.",
-        "url": "https://people.com/gigi-hadid-shares-glimpse-into-spring-with-daughter-khai-11757944",
-        "urlToImage": "https://people.com/thmb/-AQ3mcTrqL6eV5GP5M_9wKkCX0w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(757x399:759x401)/gigi-hadid-kai-instagram-tout-61925-ae682c401ed84d14bda400d6a8ea4b53.jpg",
-        "publishedAt": "2025-06-19T17:41:32Z",
-        "content": "<ul><li>Gigi Hadid updated fans on how mom life is going with a new Instagram post, including photos with her daughter, Khai</li><li>In the post, the model shared a glimpse at how she parents with a \u2026 [+3092 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Understandingwar.org"
-        },
-        "author": null,
-        "title": "Iran Update Special Report, June 19, 2025, Morning Edition - Institute for the Study of War",
-        "description": "CTP-ISW has observed fewer reports of Israeli airstrikes from social media accounts based in Iran, which likely reflects widespread internet disruptions in Iran rather than an actual decrease in Israeli airstrikes.",
-        "url": "https://www.understandingwar.org/backgrounder/iran-update-special-report-june-19-2025-morning-edition",
-        "urlToImage": "",
-        "publishedAt": "2025-06-19T17:40:27Z",
-        "content": "Ben Schmida, Carolyn Moorman, Kelly Campa, and Annika Ganzeveld \r\nInformation Cutoff: 6:00 AM ET\r\nThe Critical Threats Project (CTP) at the American Enterprise Institute and the Institute for the Stu\u2026 [+10021 chars]"
+        "author": "",
+        "title": "Top House Armed Services Democrat advises against U.S. military strike in Iran - NPR",
+        "description": "NPR's Steve Inskeep asks Rep. Adam Smith, D-Wash., top Democrat on the House Armed Services Committee, about U.S. policy on the conflict between Israel and Iran.",
+        "url": "https://www.npr.org/2025/06/19/nx-s1-5438111/democrats-israel-iran-us-congress",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6562x3691+0+477/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F59%2F5d%2F5fc9ec674ff8af7a6f9a02abdac9%2Fgettyimages-1719481914.jpg",
+        "publishedAt": "2025-06-19T18:01:40Z",
+        "content": "Rep. Adam Smith, D-Wash., wants the U.S. to remain on the sidelines of Israel's war with Iran. The ranking Democrat on the House Armed Services Committee told Morning Edition that there are too many \u2026 [+6558 chars]"
     },
     {
         "source": {
@@ -132,41 +119,15 @@
     {
         "source": {
             "id": null,
-            "name": "OregonLive"
+            "name": "9to5google.com"
         },
-        "author": "The Associated Press",
-        "title": "\u2018Razor blade\u2019 sore throat may be signature symptom of new COVID variant - OregonLive.com",
-        "description": "What to know about the COVID variant, detected in airport screenings in Washington state, that may cause \u2018razor blade\u2019 sore throats.",
-        "url": "https://www.oregonlive.com/coronavirus/2025/06/razor-blade-sore-throat-may-be-signature-symptom-of-new-covid-variant.html",
-        "urlToImage": "https://www.oregonlive.com/resizer/v2/4V3ZYCDOS5H35DS4XYWO7BDTAQ.jpg?auth=aa2f6bef870b034faa57e7a0572a433e61b5e8e4184b8879b69df3083803ad85&width=1280&quality=90",
-        "publishedAt": "2025-06-19T17:04:00Z",
-        "content": "The COVID-19 variant that may be driving a recent rise in cases in some parts of the world has earned a new nickname: razor blade throat COVID.\r\nThats because the variant NB.1.8.1. or Nimbus may caus\u2026 [+1882 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Sarah  Carter",
-        "title": "U.S. brokers deal between Democratic Republic of Congo and Rwanda to end war over mineral wealth - CBS News",
-        "description": "Fighting for control of the Democratic Republic of Congo's mineral wealth has killed millions. Trump wants to end it, and potentially reap huge rewards.",
-        "url": "https://www.cbsnews.com/news/trump-deal-democratic-republic-congo-rwanda-war-mineral-resources/",
-        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/06/19/d19880f2-3ae2-470e-8c75-71f02f5961ee/thumbnail/1200x630/20aa229d5e689f74c9d5ffa3ba439f72/congo-m23.jpg?v=64f55bb7ef9382fe7916b907da543f1f",
-        "publishedAt": "2025-06-19T17:01:50Z",
-        "content": "Johannesburg, South Africa \u2014\u00a0At the invitation of Democratic Republic of Congo President Felix Tshekedi, the Trump administration was brought in to lead negotiations to end the war raging in the east\u2026 [+7157 chars]"
-    },
-    {
-        "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "ABC News - Breaking News, Latest News and Videos",
-        "title": "Supreme Court upholds a state law banning some gender-affirming care for transgenders kids - ABC News - Breaking News, Latest News and Videos",
-        "description": null,
-        "url": "https://abcnews.go.com/Politics/supreme-court-upholds-state-law-banning-gender-affirming/story?id\\\\u003d122963919",
-        "urlToImage": null,
-        "publishedAt": "2025-06-19T16:38:15Z",
-        "content": null
+        "author": "Abner Li",
+        "title": "Gemini app rolls out video upload on Android, iPhone, & web - 9to5Google",
+        "description": "Besides the new navigation drawer and 2.5 Pro going stable, the Gemini app is rolling out video upload and analysis.",
+        "url": "http://9to5google.com/2025/06/19/gemini-app-video-upload/",
+        "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Ask-Gemini-Prompt.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-06-19T17:10:00Z",
+        "content": "Besides the new navigation drawer and 2.5 Pro going stable, the Gemini app is rolling out video upload and analysis. This lets you add a clip to your prompt.\r\nUpdate 6/19: Google has now rolled out v\u2026 [+2215 chars]"
     },
     {
         "source": {
@@ -180,19 +141,6 @@
         "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFsdxYeqmdGk/v1/1200x778.jpg",
         "publishedAt": "2025-06-19T16:20:51Z",
         "content": "American Airlines Group Inc. suspended daily flights from the US to the capital of Qatar, while United Airlines Holdings Inc. paused service to Dubai because of military actions and heightened tensio\u2026 [+417 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Dan Devine",
-        "title": "Thunder vs. Pacers: How can Indiana survive with Tyrese Haliburton hobbled? 3 big questions for do-or-die Game 6 - Yahoo Sports",
-        "description": "Here are three big things to keep an eye on for Game 6 of the 2025 NBA Finals.",
-        "url": "https://sports.yahoo.com/nba/article/thunder-vs-pacers-how-can-indiana-survive-with-tyrese-haliburton-hobbled-3-big-questions-for-do-or-die-game-6-161033775.html",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GnAVqelrW4fR8KbAJsbCSw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/748a56b0-4d24-11f0-9cfb-31e7596d4e1e",
-        "publishedAt": "2025-06-19T16:10:33Z",
-        "content": "Come Friday morning, the eyes of the NBA-watching world will be trained on Oklahoma City. The only question: Will we be watching for details on a parade route or getting ready for a winner-take-all, \u2026 [+7941 chars]"
     },
     {
         "source": {
@@ -223,14 +171,40 @@
     {
         "source": {
             "id": null,
-            "name": "Barron's"
+            "name": "PBS"
         },
-        "author": "Barron's",
-        "title": "Oil Prices Are Jumping. What History Says Happens When Conflicts Threaten Supply. - Barron's",
-        "description": null,
-        "url": "https://www.barrons.com/articles/oil-prices-history-stocks-iran-israel-supply-249fdf57",
-        "urlToImage": null,
-        "publishedAt": "2025-06-19T14:50:00Z",
-        "content": null
+        "author": null,
+        "title": "SpaceX rocket being tested in Texas explodes after \u2018major anomaly\u2019 but no injuries reported, company says - PBS",
+        "description": "The company said the Starship \u201cexperienced a major anomaly\u201d at about 11 p.m. while on the test stand preparing for the tenth flight test at Starbase, SpaceX\u2019s launch site at the southern tip of Texas.",
+        "url": "https://www.pbs.org/newshour/science/spacex-rocket-being-tested-in-texas-explodes-after-major-anomaly-but-no-injuries-reported-company-says",
+        "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/06/2025-06-19T090621Z_1168798396_RC2K5FAXUSQV_RTRMADP_3_SPACE-EXPLORATION-SPACEX-EXPLOSION-1024x575.jpg",
+        "publishedAt": "2025-06-19T15:53:41Z",
+        "content": "A SpaceX rocket being tested in Texas exploded Wednesday night, sending a dramatic fireball high into the sky.\r\nThe company said the Starship experienced a major anomaly at about 11 p.m. while on the\u2026 [+1799 chars]"
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Amy Mackinnon, Jamie Dettmer",
+        "title": "Washington has had it with Andriy Yermak - Politico",
+        "description": "The top aide to Ukraine's president may be setting back Kyiv's agenda with U.S. officials.",
+        "url": "https://www.politico.com/news/2025/06/19/ukraine-andriy-yermak-frustrates-trump-administration-00414197",
+        "urlToImage": "https://static.politico.com/a5/c0/5399f2f046b5b71c564606709fce/russia-ukraine-war-74112.jpg",
+        "publishedAt": "2025-06-19T15:45:00Z",
+        "content": "POLITICO spoke to 14 people for this story, including congressional aides, former U.S. and Ukrainian officials and others informed of Yermaks interactions in Washington. Most of those interviewed wer\u2026 [+9451 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Windows Central"
+        },
+        "author": "Cale Hunt",
+        "title": "'We're doing it all with backwards compatibility' \u2014 AMD's Lisa Su comments on the future of Xbox's partnership - Windows Central",
+        "description": "AMD's Lisa Su has released a new video detailing the new Xbox partnership from the chip maker's end. It sounds incredibly exciting indeed.",
+        "url": "https://www.windowscentral.com/gaming/xbox/were-doing-it-all-with-backwards-compatibility-amds-lisa-su-comments-on-the-future-of-xboxs-partnership",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/kXYDJxxM3gGekRS7Cm7N7C.jpg",
+        "publishedAt": "2025-06-19T15:42:24Z",
+        "content": "It's only been a couple of days since our own Jez Corden shared an exclusive report regarding a new multi-year partnership between Xbox and AMD for first-party hardware.\r\nPart of the official announc\u2026 [+4187 chars]"
     }
 ]
