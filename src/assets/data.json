@@ -1,16 +1,55 @@
 [
     {
         "source": {
-            "id": "the-jerusalem-post",
-            "name": "The Jerusalem Post"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": null,
-        "title": "Tel Aviv resident account of missile strike reveals Iran's precision - The Jerusalem Post",
-        "description": "\u201cWe had just finished dinner at the neighbors\u2019 when the siren went off. Some of us stayed in their safe room, and some ran back to ours,\" Amit, a resident who survived the strike, said.",
-        "url": "https://www.jpost.com/israel-news/defense-news/article-858413",
-        "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/640132",
-        "publishedAt": "2025-06-20T04:46:47Z",
-        "content": null
+        "author": "Ben Golliver",
+        "title": "Tyrese Haliburton plays through injury, sparks Pacers to force Game 7 - The Washington Post",
+        "description": "Guard scores 14 points in 23 minutes as Indiana rolls at home, 108-91, to send the NBA Finals to a winner-take-all finale in Oklahoma City on Sunday night.",
+        "url": "https://www.washingtonpost.com/sports/2025/06/19/pacers-thunder-nba-finals-tyrese-haliburton/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AJHUYW3EFUFPCLFHMJLGSRAKKE.jpg&w=1440",
+        "publishedAt": "2025-06-20T07:48:50Z",
+        "content": "INDIANAPOLIS For Indiana Pacers guard Tyrese Haliburton, one good leg was more than enough to deny the Oklahoma City Thunder its first chance to win the NBA championship.\r\nHaliburton gutted through a\u2026 [+6917 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Perry Stein",
+        "title": "Trump can keep National Guard in Los Angeles, appeals court rules - The Washington Post",
+        "description": "The federal appeals court\u2019s ruling was a win for President Donald Trump as he aims to use the military to police protests of his deportation efforts.",
+        "url": "https://www.washingtonpost.com/politics/2025/06/20/trump-keep-national-guard-la-ruling/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/THKJRUZBE3SRLIMQ7456BLFY3E_size-normalized.JPG&w=1440",
+        "publishedAt": "2025-06-20T06:20:19Z",
+        "content": "A federal appeals court in San Francisco said Thursday that President Donald Trump can keep the California National Guard in Los Angeles for now, delivering a win for the president as he aims to use \u2026 [+4200 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Deadline"
+        },
+        "author": "Anthony D'Alessandro",
+        "title": "\u201928 Years Later\u2019 $5M+, \u2018Elio\u2019 $2.5M-$3M Previews \u2013 Thursday Night Box Office - Deadline",
+        "description": "At the Thursday night box office, '28 Years Later' is seeing $5M+ previews, while Disney's 'Elio' is seeing $2.5M-$3M from combined Wednesday and Thursday previews.",
+        "url": "http://deadline.com/2025/06/box-office-28-years-later-elio-dragon-1236438207/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2025/06/28-Days-Later-and-Elio.jpg?w=1024",
+        "publishedAt": "2025-06-20T05:40:00Z",
+        "content": "EXCLUSIVE: Sony\u2019s 28 Years Lateris coming in with a preview gross tonight that\u2019s well north of $5M, we are hearing from sources. \r\nBut don\u2019t start comping it yet to New Line\u2019s box office surprise seq\u2026 [+1940 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "OCRegister"
+        },
+        "author": "Bill Plunkett",
+        "title": "Federal agents denied entry to Dodger Stadium by team - Orange County Register",
+        "description": "The Dodgers issued a statement saying the organization denied access to ICE. The team has postponed an announcement regarding their support for immigrant communities.",
+        "url": "https://www.ocregister.com/2025/06/19/ice-agents-denied-entry-to-dodger-stadium-by-team/",
+        "urlToImage": "https://www.ocregister.com/wp-content/uploads/2025/06/LDN-L-DODGERS-ICE-0620-KB02.jpg?w=1024&h=620",
+        "publishedAt": "2025-06-20T03:30:10Z",
+        "content": "LOS ANGELES The unrest centered on ICE raids throughout the Los Angeles area has found its way to Dodger Stadium.\r\nFederal agents were denied access to Dodger Stadium on Thursday morning. Video shows\u2026 [+6602 chars]"
     },
     {
         "source": {
@@ -28,41 +67,54 @@
     {
         "source": {
             "id": null,
-            "name": "CBS Sports"
+            "name": "CNBC"
         },
-        "author": "Jack Maloney",
-        "title": "Pacers vs. Thunder score: Indiana forces first NBA Finals Game 7 in nine years with blowout victory - CBS Sports",
-        "description": "The Pacers dominated OKC to force a winner-take-all Game 7",
-        "url": "https://www.cbssports.com/nba/news/pacers-vs-thunder-score-indiana-forces-first-nba-finals-game-7-in-nine-years-with-blowout-victory/live/",
-        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/06/20/261d6a5e-1443-4d76-a1d4-7a22ef69687a/thumbnail/1200x675/c2008624ea97d1fa805b67891a79ab30/haliburton-getty-7.png",
-        "publishedAt": "2025-06-20T03:11:00Z",
-        "content": "In the immortal words of Zaza Pachulia, \"we're going to Game 7, baby!\" The Indiana Pacers dominated Game 6 of the 2025 NBA Finals on Thursday, leading by as many as 31 points en route to a 108-91 win\u2026 [+6672 chars]"
+        "author": "Amala Balakrishner",
+        "title": "Asia-Pacific markets mostly rise after China keeps benchmark rates steady - CNBC",
+        "description": "The People's Bank of China expectedly kept its loan rates unchanged at 3.0% for the 1-year loan prime rate and 3.5% for the 5-year LPR.",
+        "url": "https://www.cnbc.com/2025/06/20/asia-stock-markets-today-live-updates-for-june-20-2025.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108160169-1750129420757-gettyimages-587146239-09b9aab7-0536-47b6-bfe8-2d894ae2244c.jpeg?v=1750129436&w=1920&h=1080",
+        "publishedAt": "2025-06-20T03:14:00Z",
+        "content": "Asia-Pacific markets traded mixed Friday after China kept benchmark rates steady, while investors monitored escalating tensions between Israel and Iran.\r\nU.S. President Donald Trump is now weighing w\u2026 [+1501 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "NPR"
+            "name": "mlive.com"
         },
-        "author": "Laura Fitzgerald",
-        "title": "An appeals court backs Trump\u2019s control of the California National Guard for now - NPR",
-        "description": "The ruling maintains a block on a lower court's order that found President Trump was using the Guard in LA illegally in his immigration crackdown.",
-        "url": "https://www.npr.org/2025/06/19/g-s1-73050/trump-national-guard-california-immigration",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/9528x5360+0+484/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc8%2Fc0%2Faa62b6704e038ebcd4ed37411fa9%2Fap25165812209352.jpg",
-        "publishedAt": "2025-06-20T02:54:22Z",
-        "content": "A California appeals court has ruled that President Trump can maintain control over California National Guard troops in Los Angeles rejecting at least temporarily Gov. Gavin Newsom's attempt to take \u2026 [+3436 chars]"
+        "author": "Mark Torregrossa | mtorregr@mlive.com",
+        "title": "Heat wave coming; How hot, how long - MLive.com",
+        "description": "This is going to be a fairly long stretch of hot days, at least for about half of Michigan.",
+        "url": "https://www.mlive.com/weather/2025/06/heat-wave-coming-how-hot-how-long.html",
+        "urlToImage": "https://www.mlive.com/resizer/v2/NBAAIXEBIRBOZNMFMEUOF6GLPU.png?auth=99a66c36a0034be604f01d668b54fee73f019984e1e3e817bfbd48dca64a9cee&width=1280&quality=90",
+        "publishedAt": "2025-06-20T03:09:00Z",
+        "content": "We definitely have the hottest stretch of weather weve had in several years here in Michigan. This wont be true for the entire state, but certainly for the southern half of Lower Michigan.\r\nThe upper\u2026 [+2313 chars]"
     },
     {
         "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
+            "id": null,
+            "name": "POLITICO.eu"
         },
-        "author": "Reuters",
-        "title": "Judge blocks Trump plan to tie states' transportation funds to immigration enforcement - NBC News",
-        "description": "A federal judge on Thursday blocked President Donald Trump\u2019s administration from forcing 20 Democratic-led states to cooperate with immigration enforcement in order to receive billions of dollars in transportation grant funding",
-        "url": "https://www.nbcnews.com/politics/politics-news/judge-blocks-trump-plan-tie-states-transportation-funds-immigration-en-rcna214030",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250603-donald-trump-ew-452p-08eb10.jpg",
-        "publishedAt": "2025-06-20T02:47:00Z",
-        "content": "A federal judge on Thursday blocked President Donald Trumps administration from forcing 20 Democratic-led states to cooperate with immigration enforcement in order to receive billions of dollars in t\u2026 [+2472 chars]"
+        "author": "Tim Ross, Clea Caulcutt, Dan Bloom, Nette N\u00f6stlinger",
+        "title": "Europe strains to give Trump an off-ramp on bombing Iran - politico.eu",
+        "description": "Germany, France and the U.K. prepare for talks with Iranian officials in Geneva. Can they stop Trump joining Israel\u2019s war?",
+        "url": "https://www.politico.eu/article/donald-trump-iran-israel-keir-starmer-emmanuel-macron-friedrich-merz-europe/",
+        "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/19/GettyImages-2219461659-scaled.jpg",
+        "publishedAt": "2025-06-20T03:03:00Z",
+        "content": "Back in 2015, these same European powers \u00a0the so-called E3 played a major part in striking the last Iran nuclear deal, the Joint Comprehensive Plan of Action (JCPOA). But that was under Barack Obamas\u2026 [+1513 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Barak Ravid",
+        "title": "Trump to decide on Iran action within two weeks, White House says - Axios",
+        "description": "Trump is leaving the door open to a diplomatic solution in the coming days.",
+        "url": "https://www.axios.com/2025/06/19/trump-iran-strike-two-weeks-israel",
+        "urlToImage": "https://images.axios.com/58t9UH2nSln_RTg0Cc8Ccwg_a3k=/0x158:6000x3533/1366x768/2025/06/19/1750355316484.jpg",
+        "publishedAt": "2025-06-20T02:53:08Z",
+        "content": "State of play: Trump met with his top national security team in the Situation Room on Thursday the third such meeting in three days. He's seriously considering joining the war, but wants to ensure th\u2026 [+2230 chars]"
     },
     {
         "source": {
@@ -80,54 +132,28 @@
     {
         "source": {
             "id": null,
-            "name": "TheStreet"
+            "name": "NPR"
         },
-        "author": "TheStreet",
-        "title": "Tesla's robotaxi rollout runs into trouble - TheStreet",
-        "description": null,
-        "url": "https://www.thestreet.com/technology/teslas-robotaxi-rollout-runs-into-trouble-texas",
-        "urlToImage": null,
-        "publishedAt": "2025-06-19T23:44:58Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "ABC News - Breaking News, Latest News and Videos",
-        "title": "Bombing Iran's underground Fordo nuclear plant might not be effective, one expert says - ABC News - Breaking News, Latest News and Videos",
-        "description": null,
-        "url": "https://abcnews.go.com/Politics/bombing-irans-underground-fordo-nuclear-plant-effective-expert/story?id\\\\u003d123013773",
-        "urlToImage": null,
-        "publishedAt": "2025-06-19T23:37:09Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Kevin Liptak, Kylie Atwood, Jennifer Hansler",
-        "title": "Trump\u2019s new two-week negotiating window sets off scramble to restart stalled Iran talks - CNN",
-        "description": "President Donald Trump\u2019s decision to open a two-week negotiating window before deciding on striking Iran sets off an urgent effort to restart talks that had been deadlocked when Israel began its bombing campaign last week.",
-        "url": "https://www.cnn.com/2025/06/19/politics/trump-iran-negotiations-pessimism",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2219666220.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-06-19T23:19:00Z",
-        "content": "President Donald Trumps decision to open a two-week negotiating window before deciding on striking Iran sets off an urgent effort to restart talks that had been deadlocked when Israel began its bombi\u2026 [+7427 chars]"
+        "author": "",
+        "title": "Federal judge says Trump administration can't block state funding over immigration - NPR",
+        "description": "The ruling comes ahead of a grant application deadline on June 20, which would have required states to agree to enforce the Trump administration's immigration agenda or lose transportation funding.",
+        "url": "https://www.npr.org/2025/06/19/nx-s1-5439583/transportation-funding-immigration-enforcement-dei-duffy-directive-trump",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6073x3416+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3a%2F99%2Fd9a8c72a4f939a929544f1e11641%2Fgettyimages-2218302581-3.jpg",
+        "publishedAt": "2025-06-20T02:23:00Z",
+        "content": "The Trump Administration cannot withhold billions of dollars in transportation grant funding from Democrat-led states refusing to cooperate with immigration enforcement, according to a ruling on Thur\u2026 [+2497 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Rogerebert.com"
+            "name": "Gematsu"
         },
-        "author": null,
-        "title": "Elio movie review & film summary (2025) - Roger Ebert",
-        "description": "As predictable as they come but as tender as they can get.",
-        "url": "https://www.rogerebert.com/reviews/elio-disney-pixar-movie-review-2025",
-        "urlToImage": "https://www.rogerebert.com/wp-content/uploads/2025/06/eliore.jpg",
-        "publishedAt": "2025-06-19T22:47:09Z",
-        "content": "Schmaltzy yet sincere, Elio, the latest from Pixar, is as predictable as they come but as tender as they can get. The animated spectacle possesses many of the ingredients familiar to the studios best\u2026 [+4166 chars]"
+        "author": "Sal Romano",
+        "title": "NetEase Games announces AAA single-player action adventure game Blood Message for consoles, PC - Gematsu",
+        "description": "Publisher NetEase Games and developer 24 Entertainment Lin\u2019an, a new development studio and subsidiary of Thunder Fire Studio, have announced Blood Message, a cinematic, single-player, linear\u2026",
+        "url": "https://www.gematsu.com/2025/06/netease-games-announces-aaa-single-player-action-adventure-game-blood-message-for-consoles-pc",
+        "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/06/Blood-Message_2025_06-19-25_019.jpg",
+        "publishedAt": "2025-06-20T01:30:48Z",
+        "content": "\u201cWe are ushering players into a new generation of high adventure with Blood Message,\u201d said NetEase Games lead producer and executive vice president Zhipeng Hu in a press release. \u201cAs our first comple\u2026 [+2765 chars]"
     },
     {
         "source": {
@@ -193,18 +219,5 @@
         "urlToImage": null,
         "publishedAt": "2025-06-19T21:39:27Z",
         "content": null
-    },
-    {
-        "source": {
-            "id": "fox-news",
-            "name": "Fox News"
-        },
-        "author": "Charles Creitz",
-        "title": "WH praises SCOTUS ruling upholding TN ban on transgender treatments: \u2018Victory for America\u2019s children\u2019 - Fox News",
-        "description": "Karoline Leavitt applauds Supreme Court for protecting 'America's innocent children' in transgender case",
-        "url": "https://www.foxnews.com/politics/wh-praises-scotus-ruling-upholding-tn-ban-transgender-treatments-victory-americas-children",
-        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/03/gettyimages-2205085791.jpg",
-        "publishedAt": "2025-06-19T21:07:29Z",
-        "content": "The White House on Thursday praised the Supreme Courts ruling that a Tennessee law banning puberty blockers and other treatments for transgender minors did not violate the Fourteenth Amendment.\r\nDuri\u2026 [+2616 chars]"
     }
 ]
