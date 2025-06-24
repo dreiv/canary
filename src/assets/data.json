@@ -1,6 +1,71 @@
 [
     {
         "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Richard Henderson",
+        "title": "Oil Surges, US Futures Drop After Strikes on Iran: Markets Wrap - Bloomberg",
+        "description": "US equity futures dropped and oil advanced in Asia on Monday after Washington struck Iran\u2019s nuclear sites over the weekend.",
+        "url": "https://www.bloomberg.com/news/articles/2025-06-22/oil-surges-us-futures-drop-after-strikes-on-iran-markets-wrap",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipoCwfJIqk5c/v0/1200x675.png",
+        "publishedAt": "2025-06-23T01:35:00Z",
+        "content": "US equity futures dropped and oil advanced in Asia on Monday after Washington struck Irans nuclear sites over the weekend. \r\nContracts for the S&amp;P 500 declined around 0.3% and a gauge of Asian eq\u2026 [+204 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Israel Hayom"
+        },
+        "author": "ErezL",
+        "title": "The untold story of the Iran war: How Israel did the unthinkable - www.israelhayom.com",
+        "description": "In early January, after meetings at the Prime Minister's Office's 8th floor and then then at the Kirya in Tel Aviv, it was clear: Israel had crossed the",
+        "url": "https://www.israelhayom.com/2025/06/22/the-untold-story-of-the-iran-war-how-israel-did-the-unthinkable/",
+        "urlToImage": "https://www.israelhayom.com/wp-content/uploads/2025/06/a972cbc3-a15f-4c9e-9d2b-cdd45f4929e4.jpg",
+        "publishedAt": "2025-06-23T01:24:21Z",
+        "content": "In early January, an Israeli official met with Minister of Strategic Affairs Ron Dermer on the eighth floor of the Prime Minister's Office in Jerusalem. A week later, the same official met with then-\u2026 [+24688 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Meg Kelly, Joyce Sohyun Lee, Nilo Tabrizy, Evan Hill, Dylan Moriarty",
+        "title": "What satellite images show of damage to Iran\u2019s nuclear sites - The Washington Post",
+        "description": "A Washington Post examination of visuals, expert analysis and official statements shows damage to Iran\u2019s Fordow nuclear site after U.S. strikes.",
+        "url": "https://www.washingtonpost.com/investigations/2025/06/22/iran-strikes-nuclear-site-damage-visuals/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MOG6RO3XIFTJPQ6ECEK726W5O4.JPG&w=1440",
+        "publishedAt": "2025-06-23T01:21:40Z",
+        "content": "Satellite imagery taken Sunday morning shows at least six apparent bomb entry points at Irans key Fordow uranium enrichment facility, according to a Washington Post visual analysis and multiple exper\u2026 [+4426 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Farmingdale-observer.com"
+        },
+        "author": null,
+        "title": "A hidden swarm of 'city-killer' asteroids around Venus could one day collide with Earth, simulations suggest. - Farmingdale Observer",
+        "description": "Recent astronomical simulations have uncovered a concerning revelation: Venus may harbor numerous hidden asteroids capable of devastating Earth upon impact. These \"city killer\" space rocks orbit the sun alongside Venus but remain largely undetected due to the\u2026",
+        "url": "https://farmingdale-observer.com/2025/06/22/a-hidden-swarm-of-city-killer-asteroids-around-venus-could-one-day-collide-with-earth-simulations-suggest/",
+        "urlToImage": null,
+        "publishedAt": "2025-06-23T01:15:00Z",
+        "content": "Recent astronomical simulations have uncovered a concerning revelation: Venus may harbor numerous hidden asteroids capable of devastating Earth upon impact. These \u201ccity killer\u201d space rocks orbit the \u2026 [+3866 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Rohan Nadkarni",
+        "title": "Pacers star Tyrese Haliburton left Game 7 of the NBA Finals with injury - NBC News",
+        "description": "Indiana Pacers guard Tyrese Haliburton left Game 7 of the NBA Finals in the first quarter with a right leg injury",
+        "url": "https://www.nbcnews.com/sports/nba/tyrese-haliburton-injury-game-7-rcna214415",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250622-NBA-832-e47990.jpg",
+        "publishedAt": "2025-06-23T00:35:00Z",
+        "content": "Indiana Pacers guard Tyrese Haliburton left Game 7 of the NBA Finals in the first quarter with a right leg injury.\r\nThe Pacers announced during the second quarter that Haliburton would not return wit\u2026 [+2016 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "CBS Sports"
         },
@@ -14,16 +79,42 @@
     },
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Andrew J. Hawkins",
+        "title": "Tesla\u2019s robotaxi is live: here are some of the first reactions. - The Verge",
+        "description": "Tesla launched a limited robotaxi service with safety monitors in the passenger seat in a small area in Austin, Texas.",
+        "url": "https://www.theverge.com/news/690846/tesla-robotaxi-first-reaction-austin",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/gettyimages-2220744156.jpg?quality=90&strip=all&crop=0%2C10.785131724411%2C100%2C78.429736551177&w=1200",
+        "publishedAt": "2025-06-22T23:58:26Z",
+        "content": "Elon Musk promised an unsupervised robotaxi service would launch in June. I guess that depends on your definition of unsupervised.\r\nTesla finally did the damn thing. The company launched its hotly an\u2026 [+6198 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "State.gov"
         },
         "author": null,
-        "title": "Police say church staff shot man with handgun and a long gun, averting a potential mass shooting - AP News",
-        "description": "A Michigan police chief says church staff fatally shot a man armed with a handgun and a long gun, averting a potential mass shooting at a church west of Detroit. Police Chief Ryan Strong said people gathered at CrossPointe Community Church in Wayne spotted th\u2026",
-        "url": "https://apnews.com/article/wayne-michigan-church-shooting-e207650364395f08c1a31937c4240331",
-        "urlToImage": "https://dims.apnews.com/dims4/default/6e9c10b/2147483647/strip/true/crop/3009x1693+0+157/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F99%2Ff8%2F35a3d0929f67d79af34b6da17db9%2Fa78052931abd444188298b633f7faafb",
-        "publishedAt": "2025-06-22T23:22:00Z",
-        "content": "WAYNE, Mich. (AP) A man who opened fire outside a Michigan church filled with worshippers on Sunday was struck by a vehicle and then fatally shot by security staff who averted a potential mass shooti\u2026 [+2336 chars]"
+        "title": "Worldwide Caution - U.S. Department of State (.gov)",
+        "description": "On June 22, 2025, the Department of State issued a Worldwide Caution Security Alert advising U.S. citizens overseas to exercise increased caution.\u00a0 The full text of the updated Worldwide Caution Security Alert is as follows: Event:\u00a0The conflict between Israel\u2026",
+        "url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/06/worldwide-caution/",
+        "urlToImage": "https://www.state.gov/wp-content/uploads/2025/01/Tarawera_social_template.png",
+        "publishedAt": "2025-06-22T23:46:49Z",
+        "content": "On June 22, 2025, the Department of State issued a Worldwide Caution Security Alert advising U.S. citizens overseas to exercise increased caution.\u00a0\r\nThe full text of the updated Worldwide Caution Sec\u2026 [+578 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Detroit News"
+        },
+        "author": "Summer Ballentine, Carol Thompson",
+        "title": "Police credit staffers for stopping gunman at Wayne Co. church: They 'prevented a mass shooting' - The Detroit News",
+        "description": "Congregants were gathered Sunday for a special vacation Bible school service at CrossPointe Community Church when the shooting happened. A security guard killed gunman.",
+        "url": "https://www.detroitnews.com/story/news/local/wayne-county/2025/06/22/security-guard-kills-active-shooter-at-crosspointe-church-wayne-police-say/84307435007/",
+        "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2025/06/22/PDTN/84307789007-img-7367.jpeg?crop=2345,1317,x0,y0&width=2345&height=1317&format=pjpg&auto=webp",
+        "publishedAt": "2025-06-22T23:46:19Z",
+        "content": "Wayne\u00a0 A gunman wearing a tactical vest and carrying two guns targeted a suburban Detroit church Sunday morning, firing shots into the building's exterior during a special vacation Bible School servi\u2026 [+4396 chars]"
     },
     {
         "source": {
@@ -80,19 +171,6 @@
     {
         "source": {
             "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Yahoo Sports Staff",
-        "title": "College World Series 2025: LSU defeats Coastal Carolina, 5-3, in Game 2 for 2nd national title in 3 seasons - Yahoo",
-        "description": "LSU is pursuing its eighth national baseball championship in school history, while Coastal Carolina won the title in 2016.",
-        "url": "https://sports.yahoo.com/college-sports/live/college-world-series-2025-live-updates-highlights-score-from-coastal-carolina-vs-lsu-in-game-2-of-mcws-164503112.html",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IXPOMkkzyyednwbVS2TtBw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/453fde60-4488-11f0-a67d-4d48237e1ddd",
-        "publishedAt": "2025-06-22T22:10:26Z",
-        "content": "The Men's College World Series could end on Sunday afternoon and provide a national champion for the 2025 NCAA college baseball season.\r\nLSU won Game 1 on Saturday night, 1-0, behind a stellar perfor\u2026 [+1127 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Eonline.com"
         },
         "author": null,
@@ -131,80 +209,54 @@
     },
     {
         "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
+            "id": null,
+            "name": "Variety"
         },
-        "author": "Anthony Ha",
-        "title": "Why Danny Boyle shot \u201828 Years Later\u2019 on iPhones - TechCrunch",
-        "description": "Director Danny Boyle famously shot his post-apocalyptic classic \u201c28 Days Later\u201d on Canon digital cameras, making it easier for him to capture eerie scenes",
-        "url": "https://techcrunch.com/2025/06/22/why-danny-boyle-shot-28-years-later-with-iphones/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/28-years-later-header-1748565041777.jpg?resize=1200,800",
-        "publishedAt": "2025-06-22T20:22:00Z",
-        "content": "Director Danny Boyle famously shot his post-apocalyptic classic 28 Days Later on Canon digital cameras, making it easier for him to capture eerie scenes of an abandoned London, and giving the movies \u2026 [+953 chars]"
+        "author": "Alex Ritman",
+        "title": "28 Years Later Alpha Zombie Actor on Prosthetic Penis and Train Injury - Variety",
+        "description": "Chi Lewis-Parry discusses playing 28 Years Later's main Alpha infected Samson, ripping out spines and lobbying to the be the next Bond villain",
+        "url": "https://variety.com/2025/film/global/28-years-later-alpha-zombie-actor-prosthetic-penis-1236436227/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2025/06/GettyImages-2220797506.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2025-06-22T20:43:00Z",
+        "content": "Danny Boyle\u2018s terrifying zombies \u2014\u00a0sorry, the infected \u2014 are back, and with them, a truly enormous and terrifying specimen.\r\n\u201c28 Years Later\u201d has proved a critical triumph for the director and co-wri\u2026 [+9547 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "POLITICO.eu"
+        },
+        "author": "Jan Cienski",
+        "title": "NATO allies agree to 5 percent defense spending goal - politico.eu",
+        "description": "Spain threw up a last-minute roadblock to the new spending target, but gave way after being granted flexibility.",
+        "url": "https://www.politico.eu/article/nato-allies-defense-spending-goal-spain-gdp/",
+        "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/22/13141711-scaled.jpg",
+        "publishedAt": "2025-06-22T20:19:00Z",
+        "content": "In order to bring Madrid on board, the new language that leaders will approve on Wednesday was changed from \"we commit\" to \"allies commit\" to spend 5 percent on defense, a NATO official said. That wo\u2026 [+1351 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Nintendo Life"
+        },
+        "author": "Damien McFerran",
+        "title": "Digital Foundry Is \"Happy\" With Switch 2 But Feels The Screen Is \"Problematic\" - Nintendo Life",
+        "description": "Display has \"blurring characteristics that are easily worse than the 2017 Switch\u2019s display\"",
+        "url": "https://www.nintendolife.com/news/2025/06/digital-foundry-is-happy-with-switch-2-but-feels-the-screen-is-problematic",
+        "urlToImage": "https://images.nintendolife.com/20b1277270269/large.jpg",
+        "publishedAt": "2025-06-22T20:00:00Z",
+        "content": "Image: Damien McFerran / Nintendo Life\r\nThe tech boffins over at Digital Foundry have delivered their final verdict on Switch 2, and it's mostly positivebut the console's LCD screen has been found wa\u2026 [+2388 chars]"
     },
     {
         "source": {
             "id": "axios",
             "name": "Axios"
         },
-        "author": "Alex Isenstadt",
-        "title": "Scoop: Trump launches MAGA PAC in effort to oust Rep. Massie from Congress - Axios",
-        "description": "By going after Massie, Trump's team is looking to put wayward Republicans on notice that they're ready to play hardball.",
-        "url": "https://www.axios.com/2025/06/22/trump-massie-congress-2026",
-        "urlToImage": "https://images.axios.com/HIs91cbxoIIMOs2GKc8xVFdWBLw=/0x114:2792x1684/1366x768/2025/06/22/1750617286334.jpg",
-        "publishedAt": "2025-06-22T19:09:47Z",
-        "content": "<ul><li>Massie has attacked Trump over his strike on Iran,saying on X that it was \"not Constitutional,\" prompting the president to fire back on Truth Social that the congressman is \"not MAGA.\"</li><l\u2026 [+3121 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "ComicBook.com"
-        },
-        "author": "Cade Onder",
-        "title": "Cancelled Batman Arkham Game Concept Art Reveals Old Bruce Wayne, Villains, and More - ComicBook.com",
-        "description": "A set of concept art from a cancelled Batman Arkham sequel shows off an old Bruce Wayne, Damian Wayne, and more.",
-        "url": "http://comicbook.com/gaming/news/cancelled-batman-arkham-damian-wayne-game-bruce-wayne-concept-art/",
-        "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2025/06/Arkham-Knight.jpg?resize=2000,1125",
-        "publishedAt": "2025-06-22T18:38:16Z",
-        "content": "A bunch of concept art for a cancelled Batman Arkham game has surfaced, revealing a new look at an older Bruce Wayne, Damian Wayne, and some villains. The Batman mythos is one of the most revered com\u2026 [+3163 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": null,
-        "title": "Spain reaches deal with NATO ahead of summit to be excluded from 5% defense spending goal - AP News",
-        "description": "Prime Minister Pedro S\u00e1nchez says that Spain reached a deal with NATO to be excluded from a 5% of GDP defense spending target. The deal was reached days before the military alliance\u2019s leaders will gather at a summit in The Hague. S\u00e1nchez said that Spain would\u2026",
-        "url": "https://apnews.com/article/nato-spain-trump-defense-spending-8b554694c18511a3b835e44a15042694",
-        "urlToImage": "https://dims.apnews.com/dims4/default/cb4c90a/2147483647/strip/true/crop/4000x2250+0+208/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8e%2F6c%2F41beee043874399db5bca5b91c15%2F553bd811dfd04a03a66a4a8370e32936",
-        "publishedAt": "2025-06-22T18:31:00Z",
-        "content": "MADRID (AP) Spain reached a deal with NATO to be excluded from a 5% of GDP defense spending target, days before the military alliances leaders will gather at a summit, Prime Minister Pedro S\u00e1nchez sa\u2026 [+1617 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Suicide bombing at Damascus church kills 20, authorities say - BBC",
-        "description": "The interior ministry said a man affiliated with IS entered a church and opened fire before blowing himself up.",
-        "url": "https://www.bbc.com/news/articles/c307n9p43z9o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c5c3/live/17cf3e10-4f93-11f0-a466-d54f65b60deb.jpg",
-        "publishedAt": "2025-06-22T18:29:45Z",
-        "content": "At least 20 people have been killed and 52 others wounded in a suicide bombing at a church on the outskirts of Damascus, Syria's health ministry has said. \r\nThe attacker entered Mar Elias Church in D\u2026 [+1325 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "PBS"
-        },
-        "author": null,
-        "title": "Iranian missile fired on Tel Aviv after U.S. strikes causes heavy damage but few injuries - PBS",
-        "description": "Hours after the\u00a0U.S. struck three Iranian nuclear sites,\u00a0Iran launched more than 40 missiles toward Israel on Sunday. At an impact site in Tel Aviv, the blast had sheared off the face of a multistory residential building and damaged several others, but few pe\u2026",
-        "url": "https://www.pbs.org/newshour/world/iranian-missile-fired-on-tel-aviv-after-u-s-strikes-causes-heavy-damage-but-few-injuries",
-        "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/06/2025-06-22T114022Z_104271357_RC2N7FAQVOQZ_RTRMADP_3_IRAN-NUCLEAR-ISRAEL-MISSILES-1024x683.jpg",
-        "publishedAt": "2025-06-22T18:20:05Z",
-        "content": "TEL AVIV, Israel (AP) Hours after the\u00a0U.S. struck three Iranian nuclear sites,\u00a0Iran launched more than 40 missiles toward Israel on Sunday, wounding 23 people and destroying apartment buildings and h\u2026 [+3654 chars]"
+        "author": "Barak Ravid",
+        "title": "At Trump's request, Israel cleared way for U.S. bombers in Iran - Axios",
+        "description": "The operation marked the culmination of months of intense U.S.-Israeli coordination.",
+        "url": "https://www.axios.com/2025/06/22/trump-israel-iran-strikes-air-defenses",
+        "urlToImage": "https://images.axios.com/tKTOgUiRIwBluWUYDFber8BINOg=/0x0:5513x3101/1366x768/2025/06/22/1750613716088.jpg",
+        "publishedAt": "2025-06-22T17:44:45Z",
+        "content": "<ul><li>That partnership peaked in the final hours before the strike, when Israel played a direct role in enabling the U.S. military operation.</li><li>\"I want to thank and congratulate Prime Ministe\u2026 [+2801 chars]"
     }
 ]
