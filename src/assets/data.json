@@ -5,12 +5,38 @@
             "name": "Associated Press"
         },
         "author": null,
-        "title": "Pressure from Trump for trade deals before Wednesday deadline, but hints of more time for talks - AP News",
-        "description": "The United States is stepping up pressure on trading partners to quickly make new deals before a Wednesday deadline when a tariff pause by President Donald Trump expires. There are plans for the U.S. to start sending letters Monday warning countries that high\u2026",
-        "url": "https://apnews.com/article/trump-tariffs-deadline-bessent-negotiations-94f8f81ad7fe60748198c4f115f3671b",
-        "urlToImage": "https://dims.apnews.com/dims4/default/4b7e666/2147483647/strip/true/crop/4290x2413+0+223/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff6%2Fd4%2F745bde5de8af81f37e1be93803ec%2F769af5a146ca43839e6f81278cf53ecc",
-        "publishedAt": "2025-07-06T22:05:00Z",
-        "content": "WASHINGTON (AP) The Trump administration is stepping up pressure on trading partners to quickly make new deals before a Wednesday deadline, with plans for the United States to start sending letters M\u2026 [+4888 chars]"
+        "title": "What to know about the flash floods in Texas that killed at least 79 people - AP News",
+        "description": "Flash floods in Texas have killed at least 79 people, many of them children. More than 40 people are missing. Heavy rains fell quickly in the predawn hours Friday in the Texas Hill Country, causing the Guadalupe River to rise 26 feet in just 45 minutes. Among\u2026",
+        "url": "https://apnews.com/article/flash-flood-texas-camp-mystic-aec9181a07d3ce8ff85197922e108b13",
+        "urlToImage": "https://dims.apnews.com/dims4/default/154f53b/2147483647/strip/true/crop/3600x2025+0+80/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2F78%2Fd1cad5f70533b8ed2593e866e61c%2F71337bc08bf34e5ebd8267d8fc6fb9a3",
+        "publishedAt": "2025-07-06T23:12:00Z",
+        "content": "KERRVILLE, Texas (AP) Flash floods in Texas killed dozens and left an unknown number of July Fourth visitors and campers missing, including many girls attending Camp Mystic. The devastation along the\u2026 [+4197 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Sarah Min",
+        "title": "Stock futures fall after Trump says tariffs will go into effect on Aug. 1, not July 9: Live updates - CNBC",
+        "description": "Wall Street is coming off a holiday-shortened week during which the S&P 500 and Nasdaq Composite posted fresh all-time highs.",
+        "url": "https://www.cnbc.com/2025/07/06/stock-market-today-live-updates.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108167041-1751468401082-Traders-Photo-20250701-KK-PRESS-022.jpg?v=1751468635&w=1920&h=1080",
+        "publishedAt": "2025-07-06T23:04:00Z",
+        "content": "U.S. stock futures fell Sunday night after President Donald Trump confirmed that tariffs are set to go into effect Aug. 1, not July 9.\r\nDow Jones Industrial Average futures slid by 146 points, or 0.3\u2026 [+2749 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Michael Williams",
+        "title": "Musk says he is forming new political party after fallout with Trump - CNN",
+        "description": "Billionaire Elon Musk said Saturday he is forming a third political party, after a dramatic falling out with Donald Trump, indicating he will make good on threats he made if the president\u2019s domestic policy bill became law.",
+        "url": "https://www.cnn.com/2025/07/05/politics/elon-musk-political-party",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2216312549-20250701190436976.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-07-06T21:47:00Z",
+        "content": "Billionaire Elon Musk said Saturday he is forming a third political party, after a dramatic falling out with Donald Trump, indicating he will make good on threats he made if the presidents domestic p\u2026 [+3263 chars]"
     },
     {
         "source": {
@@ -41,6 +67,19 @@
     {
         "source": {
             "id": null,
+            "name": "MarketWatch"
+        },
+        "author": "Mike Murphy",
+        "title": "Oil prices fall as OPEC+ ramps up production; U.S. stock futures decline as tariffs to go into effect Aug. 1 - MarketWatch",
+        "description": "",
+        "url": "https://www.marketwatch.com/story/opec-to-boost-oil-production-even-more-than-expected-in-august-3fc8ba6f",
+        "urlToImage": "https://images.mktw.net/im-40768419/social",
+        "publishedAt": "2025-07-06T20:06:00Z",
+        "content": "Crude oil prices \r\nCL.1 fell Sunday after the Organization of the Petroleum Exporting Countries and its allies announced Saturday they will increase oil production by a larger-than-expected amount in\u2026 [+264 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "CNBC"
         },
         "author": "The Associated Press",
@@ -53,29 +92,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "NESN"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": "Colin Keane",
-        "title": "Celtics, Former Trail Blazers Superstar Have \u2018Mutual Interest\u2019 - NESN",
-        "description": "The Boston Celtics reportedly have shared interest with a nine-time NBA All-Star; is a deal on the way soon?",
-        "url": "https://nesn.com/2025/07/celtics-former-trail-blazers-superstar-have-mutual-interest/",
-        "urlToImage": "https://s47719.pcdn.co/wp-content/uploads/sites/5/2024/07/Brad-Stevens.png",
-        "publishedAt": "2025-07-06T19:15:49Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Tristen Rouse",
-        "title": "In pictures: Deadly flooding in Texas - CNN",
-        "description": "Torrential rain has caused flash flooding in parts of central Texas, killing more than 20 people.",
-        "url": "https://www.cnn.com/2025/07/05/us/gallery/deadly-flooding-texas",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/06-gettyimages-2223112552.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-07-06T18:33:00Z",
-        "content": "Torrential rain has caused flash flooding in parts of central Texas, killing at least 80 people.\r\nSearch and rescue teams are still working to find more than 10 girls missing from Camp Mystic, a priv\u2026 [+471 chars]"
+        "author": null,
+        "title": "Bodies of all 7 missing people found at a California fireworks warehouse that exploded - AP News",
+        "description": "Authorities say they've found the bodies of all seven people who had been missing since an explosion at a fireworks warehouse in Northern California. The explosion shook the tiny farming community of Esparto last week. The fireworks that exploded Tuesday caus\u2026",
+        "url": "https://apnews.com/article/fireworks-warehouse-explosion-yolo-county-california-122ccc26caa62d7c9a5a541db80ef643",
+        "urlToImage": "https://dims.apnews.com/dims4/default/352469d/2147483647/strip/true/crop/1966x1106+0+103/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7f%2F9f%2Fa303eb17577d5834b826c70b9a1a%2F3f5005e44d444fa3aab309124730dedb",
+        "publishedAt": "2025-07-06T19:09:00Z",
+        "content": "ESPARTO, Calif. (AP) Authorities in Northern California have found the bodies of all seven people missing since an explosion last week at a fireworks warehouse that caused a wildfire and shook a tiny\u2026 [+1287 chars]"
     },
     {
         "source": {
@@ -89,6 +115,19 @@
         "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/07/3ehiBYYNKQVN9gKnEMI5B_fPtJlrAO0SR8q-RLQE9Ic.jpeg?quality=75&strip=all&w=1024",
         "publishedAt": "2025-07-06T18:30:00Z",
         "content": "Cristiano Ronaldos surprising decision to skip teammate Diogo Jotas funeral was made out of respect for the grieving family, his sister claimed.\r\nOne of the biggest soccer stars in the world was noti\u2026 [+3064 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "AL.com"
+        },
+        "author": "Sarah Whites-Koditschek | swhites-koditschek@al.com",
+        "title": "Thunder moon will appear in the night sky this week - AL.com",
+        "description": "July's full moon is known as the Buck Moon, the Salmon Moon and the Thunder Moon",
+        "url": "https://www.al.com/news/2025/07/thunder-moon-will-appear-in-the-night-sky-this-week.html",
+        "urlToImage": "https://www.al.com/resizer/v2/RLVZMH5CRZDLTKHDSLL3L2YBWA.png?auth=e93511ce77eb7ce9bd08194de85c4ba7c9243ee71f209b946a65de72824dde1e&width=1280&quality=90",
+        "publishedAt": "2025-07-06T18:25:00Z",
+        "content": "The Thunder Moon or Buck Moon, as its called, the first full moon of the astronomical summer, will occur Thursday. \r\nOn July 10, the moon will rise in the southeastern sky and will be illuminated thr\u2026 [+1059 chars]"
     },
     {
         "source": {
@@ -131,6 +170,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "The Daily Galaxy --Great Discoveries Channel"
+        },
+        "author": null,
+        "title": "Meet the Gigantic Saber-Toothed Cat That Tracked Bison-Sized Prey 9 Million Years Ago - The Daily Galaxy",
+        "description": "Giant saber-toothed cat with deadly power found in fossils\u2014bigger than anything known before",
+        "url": "https://dailygalaxy.com/2025/07/meet-the-gigantic-saber-toothed-cat/",
+        "urlToImage": "https://dailygalaxy.com/wp-content/uploads/2025/07/Meet-the-Gigantic-Saber-Toothed-Cat-That-Tracked-Bison-Sized-Prey-9-Million-Years-Ago.jpg",
+        "publishedAt": "2025-07-06T17:00:00Z",
+        "content": "A new species of giant saber-toothed cat has been identified, providing fresh insights into the history of North America\u2019s prehistoric predators. This remarkable animal, which lived between 5 million\u2026 [+2970 chars]"
+    },
+    {
+        "source": {
             "id": "associated-press",
             "name": "Associated Press"
         },
@@ -154,45 +206,6 @@
         "urlToImage": "https://variety.com/wp-content/uploads/2025/02/MCDJUWO_UV067.jpg?w=1000&h=563&crop=1",
         "publishedAt": "2025-07-06T16:15:00Z",
         "content": "\u201cJurassic World Rebirth\u201d is roaring at the international box office, climbing to $171 million from 82 markets in its first weekend of release.\r\nThe seventh installment in Universal\u2019s long-running din\u2026 [+2351 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Lloyd Lee, Lakshmi Varanasi",
-        "title": "Elon Musk says he's formed the 'America Party.' Mark Cuban and Anthony Scaramucci are interested. - Business Insider",
-        "description": "Tesla CEO Elon Musk has been a harsh critic of President Donald Trump's spending bill, which was signed into law on July 4.",
-        "url": "https://www.businessinsider.com/elon-musk-america-party-2025-7",
-        "urlToImage": "https://i.insider.com/6869b2f33d5881a51c1cbf8f?width=1200&format=jpeg",
-        "publishedAt": "2025-07-06T16:11:00Z",
-        "content": "Elon Musk declared on X the formation of a new political party amid his ongoing feud with President Donald Trump over the \"Big Beautiful Bill.\"\r\n\"Today, the America Party is formed to give you back y\u2026 [+3271 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Grant Smith",
-        "title": "OPEC\u2019s New Supply Shock Locks In Oil Market\u2019s Return to Surplus - Bloomberg",
-        "description": "The latest oil supply shockwave unleashed by OPEC+ is set to swell a surplus later this year, pressuring prices for producers the world over while answering US President Donald Trump\u2019s calls for lower fuel costs.",
-        "url": "https://www.bloomberg.com/news/articles/2025-07-06/opec-s-new-supply-shock-nails-on-oil-market-s-return-to-surplus",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieTgYysw7Pm0/v1/1200x800.jpg",
-        "publishedAt": "2025-07-06T15:31:12Z",
-        "content": "The latest oil supply shockwave unleashed by OPEC+ is set to swell a surplus later this year, pressuring prices for producers the world over while answering US President Donald Trumps calls for lower\u2026 [+395 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Gizmodo Deals",
-        "title": "These Sony 1000XM4 Headphones Cost Peanuts, Amazon Sells Them at an All-Time Low for Prime Day - Gizmodo",
-        "description": "This is the lowest price we\u2019ve ever seen for this Sony model with active noise cancellation.",
-        "url": "https://gizmodo.com/these-sony-1000xm4-headphones-cost-peanuts-amazon-sells-them-at-an-all-time-low-for-prime-day-2000624542",
-        "urlToImage": "https://gizmodo.com/app/uploads/2024/11/sony-1000xm4.jpg",
-        "publishedAt": "2025-07-06T15:14:45Z",
-        "content": "Amazon rolled out its initial Prime Day offers this weekend, in the form of the Prime Early Deal event. You have to be a Prime member to qualify for these exclusive offers but if you are not a member\u2026 [+2054 chars]"
     },
     {
         "source": {
@@ -223,27 +236,14 @@
     {
         "source": {
             "id": null,
-            "name": "Rolling Stone"
+            "name": "SportsLine"
         },
-        "author": "Elizabeth Pancotti",
-        "title": "Trump\u2019s Big Bill Will Make Americans Uninsured Again - Rolling Stone",
-        "description": "The new law will strip Medicaid coverage from as many as 15 million people, by making them jump through needless hurdles to access life-saving care.",
-        "url": "http://www.rollingstone.com/politics/political-commentary/trump-medicaid-big-beautiful-bill-americans-uninsured-1235379423/",
-        "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/06/trump-BBB-changing-medicaid.jpg?w=1600&h=900&crop=1",
-        "publishedAt": "2025-07-06T14:00:00Z",
-        "content": "As lawmakers drafted what is poised to become the landmark legislative achievement of his second term, President Donald Trumptold Republicans in Congress in May, \u201cDon\u2019t fuck around with Medicaid.\u201d\u00a0\r\n\u2026 [+5749 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NPR"
-        },
-        "author": "Anas Baba",
-        "title": "Knives, bullets and thieves: the quest for food in Gaza - NPR",
-        "description": "NPR's Gaza producer faced Israeli military fire, private U.S. contractors pointing laser beams at his forehead and masked thieves as he tried to get food from a U.S.-supported group.",
-        "url": "https://www.npr.org/2025/07/06/g-s1-75874/gaza-food-hunger-ghf",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6720x3780+0+350/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F85%2F61%2F58487bb041c2a4e8747f6869b4dc%2Fgettyimages-2221145339.jpg",
-        "publishedAt": "2025-07-06T13:40:57Z",
-        "content": "Editor's note: Anas Baba is NPR's producer in the Gaza Strip. His report is a rare account by a journalist inside a new food distribution site that the United States and Israel helped establish in th\u2026 [+10113 chars]"
+        "author": null,
+        "title": "USA vs. Mexico odds, picks, predictions: Best bets for Sunday's 2025 Concacaf Gold Cup Final matchup from soccer expert - SportsLine",
+        "description": "The United States battles Mexico in the 2025 Concacaf Gold Cup Final on Sunday. Both teams enter the match unbeaten in the competition despite th...",
+        "url": "https://www.sportsline.com/insiders/usa-vs-mexico-odds-picks-predictions-best-bets-for-sundays-2025-concacaf-gold-cup-final-matchup-from-soccer-expert/",
+        "urlToImage": "https://splnhub.cbsistatic.com/i/2025/07/05/01325648-74e7-4df4-b5f8-e238ba97bac2/usmnt-gold-cup-2025-sportsline.jpg",
+        "publishedAt": "2025-07-06T14:27:00Z",
+        "content": "The United States battles Mexico in the 2025 Concacaf Gold Cup Final on Sunday. Both teams enter the match unbeaten in the competition despite the Americans missing some of their top players. The USM\u2026 [+1719 chars]"
     }
 ]
