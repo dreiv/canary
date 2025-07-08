@@ -1,29 +1,16 @@
 [
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": null,
-        "title": "Pressure from Trump for trade deals before Wednesday deadline, but hints of more time for talks - AP News",
-        "description": "The United States is stepping up pressure on trading partners to quickly make new deals before a Wednesday deadline when a tariff pause by President Donald Trump expires. There are plans for the U.S. to start sending letters Monday warning countries that high\u2026",
-        "url": "https://apnews.com/article/trump-tariffs-deadline-bessent-negotiations-94f8f81ad7fe60748198c4f115f3671b",
-        "urlToImage": "https://dims.apnews.com/dims4/default/4b7e666/2147483647/strip/true/crop/4290x2413+0+223/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff6%2Fd4%2F745bde5de8af81f37e1be93803ec%2F769af5a146ca43839e6f81278cf53ecc",
-        "publishedAt": "2025-07-07T03:18:00Z",
-        "content": "WASHINGTON (AP) The Trump administration is stepping up pressure on trading partners to quickly make new deals before a Wednesday deadline, with plans for the United States to start sending letters M\u2026 [+5223 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Ambcrypto.com"
-        },
-        "author": "Ritika Gupta",
-        "title": "BONK flips Pump.fun in Solana bond volume \u2013 Here\u2019s why it matters - AMBCrypto",
-        "description": "Could this be the first real memecoin power shift from flash-and-crash cycles to sustainable value on Solana?",
-        "url": "https://ambcrypto.com/bonk-flips-pump-fun-in-solana-bond-volume-heres-why-it-matters/",
-        "urlToImage": "https://ambcrypto.com/wp-content/uploads/2025/07/Ritika-6-1000x600.webp",
-        "publishedAt": "2025-07-07T01:07:30Z",
-        "content": "<ul><li>BONK has overtaken Pump.fun in daily bonded Solana tokens.</li><li>Is this the beginning of a bigger shift in where capital flows on-chain?</li></ul>Solanas [SOL] memecoin ecosystem is gainin\u2026 [+2277 chars]"
+        "author": "David J. Lynch",
+        "title": "U.S. seeks limited trade deal with E.U. as Trump\u2019s deadline approaches - The Washington Post",
+        "description": "The potential accord with the European Union, which would spare European goods the 50 percent tariffs Trump has threatened, is one of a few deals the White House could finalize this week.",
+        "url": "https://www.washingtonpost.com/business/2025/07/06/us-eu-trade-deal-talks/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RMEFDEJFFGJXAKLBDH2AWTCCEQ.JPG&w=1440",
+        "publishedAt": "2025-07-07T05:45:58Z",
+        "content": "BRUSSELS With only threedays remaining before President Donald Trumps self-imposed July 9 deadline, U.S. and European negotiators continue to haggle over a skeletal trade deal that would defer a reso\u2026 [+9931 chars]"
     },
     {
         "source": {
@@ -31,12 +18,64 @@
             "name": "BBC News"
         },
         "author": null,
-        "title": "First round of Israel and Hamas ceasefire talks ends without breakthrough - BBC",
-        "description": "The latest round of indirect negotiations come as Israeli Prime Minister Benjamin Netanyahu heads to Washington.",
-        "url": "https://www.bbc.com/news/articles/crenx445170o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/21bd/live/ecdac480-5aa1-11f0-bf57-2d681db6ae65.jpg",
-        "publishedAt": "2025-07-07T00:12:53Z",
-        "content": "Sebastian Usher\r\nRushdi Abualouf\r\nThe latest round of indirect ceasefire talks between Israel and Hamas have ended without a breakthrough, a Palestinian official familiar with the negotiations told t\u2026 [+4237 chars]"
+        "title": "America Party: Trump calls Musk's new political party plan 'ridiculous' - BBC",
+        "description": "The US president and Tesla boss were close allies before a dramatic falling out in recent weeks.",
+        "url": "https://www.bbc.com/news/articles/cy4n09lpz41o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/36a6/live/cb47ac80-5ac3-11f0-8880-29bac409ea3b.jpg",
+        "publishedAt": "2025-07-07T03:17:15Z",
+        "content": "US President Donald Trump has hit out at former close ally Elon Musk over the multi-billionaire's plan to launch a new political party.\r\n\"I think it's ridiculous to start a third party,\" said Trump, \u2026 [+1839 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Vulture"
+        },
+        "author": "Alejandra Gularte",
+        "title": "What\u2019s Going On With Cierra from Love Island USA? - Vulture",
+        "description": "Fans beggedPeacock to get Cierra removed from Love Island USA after a racist social media post of hers resurfaced online. And Peacock seemingly listened.",
+        "url": "http://www.vulture.com/article/cierra-love-island-usa-racist-post-explained.html",
+        "urlToImage": "https://pyxis.nymag.com/v1/imgs/509/715/0a9c4892f8c3567c44c312b3f0b1ce4508-NUP-207595-02252.1x.rsocial.w1200.jpg",
+        "publishedAt": "2025-07-07T01:33:00Z",
+        "content": "Another Bombshell is being asked to leave the Villa by the fans. After a social media post with a racial slur made by Cierra Ortega resurfaced online, Love Island USAfans are asking Peacock to remove\u2026 [+3998 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CBS Sports"
+        },
+        "author": "Chuck Booth",
+        "title": "USMNT vs. Mexico score: El Tri come from behind to win 10th Gold Cup 2-1 over U.S. Soccer behind Edson Alvarez - CBS Sports",
+        "description": "America face Mexico in yet another final as Mauricio Pochettino looks for his first title leading the USMNT",
+        "url": "https://www.cbssports.com/soccer/news/usmnt-vs-mexico-score-live-updates-from-gold-cup-final-as-el-tri-takes-a-late-2-1-lead-behind-edson-alvarez/live/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/07/07/bf3f05f4-4e5b-45d7-ab0a-3e719575062e/thumbnail/1200x675/1512a9665db3f734eb489e8601387e36/untitled-design-4.png",
+        "publishedAt": "2025-07-07T01:29:00Z",
+        "content": "It's a second consecutive Gold Cup title for Mexico after Edson Alvarez's winner pushed them past the United States men's national team on Sunday in Houston with a 2-1 victory. Chris Richards scored \u2026 [+2337 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News - Breaking News, Latest News and Videos",
+        "title": "Camp Mystic counselor who died in Texas flooding remembered as 'loyal and beloved' - ABC News - Breaking News, Latest News and Videos",
+        "description": null,
+        "url": "https://abcnews.go.com/US/camp-mystic-counselor-died-texas-flooding-remembered-loyal/story?id\\\\u003d123524812",
+        "urlToImage": null,
+        "publishedAt": "2025-07-07T00:24:16Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "fox-sports",
+            "name": "Fox Sports"
+        },
+        "author": "Bob Pockrass",
+        "title": "Chicago Takeaways: SVG Wins, Controversial Finish, Tempers & Possible NASCAR Return - FOX Sports",
+        "description": "Shane van Gisbergen made history and NASCAR's future at Chicago remains uncertain. Here are the biggest takeaways from the Windy City.",
+        "url": "https://www.foxsports.com/stories/nascar/chicago-takeaways-shane-van-gisbergen-wins-will-nascar-return",
+        "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/07/1408/814/svg_wins-chicago_002_nascar_2025.jpg?ve=1&tl=1",
+        "publishedAt": "2025-07-06T23:48:10Z",
+        "content": "CHICAGO, Ill. Shane van Gisbergen made a little more history again on Sunday in the city where he made his biggest history.\r\nShane van Gisbergen and crew celebrate after winning the NASCAR Cup Series\u2026 [+5651 chars]"
     },
     {
         "source": {
@@ -63,6 +102,19 @@
         "urlToImage": "https://www.inquirer.com/resizer/v2/H6JJZ5OME5DVRGN42ZMBVOFM3M.jpg?auth=f9dcea454d96fb98dd971cbd6dec66eff2369d231dad08b748a469dc482dd2e1&width=760&height=507&smart=true",
         "publishedAt": "2025-07-06T23:30:00Z",
         "content": "As the clock was nearing midnight last Monday, Mayor Cherelle L. Parker called union president Greg Boulware in a final bid to avert Philadelphias first city worker strike in 39 years. \r\nParker was s\u2026 [+6252 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Jason Ma",
+        "title": "Dow futures fall as Trump officials signal limited breathing room before tariffs 'boomerang back' - Fortune",
+        "description": "While markets expected an extension ahead of the July 9 end to the tariff reprieve, administration officials signaled there will be just a few weeks' worth.",
+        "url": "https://fortune.com/2025/07/06/stock-market-today-dow-futures-trump-tariff-deadline-aug-1-liberation-day/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-2222513572-e1751840629287.jpg?resize=1200,600",
+        "publishedAt": "2025-07-06T22:58:00Z",
+        "content": "U.S. stock futures dropped on Sunday evening as investors weighed more high-stakes drama on tariffs in the coming weeks.A new deadline is emerging as President Donald Trumps 90-day pause on his recip\u2026 [+1607 chars]"
     },
     {
         "source": {
@@ -106,32 +158,6 @@
     {
         "source": {
             "id": null,
-            "name": "U.S. Soccer"
-        },
-        "author": null,
-        "title": "USMNT vs. Mexico: Starting XI & Lineup Notes - US Soccer",
-        "description": null,
-        "url": "https://www.ussoccer.com/stories/2025/07/usmnt-mexico-starting-lineup-notes-tyler-adams-diego-luna",
-        "urlToImage": "https://cdn.sanity.io/images/oyf3dba6/production/efed304576c469aed3c3c9371b1b4e4affceed0e-1080x608.jpg",
-        "publishedAt": "2025-07-06T21:53:26Z",
-        "content": "LINEUP NOTESUSMNT vs. Mexico2025 Concacaf Gold Cup FinalJuly 6, 2025NRG Stadium; Houston, TexasPre-Game Coverage: 6 p.m. ET; FOX, Univision, TUDNKickoff: 7 p.m. ET; FS1, Univision, TUDN, F\u00fatbol de Pr\u2026 [+3965 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": "Michael Short",
-        "title": "Kevin Durant joins Houston Rockets from Phoenix Suns in NBA record trade - BBC",
-        "description": "Kevin Durant joins the Houston Rockets from the Phoenix Suns in a record-breaking NBA trade deal.",
-        "url": "https://www.bbc.com/sport/basketball/articles/cp82ydpxwn0o",
-        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a7b4/live/49dfec30-5aa9-11f0-9a6a-f717c710dd2b.jpg",
-        "publishedAt": "2025-07-06T21:52:41Z",
-        "content": "NBA star Kevin Durant has joined the Houston Rockets from the Phoenix Suns in a record-breaking trade deal involving seven teams.\r\nThe move was first announced last month but was confirmed on Sunday \u2026 [+1698 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "nj.com"
         },
         "author": "N.J. Weather Report",
@@ -145,15 +171,28 @@
     {
         "source": {
             "id": null,
-            "name": "Daily Beast"
+            "name": "9to5Mac"
         },
-        "author": "Jasmine Venet",
-        "title": "Ex-NY Gov Says Trump and Mamdani Have Surprising Similarities - The Daily Beast",
-        "description": "David Paterson said New York City mayoral candidate Zohran Mamdani has adopted the president\u2019s \u201cnew campaign style.\u201d",
-        "url": "https://www.thedailybeast.com/ex-ny-gov-david-paterson-says-donald-trump-and-zohran-mamdani-have-striking-similarities/",
-        "urlToImage": "https://www.thedailybeast.com/resizer/v2/4MNLJULPKZC5VEKSQZ77CLZJFI.png?smart=true&auth=bd57df1b3b8eca44a881bc511b2e033124b3c09ee0f535dff8a1dccd87bd188c&width=1200&height=630",
-        "publishedAt": "2025-07-06T20:46:00Z",
-        "content": "Former New York Gov. David Paterson says New York City mayoral candidate Zohran Mamdani is taking a page from President Donald Trumps playbook. \r\nSpeaking to 77 WABC The Cats Roundtable Sunday, Pater\u2026 [+2894 chars]"
+        "author": "Michael Burkhardt",
+        "title": "New iPhone 17 Pro renders highlight aluminum design, repositioned Apple logo - 9to5Mac",
+        "description": "A new image from Apple leaker Majin Bu provides a new look at the repositioned Apple logo on the upcoming...",
+        "url": "https://9to5mac.com/2025/07/06/iphone-17-pro-new-design-case-leak-apple-logo/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/iphone-17-blue-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-07-06T20:49:00Z",
+        "content": "A new image from Apple leaker Majin Bu provides a new look at the repositioned Apple logo on the upcoming iPhone 17 Pro. Last week we got our first look at what the new Apple logo placement would loo\u2026 [+1106 chars]"
+    },
+    {
+        "source": {
+            "id": "the-hill",
+            "name": "The Hill"
+        },
+        "author": "Sarah Fortinsky",
+        "title": "Suozzi says Mamdani \u2018tapped into the same thing\u2019 as Trump - The Hill",
+        "description": "Rep. Tom Suozzi (D-N.Y.), a moderate Democrat, said President Trump and Democratic mayoral nominee Zohran Mamdani \u201ctapped into the same thing\u201d that catapulted their respective underdog campaigns to victory. In an interview on CBS News\u2019s \u201cFace the Nation,\u201d Suo\u2026",
+        "url": "https://thehill.com/homenews/campaign/5386963-suozzi-trump-mamdani-affordability-economy/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/08/suozzitom_072524gn02_w.jpg?w=1280",
+        "publishedAt": "2025-07-06T19:26:00Z",
+        "content": "Rep. Tom Suozzi (D-N.Y.), a moderate Democrat, said President Trump and Democratic mayoral nominee Zohran Mamdani tapped into the same thing that catapulted their respective underdog campaigns to vic\u2026 [+1989 chars]"
     },
     {
         "source": {
@@ -167,44 +206,5 @@
         "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/07/newspress-collage-gizmv1ea1-1751828009579.jpg?quality=75&strip=all&1751813642&w=1024",
         "publishedAt": "2025-07-06T19:17:00Z",
         "content": "Sean Diddy Combs\u00a0got a standing ovation from fellow inmates when the music mogul returned to jail after winning acquittals on potential life-in-prison charges, providing what his lawyer says might ha\u2026 [+7287 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "AL.com"
-        },
-        "author": "Sarah Whites-Koditschek | swhites-koditschek@al.com",
-        "title": "Thunder moon will appear in the night sky this week - AL.com",
-        "description": "July's full moon is known as the Buck Moon, the Salmon Moon and the Thunder Moon",
-        "url": "https://www.al.com/news/2025/07/thunder-moon-will-appear-in-the-night-sky-this-week.html",
-        "urlToImage": "https://www.al.com/resizer/v2/RLVZMH5CRZDLTKHDSLL3L2YBWA.png?auth=e93511ce77eb7ce9bd08194de85c4ba7c9243ee71f209b946a65de72824dde1e&width=1280&quality=90",
-        "publishedAt": "2025-07-06T18:25:00Z",
-        "content": "The Thunder Moon or Buck Moon, as its called, the first full moon of the astronomical summer, will occur Thursday. \r\nOn July 10, the moon will rise in the southeastern sky and will be illuminated thr\u2026 [+1059 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Variety"
-        },
-        "author": "Marc Malkin",
-        "title": "Charlize Theron on Hanging Off a Helicopter in \u2018The Old Guard 2,\u2019 Possibility of Third Movie and Why She Hasn\u2019t Directed Yet: \u2018I Need My Kids to Get Out of the House\u2019 - Variety",
-        "description": "Charlize Theron talks about hanging off a helicopter in 'The Old Guard 2,' the possibility of a third movie and why she hasn't directed yet.",
-        "url": "https://variety.com/2025/film/columns/charlize-theron-hanging-off-a-helicopter-old-guard-2-third-movie-directing-1236448162/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2025/07/GettyImages-2221916215-1.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2025-07-06T18:13:00Z",
-        "content": "Ask Charlize Theron what her favorite stunt to do in \u201cThe Old Guard 2\u201d was and the Oscar-winner doesn\u2019t even blink.\r\n\u201cThe helicopter hands down,\u201d she told me at her recent Charlize Theron Africa Outr\u2026 [+1578 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Alli Rosenbloom",
-        "title": "Ozzy Osbourne reunites with original Black Sabbath band members during farewell performance - CNN",
-        "description": "Ozzy Osbourne is saying goodbye to the stage after performing what has been billed as his final show with the original members of Black Sabbath.",
-        "url": "https://www.cnn.com/2025/07/06/entertainment/ozzy-osbourne-black-sabbath-farewell-performance",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2179738837.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-07-06T17:27:00Z",
-        "content": "Ozzy Osbourne is saying goodbye to the stage after performing what has been billed as his final show with the original members of Black Sabbath.\r\nOsbourne, along with original Black Sabbath bassist G\u2026 [+2403 chars]"
     }
 ]
