@@ -14,16 +14,29 @@
     },
     {
         "source": {
-            "id": "the-jerusalem-post",
-            "name": "The Jerusalem Post"
+            "id": null,
+            "name": "Space.com"
         },
-        "author": null,
-        "title": "IAI launches Dror-1 communications satellite to reach 36,000 km above Earth with the help of SpaceX - The Jerusalem Post",
-        "description": "The satellite covers a distance of 3 km per second, and the first part of the flight lasts 3 minutes and 42 seconds.",
-        "url": "https://www.jpost.com/israel-news/article-860800",
-        "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/672295",
-        "publishedAt": "2025-07-13T05:09:38Z",
-        "content": null
+        "author": "Mike Wall",
+        "title": "SpaceX launches mystery satellite to geostationary transfer orbit - Space",
+        "description": "Liftoff of the \"Commercial GTO-1\" mission occurred at 1:04 a.m. EDT on Sunday morning (July 13).",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-mystery-satellite-to-geostationary-transfer-orbit",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/hpSutPBVBw3t3FvyyveNLh.jpg",
+        "publishedAt": "2025-07-13T05:22:57Z",
+        "content": "SpaceX launched a mystery satellite to geostationary transfer orbit (GTO) from Florida's Space Coast early Sunday morning (July 13).\r\nA Falcon 9 rocket lifted off from Cape Canaveral Space Force Stat\u2026 [+1985 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Suntimes.com"
+        },
+        "author": "Georgia Nicols",
+        "title": "Horoscope for Sunday, July 13, 2025 - Chicago Sun-Times",
+        "description": null,
+        "url": "https://chicago.suntimes.com/horoscopes/2025/07/13/horoscopes-today-sunday-july-13-2025",
+        "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+        "publishedAt": "2025-07-13T05:03:17Z",
+        "content": "Moon alert\r\nAvoid shopping or important decisions until 7 p.m. Chicago time. After that, the moon moves from Aquarius into Pisces.\r\nAries (March 21-April 19)\r\nBecause you feel eager to schmooze today\u2026 [+3695 chars]"
     },
     {
         "source": {
@@ -96,25 +109,38 @@
             "name": "Associated Press"
         },
         "author": null,
-        "title": "California farmworker who fell from greenhouse roof during chaotic ICE raid dies - AP News",
-        "description": "A farmworker who fell from a greenhouse roof during a chaotic ICE raid this week at a California cannabis facility has died. Niece Yesenia Duran says 57-year-old Jaime Alanis died Saturday of his injuries. He is the first person to die in one of the Trump adm\u2026",
-        "url": "https://apnews.com/article/jaime-alanis-immigrant-farmworker-death-raid-c3c6f60a087f5f9f1d2b053fcef35b57",
-        "urlToImage": "https://dims.apnews.com/dims4/default/45110c6/2147483647/strip/true/crop/4320x2430+0+225/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe6%2Fb1%2F70cbe94ba584e6d2fe8b9315cf56%2F0d021b2b2237410b80f4922ebd359772",
-        "publishedAt": "2025-07-13T03:53:00Z",
-        "content": "SAN FRANCISCO (AP) A farmworker who fell from a greenhouse roof during a chaotic ICE raid this week at a California cannabis facility died Saturday of his injuries.\r\nJaime Alanis, 57, is the first kn\u2026 [+3185 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": null,
         "title": "New tax break for auto loans could save some buyers thousands of dollars. But will it boost sales? - AP News",
         "description": "The new tax law signed by President Donald Trump creates a federal tax deduction for interest on auto loans. Starting this year, taxpayers can deduct up to $10,000 of interest annually on loans for new vehicles assembled in the U.S. The deduction excludes som\u2026",
         "url": "https://apnews.com/article/tax-cuts-auto-loan-interest-deduction-trump-fb68ad1bcf2947bed20c906341212b67",
         "urlToImage": "https://dims.apnews.com/dims4/default/86b531e/2147483647/strip/true/crop/2000x1125+0+104/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F32%2F2e%2Fa70ad7d81359f712922dd2a39060%2F0982615094dd409c90da56f6430d8e93",
         "publishedAt": "2025-07-13T03:46:00Z",
         "content": "Millions of people receive a federal tax deduction for the interest they pay on home loans. Under President Donald Trumps new tax-cut law, many people for the first time also could claim a tax deduct\u2026 [+5353 chars]"
+    },
+    {
+        "source": {
+            "id": "espn",
+            "name": "ESPN"
+        },
+        "author": "Andreas Hale",
+        "title": "Sheeraz wins, posts TKO of Berlanga in Round 5 - ESPN",
+        "description": "Hamzah Sheeraz dropped Edgar Berlanga twice before finishing the job with a fifth-round TKO in the main event of Ring Magazine 3 at Louis Armstrong Stadium on Saturday night.",
+        "url": "https://www.espn.com/boxing/story/_/id/45727893/hamzah-sheeraz-posts-fifth-round-tko-edgar-berlanga",
+        "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0713%2Fr1518385_1296x729_16%2D9.jpg",
+        "publishedAt": "2025-07-13T03:35:00Z",
+        "content": "NEW YORK -- Hamzah Sheeraz dropped Edgar Berlanga twice before finishing the job with a fifth-round TKO in the main event of Ring Magazine 3 at Louis Armstrong Stadium.\r\nThere was a tremendous amount\u2026 [+2117 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Matt Lavietes, Dennis Romero",
+        "title": "California farmworker dies after chaotic federal immigration raid, family says - NBC News",
+        "description": "Jaime Alanis Garcia, a cannabis farmworker who was critically injured during a chaotic immigration raid by federal authorities in Southern California, died Saturday, according to his family.",
+        "url": "https://www.nbcnews.com/news/us-news/california-farmworker-dies-immigration-raid-rcna218467",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250712-Jaime-Alanis-Garcia-aa-311-a53faf.jpg",
+        "publishedAt": "2025-07-13T02:41:00Z",
+        "content": "A cannabis farmworker who was critically injured during a chaotic immigration raid by federal authorities in Southern California died Saturday, according to his family.\r\nJaime Alanis Garcias death ca\u2026 [+4320 chars]"
     },
     {
         "source": {
@@ -141,19 +167,6 @@
         "urlToImage": "https://www.investors.com/wp-content/uploads/2025/04/Stock-trumppoint-06-shutt.jpg",
         "publishedAt": "2025-07-13T02:02:00Z",
         "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
-    },
-    {
-        "source": {
-            "id": "espn",
-            "name": "ESPN"
-        },
-        "author": "Daniel Oyefusi",
-        "title": "Browns' Judkins facing domestic violence charge - ESPN",
-        "description": "Cleveland Browns rookie running back Quinshon Judkins was arrested on a domestic violence and battery charge in Fort Lauderdale, Florida, on Saturday, according to the Fort Lauderdale Police Department and Broward County arrest records.",
-        "url": "https://www.espn.com/nfl/story/_/id/45727275/browns-quinshon-judkins-arrested-battery-domestic-violence-charge-florida",
-        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0604%2Fr1502386_1296x729_16%2D9.jpg",
-        "publishedAt": "2025-07-13T01:39:00Z",
-        "content": "Cleveland Browns rookie running back Quinshon Judkins was arrested on a domestic violence and battery charge in Fort Lauderdale, Florida, on Saturday, according to the Fort Lauderdale Police Departme\u2026 [+583 chars]"
     },
     {
         "source": {
@@ -206,57 +219,5 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2224787479.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2025-07-12T23:57:00Z",
         "content": "Deep in the hazardous and ecologically fragile Everglades, hundreds of migrants are confined in cages in a makeshift tent detention facility Floridas Republican governor calls safe and secure and Dem\u2026 [+6042 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Whitehouse.gov"
-        },
-        "author": null,
-        "title": "President Trump, First Lady See Unbreakable Spirit in Texas - The White House (.gov)",
-        "description": "Yesterday, President Donald J. Trump and First Lady Melania Trump traveled to Kerr County, Texas, in the aftermath of last weekend\u2019s catastrophic floods.",
-        "url": "https://www.whitehouse.gov/articles/2025/07/president-trump-first-lady-see-unbreakable-spirit-in-texas/",
-        "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/07/sharing-P20250711DT-0701.jpg",
-        "publishedAt": "2025-07-12T23:24:45Z",
-        "content": "Yesterday, President Donald J. Trump and First Lady Melania Trump traveled to Kerr County, Texas, in the aftermath of last weekends catastrophic floods. The President and First Lady surveyed the deva\u2026 [+3650 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Kim Jong Un reaffirms support for Russia's war in Ukraine - BBC",
-        "description": "The North Korean leader pledges backing for Moscow, during talks with Russia's foreign minister.",
-        "url": "https://www.bbc.com/news/articles/czeyxrng6gro",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f26b/live/a98524e0-5f6b-11f0-960d-e9f1088a89fe.jpg",
-        "publishedAt": "2025-07-12T23:13:58Z",
-        "content": "North Korean leader Kim Jong Un offered Moscow his \"unconditional support\" on the war in Ukraine, according to Pyongyang state media reports.\r\nIn talks with Russian Foreign Minister Sergei Lavrov in \u2026 [+1870 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "US judge bars Trump admin's 'indiscriminate' immigration arrests - BBC",
-        "description": "The lawsuit was filed in California, where the Trump administration has focused its immigration enforcement in recent weeks.",
-        "url": "https://www.bbc.com/news/articles/c4ge469g7p5o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d34c/live/c2c6cbc0-5f61-11f0-8491-bbce98dd6b92.jpg",
-        "publishedAt": "2025-07-12T23:05:15Z",
-        "content": "Brandon Drenon\r\nA federal California judge has ordered the Trump administration to stop \"indiscriminately\" detaining people thought to be in the US illegally. \r\nThe decision came down in a temporary \u2026 [+2587 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Ava Wallace",
-        "title": "Iga Swiatek rolls over Amanda Anisimova for her first Wimbledon title - The Washington Post",
-        "description": "The former world No. 1 didn\u2019t drop a single game Saturday, capturing her sixth career Grand Slam win in just 57 minutes.",
-        "url": "https://www.washingtonpost.com/sports/2025/07/12/iga-swiatek-wimbledon-title/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YHPGRQKMAJI4XZU7RH3SQRDJAI.jpg&w=1440",
-        "publishedAt": "2025-07-12T22:28:42Z",
-        "content": "WIMBLEDON, England Through a noisy Wimbledon that began with a splashy TikTok dance, featured several clamorous upsets and will end with a booming rerun of the best rivalry in mens tennis, Iga Swiate\u2026 [+5120 chars]"
     }
 ]
