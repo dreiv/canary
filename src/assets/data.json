@@ -1,6 +1,32 @@
 [
     {
         "source": {
+            "id": null,
+            "name": "CBS Sports"
+        },
+        "author": "Patrick McDonald",
+        "title": "The Open 2025 leaderboard live updates: Golf scores, Open Championship coverage, Round 4 at Royal Portrush - CBS Sports",
+        "description": "Live scores, updates and highlights as The Open continues with final-round action in Northern Ireland led by Scottie Scheffler and Rory McIlroy",
+        "url": "https://www.cbssports.com/golf/news/the-open-2025-leaderboard-live-updates-golf-scores-open-championship-coverage-round-4-at-royal-portrush/live/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/07/19/1cc4c4e5-1098-4600-ba9e-79d7085a1195/thumbnail/1200x675/d3ca893306facc48e8e9625de9961126/open-leaderboard-r3-2025-g.jpg",
+        "publishedAt": "2025-07-20T14:43:04Z",
+        "content": "Major championship season concludes Sunday morning with 18 holes standing between a loaded field at Royal Portrush and the crowning of Champion Golfer of the Year at the 2025 Open Championship. The m\u2026 [+1596 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "BBC",
+        "title": "Japan's ruling party set to lose majority, exit polls suggest - BBC",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81RmhXaFk3eFBKRDh4QWg1b0gwenFxakQtWFBHemR0akJ5LWFId3lwbXU4YjhFZFVQYkdYbTdsY0ZfWjNVaEJGMHh5dVNfVmpsVjZ2TGxscjBsdw?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2025-07-20T13:18:30Z",
+        "content": null
+    },
+    {
+        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
         },
@@ -11,6 +37,32 @@
         "urlToImage": null,
         "publishedAt": "2025-07-20T12:23:38Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Boston.com"
+        },
+        "author": "Associated Press",
+        "title": "Tech company CEO resigns after controversy over video captured at Coldplay concert - Boston.com",
+        "description": "Andy Byron resigned from his job as CEO of Astronomer Inc., according to a statement posted on LinkedIn by the company Saturday.",
+        "url": "https://www.boston.com/news/local-news/2025/07/20/tech-company-ceo-resigns-after-controversy-over-video-captured-at-coldplay-concert/",
+        "urlToImage": "https://bdc2020.o0bc.com/wp-content/uploads/2025/07/Coldplay-Jumbotron_64419-687aabd105242-768x432.jpg",
+        "publishedAt": "2025-07-20T12:13:00Z",
+        "content": "Local News\r\nChris Martin of Coldplay performs during the band's Music Of The Spheres World Tour at D. Y. Patil Sports Stadium in Navi Mumbai, Saturday, Jan. 18, 2025. (AP Photo/Rajanish Kakade, File)\u2026 [+1618 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Annika Kim Constantino",
+        "title": "Weight loss drugs could be a gamechanger for women with a common hormonal disorder - CNBC",
+        "description": "Some health experts view GLP-1s as a promising option for PCOS, which lacks a standard treatment and affects millions of women in the U.S.",
+        "url": "https://www.cnbc.com/2025/07/20/weight-loss-drugs-could-help-treat-pcos.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108148976-1747858658246-gettyimages-2212016183-NOVO_WEGOVY.jpeg?v=1752844093&w=1920&h=1080",
+        "publishedAt": "2025-07-20T12:00:01Z",
+        "content": "Wegovy injection pens arranged in Waterbury, Vermont, US, on Monday, April 28, 2025.\r\nFor well over a decade, Grace Hamilton, 27, experienced hair loss, heavy periods, infrequent menstrual cycles, me\u2026 [+15043 chars]"
     },
     {
         "source": {
@@ -27,6 +79,19 @@
     },
     {
         "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Associated Press",
+        "title": "3 people are still missing from deadly July 4 floods in Texas county, down from nearly 100 - Politico",
+        "description": "Many of those listed as missing have turned up safe.",
+        "url": "https://www.politico.com/news/2025/07/20/texas-flooding-missing-numbers-00464345",
+        "urlToImage": "https://static.politico.com/34/0f/4b0c29c04862ac5f59632db3cbfd/extreme-weather-texas-41978.jpg",
+        "publishedAt": "2025-07-20T11:35:00Z",
+        "content": "The death toll in Kerr County, 107, held steady for much of this week even as the intensive search continued.\r\nThe flash floods killed at least 135 people in Texas over the holiday weekend, with most\u2026 [+1583 chars]"
+    },
+    {
+        "source": {
             "id": "associated-press",
             "name": "Associated Press"
         },
@@ -40,29 +105,29 @@
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": null,
+            "name": "SFGate"
         },
-        "author": "Angie Orellana Hernandez, Victoria Craw",
-        "title": "Driver hits crowd in L.A. after dispute, injuring 30, police say - The Washington Post",
-        "description": "The driver, who had been fighting with people inside a music venue, was shot after driving into a group of people on the sidewalk, the LAPD said.",
-        "url": "https://www.washingtonpost.com/nation/2025/07/19/car-crowd-santa-monica-los-angeles/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BCVEPAKRCQ7XXRGWQPHVNN5VFQ.JPG&w=1440",
-        "publishedAt": "2025-07-20T10:10:13Z",
-        "content": "A driver intentionally rammed a car into a crowd in East Hollywood after a dispute inside a nightclub early Saturday morning, injuring 30 before being shot, the Los Angeles Police Department said.\r\nT\u2026 [+2709 chars]"
+        "author": "Christine Hitt",
+        "title": "'Don't eat raw food': The terrifying threat lurking in Hawaii - SFGATE",
+        "description": "In Hawaii, rat lungworm disease is rare but severe, and locals want more done to spread awareness.",
+        "url": "https://www.sfgate.com/hawaii/article/hawaii-rat-lungworm-visitors-raw-food-20772432.php",
+        "urlToImage": "https://s.hdnux.com/photos/01/53/56/00/28237858/3/rawImage.jpg",
+        "publishedAt": "2025-07-20T11:08:04Z",
+        "content": "It starts with a headache. Symptoms sometimes resemble the flu, with nausea, coughing and a fever. But its actually extremely small roundworm parasites traveling inside the stomach. By the time docto\u2026 [+10450 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CBS Sports"
+            "name": "Inc."
         },
-        "author": "Brent Brookhouse",
-        "title": "Manny Pacquiao vs. Mario Barrios results, highlights: Fight ends in majority draw, Barrios retains title - CBS Sports",
-        "description": "Despite his best efforts, the 46-year-old was unable to take the belt from the reigning WBC welterweight champion",
-        "url": "https://www.cbssports.com/boxing/news/manny-pacquiao-vs-mario-barrios-results-highlights-fight-ends-in-majority-draw-barrios-retains-title/live/",
-        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/07/20/502b83dc-4118-4da8-9903-60d9ab0d93fb/thumbnail/1200x675/f3502e9e81652fc92cde5b584997169f/pacquiao-barrios-action.jpg",
-        "publishedAt": "2025-07-20T10:00:00Z",
-        "content": "Manny Pacquiao's attempt to turn back the clock came up just short on Saturday night as his fight with WBC welterweight champion Mario Barrios ended in a majority draw.\r\nAt 46 years old, Pacquiao was\u2026 [+3573 chars]"
+        "author": "Bill Murphy Jr.",
+        "title": "A Massive New Study of 20,000 Adults Says This Is What Happens When You Start Going to Bed Early - Inc.com",
+        "description": "We all get the same 24 hours. So why should it matter?",
+        "url": "https://www.inc.com/bill-murphy-jr/a-massive-new-study-of-20000-adults-says-this-is-what-happens-when-you-go-to-bed-early/91216194",
+        "urlToImage": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit,w_1024,h_1024/vip/2025/04/sleep-tracking-inc-GettyImages-1885436370.jpg",
+        "publishedAt": "2025-07-20T09:50:39Z",
+        "content": "Forget the old adage that nothing good happens after midnight. Ive had an awful lot of fun in the early morning hours.\r\nIt wasnt just going out and partying in my younger years, either.\r\nIn fact, Ive\u2026 [+4287 chars]"
     },
     {
         "source": {
@@ -80,28 +145,15 @@
     {
         "source": {
             "id": null,
-            "name": "Investopedia"
+            "name": "CNBC"
         },
-        "author": "Terry Lane",
-        "title": "What To Expect in Markets This Week: Tesla, Google Lead a String of Big Earnings Reports - Investopedia",
-        "description": "Coming up: Earnings reports are expected from Tesla, Google, Intel, Verizon, and Coca-Cola, plus new and existing home sales data.",
-        "url": "https://www.investopedia.com/what-to-expect-in-markets-this-week-tesla-google-lead-a-string-of-big-earnings-reports-11774231",
-        "urlToImage": "https://www.investopedia.com/thmb/2A_kOqzofUTtxsoKPz-mQlrb_V0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/INV_TeslaDealership_GettyImages-1494887228-d84da0e690bd42fea0ebf3a667fc85bc.jpg",
-        "publishedAt": "2025-07-20T09:00:00Z",
-        "content": "<ul><li>Tesla earnings are scheduled for Wednesday as the EV makers sales falter; other tech companies set to report this week include Google, Intel, and IBM.</li><li>Investors are also set to hear f\u2026 [+5118 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Japan heads to polls in key test for Prime Minister Shigeru Ishiba - BBC",
-        "description": "The election comes as US President Donald Trump ramps up pressure on Tokyo amid tense tariff negotiations.",
-        "url": "https://www.bbc.com/news/articles/c5y7jxwdn02o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/313a/live/f5dd9880-6543-11f0-9382-4141ce8a9b2e.jpg",
-        "publishedAt": "2025-07-20T08:52:42Z",
-        "content": "Japanese voters headed to the polls on Sunday in a tightly contested election amid public frustration over rising prices and the imminent threat of US tariffs. \r\nThe ruling Liberal Democratic Party (\u2026 [+2304 chars]"
+        "author": "Reuters",
+        "title": "At least 30 hurt after car hits crowd outside Los Angeles club, fire department says - CNBC",
+        "description": "The driver was assaulted by onlookers and shot, the city's police and fire departments said.",
+        "url": "https://www.cnbc.com/2025/07/20/at-least-30-hurt-after-car-hits-crowd-outside-los-angeles-club-fire-department-says.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108174243-1753007284653-AP25200440445628.jpg?v=1753007417&w=1920&h=1080",
+        "publishedAt": "2025-07-20T08:33:52Z",
+        "content": "A car slammed into a crowd outside a Los Angeles nightclub early Saturday morning, injuring at least 30 people, before the driver was assaulted by onlookers and shot, the city's police and fire depar\u2026 [+993 chars]"
     },
     {
         "source": {
@@ -132,6 +184,19 @@
     {
         "source": {
             "id": null,
+            "name": "DW (English)"
+        },
+        "author": "Richard Connor",
+        "title": "Astronomers capture dawn of new solar system for 1st time - DW",
+        "description": "In a cosmic first, astronomers have spotted the earliest signs of rocky planet formation around a young star. The discovery offers a rare vision of how Earth-like worlds may begin.",
+        "url": "https://www.dw.com/en/astronomers-witness-dawn-of-new-solar-system-for-1st-time/a-73341248",
+        "urlToImage": "https://static.dw.com/image/73312239_6.jpg",
+        "publishedAt": "2025-07-20T08:13:48Z",
+        "content": "Astronomers have spotted the earliest known signs of rocky planet formation around a young, sun-like star for the first time.\r\nThe discovery offers an unprecedented glimpse into what may have happene\u2026 [+2604 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Cointelegraph"
         },
         "author": "Amin Haqshanas",
@@ -154,96 +219,5 @@
         "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
         "publishedAt": "2025-07-20T07:26:00Z",
         "content": "MOSCOW (AP) The Pacific Tsunami Warning Center has issued a threat forecast for Russias Kamchatka Peninsula after two quakes the larger with a magnitude of 7.4 struck in the sea nearby on Sunday.\r\nTh\u2026 [+884 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": null,
-        "title": "Another Hegseth aide exits as Pentagon churn continues - The Washington Post",
-        "description": null,
-        "url": "https://www.washingtonpost.com/national-security/2025/07/19/hegseth-justin-fulcher-pentagon/",
-        "urlToImage": null,
-        "publishedAt": "2025-07-20T05:53:33Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Eve Brennan, Max Saltman, TuAnh Dam",
-        "title": "Tourist boat capsizes in Vietnam, killing dozens - CNN",
-        "description": "\u201cPlease don\u2019t let anyone behind on that boat. There is so little air left, there is a small chance of surviving,\u201d said one survivor.",
-        "url": "https://www.cnn.com/2025/07/19/asia/boat-capsize-halong-bay-vietnam-intl",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2225080670.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-07-20T04:48:00Z",
-        "content": "Divers searched beneath the waves for missing passengers and crew after a sightseeing ship capsized in a squall in Halong Bay, a popular tourist destination in Vietnam, on Saturday. At least 38 of th\u2026 [+2676 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Yahoo Sports Staff",
-        "title": "WNBA All-Star 2025: Napheesa Collier scores record 36 points in blowout of Caitlin Clark's squad - Yahoo Sports",
-        "description": "Team Collier had its fun in a runaway win over Team Clark in Indianapolis.",
-        "url": "https://sports.yahoo.com/wnba/live/wnba-all-star-2025-napheesa-collier-scores-record-36-points-in-blowout-of-caitlin-clarks-squad-230122249.html",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/03wJlehUore8__VL.UOG0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-07/53274510-6510-11f0-bb7c-eea77c7a0ea1",
-        "publishedAt": "2025-07-20T04:26:00Z",
-        "content": "The WNBA All-Star Game that featured Caitlin Clark everywhere but on the court resulted in a blowout win for Napheesa Collier's team, and a record for the Minnesota Lynx star.\r\nTeam Collier defeated \u2026 [+2133 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "DW (English)"
-        },
-        "author": "Matt Ford",
-        "title": "Astronomer CEO resigns after Coldplay concert video - DW",
-        "description": "Software firm Astronomer have confirmed that CEO Andy Byron has resigned after being caught on camera seemingly cuddling a female colleague at a Coldplay concert.",
-        "url": "https://www.dw.com/en/astronomer-ceo-resigns-after-coldplay-concert-video/a-73340531",
-        "urlToImage": "https://static.dw.com/image/73340565_6.jpg",
-        "publishedAt": "2025-07-20T01:02:10Z",
-        "content": "The chief executive of a US tech firm whose apparent affair with a board colleague was exposed on a video screen at a Coldplay concert earlier this week has resigned.\r\nNew York software company Astro\u2026 [+3618 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Shawna Kwan",
-        "title": "Cathay Pacific Cancels Sunday Flights as Typhoon Nears Hong Kong - Bloomberg.com",
-        "description": "Cathay Pacific Airways Ltd. delayed and canceled flights in and out of Hong Kong on Sunday, and the Observatory issued its second-highest typhoon signal, as tropical cyclone Wipha approached the city.",
-        "url": "https://www.bloomberg.com/news/articles/2025-07-19/cathay-pacific-cancels-sunday-flights-as-typhoon-nears-hong-kong",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihaCrqUtYEfs/v1/1200x800.jpg",
-        "publishedAt": "2025-07-19T23:34:50Z",
-        "content": "Cathay Pacific Airways Ltd. delayed and canceled flights in and out of Hong Kong on Sunday, and the Observatory issued its second-highest typhoon signal, as tropical cyclone Wipha approached the city\u2026 [+240 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NPR"
-        },
-        "author": "Chandelis Duster",
-        "title": "Police are investigating a man's death after he was pulled into MRI machine - NPR",
-        "description": "New York police said the 61-year-old man was wearing a large metal chain that caused him to be \"drawn into the machine.\" The FDA warns that MRI scan create a \"strong, static magnetic field.\"",
-        "url": "https://www.npr.org/2025/07/19/nx-s1-5473452/nassau-mri-death-investigation",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+187/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe1%2F61%2Fa80fd1bb431daafc5bd8f085f1ea%2Fap25199692177994.jpg",
-        "publishedAt": "2025-07-19T22:09:46Z",
-        "content": "Police are investigating a man's death after he was pulled into a Magnetic Resonance Imaging (MRI) machine earlier this week.\r\nThe 61-year-old man was wearing a \"large metallic chain\" when he entered\u2026 [+920 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Neal Rothschild",
-        "title": "Trump meets toughest opponent: his Epstein-fixated base - Axios",
-        "description": "An aggressive pressure campaign forced Trump to flinch,\u00a0generating a rare moment of weakness.",
-        "url": "https://www.axios.com/2025/07/19/trump-jeffrey-epstein-maga-media",
-        "urlToImage": "https://images.axios.com/ExMkNXfxaKQhis6kT-C2tPwalAI=/0x0:1920x1080/1366x768/2025/07/14/1752525882429.jpeg",
-        "publishedAt": "2025-07-19T21:19:41Z",
-        "content": "Driving the news: After nearly two weeks of relentless discourse \u00a0fueled in large part by MAGA influencers \u00a0Trump directed Attorney General Pam Bondi on Thursday night to seek the release of grand ju\u2026 [+3211 chars]"
     }
 ]
