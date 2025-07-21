@@ -14,29 +14,16 @@
     },
     {
         "source": {
-            "id": "espn",
-            "name": "ESPN"
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
         },
-        "author": "Kendra Andrews",
-        "title": "WNBA stars wear 'Pay Us What You Owe Us' shirts - ESPN",
-        "description": "WNBA All-Stars took the court for warmups Saturday clad in T-shirts that read \"Pay Us What You Owe Us,\" a reference to the players' biggest gripe during the ongoing CBA negotiations.",
-        "url": "https://www.espn.com/wnba/story/_/id/45778770/wnba-all-stars-wear-pay-us-owe-us-warmup-shirts",
-        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0720%2Fr1521151_1296x729_16%2D9.jpg",
-        "publishedAt": "2025-07-20T01:06:00Z",
-        "content": "INDIANAPOLIS -- WNBA All-Star players wore T-shirts that read \"Pay Us What You Owe Us\" as they warmed up for the All-Star Game on Saturday night, highlighting a major sticking point for the ongoing c\u2026 [+1964 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Dan Lamothe",
-        "title": "Another Hegseth aide exits as Pentagon churn continues - The Washington Post",
-        "description": "Justin Fulcher was at the center of two unusual controversies, and officials had speculated in recent days that his days on Hegseth\u2019s staff were numbered.",
-        "url": "https://www.washingtonpost.com/national-security/2025/07/19/hegseth-justin-fulcher-pentagon/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FWNS64TRDFWVTOPSKLWQVFHD6I.JPG&w=1440",
-        "publishedAt": "2025-07-20T00:25:42Z",
-        "content": "Another senior aide to Defense Secretary Pete Hegseth is leaving the Pentagon, officials said Saturday, marking at least the sixth departure of a top adviser in Hegseths first six months in office.\r\n\u2026 [+4326 chars]"
+        "author": "The Wall Street Journal",
+        "title": "How China Built a Global Port Network - The Wall Street Journal",
+        "description": null,
+        "url": "https://www.wsj.com/business/logistics/how-china-built-a-global-port-network-09288159",
+        "urlToImage": null,
+        "publishedAt": "2025-07-20T02:00:00Z",
+        "content": null
     },
     {
         "source": {
@@ -50,6 +37,19 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2225080670.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2025-07-20T00:05:00Z",
         "content": "Divers searched beneath the waves for missing passengers and crew after a sightseeing ship capsized in a squall in Halong Bay, a popular tourist destination in Vietnam, on Saturday. At least 34 bodie\u2026 [+2537 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hollywood Reporter"
+        },
+        "author": "McKinley Franklin",
+        "title": "James Gunn Recalls Telling Henry Cavill He Wasn\u2019t Returning as Superman: \u201cIt Was Really Unfair to Him\u201d - The Hollywood Reporter",
+        "description": "\u201cHe was an absolute gentleman about it. He said, \u2018The only thing I ask is that I\u2019m able to reveal it myself as opposed to it coming from you guys,\u2019\u201d the director added of Cavill's reaction to the news.",
+        "url": "http://www.hollywoodreporter.com/movies/movie-news/james-gunn-henry-cavill-superman-not-returning-1236323960/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/07/1-13.jpg?w=1296&h=730&crop=1",
+        "publishedAt": "2025-07-19T23:49:10Z",
+        "content": "James Gunn is shedding light on the moment he had to tell Henry Cavill he was not returning to play Superman.\u00a0\r\nDuring a recent appearance on the Happy Sad Confused podcast with Josh Horowitz, the DC\u2026 [+2277 chars]"
     },
     {
         "source": {
@@ -76,6 +76,32 @@
         "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/07/19/c4075c22-49c5-4906-bf46-5d3fa507b060/thumbnail/1200x675/8e79014fe3bd33525da55371a814323f/gettyimages-2225106743-scottie-scheffler-2025-british-open-r3-7th-tee-1400.jpg",
         "publishedAt": "2025-07-19T23:37:00Z",
         "content": "Scottie Scheffler's march towards his first Claret Jug continued unimpeded Saturday as the three-time major champion moved ever-closer to his first win in The Open Championship. The world No. 1 shot \u2026 [+8731 chars]"
+    },
+    {
+        "source": {
+            "id": "the-hill",
+            "name": "The Hill"
+        },
+        "author": "Miriam Waldvogel",
+        "title": "Hegseth senior staffer out at Pentagon - The Hill",
+        "description": "Justin Fulcher, a senior staffer at the Pentagon and advisor to Defense Secretary Pete Hegseth, has left the Defense Department (DOD), an agency spokesperson confirmed to NewsNation. Fulcher\u2019s departure is the latest shakeup in recent months in the top ranks \u2026",
+        "url": "https://thehill.com/policy/defense/5410264-hegseth-senior-staffer-out-at-pentagon/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/07/hegsethpete_062625gn08_w.jpg?w=1280",
+        "publishedAt": "2025-07-19T23:05:00Z",
+        "content": "Skip to content\r\nJustin Fulcher, a senior staffer at the Pentagon and advisor to Defense Secretary Pete Hegseth, has left the Defense Department (DOD), an agency spokesperson confirmed to NewsNation.\u2026 [+1185 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Official Website of the Ultimate Fighting Championship"
+        },
+        "author": null,
+        "title": "Prelim Results | UFC 318: Holloway vs Poirier 3 - UFC.com",
+        "description": "See The Fight Results, Watch Post-Fight Interviews With The Prelim Winners And More From UFC 318: Holloway vs Poirier 3, Live From Smoothie King Center In New Orleans, Louisiana",
+        "url": "https://www.ufc.com/news/prelim-results-highlights-winner-interviews-ufc-318-holloway-vs-poirier-3-new-orleans",
+        "urlToImage": "https://ufc.com/images/styles/card/s3/2025-07/071925-Ateba-Gautier-Punch-THUMB-GettyImages-2226053689.jpg?itok=Fs07-Ij6",
+        "publishedAt": "2025-07-19T22:54:33Z",
+        "content": "Louisiana native Carli Judice opened the show in style, finishing Nicolle Caliari in the third round before a run of five straight fights ended in the first round. Brunno Ferreira, Ryan Spann, and Ji\u2026 [+714 chars]"
     },
     {
         "source": {
@@ -118,6 +144,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Rolling Stone"
+        },
+        "author": "Naomi LaChance",
+        "title": "Tulsi Gabbard Helps Boost Trump's Russia Crusade, Calling for Prosecution of Obama Officials - Rolling Stone",
+        "description": "Tulsi Gabbard called for Obama officials to be prosecuted over an alleged 'conspiracy' over Russian interference in the 2016 election.",
+        "url": "http://www.rollingstone.com/politics/politics-news/tulsi-gabbard-trump-russia-obama-officials-prosecution-1235389577/",
+        "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/07/TulsiGabbard-1.jpg?w=1600&h=900&crop=1",
+        "publishedAt": "2025-07-19T22:02:05Z",
+        "content": "Director of National Intelligence Tulsi Gabbard, the former Democratic lawmaker who has since turned MAGA, is helping her boss President Donald Trump try to rewrite the history of 2016 to match his p\u2026 [+2691 chars]"
+    },
+    {
+        "source": {
             "id": "associated-press",
             "name": "Associated Press"
         },
@@ -132,6 +171,45 @@
     {
         "source": {
             "id": null,
+            "name": "Variety"
+        },
+        "author": "Jack Dunn",
+        "title": "Jennifer Love Hewitt Has Not Spoken to Sarah Michelle Gellar Since She Was \u201918 Years Old\u2019 When Original \u2018I Know What You Did Last Summer\u2019 Premiered - Variety",
+        "description": "Jennifer Love Hewitt says she has not spoke to Sarah Michelle Gellar since she was 18.",
+        "url": "https://variety.com/2025/film/news/jennifer-love-hewitt-sarah-michelle-gellar-ikwydls-1236465274/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2025/07/MSDISTK_EC033.jpg?crop=0px%2C254px%2C3095px%2C1741px&resize=1000%2C563",
+        "publishedAt": "2025-07-19T21:10:00Z",
+        "content": "During a recent interview with Vulture, Jennifer Love Hewitt said she hasn\u2019t spoken to her \u201cI Know What You Did Last Summer\u201d co-star Sarah Michelle Gellar since the slasher debuted in 1997. Despite t\u2026 [+1274 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": null,
+        "title": "Russia pounds Ukraine with over 300 drones, killing 1 in Odesa - AP News",
+        "description": "Russia has launched a massive overnight drone and missile attack on Ukraine, killing at least one person. Ukrainian President Volodymyr Zelenskyy said over 300 drones and 30 cruise missiles were fired during the attack overnight into Saturday, with Odesa heav\u2026",
+        "url": "https://apnews.com/article/russia-ukraine-war-drones-odesa-zelenskyy-621c5e482c5f5cb38d56b4be0c59d622",
+        "urlToImage": "https://dims.apnews.com/dims4/default/b3b4ed4/2147483647/strip/true/crop/2000x1125+0+103/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fce%2F9d%2F1d62e85a6984403185e910c8bc4f%2Fbd2bb990ef3a4d1c857a2eefd176a82c",
+        "publishedAt": "2025-07-19T19:19:00Z",
+        "content": "Russia launched a massive attack on Ukraine overnight into Saturday with hundreds of drones, killing at least one person, part of a stepped-up bombing campaign that has dashed hopes for a breakthroug\u2026 [+1987 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Scott Nover, Karin Brulliard",
+        "title": "Here\u2019s where public broadcasting cuts hit the hardest - The Washington Post",
+        "description": "President Donald Trump\u2019s rescissions package targets public media. The smallest stations serving rural America are set to bear the brunt.",
+        "url": "https://www.washingtonpost.com/business/2025/07/19/pbs-npr-cpb-cuts-rural/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A6REHXYTBEPJKXGFJQ5AWH45F4_size-normalized.jpg&w=1440",
+        "publishedAt": "2025-07-19T17:15:39Z",
+        "content": "When a 7.3-magnitude earthquake rumbled beneath the Bering Sea on Wednesday 50 miles south of Sand Point, Alaska, authorities sent their first tsunami warnings directly to the nearest public radio st\u2026 [+9951 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Albany Times Union"
         },
         "author": "News staff",
@@ -141,83 +219,5 @@
         "urlToImage": "https://s.hdnux.com/photos/01/02/70/46/17533363/5/rawImage.jpg",
         "publishedAt": "2025-07-19T16:57:49Z",
         "content": "The New York state Health Department is advising Capital Region residents that a person with measles visited the Albany\u00a0Med and Saratoga Hospital emergency departments this week and that vaccination \u2026 [+7958 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Variety"
-        },
-        "author": "Jack Dunn",
-        "title": "\u2018Fantastic Four\u2019 First Reactions Say Film Is One of the \u2018Best Things Marvel Has Ever Made\u2019 With \u2018Stunning Visuals\u2019 and \u2018Excellent\u2019 Performances From Leading Cast - Variety",
-        "description": "The first reactions for 'Fantastic Four' are praising the 'immaculate' visuals and 'excellent' performances from Pedro Pascal and Vanessa Kirby.",
-        "url": "https://variety.com/2025/film/news/fantastic-four-first-reactions-pedro-pascal-marvel-1236465177/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2025/02/MFB1420_TRL_comp_DDO_v0137.1038_R8.jpg?crop=0px%2C76px%2C1000px%2C562px&resize=1000%2C563",
-        "publishedAt": "2025-07-19T16:31:00Z",
-        "content": "Marvel\u2018s \u201cThe Fantastic Four: First Steps\u201d has been unveiled to members of the film press, and first reactions are praising the MCU epic as a \u201cvisual feast\u201d with \u201csnappy, confident storytelling.\u201d \r\nN\u2026 [+3847 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "PBS"
-        },
-        "author": null,
-        "title": "Man found shot after striking crowd with car outside Los Angeles nightclub, injuring 30 - PBS",
-        "description": "A vehicle rammed into a crowd of people waiting to enter a nightclub in Los Angeles early Saturday, injuring 30 people and leading bystanders to attack the driver, authorities said. The driver was later found to have been shot, according to Los Angeles police\u2026",
-        "url": "https://www.pbs.org/newshour/nation/man-found-shot-after-striking-crowd-with-car-outside-los-angeles-nightclub-injuring-30",
-        "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/07/2025-07-19T134321Z_1827003840_RC2OPFAVOTDY_RTRMADP_3_USA-COLLISION-LOS-ANGELES-1024x682.jpg",
-        "publishedAt": "2025-07-19T16:19:41Z",
-        "content": "LOS ANGELES (AP) A vehicle rammed into a crowd of people waiting to enter a nightclub along a busy boulevard in Los Angeles early Saturday, injuring 30 people and leading bystanders to attack the dri\u2026 [+2594 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Jeremy Herb",
-        "title": "Gabbard threatens Obama officials with criminal referral over 2016 election assessment - CNN",
-        "description": "Director of National Intelligence Tulsi Gabbard on Friday threatened to refer Obama administration officials to the Justice Department for prosecution over the intelligence assessment of Russia\u2019s 2016 election interference, in the latest example of officials \u2026",
-        "url": "https://www.cnn.com/2025/07/19/politics/gabbard-threatens-obama-officials-2016-election",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2214540790.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-07-19T16:12:00Z",
-        "content": "Director of National Intelligence Tulsi Gabbard on Friday threatened to refer Obama administration officials to the Justice Department for prosecution over the intelligence assessment of Russias 2016\u2026 [+3136 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Eurogamer.net"
-        },
-        "author": "Vikki Blake",
-        "title": "Krafton's ready to take on Subnautica's creators in court - Eurogamer",
-        "description": "Krafton said it \"look[s] forward to defending itself in court\" after Unknown Worlds' former leadership confirmed they w\u2026",
-        "url": "https://www.eurogamer.net/kraftons-ready-to-take-on-subnauticas-creators-in-court",
-        "urlToImage": "https://assetsio.gnwcdn.com/Subnautica-2-screenshot-showing-a-diver-swimming-underwater.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "publishedAt": "2025-07-19T16:10:23Z",
-        "content": "Krafton said it \"look[s] forward to defending itself in court\" after Unknown Worlds' former leadership confirmed they would be suing the publisher after they were suddenly ousted and replaced earlier\u2026 [+2616 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Celia Fernandez",
-        "title": "36-year-old lives and travels in her truck full-time, spends $1,305/month: 'I'm comfortable in very small spaces' - CNBC",
-        "description": "Ashley Kay bought a Toyota Tacoma and started to journey the Pan-American Highway.",
-        "url": "https://www.cnbc.com/2025/07/19/36-year-old-lives-in-truck-full-time-for-1305/month.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108161209-1750269948779-Peru.jpg?v=1750270378&w=1920&h=1080",
-        "publishedAt": "2025-07-19T16:00:01Z",
-        "content": "In 2019, Ashley Kaye took a scuba diving trip to Honduras that changed the course of her life.\r\nOn that trip, Kaye met someone who travels full-time, and the conversation they had helped her realize \u2026 [+6260 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Variety"
-        },
-        "author": "J. Kim Murphy",
-        "title": "Box Office: \u2018Superman\u2019 Still on Top as \u2018I Know What You Did Last Summer\u2019 Hooks $5.8 Million Opening Day Ahead of \u2018Eddington\u2019 and \u2018Smurfs\u2019 - Variety",
-        "description": "James Gunn's 'Superman' is on top of the box office in its second weekend, ahead of 'I Know What You Did Last Summer,' 'Smurfs' and 'Eddington.'",
-        "url": "https://variety.com/2025/film/box-office/superman-second-weekend-i-know-what-you-did-opening-1236465064/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2025/07/super-summer-smurfs-split.jpg?w=999&h=563&crop=1",
-        "publishedAt": "2025-07-19T15:21:00Z",
-        "content": "\u201cSuperman\u201d is still atop the hierarchy of power at the box office in its second weekend, flying above new wide releases \u201cI Know What You Did Last Summer,\u201d \u201cSmurfs\u201d and \u201cEddington.\u201d\r\nThe DC Studios un\u2026 [+4546 chars]"
     }
 ]
