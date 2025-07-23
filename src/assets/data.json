@@ -1,16 +1,81 @@
 [
     {
         "source": {
-            "id": "google-news",
-            "name": "Google News"
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
         },
-        "author": "CNBC",
-        "title": "S&P 500 ekes out another record close Tuesday as traders react to latest earnings: Live updates - CNBC",
+        "author": "The Wall Street Journal",
+        "title": "Stock Market News Today: Dow, S&P 500 Edge Higher; Bessent Sees No Reason for Powell to Leave \u2014 Live Updates - The Wall Street Journal",
         "description": null,
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BZndSbjF1a19ralI5aTlUN0ZrSGVqOTJSYWVzTFhPTnhqeGVPSTZpQkpNbXdMbnJmNkJLV3c5RGh6YW1pcVVuaV9RbVVKNGFqcnZIN2VpWHE1VmJrYk93d21oQmY5WmNNWGhKTXpBREpUc1MwUkdF0gF8QVVfeXFMTVFTSVpveXg5TW5XZUV2cG9YbDc0bk1oWUxfQVJ3NGs1WVhDZnJwYTlKNkRQMWEtQVI3bk5NVjgyQWxCeFFEWmVqTWFNODlEX1NpbU9BdHVZUlF3ZXZuZEg3Z1piX2VIbVJuOGxYWFZhS3A3aElhSmdmTE1zLQ?oc=5",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-22-2025",
         "urlToImage": null,
-        "publishedAt": "2025-07-22T20:23:00Z",
+        "publishedAt": "2025-07-22T21:45:00Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NBCSports.com"
+        },
+        "author": "Charean Williams",
+        "title": "Micah Parsons on lack of movement in talks: I don\u2019t take it personally; I just don\u2019t understand - NBC Sports",
+        "description": "The Cowboys edge rusher is in training camp despite not having a contract extension yet.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-on-lack-of-movement-in-talks-i-dont-take-it-personally-i-just-dont-understand",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/b451569/2147483647/strip/true/crop/3871x2177+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff8%2Fe5%2F3e7c3e7847f6bad4f92e841e6f75%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D26419046",
+        "publishedAt": "2025-07-22T21:22:19Z",
+        "content": "Cowboys star edge rusher Micah Parsons showed up to training camp despite not having a contract extension. He addressed the media Tuesday and expressed frustration at not much movement in negotiation\u2026 [+2062 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Deadline"
+        },
+        "author": "Anthony D'Alessandro, Nancy Tartaglione",
+        "title": "\u2018The Fantastic Four: First Steps\u2019 Expected To Be Big With $190M-$210M Global Box Office Opening \u2013 Preview - Deadline",
+        "description": "Marvel Studios' The Fantastic Four: First Steps is looking to do between $190 million-$210 million around the world in its opening box office weekend.",
+        "url": "http://deadline.com/2025/07/fantastic-four-box-office-opening-1236465209/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2025/07/Fantastic-Four-First-Steps.jpg?w=1024",
+        "publishedAt": "2025-07-22T20:48:00Z",
+        "content": "More smelling salts at the box office this weekend, which will continue to wake up audiences from superhero fatigue as Marvel Studios\u2018 The Fantastic Four: First Stepsis looking to do between $190 mil\u2026 [+4318 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Alina Habba: Trump's ex-lawyer replaced as federal prosecutor by judges - BBC",
+        "description": "Alina Habba will be replaced when her interim term expires, in a rare move by a group of 17 judges.",
+        "url": "https://www.bbc.com/news/articles/cj9vm03yye4o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4dd9/live/84d97e70-6731-11f0-85fb-2b8164eeaf68.jpg",
+        "publishedAt": "2025-07-22T20:44:37Z",
+        "content": "A group of US judges has voted to replace President Donald Trump's selection for New Jersey's top federal prosecutor amid opposition from Democrats in the state. \r\nAlina Habba had served as Trump's p\u2026 [+2433 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "Black Sabbath frontman Ozzy Osbourne dead at 76 - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/GMA/Culture/ozzy-osbourne-heavy-metal-music-legend-dead-76/story?id\\\\u003d72692115",
+        "urlToImage": null,
+        "publishedAt": "2025-07-22T20:25:53Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "Emily Shapiro",
+        "title": "Erik Menendez in hospital, diagnosed with serious medical condition: Family - Yahoo Home",
+        "description": "Erik and Lyle Menendez have a parole hearing on Aug. 21.",
+        "url": "https://abcnews.go.com/US/erik-menendez-hospital-diagnosed-medical-condition-family/story?id=123971270",
+        "urlToImage": "https://i.abcnewsfe.com/a/2d338307-727f-4a82-a52c-d398ad26defa/menendez-2-ht-er-250722_1753210300019_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2025-07-22T20:06:59Z",
+        "content": "Erik Menendez, 54, is in the hospital and has been diagnosed with a serious medical condition, his family confirmed to ABC News.\r\nThe condition has not been disclosed.\r\nErik and Lyle Menendez were re\u2026 [+1104 chars]"
     },
     {
         "source": {
@@ -27,133 +92,68 @@
     },
     {
         "source": {
-            "id": "google-news",
-            "name": "Google News"
+            "id": null,
+            "name": "GSMArena.com"
         },
-        "author": "CNN",
-        "title": "Trump announces trade agreement with the Philippines and terms of deal with Indonesia - CNN",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EelA2MXY4UFBvRU5tOE1JaXNkNGs1WDNXZk5ES29FX2gxYkFPSU1SSEZkU05icHRPV3BVT2VIbmN4alNTa0dtNjZmRTJWaWtZOTgwdldnT1hvVFl5akF3SG4xWmF0T1IxaWtPbGM0aGRrQTNZcXp30gF8QVVfeXFMUEZ1ZUZDM1BIeUg3TzdzN1BUX3ZzTlB4eFhiNnRMMzlINUlvZF93ZnJxNFZqRzFhRmVRemN2YjQ4bG1OUFhReVdxTnBqMU9ZNXBZaFpQMktkQ2VUX2xmcjd1OTBtSS1ncUwtTnJRR2JreC04TGQ4dnNWc3M0aQ?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2025-07-22T19:46:00Z",
-        "content": null
+        "author": "Vlad",
+        "title": "Google Pixel 10 Pro and Pixel 10 Pro XL now shown in all colors too - GSMArena.com news - GSMArena.com",
+        "description": "They aren't the dullest, but also not the most exciting ever. Yesterday some leaked renders showed us the upcoming Google Pixel 10 in all of its upcoming...",
+        "url": "https://www.gsmarena.com/google_pixel_10_pro_and_pixel_10_pro_xl_now_shown_in_all_colors_too-news-68726.php",
+        "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/07/google-pixel-10-pro-pixel-10-pro-xl-renders/-952x498w6/gsmarena_000.jpg",
+        "publishedAt": "2025-07-22T20:00:02Z",
+        "content": "Yesterday some leaked renders showed us the upcoming Google Pixel 10 in all of its upcoming colorways, and today the Pixel 10 Pro and Pixel 10 Pro XL have received the exact same treatment.\r\nLet's st\u2026 [+1050 chars]"
     },
     {
         "source": {
-            "id": "google-news",
-            "name": "Google News"
+            "id": "nbc-news",
+            "name": "NBC News"
         },
-        "author": "NBC News",
+        "author": "Linda Carroll",
         "title": "Covid pandemic aged brains by an average of 5.5 months, study finds - NBC News",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOUh5VVlkZXdMZEswU3Z2RlZ0UDlIaHc3RWJSSnpzNTdmejBCX0pLeEppWnhCS29GZ1FKSWJ3c2NaejZqRHZVc2I0STlTdXluU1E5Q2Z0cHZrdVNEVEpUaFJBNWQ5dmh4U2pMNkF1VE9zNTJ2U3FwM19sUFp3N1ZzTWFPTEZJMmVYeGdiLVpxY01pR1JBSTlsdi1CSXRKT2PSAVZBVV95cUxPNktOSlliY3dwenByTFc1WHpUVkRaWWFaTE9nd3U0UExTNWJYSEdodjR0TUxHVEdKaXlNd2t4cHdZUXo2bERVczBVV214cXJqNEd3RDZvZw?oc=5",
-        "urlToImage": null,
+        "description": "New research reveals the Covid pandemic accelerated brain aging by an average of 5.5 months. An earlier study on how teen brains were affected found a similar result.",
+        "url": "https://www.nbcnews.com/health/health-news/covid-pandemic-accelerated-brain-aging-study-rcna220048",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250721-covid-aged-our-brains-se-123p-1237eb.jpg",
         "publishedAt": "2025-07-22T19:18:22Z",
-        "content": null
+        "content": "Brain aging may have sped up during the pandemic, even in people who didnt get sick from Covid, a new study suggests. \r\nUsing brain scans from a very large database, British researchers determined th\u2026 [+5289 chars]"
     },
     {
         "source": {
-            "id": "google-news",
-            "name": "Google News"
+            "id": "espn",
+            "name": "ESPN"
         },
-        "author": "Spaceflight Now",
+        "author": "Katherine Terrell",
+        "title": "Saints' Mathieu retires on eve of training camp - ESPN",
+        "description": "Saints safety Tyrann Mathieu announced his retirement from the NFL on Tuesday.",
+        "url": "https://www.espn.com/nfl/story/_/id/45796969/saints-tyrann-mathieu-retires-eve-training-camp",
+        "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0103%2Fr1434343_1296x729_16%2D9.jpg",
+        "publishedAt": "2025-07-22T19:12:40Z",
+        "content": "NEW ORLEANS -- Saints safety Tyrann Mathieu announced his retirement Tuesday on the eve of the team's first training camp practice.\r\nMathieu's announcement came as a surprise after he attended the te\u2026 [+2619 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Spaceflight Now"
+        },
+        "author": null,
         "title": "SpaceX: \u2018Air space concerns\u2019 causes last-minute scrub of NASA\u2019s TRACERS mission - Spaceflight Now",
         "description": null,
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb3R3TGFMeGNnRnRSMVJTNVJfeUhFTW4zSUI3dE4tY3ZrTzN4XzdEVHFWTWRCd0xWLUpudHVPdU5La1FkSld6dzRNeW42a2llMnFldU9tSFhrX1p1SWFZLXJEYi1XYkJ1OGlnUzJwbk01bHNuOF92bXhfN2tUVGY0NXZyaVcxTzJqalZnSzZScWRpdC1jWjF5Nnp2a3huaTBWQjFSeFBKSlhoOGhMVmphYUFCRkpvMlpkTXRCWDJacHVvSzZpUG1iekE1WkhWQkZkMm42UVQxanhLRUl0VFVLbmh6SkI?oc=5",
+        "url": "https://spaceflightnow.com/2025/07/22/live-coverage-spacex-to-launch-nasas-tracers-satellites-on-rideshare-falcon-9-rocket-launch-from-vandenberg-sfb/",
         "urlToImage": null,
         "publishedAt": "2025-07-22T19:07:30Z",
-        "content": null
+        "content": "NASA\u2019s two TRACERS (Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites) are encapsulated along with five other satellites ahead of launch from Vandenberg Space Force Base on a Spa\u2026 [+12333 chars]"
     },
     {
         "source": {
-            "id": "google-news",
-            "name": "Google News"
+            "id": null,
+            "name": "MarketWatch"
         },
-        "author": "The New York Times",
-        "title": "Bypassing Habba, Judges in New Jersey Name New Top Federal Prosecutor - The New York Times",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ21FWF9IUVI0NWRFTl9xWkxMbHlEeUlmUnBIN0haS1VrWk9weXRfc2JsQzBSUmRKTGxhZkY4MnA1a2NpUjVLeE1IcDRDZ1lsWlpZdWVrWFNvS0dGVlcxQUdLZUpLbVVrbFl2N0loaDNJRHYzOU5DZEMxeXZQNDBiNw?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2025-07-22T18:55:44Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": "New Orleans Saints",
-        "title": "New Orleans Saints safety Tyrann Mathieu announces his retirement from pro football - New Orleans Saints",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRGJ6b2F6ektxYVRfQWtMVmtZTGdmbGl5eE9kOHJSV3AtNHlzV3Zna0h5aWh6d3lrN0FKQ2VkQ0NsNVFYalBLNlk2UlNwQ2tQRm1VdUVXSzdsRVIyNFJWZHdoS0Z6Y2R5VHE1Z0hzQ05INDlYcHZYX1BwN1RncGJZVTNVZVg2a0l0U2lDTENLc1NNMl82TXR6bHpMTV9DeTdwQUpJOC14UExWaUgxY0RQd3RsNA?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2025-07-22T18:53:28Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": "TechCrunch",
-        "title": "iOS 26 beta 4 arrives, with Liquid Glass tweaks and AI news summaries - TechCrunch",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMEsydTVNbUI3VHF6NUdHZkRYUzNaQkJpT2NveEtyYVFad2djRnF3dE8yUGpxSWFfY2lZTWQwdi1EZnpXTVlxNUtPWXJPVmNiQ0EzeXd5a1RqUW5HcHQ2cGlkNDY0QTdGTnprSmZWSmJBbTlDaGRmYkptNTZjTVQ2TjFZaXZmQ0s1bWFYVkZuOXY4eEVyejA0N3hPcWdlRVFNekVjejB3?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2025-07-22T18:47:14Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": "Yahoo Home",
-        "title": "Ozzy Osbourne dies at age 76: Family says legendary Black Sabbath singer was 'surrounded by love' - Yahoo Home",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQM3F2eWhZZ1FuUDRuc08xWE45NVYtS0d0ZWxLOVRyZGg0SS1lOENWR2V4blo5Ui1GdjB2bVBGS1ZWNW9fUVhfYWF4Q2xNSnNhVUlTLS1nVkZXNENKSTRoWjRhVzE0RGFTdFFqT1lPaUM1SGExRnRidUlTcWdMTUcyVlI1ZDdLVnl3OEhzanJFY1JRRno4UjM2WEFHdVR0cF81RWg1czZ2ZFRrSzJJUUZUSEE1ZU1JaDUtVktlWnRoSXFCWnUtM0lLS0pSbTl0NnZDUVQ3TUdUZE1IcDFKTTY2Q2ZwTjhmNm5oa0lLdVVPQnplZlBWUnc?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2025-07-22T18:24:04Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": "Milwaukee Journal Sentinel",
-        "title": "Koh's Corp. becomes 'meme stock' as price surges on Wall Street. One executive cashes in - Milwaukee Journal Sentinel",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeHh6MlRtNzNacHMzSkdFWlNuMmJpZHNBdG1tQUdva2JVUDR1MHh6Ty1LSXFWWXdhaThFTGQ4YWlaNHVKbnNrQjU5cTB5YVE2QlVQUU1SZEhEZE1SMXZoRmlFLVIxamZ0TUxBTDhlaWNRak1NWUlZNDNienFaU2R1aF96ZHFONVZlQ05XaFk0TTBzWnRET1AwR2hXemlISV9vXzc0Q21YT2N6VEstRXkxbnFDLUxIYzVyX28zVDFNaEFZLWZfRF9Ebw?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2025-07-22T18:12:04Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": "The New York Times",
-        "title": "Israel Expands Attacks in Central Gaza City and Raids W.H.O. Offices - The New York Times",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONG5zUWVOTUNId3U4T1ZGTURTblNEQ1pSQTYzQ01pM2tUcnJlSnpzM3pOTVBuZ3B3djJoOHhHdWpkRlVqbHJmelNKN2IteUx0QlhiLVZ3d2RlaGF1cEYwSnhPSVNkYXMyNEJZMW1kZUR5VkhrbzRxeEFxdUVQTUZHWVZZWDlvLUV6QmlEQXVRQQ?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2025-07-22T17:48:52Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": "BBC",
-        "title": "Gaza health ministry says 33 people died from malnutrition in 48 hours - BBC",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xcmZjWi11STM3ajcwaEtkdlNmZHdGaDRSRU5Ub19PNUxrWG1DZWJDX290V0hUVGZ4WmpwNmxpNzZ5NHRtd0lFeVhMOW1jMUpTOVBmaXlXMWtIQdIBX0FVX3lxTE4waWIxZ1IySmgtMHVBVXA1X2FWS0Izd0ozbzJoUzk5c2RGZTdFUEJFQ294VFkyVFE0RXNLRkhEbWZ4ME5uc3RUNWFselZwUllFVVdZYmFTdlNoOWtTYk5R?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2025-07-22T17:48:23Z",
-        "content": null
+        "author": "James Rogers",
+        "title": "Kohl\u2019s stock soars and Opendoor sees massive volume as meme-stock \u2018mini-bubble\u2019 forms - MarketWatch",
+        "description": "Behavioral-finance expert Victor Ricciardi likens the skyrocketing share prices of Kohl\u2019s and Opendoor to the internet bubble of the 1990s",
+        "url": "https://www.marketwatch.com/story/kohls-stock-soars-and-opendoor-sees-massive-volume-as-meme-stock-mini-bubble-forms-06a46743",
+        "urlToImage": "https://images.mktw.net/im-73268442/social",
+        "publishedAt": "2025-07-22T18:58:00Z",
+        "content": "A day after Opendoor Technologies Inc. was swept up in the latest round of meme-stock mania, shares of Kohls Corp. skyrocketed amid what a behavioral-finance expert describes as a mini-bubble.\r\nShare\u2026 [+263 chars]"
     },
     {
         "source": {
@@ -161,102 +161,63 @@
             "name": "ABC News"
         },
         "author": "ABC News",
-        "title": "'The Cosby Show' actor Malcolm-Jamal Warner's cause of death released by police - ABC News",
+        "title": "Johnson ending legislative session early over Epstein controversy as some Republicans demand answers - ABC News",
         "description": null,
-        "url": "https://abcnews.go.com/GMA/Culture/cosby-show-actor-malcolm-jamal-warners-cause-death/story?id\\\\u003d123967160",
+        "url": "https://abcnews.go.com/Politics/house-paralyzed-epstein-files-2nd-week-row/story?id\\\\u003d123953105",
         "urlToImage": null,
-        "publishedAt": "2025-07-22T17:16:51Z",
+        "publishedAt": "2025-07-22T18:57:20Z",
         "content": null
     },
     {
         "source": {
-            "id": "google-news",
-            "name": "Google News"
+            "id": null,
+            "name": "The State"
         },
-        "author": "Engadget",
-        "title": "Microsoft announces Surface Laptop 5G for Business - Engadget",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSGxlR1ljNXJSdVh3SWliSHRFclpyZjFEbGxKZ05fbS1YczBxNVNWNEtCOHZyRERqNlVXUklQcGxXb3BiTDRiMGNETzVDU1dNR0JFSkFwazFXWWhaSE56dkI5ejhaanRkUGRoQVAzM1NtN242N2VaMW84SElzU2t1VGVBX2ZrM3RUQ2E1OTdwa2ROYUJQYWZ1UGZWS3FBUGdwOV9hWkpUNmdFY2p4?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2025-07-22T17:00:51Z",
-        "content": null
+        "author": "Colin Elam",
+        "title": "Brain-eating amoeba death confirmed in SC Midlands, health officials say - The State",
+        "description": "A death from brain-eating amoeba infection has been confirmed in South Carolina, the state\u2019s public health department said. Rare disease is almost always fatal.",
+        "url": "https://www.thestate.com/news/local/article311151960.html",
+        "urlToImage": "https://www.thestate.com/news/local/e4xxuc/picture311176545/alternates/LANDSCAPE_1140/17616.jpg",
+        "publishedAt": "2025-07-22T18:57:00Z",
+        "content": "Local\r\nA person in the Midlands has died from a brain-eating amoeba. \r\nA patient at the Prisma Health Childrens Hospital in the Midlands recently died as a result of the infection, Dr. Anna-Kathryn B\u2026 [+2815 chars]"
     },
     {
         "source": {
-            "id": "google-news",
-            "name": "Google News"
+            "id": "techcrunch",
+            "name": "TechCrunch"
         },
-        "author": "The Guardian",
-        "title": "(1) England v Italy: Women\u2019s Euro 2025 semi-final \u2013 live - The Guardian",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaUxJOTBNRFlDdTVZYXJkbzBVWmpLN1lUUHlnQ2laQXJoQVBXUHZSR1FqXzJZbEoydy12bVU3dzF3UWtoNXBlT1dGal9TR20wRFVVYXlmdVY0VXFUSHJpYXJ5Ym5vMXRqR3FhSHBGbFU2MUZzY0Jpay1zb3pUN2U1QXNIRHBQQkdaRUZJeDBPQ1hXallhLVlJaHc3NE1pb1NRbjNzZ2VQM19DWC11T0xaN1A1THM1Q3M?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2025-07-22T17:00:00Z",
-        "content": null
+        "author": "Sarah Perez",
+        "title": "iOS 26 beta 4 arrives, with Liquid Glass tweaks and AI news summaries - TechCrunch",
+        "description": "Apple launches iOS 26 beta 4 for developers with updates to Liquid Glass and AI notification summaries. A public beta is expected later this week.",
+        "url": "https://techcrunch.com/2025/07/22/ios-26-beta-4-arrives-with-liquid-glass-tweaks-and-ai-news-summaries/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/Apple-WWDC25-iOS-26-hero-250609.jpg?resize=1200,675",
+        "publishedAt": "2025-07-22T18:47:14Z",
+        "content": "Apple on Tuesday released the fourth developer beta of its next big software update, iOS 26, which brings with it slight changes to its Liquid Glass redesign and the re-introduction of AI-powered not\u2026 [+2941 chars]"
     },
     {
         "source": {
-            "id": "google-news",
-            "name": "Google News"
+            "id": "the-verge",
+            "name": "The Verge"
         },
-        "author": "The Verge",
-        "title": "Pixel 10 Pro looks a lot like the base model in leaked renders - The Verge",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX0t1a0ZZTWw0dFVCLTVrWGtLREZTeFBiWWhNbmluTFlEX1NBR1Q5dHRKVnZMdXlYV1h0eWZ5YkZyTzBxTFBrVzBKWDJxOXllMnFqejF4dFloVVdFUUw4MDJpSTV3RkxNV2ZkUW4tNi13RE5EQ0VjdEMzdFduRE9ndFdhenJic2FzTEFidmdIbzNjWmdxcVN0S2RR?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2025-07-22T16:54:12Z",
-        "content": null
+        "author": "Tom Warren",
+        "title": "Microsoft\u2019s new Intel-powered Surface Laptop 5G arrives in August - The Verge",
+        "description": "Microsoft is launching its Surface Laptop 5G on August 26th. It\u2019s a 5G laptop for businesses.",
+        "url": "https://www.theverge.com/news/711278/microsoft-surface-laptop-5g-specs-release-date-pricing",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Under-Embargo-Until-7.22-at-10am-PT-Laptop5G-Intel-Platinum.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "publishedAt": "2025-07-22T16:57:20Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Surface Laptop 5G starts at $1,799.99 and is designed for businesses.\r\nThe Surface Laptop 5G starts at $1,799.99 and is designed for businesses.\r\nby\r\nTom War\u2026 [+3347 chars]"
     },
     {
         "source": {
-            "id": "google-news",
-            "name": "Google News"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": "NPR",
-        "title": "Democrats must counter Texas' redistricting 'cheating,' says Rep. Ritchie Torres - NPR",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLW1jT3lGdzdJZXhDR1VIYkl6QUgyTVNfT0k5djkxcWFDek04ajZSaFFscmNVcEJBNEItZ3licnFIUkJNVmVRQUZWemEwb0R5bEx6V3hPbHR0SklZcTVBVTR2aDBjN3RFcncyTm1LWkkxeDctYVhRNF8tNnh2aXRYYjRQS1BaOUk?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2025-07-22T16:41:13Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": "NFL.com",
-        "title": "2025 NFL training camp position battles: Picks to win 10 notable competitions across the league - NFL.com",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVm9Vd1dMUXk1UVVRM0o4bURFdUpyUUxNcjRpZERRdjEwdkNsRDJDRjNZdXY1YWNVQjNmZE92RzNKQzNXU05RbWRIb0lJeERwTmhSV21XRDl3NGFKbXF0RVM3VVdEZmRCaUt4Q3AtQ1k2eTlYYVVRRldJT0RaTFRxUnJ1Ym5idVR2X2pUUXdqSXFDV2pxM292cXB6M18xSmhJeUJQMF84aHNJdjd4UTgwUjE0X1dWUWlKSW9z?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2025-07-22T16:35:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": "The Hill",
-        "title": "Trump says Obama should be top target in DOJ probe into intel report - The Hill",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeGkzTFdwY1czaEQ2dVg4Vy0tQm1aNkxZeVdoVEhfZHhHRTNabnFJTGhUNExsYTBOMzYtR05xRmNzZm1nc1oxRzhuakQ2czRPTWFiaHFzZVNtekpBNjV0Q0llUzJYUGh0dzBsSF9XbG93anhDaUdtQ3MwVWQ3bjFKU2NuQkNSMUZmbk1oSEEtRi1VUdIBlwFBVV95cUxOLVlyT0JGRWFFWEhVTFY2UnE3ZTQ5MElFU3I0WGdOMnV5QWp1VHoyazF2VG1pYmR6YXpOUXJNWG1iNmIzZDJrM2FzemlLeWxERHIxc2hrT3pnZDRLMXZBc3h1clp0ZXZjNmVUMkFuNGxqOHVYSjNTNEdHS1BRZ1FzZlNyWVRtb1oyYWgzNTdtd1ZFS0ZxLXE0?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2025-07-22T16:22:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": "Barron's",
-        "title": "GM Stock Falls After It Reports a $1.1 Billion Hit From Tariffs - Barron's",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zanRkczFYbEF0c1ZqUF9xbk1CN3JhMndVR2VON01pQUNOYTNqd1Nyd2xJOHV4MzU3bmNxTlk5U19Pb0w5ZzYxc2RtOEFtbE9OV2s0eV9YM3lXelBZOS0zM0xZNmpDMUZYS2NwN3I4NXJIam8?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2025-07-22T16:22:00Z",
-        "content": null
+        "author": "Vivian Ho",
+        "title": "Minnesota legislator to resign after conviction for burglary at stepmom\u2019s home - The Washington Post",
+        "description": "Minnesota state Sen. Nicole Mitchell, who was found in her stepmother\u2019s basement last year, often cast deciding votes in the closely divided legislature.",
+        "url": "https://www.washingtonpost.com/nation/2025/07/22/nicole-mitchell-minnesota-senator-burglary-convicted-resign/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7LXOGFCB77SEWGPAUYAMQES4XU_size-normalized.jpg&w=1440",
+        "publishedAt": "2025-07-22T16:44:06Z",
+        "content": "A Minnesota state senator who was convicted of breaking into her stepmothers house will resign next month, her attorneys said.\r\nA jury on Friday found state Sen. Nicole Mitchell (D) guilty of first-d\u2026 [+3410 chars]"
     }
 ]
