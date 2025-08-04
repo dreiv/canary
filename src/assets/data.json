@@ -2,6 +2,58 @@
     {
         "source": {
             "id": null,
+            "name": "NPR"
+        },
+        "author": "The Associated Press",
+        "title": "Senate heads home with no deal to speed confirmations as irate Trump tells Schumer to 'go to hell' - NPR",
+        "description": "Without a deal in hand, Republicans say they may try to change Senate rules when they return in September to speed up the pace of confirmations.",
+        "url": "https://www.npr.org/2025/08/03/nx-s1-5491414/senate-confirmations-trump-schumer",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5591x3145+0+291/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2Fa9%2F1af869bd4280a95caede19c99084%2Fap25212812549743.jpg",
+        "publishedAt": "2025-08-03T04:27:30Z",
+        "content": "WASHINGTON (AP) The Senate left Washington Saturday night for its monthlong August recess without a deal to advance dozens of President Donald Trump's nominees, calling it quits after days of content\u2026 [+3669 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Official Website of the Ultimate Fighting Championship"
+        },
+        "author": null,
+        "title": "Main Card Results | UFC Fight Night: Taira vs Park - UFC.com",
+        "description": "See The Fight Results, Watch Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Taira vs Park, Live From UFC APEX In Las Vegas On August 2, 2025",
+        "url": "https://www.ufc.com/news/main-card-results-highlights-winner-interviews-ufc-fight-night-taira-vs-park-apex-las-vegas",
+        "urlToImage": "https://ufc.com/images/styles/card/s3/2025-07/080225-ufc-fight-night-taira-vs-park-EVENT-ART.jpg?itok=0kf69pWc",
+        "publishedAt": "2025-08-03T04:07:30Z",
+        "content": "The Brazilian, who has been a mainstay in the Top 15 for the last five years, ran level with the French Muay Thai stylist in the first before hitting a beautiful blast double to put Cornolle on the d\u2026 [+729 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "TMZ"
+        },
+        "author": "TMZ Staff",
+        "title": "Denise Richards Returns to Film 'RHOBH' Amid Nasty Divorce from Aaron Phypers - TMZ",
+        "description": "Denise Richards is stepping back into the Bravo spotlight -- and right in the middle of her messy split from estranged husband Aaron Phypers \u2026 TMZ has learned.",
+        "url": "https://www.tmz.com/2025/08/02/denise-richards-films-rhobh-amid-nasty-divorce-aaron-phypers/",
+        "urlToImage": "https://imagez.tmz.com/image/15/16by9/2025/08/03/159e399bcacf4ce186df7c282dc8e064_xl.jpg",
+        "publishedAt": "2025-08-03T03:13:53Z",
+        "content": "Denise Richardsis stepping back into the Bravo spotlight -- and right in the middle of her messy split from estranged husband Aaron Phypers TMZ has learned.\r\nWitnesses tell TMZ Denise filmed scenes f\u2026 [+1179 chars]"
+    },
+    {
+        "source": {
+            "id": "the-hill",
+            "name": "The Hill"
+        },
+        "author": "Filip Timotija",
+        "title": "Trump trade adviser: President has \u2018real concerns\u2019 about jobs data after BLS firing - The Hill",
+        "description": "U.S. Trade Representative Jamieson Greer weighed in on President Trump\u2019s decision to fire the Bureau of Labor Statistics (BLS) commissioner Erika McEntarfer, saying the commander-in-chief has \u201creal concerns\u201d about the jobs numbers that extend beyond the disma\u2026",
+        "url": "https://thehill.com/homenews/administration/5434036-trump-trade-adviser-president-concerns-jobs-data/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/04/greegjamieson_040925gn03_w.jpg?w=1280",
+        "publishedAt": "2025-08-03T02:52:00Z",
+        "content": "Skip to content\r\nU.S. Trade Representative Jamieson Greer weighed in on President Trump\u2019s decision to fire the Bureau of Labor Statistics (BLS) commissioner Erika McEntarfer, saying the commander-in-\u2026 [+1707 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Yahoo Entertainment"
         },
         "author": "Andy Backstrom",
@@ -27,16 +79,16 @@
     },
     {
         "source": {
-            "id": "al-jazeera-english",
-            "name": "Al Jazeera English"
+            "id": "abc-news",
+            "name": "ABC News"
         },
-        "author": "Al Jazeera",
-        "title": "US Senate confirms former Fox News host Pirro as DC top prosecutor - Al Jazeera",
-        "description": "Former Fox News host Pirro secures Senate confirmation with 50-45 vote, becoming US attorney for the nation\u2019s capital.",
-        "url": "https://www.aljazeera.com/news/2025/8/3/us-senate-confirms-former-fox-news-host-pirro-as-dc-top-prosecutor",
-        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/08/2025-05-28T164528Z_2079301207_RC2ZQEA1WL1B_RTRMADP_3_USA-TRUMP-1754183276.jpg?resize=1920%2C1440",
-        "publishedAt": "2025-08-03T01:47:03Z",
-        "content": "The United States Senate has confirmed former Fox News television personality Jeanine Pirro as the top federal prosecutor in the nations capital, Washington, DC, filling the post after President Dona\u2026 [+2723 chars]"
+        "author": "ABC News",
+        "title": "Tennessee man arrested after officers find 14 IEDs inside home: Sheriff - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/US/tennessee-man-arrested-after-officers-find-14-ieds/story?id\\\\u003d124315937",
+        "urlToImage": null,
+        "publishedAt": "2025-08-03T02:02:31Z",
+        "content": null
     },
     {
         "source": {
@@ -66,19 +118,6 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Manu Raju, Veronica Stracqualursi",
-        "title": "Trump tells Schumer to \u2018go to hell\u2019 as Senate heads home after failed attempt to strike deal on nominees - CNN",
-        "description": "Hours after President Donald Trump told Senate Democratic leader Chuck Schumer to \u201cgo to hell\u201d in a Saturday post on social media, the Senate headed into recess without reaching a deal over confirming Trump\u2019s nominees.",
-        "url": "https://www.cnn.com/2025/08/02/politics/senate-trump-schumer-standoff",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2218864267.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-08-03T00:01:00Z",
-        "content": "Hours after President Donald Trump told Senate Democratic leader Chuck Schumer to go to hell in a Saturday post on social media, the Senate headed into recess without reaching a deal over confirming \u2026 [+2791 chars]"
-    },
-    {
-        "source": {
             "id": "abc-news",
             "name": "ABC News"
         },
@@ -92,16 +131,16 @@
     },
     {
         "source": {
-            "id": "the-hill",
-            "name": "The Hill"
+            "id": "nbc-news",
+            "name": "NBC News"
         },
-        "author": "Filip Timotija",
-        "title": "Smithsonian slated to restore Trump impeachment exhibit - The Hill",
-        "description": "The Smithsonian\u2019s National Museum of American History said it is slated to restore the placard with information about President Trump\u2019s two impeachments after removing it from the exhibit last month.\u00a0 The museum said in a Saturday statement that the section w\u2026",
-        "url": "https://thehill.com/homenews/administration/5433953-smithsonian-slated-to-restore-trump-impeachment-exhibit/",
-        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/08/GettyImages-2218426253-e1754054382615.jpg?w=1280",
-        "publishedAt": "2025-08-02T23:08:00Z",
-        "content": "Skip to content\r\nThe Smithsonian\u2019s National Museum of American History said it is slated to restore the placard with information about President Trump\u2019s two impeachments after removing it from the ex\u2026 [+2991 chars]"
+        "author": "Nnamdi Egwuonwu",
+        "title": "Smithsonian will again include Trump in impeachment exhibit in 'coming weeks' - NBC News",
+        "description": "The Smithsonian's National Museum of American History will once again mention President Donald Trump in an exhibit on presidential impeachments after the removal of a placard noting his two Senate trials sparked concerns this week over the White House's influ\u2026",
+        "url": "https://www.nbcnews.com/politics/donald-trump/smithsonian-will-include-trump-impeachment-exhibit-coming-weeks-rcna222690",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250802-Smithsonian-RM-e631bc.jpg",
+        "publishedAt": "2025-08-02T22:54:14Z",
+        "content": "The Smithsonian's National Museum of American History will once again mention President Donald Trump in an exhibit on presidential impeachments after the removal of a placard noting his two Senate tr\u2026 [+4603 chars]"
     },
     {
         "source": {
@@ -157,32 +196,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Eurogamer.net"
-        },
-        "author": "Josh Mckenna",
-        "title": "Cooking event and Chris P Bacon quest rewards in Grow a Garden - Eurogamer",
-        "description": "Find out everything there is to know about the Cooking event and Chris P. Bacon quest rewards in Grow a Garden.",
-        "url": "https://www.eurogamer.net/cooking-event-chris-p-bacon-quest-rewards-grow-a-garden",
-        "urlToImage": "https://assetsio.gnwcdn.com/grow-a-garden-cooking-event-00.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "publishedAt": "2025-08-02T21:39:28Z",
-        "content": "The Cooking event in Grow a Garden is part of the Trading update which challenges you to complete Chris P. Bacon quests. To do these, you'll need to cook specific meals for Chris, each of which will \u2026 [+1973 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Eonline.com"
-        },
-        "author": null,
-        "title": "Prince Harry Denies Claims He Punched Prince Andrew at Royal Gathering - Yahoo Home",
-        "description": "Prince Harry denied allegations made in a new book, Entitled: The Rise and Fall of the House of York, that he and Prince Andrew had a physical altercation over comments made about Meghan Markle.",
-        "url": "https://www.eonline.com/news/1420680/prince-harry-denies-punching-prince-andrew",
-        "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20250627/607e6996-1b40-4de9-b657-690da41e6c94_1751052263.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-        "publishedAt": "2025-08-02T21:25:00Z",
-        "content": "Prince Harry is setting the record straight.\r\nAfter a new book, Entitled: The Rise and Fall of the House of York, alleged that Harry and Prince Andrew got into a physical altercation at a 2013 family\u2026 [+914 chars]"
-    },
-    {
-        "source": {
             "id": "associated-press",
             "name": "Associated Press"
         },
@@ -193,19 +206,6 @@
         "urlToImage": "https://dims.apnews.com/dims4/default/44f3d2d/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcc%2F78%2F289be6affab73f32c49f14e63531%2F50d91b42fe83449ea06e1d6546efdffe",
         "publishedAt": "2025-08-02T21:14:00Z",
         "content": "LOS ANGELES (AP) A federal appeals court ruled Friday night to uphold a lower courts temporary order blocking the Trump administration from conducting indiscriminate immigration stops and arrests in \u2026 [+4732 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Anthony Ha",
-        "title": "Lina Khan points to Figma IPO as vindication of M&A scrutiny - TechCrunch",
-        "description": "A surprising figure is celebrating Figma\u2019s successful IPO: Lina Khan, former chair of the Federal Trade Commission, who said the offering demonstrates the value of \"letting startups grow into independently successful businesses.\"",
-        "url": "https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1708316139.jpg?resize=1200,800",
-        "publishedAt": "2025-08-02T20:58:52Z",
-        "content": "A surprising figure is celebrating Figmas successful IPO: Lina Khan, former chair of the Federal Trade Commission.\r\nIn a Friday afternoon post on X, Khan linked to an article about Figmas impressive \u2026 [+1877 chars]"
     },
     {
         "source": {
@@ -245,18 +245,5 @@
         "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
         "publishedAt": "2025-08-02T20:23:00Z",
         "content": "NEW DELHI (AP) India has indicated that it would continue buying oil from Russia despite threats by U.S. President Donald Trump.\r\nThe Indian foreign ministry said its relationship with Russia was ste\u2026 [+1568 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NPR"
-        },
-        "author": "",
-        "title": "In Gaza, more Palestinians are killed while waiting for food aid - NPR",
-        "description": "Dozens of Palestinians were killed, many while waiting for food aid, amid a deepening starvation crisis and despite Israeli assurances of a humanitarian pause in some areas of the territory.",
-        "url": "https://www.npr.org/2025/08/02/nx-s1-5490943/gaza-palestinians-deaths-food-aid",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3240+0+83/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1d%2F40%2F71732ddb4fbfa97f20a2cc2a435b%2Fgettyimages-2227416706.jpg",
-        "publishedAt": "2025-08-02T19:43:26Z",
-        "content": "At least 325 people in Gaza were killed by Israeli forces while trying to reach food over the past week, according to Gaza's Health Ministry. That figure includes 24 people killed on Saturday in vari\u2026 [+5133 chars]"
     }
 ]
