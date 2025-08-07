@@ -1,16 +1,42 @@
 [
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": null,
+            "name": "CNBC"
         },
-        "author": "Emily Davies, Olivia George, Meagan Flynn",
-        "title": "Trump threatens federal takeover of D.C. after attack on DOGE worker - The Washington Post",
-        "description": "\u201cIf D.C. doesn\u2019t get its act together, and quickly, we will have no choice but to take Federal control of the City,\u201d Trump wrote Tuesday on Truth Social.",
-        "url": "https://www.washingtonpost.com/dc-md-va/2025/08/05/trump-doge-worker-washington-dc-crime/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5Q6T2OX2IVWP7O3D3ASEHFFZ7Q.jpg&w=1440",
-        "publishedAt": "2025-08-06T04:30:46Z",
-        "content": "A prot\u00e9g\u00e9 of Elon Musk and former DOGE staffer was injured in an attempted carjacking early Sunday morning in D.C., a police report said, in an attack that captured the attention of President Donald \u2026 [+7262 chars]"
+        "author": "Lillian Rizzo",
+        "title": "Disney reports earnings before the bell. Here's what to expect - CNBC",
+        "description": "Disney will report its quarterly earnings before the bell on Wednesday. Here's what investors will be paying attention to.",
+        "url": "https://www.cnbc.com/2025/08/06/disney-dis-earnings-q3-2025.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108154127-1748981657081-gettyimages-2218490142-_a7a2358_2oboazym.jpeg?v=1754342374&w=1920&h=1080",
+        "publishedAt": "2025-08-06T04:01:01Z",
+        "content": "Disney reports its fiscal third-quarter earnings before the bell on Wednesday, and Wall Street will be looking for updates on the state of its streaming, TV and movies businesses, as well as its them\u2026 [+1778 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Andrew Solender",
+        "title": "Trump and Johnson face escalating GOP revolt on redistricting - Axios",
+        "description": "A House Republican said Johnson \"needs to step up and show some leadership\" on the issue.",
+        "url": "https://www.axios.com/2025/08/05/trump-johnson-texas-california-new-york-districts",
+        "urlToImage": "https://images.axios.com/vQFbPW324o7zeZxeSwEUc84DPaI=/0x369:8640x5229/1366x768/2025/08/05/1754429567886.jpeg",
+        "publishedAt": "2025-08-06T03:09:18Z",
+        "content": "<ul><li>Democrats in states like California and New York have threatened to respond in-kind by attempting to redo their maps.</li><li>Caught in the crossfire are a cohort of blue-state Republicans, w\u2026 [+3207 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Anand Krishnamoorthy, Robert Brand",
+        "title": "Asian Traders Cautious as US Data Clouds Fed Path: Markets Wrap - Bloomberg.com",
+        "description": "European stock futures rose as investors looked past US President Donald Trump\u2019s latest tariff threats and disappointing economic data to focus on a rush of mostly positive corporate earnings reports.",
+        "url": "https://www.bloomberg.com/news/articles/2025-08-05/asian-traders-cautious-as-us-data-clouds-fed-path-markets-wrap",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy0J5ro6JTMg/v0/1200x675.png",
+        "publishedAt": "2025-08-06T02:33:00Z",
+        "content": "European stock futures rose as investors looked past US President Donald Trumps latest tariff threats and disappointing economic data to focus on a rush of mostly positive corporate earnings reports.\u2026 [+243 chars]"
     },
     {
         "source": {
@@ -28,28 +54,28 @@
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "On3.com"
         },
-        "author": "Dylan Butts",
-        "title": "U.S. charges two Chinese nationals for illegally shipping Nvidia AI chips to China - CNBC",
-        "description": "Two Chinese nationals in California have been charged with the illegal shipment of tens of millions of dollars' worth of AI chips, including those from Nvidia.",
-        "url": "https://www.cnbc.com/2025/08/06/two-chinese-nationals-charged-for-illegally-shipping-nvidia-ai-chips-to-china.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108073121-1733751590392-gettyimages-2171810491-avdsept24anklot8h.jpeg?v=1754441038&w=1920&h=1080",
-        "publishedAt": "2025-08-06T01:52:00Z",
-        "content": "Two Chinese nationals in California have been arrested and charged with the illegal shipment of tens of millions of dollars' worth of AI chips, including those made by Nvidia, the Department of Justi\u2026 [+2873 chars]"
+        "author": "Griffin McVeigh",
+        "title": "Will Howard injury update: Report reveals severity of Steelers QB's fracture - On3",
+        "description": "Tuesday night saw a training camp injury update get provided on Pittsburgh Steelers rookie quarterback Will Howard.",
+        "url": "https://www.on3.com/pro/news/will-howard-injury-update-report-reveals-severity-of-steelers-qbs-fracture/",
+        "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2025/08/05201622/Will-Howard.jpg",
+        "publishedAt": "2025-08-06T01:18:03Z",
+        "content": "According to NFL Networks Ian Rapoport, Pittsburgh Steelers rookie quarterback Will Howard suffered a fractured small bone in one of his hands. The injury occurred during practice and thankfully, no \u2026 [+2140 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "NBCSports.com"
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
-        "author": "Mike Florio",
-        "title": "Steelers QB Will Howard out at least three weeks with broken bone in hand - NBC Sports",
-        "description": "Aaron Rodgers is the present.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-qb-will-howard-out-three-weeks-with-broken-bone-in-hand",
-        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/c79765c/2147483647/strip/true/crop/2658x1495+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2Fbc%2Ff1e355434d88a7189429aae95094%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2219174769",
-        "publishedAt": "2025-08-06T01:21:42Z",
-        "content": "Aaron Rodgers is the present. Rookie Will Howard is potentially the future. \r\nHe wont be available in the immediate future.\r\nVia Ian Rapoport of NFL Media, Howard suffered a fracture in his hand afte\u2026 [+554 chars]"
+        "author": "Skylar Woodhouse, Michael Shepard, Kate Sullivan",
+        "title": "Trump Ramps Up Tariff Blitz With India, Pharma, Chips in Sights - Bloomberg.com",
+        "description": "President Donald Trump said he\u2019d impose increased tariffs on countries buying energy from Russia while clarifying that levies on semiconductor and pharmaceutical imports would be announced \u201cwithin the next week or so.\u201d",
+        "url": "https://www.bloomberg.com/news/articles/2025-08-06/trump-ramps-up-tariff-blitz-with-india-pharma-chips-in-sights",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idJ2WkBvYCuU/v0/1200x800.jpg",
+        "publishedAt": "2025-08-06T00:53:00Z",
+        "content": "President Donald Trump said hed impose increased tariffs on countries buying energy from Russia while clarifying that levies on semiconductor and pharmaceutical imports would be announced within the \u2026 [+353 chars]"
     },
     {
         "source": {
@@ -105,29 +131,29 @@
     },
     {
         "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
+            "id": null,
+            "name": "DallasCowboys.com"
         },
         "author": null,
-        "title": "Manhunt for Montana bar shooter who killed 4 is state's highest priority, governor says - CBS News",
-        "description": "As the search for Michael Paul Brown stretched into its fifth day, Montana Gov. Greg Gianforte signed an executive order freeing up more resources for local law enforcement.",
-        "url": "https://www.cbsnews.com/news/michael-brown-montana-manhunt-update/",
-        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/03/9708e5d0-4f7a-4a3d-9aa2-6132ea4a2a30/thumbnail/1200x630/5bd00d68f9b5138c8448e9c8876f5c35/ap25213763490619.jpg",
-        "publishedAt": "2025-08-06T00:14:45Z",
-        "content": "As the search for Michael Paul Brown\u00a0stretched into its fifth day, Montana Gov. Greg Gianforte signed an executive order freeing up more resources for local law enforcement to aid the manhunt for the\u2026 [+4146 chars]"
+        "title": "Jerry Jones on Micah Parsons negotiations: 'I stay urgent' - Dallas Cowboys",
+        "description": "Following the Cowboys' joint practice against the Rams, owner and general manager Jerry Jones once again addressed Micah Parsons' situation, emphasizing that he stays urgent and is unsure if Parsons will play Week 1 against Philadelphia.",
+        "url": "https://www.dallascowboys.com/news/jerry-jones-on-micah-parsons-negotiations-i-stay-urgent",
+        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/cowboys/wfokzhkxxj5qxeqgaerm",
+        "publishedAt": "2025-08-06T00:14:25Z",
+        "content": null
     },
     {
         "source": {
-            "id": "the-verge",
-            "name": "The Verge"
+            "id": null,
+            "name": "Hollywood Reporter"
         },
-        "author": "Jay Peters",
-        "title": "Google is rolling out a fix for Pixel back button issues - The Verge",
-        "description": "Google\u2019s August Pixel update for devices running Android 16 includes a fix for the three-button navigation and gesture navigation systems becoming unresponsive.",
-        "url": "https://www.theverge.com/news/719556/google-pixel-back-button-navigation-gesture-issues-android-16",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25582591/DSC08073.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-        "publishedAt": "2025-08-05T23:48:06Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Pixel update for August addresses an annoying problem.\r\nThe Pixel update for August addresses an annoying problem.\r\nby\r\nJay PetersClose\r\nJay Peters\r\nPosts fr\u2026 [+140 chars]"
+        "author": "Ryan Gajewski",
+        "title": "\u2018Naked Gun\u2019 Writers Weigh In on Most Talked-About Jokes: R-Word, O.J. and That Final Fight - The Hollywood Reporter",
+        "description": "Dan Gregor and Doug Mand tell The Hollywood Reporter whether Elon Musk influenced the film's villain and shed light on Liam Neeson and Pamela Anderson's real-life chemistry: \"I am pulling for the two of them in a very big way.\"",
+        "url": "http://www.hollywoodreporter.com/movies/movie-news/naked-gun-reboot-writers-liam-neeson-interview-1236337905/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/07/NAK_03135R3_0-H-2025.jpg?w=1296&h=730&crop=1",
+        "publishedAt": "2025-08-05T23:44:08Z",
+        "content": "The Naked Gun writers are proud to have stuffed their reboot with references to the classic movies.\r\nDan Gregor and Doug Mand, who co-wrote Paramount\u2019s comedy reboot with director Akiva Schaffer, sat\u2026 [+5163 chars]"
     },
     {
         "source": {
@@ -154,19 +180,6 @@
         "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/04/6324b366-7e9d-4206-b88b-387f45098749/thumbnail/1200x630/bb673500a33ab5c439552994677ff23c/cbstexas-capitol-abbott-1.jpg",
         "publishedAt": "2025-08-05T23:12:00Z",
         "content": "Texas Gov. Greg Abbott filed a lawsuit on Tuesday to remove one of the state's House Democratic leaders, Rep. Gene Wu, calling him \"the ringleader\" of the dozens of Democratic lawmakers who left the \u2026 [+5079 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Big Blue View"
-        },
-        "author": "SB Nation NFL",
-        "title": "Welcome to the new Big Blue View: A fresh look, fewer ads and a new feature - Big Blue View",
-        "description": "",
-        "url": "https://www.bigblueview.com/new-york-giants-news/24480182/welcome-to-the-new-big-blue-view-a-fresh-look-fewer-ads-and-a-new-feature",
-        "urlToImage": "https://platform.bigblueview.com/wp-content/uploads/sites/27/2025/07/logo-bigblueview.png?quality=90&strip=all&crop=0.021666666666668,0,99.956666666667,100",
-        "publishedAt": "2025-08-05T22:55:28Z",
-        "content": "Things will look a little different around here today.\r\nA few weeks ago we told you something new was coming to Big Blue View and today it\u2019s here. Things are cleaner, faster and easier to use. There \u2026 [+2547 chars]"
     },
     {
         "source": {
@@ -206,31 +219,5 @@
         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8e01/live/649f7d60-7241-11f0-b750-f7df511c66c7.jpg",
         "publishedAt": "2025-08-05T21:52:08Z",
         "content": "Rescue crews are searching for US climate journalist Alec Luhn, who vanished while hiking on a glacier in Folgefonna National Park in southwestern Norway.\r\nLuhn, who has worked for multiple news outl\u2026 [+1392 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Jeffrey Kopp",
-        "title": "Legionnaires\u2019 disease outbreak in New York City grows to 58 illnesses, 2 deaths - CNN",
-        "description": "Fifty-eight people in New York City have been diagnosed with Legionnaires\u2019 disease, a serious bacterial lung infection, and two people have died, according to the city health department.",
-        "url": "https://www.cnn.com/2025/08/05/health/legionnaires-disease-outbreak-nyc",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25217487211936.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-08-05T21:11:00Z",
-        "content": "Fifty-eight people in New York City have been diagnosed with Legionnaires disease, a serious bacterial lung infection, and two people have died, according to the city health department.\r\nThe bacteria\u2026 [+1626 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Kadia Goba",
-        "title": "Rep. Mike Flood met with anger at Nebraska town hall - The Washington Post",
-        "description": "From the start of the 90-minute session, Flood was met with an angry crowd that asked substantive questions but rarely seemed satisfied with his answers.",
-        "url": "https://www.washingtonpost.com/politics/2025/08/05/mike-flood-nebraska-town-hall-obbb/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CLXP6IGKIJHWC7I3SEXBHPSIUA_size-normalized.JPG&w=1440",
-        "publishedAt": "2025-08-05T20:57:25Z",
-        "content": "LINCOLN, Nebraska Nebraska was anything but nice.\r\nRep. Mike Flood (R-Nebraska) faced about 750 voters during a contentious town hall here on Monday night. The two-term Republican lawmaker was there \u2026 [+5348 chars]"
     }
 ]
