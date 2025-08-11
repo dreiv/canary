@@ -1,6 +1,19 @@
 [
     {
         "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Tobi Raji, Lena H. Sun, Lauren Weber",
+        "title": "CDC officials try to reassure staff after fatal shooting in Atlanta - The Washington Post",
+        "description": "Patrick Joseph White, a 30-year-old Georgia man, is accused of opening fire outside the CDC buildings in Atlanta on Friday, killing one police officer.",
+        "url": "https://www.washingtonpost.com/nation/2025/08/09/cdc-shooting-atlanta-suspect/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FGZIJNPLL2W3BROQNCLG6UH3Q4_size-normalized.jpg&w=1440",
+        "publishedAt": "2025-08-10T01:41:40Z",
+        "content": "Public health officials were reeling Saturday in the wake of a shooting that hit Centers for Disease Control and Prevention buildings in Atlanta, killing one police officer.\r\nWhile authorities have n\u2026 [+7018 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "The Official Website of the Ultimate Fighting Championship"
         },
@@ -41,28 +54,41 @@
     {
         "source": {
             "id": null,
-            "name": "CBS Sports"
+            "name": "Yahoo Entertainment"
         },
-        "author": "Cody Benjamin",
-        "title": "NFL preseason week 1 schedule, live updates, highlights: Travis Hunter plays both ways, plus a 70-yard FG - CBS Sports",
-        "description": "Everything to know about the first week of the preseason right here",
-        "url": "https://www.cbssports.com/nfl/news/nfl-preseason-week-1-schedule-live-updates-highlights-travis-hunter-plays-both-ways-plus-a-70-yard-fg/live/",
-        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/08/09/45a7b323-ec39-4f13-b48e-f1318cb75f75/thumbnail/1200x675/dd64826bd74a53e78b976e0eb3dde9d2/travis-hunter.jpg",
-        "publishedAt": "2025-08-10T01:20:06Z",
-        "content": "We have a pretty hefty slate (eight) of preseason games on tap for Saturday and we couldn't be more excited to have football back! Browns rookie quarterback Shedeur Sanders had a stellar debut on Fri\u2026 [+1294 chars]"
+        "author": "Frank Schwab",
+        "title": "NFL Preseason Blitz: Jaguars rookie Travis Hunter plays both ways in preseason debut - Yahoo Sports",
+        "description": "The NFL had 16 teams in action during Saturday's preseason games.",
+        "url": "https://sports.yahoo.com/nfl/article/nfl-preseason-blitz-jaguars-rookie-travis-hunter-plays-both-ways-in-preseason-debut-012649586.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/F2Pum1zZkmigsjMpihAGtw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-08/5b148420-7575-11f0-bbf7-99c437f2bedb",
+        "publishedAt": "2025-08-10T01:28:00Z",
+        "content": "The Jacksonville Jaguars aren't going to ease Travis Hunter into the NFL. Not even in the preseason.\r\nIn Jaguars camp, reports have said Hunter is practicing extensively on offense and defense. That \u2026 [+10582 chars]"
     },
     {
         "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
         },
-        "author": "Christa  Swanson, Michael  Abeyta",
-        "title": "Lee Fire in Western Colorado gains 27,000 acres overnight, new evacuations ordered - CBS News",
-        "description": "The Lee Fire burning in Western Colorado has begun racing south after winds shifted away from the town of Meeker on Friday, prompting officials to declare new evacuation zones.",
-        "url": "https://www.cbsnews.com/colorado/news/lee-fire-western-colorado-gains-27000-acres-overnight-new-evacuations-ordered/",
-        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/09/f442c612-7bb2-4eb7-9f99-ae37fa1f2293/thumbnail/1200x630/9f0cf28d9500bcbfe02205af73f7c914/lee-fire-seen-from-meeker.png",
-        "publishedAt": "2025-08-10T01:04:03Z",
-        "content": "The Lee Fire burning in Western Colorado has begun racing south after winds shifted away from the town of Meeker on Friday, prompting officials to declare new evacuation zones.\r\nLee Fire seen from Me\u2026 [+3314 chars]"
+        "author": "The Wall Street Journal",
+        "title": "Who Is the Heir to the MAGA Movement? Trump Keeps His Options Open - The Wall Street Journal",
+        "description": null,
+        "url": "https://www.wsj.com/politics/policy/who-is-the-heir-to-the-maga-movement-trump-keeps-his-options-open-0f9e8c5c",
+        "urlToImage": null,
+        "publishedAt": "2025-08-10T01:00:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NBCSports.com"
+        },
+        "author": "Dustin Long",
+        "title": "Watkins Glen Xfinity winner Connor Zilisch released from hospital after fall in victory lane - NBC Sports",
+        "description": "NASCAR stated that Connor Zilisch was transported to a local hospital and that he is awake and alert.",
+        "url": "https://www.nbcsports.com/nascar/news/watkins-glen-xfinity-winner-connor-zilisch-taken-to-infield-care-center-after-he-fell-off-car",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/99d406a/2147483647/strip/true/crop/1129x635+81+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2Fac%2F743c415445ed9ec3189df7cbc905%2Fconnor-zilisch-amublance.jpg",
+        "publishedAt": "2025-08-10T00:26:15Z",
+        "content": "WATKINS GLEN, N.Y. JR Motorsports stated that Xfinity Series winner Connor Zilisch was released from a local hospital Saturday night after he fell off his car in victory lane at Watkins Glen. \r\nJR Mo\u2026 [+708 chars]"
     },
     {
         "source": {
@@ -79,19 +105,6 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": null,
-        "title": "Mariano Rivera tears Achilles in Yankees Old-Timers\u2019 Day game and needs surgery - CNN",
-        "description": "Hall of Famer Mariano Rivera tore an Achilles tendon while going after a flyball at the New York Yankees\u2019 Old-Timers\u2019 Day game on Saturday and needs surgery.",
-        "url": "https://www.cnn.com/2025/08/09/sport/mariano-rivera-achilles-yankees-old-timers-day-spt",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25221609912111.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-08-09T23:14:00Z",
-        "content": "Hall of Famer Mariano Rivera tore an Achilles tendon while going after a flyball at the New York Yankees Old-Timers Day game on Saturday and needs surgery.\r\nAgent Fern Cuza said the 55-year-old close\u2026 [+1709 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Newsday"
         },
@@ -105,6 +118,19 @@
     },
     {
         "source": {
+            "id": "the-jerusalem-post",
+            "name": "The Jerusalem Post"
+        },
+        "author": null,
+        "title": "COVID has returned to the US and Europe - The Jerusalem Post",
+        "description": "COVID is spreading rapidly across Europe and the US. These are the affected countries and the symptoms of the new variant.",
+        "url": "https://www.jpost.com/health-and-wellness/article-863739",
+        "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/665456",
+        "publishedAt": "2025-08-09T22:57:41Z",
+        "content": null
+    },
+    {
+        "source": {
             "id": null,
             "name": "HousingWire"
         },
@@ -115,6 +141,19 @@
         "urlToImage": "https://www.housingwire.com/wp-content/uploads/2025/08/Trump-IPO-image.png",
         "publishedAt": "2025-08-09T22:37:53Z",
         "content": "The post didnt provide any other details, nor did the official White House news page have any mention of the IPO at the time of this writing.\r\nAccording to the WSJ, the Trump administration believes \u2026 [+2355 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": null,
+        "title": "Zelenskiy Says Ukraine Won\u2019t Give Up Land to Russia for Peace - Bloomberg.com",
+        "description": "President Volodymyr Zelenskiy said Kyiv won\u2019t cede territory to end the war with Russia as European leaders pledged their continued support for Ukraine\u2019s sovereignty.",
+        "url": "https://www.bloomberg.com/news/articles/2025-08-09/zelenskiy-says-ukraine-won-t-give-up-land-to-russia-for-peace",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSxuF7j.soec/v1/1200x800.jpg",
+        "publishedAt": "2025-08-09T22:35:37Z",
+        "content": "President Volodymyr Zelenskiy said Kyiv wont cede territory to end the war with Russia as European leaders pledged their continued support for Ukraines sovereignty. \r\nWe remain committed to the princ\u2026 [+362 chars]"
     },
     {
         "source": {
@@ -171,19 +210,6 @@
     {
         "source": {
             "id": null,
-            "name": "Hollywood Reporter"
-        },
-        "author": "Lexi Carson",
-        "title": "Jamie Lee Curtis Responds to Negative \u2018Freakier Friday\u2019 Review: \u201cA Tad Harsh\u201d - The Hollywood Reporter",
-        "description": "The sequel to the 2003 beloved film currently holds a 94 percent audience score on Rotten Tomatoes.",
-        "url": "http://www.hollywoodreporter.com/movies/movie-news/jamie-lee-curtis-responds-to-harsh-freakier-friday-review-1236340979/",
-        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/07/Jamie-Lee-Curtis-getty-H-2025.png?w=1296&h=730&crop=1",
-        "publishedAt": "2025-08-09T21:36:35Z",
-        "content": "Jamie Lee Curtis is clapping back at a negative review of her new film Freakier Friday.\r\nOn Friday, Time magazineposted a section of their review of the film to Instagram, which reads: \u201cNo one, as fa\u2026 [+1556 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Deadline"
         },
         "author": "Natalie Oganesyan",
@@ -193,57 +219,5 @@
         "urlToImage": "https://deadline.com/wp-content/uploads/2025/08/john-dean.jpg?w=1000",
         "publishedAt": "2025-08-09T21:30:00Z",
         "content": "John Leguizamo is not mincing words in addressing Dean Cain\u2018s recent decision to join ICE.\r\nThe Bob Trevino Likes It star, who has been a vocal critic of ICE\u2018s increasingly militant behavior toward i\u2026 [+1353 chars]"
-    },
-    {
-        "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Giselle Ruhiyyih Ewing",
-        "title": "Tammy Bruce, State Department spokesperson, tapped for UN role - Politico",
-        "description": "Bruce has been one of the State Department\u2019s most public figures in the first six months of Trump\u2019s second term.",
-        "url": "https://www.politico.com/news/2025/08/09/tammy-bruce-united-nations-00501346",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F2a%2F56%2Fca84eef6438f9d2e961728b2c4fc%2Fus-jordan-41040.jpg",
-        "publishedAt": "2025-08-09T20:42:21Z",
-        "content": "Her nomination comes at a time when the United States does not have a permanent leader at the United Nations; Mike Waltz who briefly served as Trumps national security adviser had his confirmation he\u2026 [+857 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "cleveland.com"
-        },
-        "author": "Mary Kay Cabot, cleveland.com",
-        "title": "Will Shedeur Sanders get his first snaps with the Browns\u2019 starters this week? Kevin Stefanski weighs in - Cleveland.com",
-        "description": "Kevin Stefanski addressed Shedeur Sanders' performance the day after the Panthers game.",
-        "url": "https://www.cleveland.com/browns/2025/08/will-shedeur-sanders-get-his-first-snaps-with-the-browns-starters-this-week-kevin-stefanski-weighs-in.html",
-        "urlToImage": "https://www.cleveland.com/resizer/v2/W2GXVY36MFHWBNNIIEYVMT4FWA.jpg?auth=eced194fdbfe9abd1de800350df81b38ca435e6790ea4ed3ca7877eb108903c9&width=1280&quality=90",
-        "publishedAt": "2025-08-09T19:09:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": null,
-        "title": "A top Federal Reserve official says dour jobs data backs the case for 3 rate cuts - AP News",
-        "description": "A top official at the Federal Reserve is saying that this month\u2019s stunning, weaker-than-expected report on the U.S. job market is strengthening her belief that interest rates should be lower. Michelle Bowman pointed to July's hiring slowdown, along with her b\u2026",
-        "url": "https://apnews.com/article/federal-reserve-michelle-bowman-interest-rates-d24adfa4429586bb95f538c3fe0a2989",
-        "urlToImage": "https://dims.apnews.com/dims4/default/533b6d8/2147483647/strip/true/crop/5616x3159+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe0%2Ff8%2F2bd2cbe341ca836571eec994bf7b%2F5898bba94c8d4e4986db1b18190fce54",
-        "publishedAt": "2025-08-09T18:30:00Z",
-        "content": "NEW YORK (AP) A top official at the Federal Reserve said Saturday that this months stunning, weaker-than-expected report on the U.S. job market is strengthening her belief that interest rates should \u2026 [+2468 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "FOX 5 Atlanta"
-        },
-        "author": "Kim Leoffler",
-        "title": "Emory University, CDC Atlanta shooter: Neighbors talk about Patrick Joseph White - FOX 5 Atlanta",
-        "description": "Neighbors talk with FOX 5 about the alleged active shooter near the CDC and Emory campus, including a possible motive.",
-        "url": "https://www.fox5atlanta.com/news/emory-university-cdc-atlanta-shooter-neighbors-talk-about-patrick-joseph-white",
-        "urlToImage": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2025/08/1280/720/white-house.jpg?ve=1&tl=1",
-        "publishedAt": "2025-08-09T18:28:09Z",
-        "content": "KENNESAW, Ga. - The Georgia Bureau of Investigation has identified Patrick Joseph White as the active shooter in an incident near Emory University and the Centers for Disease Control and Prevention.\u00a0\u2026 [+3737 chars]"
     }
 ]
