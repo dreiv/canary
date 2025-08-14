@@ -2,6 +2,32 @@
     {
         "source": {
             "id": null,
+            "name": "CNBC"
+        },
+        "author": "Pia Singh",
+        "title": "Stock futures rise as S&P 500 and Nasdaq get set to build on record highs: Live updates - CNBC",
+        "description": "The major U.S. indexes are coming off of a strong trading session, which saw the S&P 500 and tech-heavy Nasdaq Composite notch fresh record highs.",
+        "url": "https://www.cnbc.com/2025/08/12/stock-market-today-live-updates.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108184859-1755018332422-Traders-TF-Photo-20250812-ACJ-PRESS-2.jpg?v=1755018447&w=1920&h=1080",
+        "publishedAt": "2025-08-13T09:55:00Z",
+        "content": "Futures tied to the S&amp;P 500 and Nasdaq 100 moved higher early Wednesday as investors come off a record-setting session that saw encouraging news on the inflation front.\r\nS&amp;P futures climbed 0\u2026 [+2032 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Barak Ravid, Dave Lawler, Marc Caputo",
+        "title": "Zelensky scrambles to avert disaster as Trump meets Putin - Axios",
+        "description": "Recent days have been whiplash-inducing for Ukrainian officials.",
+        "url": "https://www.axios.com/2025/08/13/zelensky-trump-putin-summit-ukraine",
+        "urlToImage": "https://images.axios.com/ByT6NzJD_5g6B89-gVVpQdCEoyM=/1366x768/smart/2025/05/21/165830-1747846710066.jpg",
+        "publishedAt": "2025-08-13T09:01:47Z",
+        "content": "The big picture: Trump is expected to hold a virtual meeting Wednesday with Zelensky and a group of European leaders, two sources with knowledge of the plans tell Axios.\r\n<ul><li>Zelensky has been do\u2026 [+3043 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "ZDNet"
         },
         "author": "Lance Whitney",
@@ -14,16 +40,16 @@
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": null,
+            "name": "Atlanta Journal Constitution"
         },
-        "author": "Rebecca Falconer",
-        "title": "Photos: Scenes from D.C. as National Guard joins Trump's law enforcement crackdown - Axios",
-        "description": "Trump has activated about 800 National Guard soldiers as part of a \"massive law enforcement surge,\" per the White House.",
-        "url": "https://www.axios.com/2025/08/12/trump-dc-national-guard-federal-law-enforcement-photos",
-        "urlToImage": "https://images.axios.com/lc88Vpw7jkIzVMblleX5SNGBpZ0=/0x291:5847x3580/1366x768/2025/08/12/1755042093618.jpeg",
-        "publishedAt": "2025-08-13T05:58:42Z",
-        "content": null
+        "author": "Alexis Stevens, David Aaro",
+        "title": "500 rounds fired in CDC shooting, guns stolen from father, GBI says - AJC.com",
+        "description": "Despite the barrage of bullets, no one else was shot, according to investigators.",
+        "url": "https://www.ajc.com/news/2025/08/500-rounds-fired-in-cdc-shooting-after-cobb-man-steals-fathers-guns-gbi-says/",
+        "urlToImage": "https://www.ajc.com/resizer/v2/D3G24R2JBBFY5C42HQ6V6ZDH3Q.JPG?auth=24d3ebe6fc9292c91b1fe58828e802c250eccc7fb2ee926119dc6ac6ca2dd6a1&width=1200&height=630&smart=true",
+        "publishedAt": "2025-08-13T05:05:05Z",
+        "content": "Our hearts and prayers go to the family, friends and colleagues of DeKalb County police Officer David Rose, who was killed in the line of duty during this incident, GBI Director Chris Hosey said. He \u2026 [+4163 chars]"
     },
     {
         "source": {
@@ -41,6 +67,19 @@
     {
         "source": {
             "id": null,
+            "name": "New York Post"
+        },
+        "author": "Joseph Staszewski",
+        "title": "Vince McMahon defends bringing Hulk Hogan back to WWE after \u2018unforgivable\u2019 comments - New York Post",
+        "description": "Vince McMahon defended his decision to bring Hulk Hogan back to WWE in 2018.",
+        "url": "https://nypost.com/2025/08/13/sports/vince-mcmahon-defends-bringing-hulk-hogan-back-to-wwe/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/newspress-collage-eaf4o4ilb-1755056821483.jpg?quality=75&strip=all&1755042544&w=1024",
+        "publishedAt": "2025-08-13T04:57:00Z",
+        "content": "Vince McMahon defended his decision to bring Hulk Hogan back to WWE in 2018, three years after the company severed ties with him once it was revealed that the pro wrestling icon had used a racial slu\u2026 [+3338 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "NPR"
         },
         "author": "The Associated Press",
@@ -53,29 +92,81 @@
     },
     {
         "source": {
-            "id": "politico",
-            "name": "Politico"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "John Sakellariadis",
-        "title": "Hack of federal court filing system exploited security flaws known since 2020 - Politico",
-        "description": "The intrusion into the federal judiciary\u2019s case filing system was like \u201ctaking candy from a baby,\u201d said one person with knowledge of the hack.",
-        "url": "https://www.politico.com/news/2025/08/12/federal-courts-hack-security-flaw-00506392",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F9a%2Fba%2F949f34b44cdd843fa4881549e6cd%2Fjustice-department-96167.jpg",
-        "publishedAt": "2025-08-13T03:04:18Z",
-        "content": "The latest intrusion is a continuation of the same rudimentary security issues that have been present since 2020, said the law enforcement official. This person, like others in this story, was grante\u2026 [+6221 chars]"
+        "author": null,
+        "title": "Mexico sends 26 cartel members to U.S. in deal with Trump administration - CBS News",
+        "description": "The transfers are a milestone for the Trump administration, which has made dismantling dangerous drug cartels a key Justice Department priority.",
+        "url": "https://www.cbsnews.com/news/mexico-sends-26-cartel-members-deal-trump-administration/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/13/f118641c-24b4-400c-b985-2d239e462167/thumbnail/1200x630/f19ab8496c7b6d8ba108d8869c75ae0c/ap25225012956647.jpg",
+        "publishedAt": "2025-08-13T03:44:06Z",
+        "content": "Mexico sent 26 high-ranking cartel figures to the United States Tuesday in the latest major deal with the Trump administration as American authorities ratchet up pressure on criminal networks smuggli\u2026 [+4950 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CBS Sports"
+            "name": "9to5Mac"
+        },
+        "author": "Zac Hall",
+        "title": "Every rumored iPhone 17, iPhone 17 Air, and iPhone 17 Pro color - 9to5Mac",
+        "description": "Apple\u2019s next iPhone lineup is getting closer to launch, and color may be one of the most exciting changes this...",
+        "url": "https://9to5mac.com/2025/08/12/iphone-17-color-options-2025/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/iphone-17-pro-max-vs-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-08-13T03:21:00Z",
+        "content": "Apples next iPhone lineup is getting closer to launch, and color may be one of the most exciting changes this year. Leaks suggest the iPhone 17 series will not only bring back some fan favorites but \u2026 [+1790 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
         },
         "author": null,
-        "title": "Pittsburgh Pirates vs. Milwaukee Brewers Results, Stats, and Recap - August 12, 2025 Gametracker - CBS Sports",
-        "description": "CBS Sports brings you live coverage, scoring, expert picks and stats for the MLB matchup between Pittsburgh Pirates and Milwaukee Brewers on August 12, 2025",
-        "url": "https://www.cbssports.com/mlb/gametracker/recap/MLB_20250812_PIT@MIL/",
-        "urlToImage": "https://sportsfly.cbsistatic.com/fly-01005/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
+        "title": "AI start-up Perplexity makes surprise $34.5bn bid for Google Chrome - BBC",
+        "description": "One technology investor called the $34.5bn offer a \"stunt\" that is much lower than Chrome's true value.",
+        "url": "https://www.bbc.com/news/articles/c3dpr0kkyz4o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/55fd/live/409c55e0-77ec-11f0-b5e4-b7de86a3c192.jpg",
+        "publishedAt": "2025-08-13T03:06:51Z",
+        "content": "Artificial intelligence start-up Perplexity AI has made a surprise $34.5bn (\u00a325.6bn) takeover bid for the world's most popular web browser, Google Chrome.\r\nThe three-year-old firm, whose backers incl\u2026 [+3235 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Spaceflight Now"
+        },
+        "author": null,
+        "title": "ULA launches Vulcan rocket on first Space Force mission - Spaceflight Now",
+        "description": null,
+        "url": "https://spaceflightnow.com/2025/08/13/ula-launches-vulcan-rocket-on-first-space-force-mission/",
+        "urlToImage": null,
+        "publishedAt": "2025-08-13T02:50:30Z",
+        "content": "United Launch Alliance\u2019s Vulcan rocket roared off the pad at Space Launch Complex 41 to begin the USSF-106 mission for the U.S. Space Force. This was the first national security launch using a Vulcan\u2026 [+6839 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "National Guard troops told to maintain presence near National Mall as part of Trump\u2019s anti-crime mission - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/Politics/guard-members-waiting-orders-begin-gather-dc/story?id\\\\u003d124587539",
+        "urlToImage": null,
         "publishedAt": "2025-08-13T02:37:30Z",
-        "content": "MILWAUKEE (AP) Sal Frelick and Brice Turang homered off Paul Skenes, and the Milwaukee Brewers pounded the Pittsburgh Pirates 14-0 on Tuesday night for their 11th consecutive victory.\r\nChristian Yeli\u2026 [+1746 chars]"
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Pittsburgh Post-Gazette"
+        },
+        "author": "Noah Hiles",
+        "title": "Pirates lose to Brewers in blowout fashion - Pittsburgh Post-Gazette",
+        "description": "False",
+        "url": "https://www.post-gazette.com/sports/pirates/2025/08/12/pittsburgh-pirates-paul-skenes-milwaukee-brewers/stories/202508050143",
+        "urlToImage": "https://f50d772ec1e2a4347264-964b3324d77f313a724faa237152e95f.ssl.cf2.rackcdn.com/stories/202508050143/1140x_a10-7_cTC/Pirates-Brewers-Baseball-1-25_1755050912.jpg",
+        "publishedAt": "2025-08-13T02:30:03Z",
+        "content": "MENU"
     },
     {
         "source": {
@@ -92,19 +183,6 @@
     },
     {
         "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "William  Harwood",
-        "title": "United Launch Alliance's new Vulcan rocket blasts off on first Space Force-sanctioned flight - CBS News",
-        "description": "ULA's Vulcan is replacing the company's workhorse Atlas 5 rocket and the already-retired Delta 4 family of launchers.",
-        "url": "https://www.cbsnews.com/news/united-launch-alliances-new-vulcan-rocket-blasts-off-on-first-space-force-sanctioned-flight/",
-        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/13/26e456b1-1ae4-42b5-b537-1acf6ece9750/thumbnail/1200x630/52b05a9c6441b137b58be272f93034e5/081225-launch1.jpg",
-        "publishedAt": "2025-08-13T01:53:33Z",
-        "content": "United Launch Alliance fired off its first operational Vulcan rocket Tuesday, boosting two military satellites into space in the first U.S. Space Force-sanctioned flight of a new launcher that eventu\u2026 [+6649 chars]"
-    },
-    {
-        "source": {
             "id": "newsweek",
             "name": "Newsweek"
         },
@@ -115,32 +193,6 @@
         "urlToImage": "https://d.newsweek.com/en/full/2701250/perseids-meteor-shower.jpg",
         "publishedAt": "2025-08-13T01:31:37Z",
         "content": "One of the most anticipated celestial events of the year is set to dazzle skywatchers as the Perseid meteor shower reaches its peak on the night of August 12 into the early hours of August 13. Known \u2026 [+16336 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Anand Krishnamoorthy",
-        "title": "Asian Stocks to Gain as US CPI Fuels Fed Cut Bets: Markets Wrap - Bloomberg.com",
-        "description": "Stocks rose to a record after an in-line US inflation reading bolstered speculation the Federal Reserve will have room to cut interest rates in September.",
-        "url": "https://www.bloomberg.com/news/articles/2025-08-12/stock-market-today-dow-s-p-live-updates",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaKqfm9zO6fw/v0/1200x675.png",
-        "publishedAt": "2025-08-13T01:18:00Z",
-        "content": "Stocks rose to a record after an in-line US inflation reading bolstered speculation the Federal Reserve will have room to cut interest rates in September.\r\nThe MSCI All Country World Index rose 0.1% \u2026 [+346 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Janay Kingsberry",
-        "title": "White House announces more aggressive review of Smithsonian museums - The Washington Post",
-        "description": "In a letter to the Smithsonian\u2019s leader, White House officials said they would review exhibition text, curation, exhibition planning and collections starting with eight museums.",
-        "url": "https://www.washingtonpost.com/entertainment/2025/08/12/white-house-review-smithsonian-institution/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OH3OA6I7N2PGDUJBF3ZFIMU4LE.JPG&w=1440",
-        "publishedAt": "2025-08-13T00:47:32Z",
-        "content": "In a letter, White House officials said they would review the Smithsonians exhibition text, curation, exhibition planning and collections, starting with eight museums.\r\nUpdated August 12, 2025 at 6:0\u2026 [+17 chars]"
     },
     {
         "source": {
@@ -167,44 +219,5 @@
         "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F48%2F0e%2F31ec23474817881ac1b771e81645%2Faptopix-us-germany-trump-85877.jpg",
         "publishedAt": "2025-08-12T23:05:48Z",
         "content": "European officials have appreciated the Trump administrations efforts to reach out, the latest sign of his shift toward the continent, but worry about whether theres an actual openness to their persp\u2026 [+4669 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Sports Illustrated"
-        },
-        "author": "Grey Whitebloom, Max Mallow, Tom Gott",
-        "title": "Ten Reasons to Be Excited for the 2025\u201326 Premier League Season - Sports Illustrated",
-        "description": "Set to a backdrop of a near \u00a32 billion summer spend, the Premier League is back\u2014bigger and better than ever before.",
-        "url": "https://www.si.com/soccer/ten-reasons-to-be-excited-2025-26-premier-league-season-digital-cover",
-        "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_2962,h_1666/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01k2fr351n4bvfa9mjg9.jpg",
-        "publishedAt": "2025-08-12T23:05:00Z",
-        "content": "This summer marked the 40th anniversary of English footballs nadir. At a time of rampant hooliganism, fatal stadium tragedies and a ban from all European competition, an editorial in The Sunday Times\u2026 [+19964 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": null,
-        "title": "Mexico transfers 26 cartel figures wanted by US authorities in deal with Trump administration - AP News",
-        "description": "Mexico is sending 26 high-ranking cartel figures to the United States in the latest major deal with the Trump administration. American authorities are ratcheting up pressure on criminal networks sending drugs across the border. Those being handed over to U.S.\u2026",
-        "url": "https://apnews.com/article/cartels-trump-administration-bondi-justice-department-712bdb8f99522ee72ec357492cfa393b",
-        "urlToImage": "https://dims.apnews.com/dims4/default/4227d21/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa5%2Fbc%2F83b79b47478a9641ae742588c3c7%2F1389e19ed29646a7bd5c4e4faf8a7629",
-        "publishedAt": "2025-08-12T22:20:00Z",
-        "content": "WASHINGTON (AP) Mexico sent 26 high-ranking cartel figures to the United States Tuesday in the latest major deal with the Trump administration as American authorities ratchet up pressure on criminal \u2026 [+3381 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Lauren Kaori Gurley",
-        "title": "Trump\u2019s pick for BLS commissioner endorses suspending monthly jobs reports - The Washington Post",
-        "description": "\u201cThe BLS should suspend issuing the monthly job reports,\u201d E.J. Antoni, President Donald Trump\u2019s pick to lead the federal statistical agency, said on Fox News Digital.",
-        "url": "https://www.washingtonpost.com/business/2025/08/12/bls-antoni-suspend-jobs-report/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CZQWAUPQUZAT3KBKAM7S2OHSBM_size-normalized.jpg&w=1440",
-        "publishedAt": "2025-08-12T21:46:09Z",
-        "content": "The BLS should suspend issuing the monthly job reports, E.J. Antoni, President Trumps pick to lead the federal statistical agency, said in an interview with Fox News Digital.\r\nUpdated August 12, 2025\u2026 [+38 chars]"
     }
 ]
