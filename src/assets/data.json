@@ -2,15 +2,54 @@
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "ZDNet"
         },
-        "author": null,
-        "title": "AI start-up Perplexity makes surprise $34.5bn bid for Google Chrome - BBC",
-        "description": null,
-        "url": "https://www.bbc.com/news/articles/c3dpr0kkyz4o",
-        "urlToImage": null,
-        "publishedAt": "2025-08-13T03:06:51Z",
-        "content": "This website has been blocked by your administrator.hcshelp@hardin.kyschools.us\r\nSubmit"
+        "author": "Lance Whitney",
+        "title": "Your Windows PC has a secretly useful backup tool - here's how to access it - ZDNET",
+        "description": "Looking for a traditional yet flexible program to back up your personal files? Windows has a built-in tool that you can take advantage of.",
+        "url": "https://www.zdnet.com/article/your-windows-pc-has-a-secretly-useful-backup-tool-heres-how-to-access-it/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/f29c1127b7aa0b3bf995d0f7b0227b87baf6e2c9/2025/05/08/786e5565-c138-4df9-a5ff-8aafc2d7eaaf/lenovo-yoga-9-2-in-1-aura-edition-hero.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2025-08-13T08:00:00Z",
+        "content": "Lance Whitney / Elyse Betters Picaro / ZDNET\r\nZDNET's key takeaways\r\n<ul><li>Windows has a hidden backup tool in Windows 10 and 11.</li><li>It can save files to discs, drives, or network locations.</\u2026 [+3371 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Rebecca Falconer",
+        "title": "Photos: Scenes from D.C. as National Guard joins Trump's law enforcement crackdown - Axios",
+        "description": "Trump has activated about 800 National Guard soldiers as part of a \"massive law enforcement surge,\" per the White House.",
+        "url": "https://www.axios.com/2025/08/12/trump-dc-national-guard-federal-law-enforcement-photos",
+        "urlToImage": "https://images.axios.com/lc88Vpw7jkIzVMblleX5SNGBpZ0=/0x291:5847x3580/1366x768/2025/08/12/1755042093618.jpeg",
+        "publishedAt": "2025-08-13T05:58:42Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Billboard"
+        },
+        "author": "Paul Grein",
+        "title": "The Life of a Prolific Pop Star: \u2018Showgirl\u2019 Will Be Taylor Swift\u2019s Ninth Full-Length Album of the 2020s - Billboard",
+        "description": "Taylor Swift's just-announced 'The Life of a Showgirl' will be her ninth full-length album of the 2020s. And that doesn\u2019t even count live albums.",
+        "url": "http://www.billboard.com/music/pop/taylor-swift-life-of-a-show-girl-9th-album-2020s-1236041646/",
+        "urlToImage": "https://www.billboard.com/wp-content/uploads/2025/08/taylor-swift-eras-london-2024billboard-1800.jpg?w=1024",
+        "publishedAt": "2025-08-13T04:59:35Z",
+        "content": "There are many reasons for Taylor Swift\u2019s extraordinary success: talent, resilience, courage and, not least, a work ethic that is second to none. The country-turned-pop superstar is tireless and extr\u2026 [+2202 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "The Associated Press",
+        "title": "Danielle Spencer, who played little sister Dee on 'What's Happening!!,' dies at 60 - NPR",
+        "description": "A family spokesperson said Spencer died Monday after battling cancer for several years. As Dee, she was a deadpan, wisecracking sister on What's Happening!! Spencer later became a veterinarian.",
+        "url": "https://www.npr.org/2025/08/12/nx-s1-5500593/danielle-spencer-who-played-little-sister-dee-on-whats-happening-dies-at-60",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+197/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdd%2F6a%2F69b9dc7845e5bcaafbb5c40df666%2Fdanielle-spencer-ap.jpg",
+        "publishedAt": "2025-08-13T03:54:40Z",
+        "content": "Danielle Spencer, who played the wisecracking and tattling little sister Dee Thomas on the 1970s sitcom What's Happening!! has died at 60.\r\nSpencer, who became a veterinarian later in life, died Mond\u2026 [+2815 chars]"
     },
     {
         "source": {
@@ -27,19 +66,6 @@
     },
     {
         "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "ABC News",
-        "title": "National Guard troops told to maintain presence near National Mall as part of Trump\u2019s anti-crime mission - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/Politics/guard-members-waiting-orders-begin-gather-dc/story?id\\\\u003d124587539",
-        "urlToImage": null,
-        "publishedAt": "2025-08-13T02:37:30Z",
-        "content": null
-    },
-    {
-        "source": {
             "id": null,
             "name": "CBS Sports"
         },
@@ -50,6 +76,19 @@
         "urlToImage": "https://sportsfly.cbsistatic.com/fly-01005/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
         "publishedAt": "2025-08-13T02:37:30Z",
         "content": "MILWAUKEE (AP) Sal Frelick and Brice Turang homered off Paul Skenes, and the Milwaukee Brewers pounded the Pittsburgh Pirates 14-0 on Tuesday night for their 11th consecutive victory.\r\nChristian Yeli\u2026 [+1746 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Eonline.com"
+        },
+        "author": null,
+        "title": "Reba McEntire Shares Message on Brandon Blackstock's \"Struggle\" - yahoo.com",
+        "description": "Less than a week after Brandon Blackstock's death at age 48, Reba McEntire reflected on her stepson's \"struggle\" in the years leading up to his passing due to his battle with cancer.",
+        "url": "https://www.eonline.com/news/1421086/reba-mcentire-on-brandon-blackstocks-struggle-amid-death",
+        "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20250812/6389ef56-2548-4819-9ccd-d5d4cdac79bb_1755050708.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+        "publishedAt": "2025-08-13T02:18:00Z",
+        "content": "Likewise, Reba and Narvel's son Shelby Blackstock detailed the special bond he had with his half-brother in his own touching message.\u00a0\r\n\"He taught me so much, leaving behind countless cherished memor\u2026 [+704 chars]"
     },
     {
         "source": {
@@ -79,16 +118,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "BBC News"
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
-        "author": null,
-        "title": "Kim Keon Hee: South Korea's ex-first lady arrested in bribery probe - BBC",
-        "description": "This is the first time in the country's history that a former first couple is in jail at the same time.",
-        "url": "https://www.bbc.com/news/articles/cz71rp7yn05o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/274a/live/624a66c0-7808-11f0-a975-cb151ca452f4.jpg",
-        "publishedAt": "2025-08-13T00:55:22Z",
-        "content": "The wife of South Korea's jailed former president, Yoon Suk Yeol, has been arrested over a raft of charges, including stock manipulation and bribery.\r\nFormer first lady Kim Keon Hee denied all charge\u2026 [+1635 chars]"
+        "author": "Anand Krishnamoorthy",
+        "title": "Asian Stocks to Gain as US CPI Fuels Fed Cut Bets: Markets Wrap - Bloomberg.com",
+        "description": "Stocks rose to a record after an in-line US inflation reading bolstered speculation the Federal Reserve will have room to cut interest rates in September.",
+        "url": "https://www.bloomberg.com/news/articles/2025-08-12/stock-market-today-dow-s-p-live-updates",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaKqfm9zO6fw/v0/1200x675.png",
+        "publishedAt": "2025-08-13T01:18:00Z",
+        "content": "Stocks rose to a record after an in-line US inflation reading bolstered speculation the Federal Reserve will have room to cut interest rates in September.\r\nThe MSCI All Country World Index rose 0.1% \u2026 [+346 chars]"
     },
     {
         "source": {
@@ -118,32 +157,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "New York Post"
-        },
-        "author": "Christian Arnold",
-        "title": "Jon Gruden ready for \u2018truth\u2019 to come out in legal battle with NFL over leaked emails - New York Post",
-        "description": "\u201cWhat happened wasn\u2019t right and I\u2019m glad the court didn\u2019t let the NFL cover it up,\u201d he added in his statement.",
-        "url": "https://nypost.com/2025/08/12/sports/jon-gruden-hoping-truth-comes-out-in-legal-battle-with-nfl/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/newspress-collage-9g2tzz715-1755041895504.jpg?quality=75&strip=all&1755027507&w=1024",
-        "publishedAt": "2025-08-13T00:20:00Z",
-        "content": "Former head coach Jon Gruden is looking forward to the truth coming out over his allegations that the NFL and commissioner Roger Goodell had leaked disparaging emails that Gruden had sent before his \u2026 [+1931 chars]"
-    },
-    {
-        "source": {
-            "id": "entertainment-weekly",
-            "name": "Entertainment Weekly"
-        },
-        "author": "https://www.facebook.com/entertainmentweekly",
-        "title": "Dolly Parton offers advice for Kelly Clarkson and Reba McEntire as they grieve Brandon Blackstock's death - Entertainment Weekly",
-        "description": "Dolly Parton has some words of wisdom and comfort for her friends Kelly Clarkson and Reba McEntire as they grieve the death of Brandon Blackstock.",
-        "url": "https://ew.com/dolly-parton-offers-kelly-clarkson-reba-mcentire-advice-grieving-brandon-blackstock-death-11789844",
-        "urlToImage": "https://ew.com/thmb/zpBKR26c3QvZMzzUCO8Y5hGN81A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Dolly-Parton-081225-f9f45faa3903452b80f255704867755c.jpg",
-        "publishedAt": "2025-08-12T23:57:39Z",
-        "content": "Dolly Parton has some words of wisdom and comfort for her friends Kelly Clarkson and Reba McEntire as they grieve the death of Brandon Blackstock.\r\nSitting down with Entertainment Tonight on Monday, \u2026 [+2810 chars]"
-    },
-    {
-        "source": {
             "id": "politico",
             "name": "Politico"
         },
@@ -167,32 +180,6 @@
         "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_2962,h_1666/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01k2fr351n4bvfa9mjg9.jpg",
         "publishedAt": "2025-08-12T23:05:00Z",
         "content": "This summer marked the 40th anniversary of English footballs nadir. At a time of rampant hooliganism, fatal stadium tragedies and a ban from all European competition, an editorial in The Sunday Times\u2026 [+19964 chars]"
-    },
-    {
-        "source": {
-            "id": "the-hill",
-            "name": "The Hill"
-        },
-        "author": "Nathaniel Weixel, Joseph Choi, Alejandra O'Connell-Domenech",
-        "title": "Vaccine misinformation blamed for fatal CDC shooting - The Hill",
-        "description": "Click in for more news from The Hill {beacon} Health Care Health Care \u200a The Big Story\u00a0 Vaccine misinformation blamed for fatal CDC shooting\u00a0 A prominent federal employee union and former health leaders are blaming the rise of vaccine information for fueling t\u2026",
-        "url": "https://thehill.com/homenews/5449332-vaccine-misinformation-blamed-for-fatal-cdc-shooting/",
-        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/09/AP22293644415042-e1727201908801.jpg?w=1280",
-        "publishedAt": "2025-08-12T22:51:00Z",
-        "content": "Georgia law enforcement officials confirmed during a Tuesday press conference that 500 shots were fired and about 200 rounds struck six different CDC buildings. Though no employees were hurt, DeKalb \u2026 [+2485 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Investopedia"
-        },
-        "author": "Stephen Wisnefski",
-        "title": "Markets News, Aug. 12, 2025: S&P 500, Nasdaq Close at Record Highs as Stocks Surge After CPI Report Boosts Rate-Cut Hopes - Investopedia",
-        "description": "Stocks rose sharply Tuesday after highly anticipated inflation numbers came in largely as expected and reinforced expectations that the Federal Reserve will cut interest rates soon.",
-        "url": "https://www.investopedia.com/dow-jones-today-08122025-11789239",
-        "urlToImage": "https://www.investopedia.com/thmb/cHIbXNfulBWrvEKw4sL-FcptWtE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-22277232031-629ef0d5ef894388a74cecdec20f17b9.jpg",
-        "publishedAt": "2025-08-12T22:20:10Z",
-        "content": "Biggest S&amp;P 500 Movers on Tuesday\r\nAdvancers\r\n<ul><li>Spirit Aviation Holdings (FLYY) warned it\u00a0may be unable to continue operations, citing an insufficient cash supply and difficulties in naviga\u2026 [+20448 chars]"
     },
     {
         "source": {
