@@ -1,6 +1,19 @@
 [
     {
         "source": {
+            "id": null,
+            "name": "CBS Sports"
+        },
+        "author": "Tyler Sullivan",
+        "title": "NFL preseason week 2 schedule, live updates, scores, highlights: Quinn Ewers tosses first TD - CBS Sports",
+        "description": "Everything to know about the second week of the preseason right here",
+        "url": "https://www.cbssports.com/nfl/news/nfl-preseason-week-2-schedule-live-updates-scores-highlights-dolphins-quinn-ewers-tosses-first-td/live/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/08/10/d2975724-9aa8-4945-8cb3-e6c6b7a0d1ed/thumbnail/1200x675/37f63e27aecb5e5843e3b19f11455558/ewers.jpg",
+        "publishedAt": "2025-08-16T19:59:38Z",
+        "content": "Week 2 of the NFL preseason kicked off on Friday with two games as the Titans topped the Falcons and the Seahawks upended the Chiefs. A total of 11 games are on tap for Saturday, starting with 5 game\u2026 [+1169 chars]"
+    },
+    {
+        "source": {
             "id": "associated-press",
             "name": "Associated Press"
         },
@@ -15,15 +28,28 @@
     {
         "source": {
             "id": null,
-            "name": "CBS Sports"
+            "name": "Hollywood Reporter"
         },
-        "author": "Robby Kalland",
-        "title": "2025 BMW Championship leaderboard live updates: Golf scores, Round 3 coverage as FedEx Cup Playoffs continue - CBS Sports",
-        "description": "Live scores, updates and highlights from Moving Day at the BMW Championship just outside Baltimore",
-        "url": "https://www.cbssports.com/golf/news/bmw-championship-leaderboard-2025-live-updates-golf-scores-fedex-cup-playoffs-saturday/live/",
-        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/08/16/179b81ad-a43a-4cbf-905d-9e1239692474/thumbnail/1200x675/f5b5ff7dfbcad24c400046108fc567a9/bmw-championship-leaderboard-g.jpg",
-        "publishedAt": "2025-08-16T16:54:07Z",
-        "content": "The battle at the top between Robert MacIntyre (-14) and Scottie Scheffler (-9) is going to be the main event, but that won't start until 2 p.m. In the meantime, we'll have our eyes on the race for t\u2026 [+1283 chars]"
+        "author": "Pamela McClintock",
+        "title": "Box Office: \u2018Nobody 2\u2019 Can\u2019t Stop \u2018Weapons\u2019 as Sydney Sweeney\u2019s \u2018Americana\u2019 All-Out Bombs - The Hollywood Reporter",
+        "description": "Spike Lee's Denzel Washington-starrer 'Highest 2 Lowest' also may be struggling in its limited theatrical debut before landing relatively quickly on Apple TV+.",
+        "url": "http://www.hollywoodreporter.com/movies/movie-news/weapons-box-office-nobody-2-highest-to-lowest-1236346020/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/08/Nobody-2-Embed-3-2025.jpg?w=1047&h=748&crop=1",
+        "publishedAt": "2025-08-16T17:27:51Z",
+        "content": "Bob Odenkirk\u2019s modestly budgeted sequel Nobody 2 is having to settle for a third-place finish in its domestic box office debut as Zach Cregger\u2019s horror pic, Weapons, continues to fire on all cylinder\u2026 [+2688 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Lauren Floyd",
+        "title": "Hurricane Erin strengthens to Category 5 - Axios",
+        "description": "Erin is forecast to bring heavy rainfall through Sunday and \"life-threatening surf and rip currents\" on the East Coast next week.",
+        "url": "https://www.axios.com/2025/08/16/hurricane-erin-category-4-storm",
+        "urlToImage": "https://images.axios.com/tdgfZRLIFUM7TbQbzeF1yLXSxWA=/0x0:2000x1125/1366x768/2025/08/16/1755361285060.jpeg",
+        "publishedAt": "2025-08-16T17:26:15Z",
+        "content": "<ul><li>Swells from Erin, which on Friday was at a Category 1, will impact the northern Leeward Islands, Virgin Islands, Puerto Rico, Hispaniola, and Turks and Caicos through the weekend.</li></ul>Th\u2026 [+2117 chars]"
     },
     {
         "source": {
@@ -53,19 +79,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Deadline"
-        },
-        "author": "Anthony D'Alessandro",
-        "title": "\u2018Weapons\u2019 Dashing To $25M Second Weekend, \u2018Nobody 2\u2019 Stuck At $9M+ Opening \u2013 Box Office - Deadline",
-        "description": "Summer is ratcheting down and the only major studio-wide entry this box office frame is Universal's Bob Odenkirk action sequel 'Nobody 2'.",
-        "url": "http://deadline.com/2025/08/box-office-weapons-nobody-2-1236489479/",
-        "urlToImage": "https://deadline.com/wp-content/uploads/2025/04/Screenshot-2025-04-29-at-10.16.15\u202fAM.jpg?w=1024",
-        "publishedAt": "2025-08-16T15:24:00Z",
-        "content": "SATURDAY AM: Summer is heading into its August sleep with the overall weekend for all titles falling under $100M for the second time this season with an estimated $94M. The last time this happened wa\u2026 [+7558 chars]"
-    },
-    {
-        "source": {
             "id": "cbs-news",
             "name": "CBS News"
         },
@@ -79,29 +92,16 @@
     },
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
+            "id": null,
+            "name": "Thetimes.com"
         },
-        "author": "Daryna Krasnolutska, Andrea Palasciano, Alberto Nardelli",
-        "title": "Trump Sets Up Zelenskiy Meeting After Putin Renews Land Demands - Bloomberg.com",
-        "description": "Donald Trump will host President Volodymyr Zelenskiy in Washington on Monday after the US president abandoned his push for an immediate ceasefire in Ukraine and Vladimir Putin again insisted that Kyiv give up land in peace talks.",
-        "url": "https://www.bloomberg.com/news/articles/2025-08-16/zelenskiy-says-he-will-meet-trump-in-washington-on-monday",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNBOoMryzpyk/v0/1200x802.jpg",
-        "publishedAt": "2025-08-16T15:00:17Z",
-        "content": "Donald Trump will host President Volodymyr Zelenskiy in Washington on Monday after the US president abandoned his push for an immediate ceasefire in Ukraine and Vladimir Putin again insisted that Kyi\u2026 [+296 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Andrew Solender",
-        "title": "Redistricting wars spark mad dash of unlikely 2026 congressional candidates - Axios",
-        "description": "Texas Republicans and California Democrats who otherwise would never had a chance are suddenly finding openings to run for Congress.",
-        "url": "https://www.axios.com/2025/08/15/california-texas-redistricting-2026-candidates-election",
-        "urlToImage": "https://images.axios.com/4Uiosg7uvDWdCyPNw7wk7JGfnNk=/0x169:5760x3409/1366x768/2025/08/15/1755292389170.jpeg",
-        "publishedAt": "2025-08-16T14:53:55Z",
-        "content": "<ul><li>It's not just Texas and California either; Republicans are now looking at redistricting in Ohio, Missouri, Florida and Indiana, while Democrats are doing the same in New York, Maryland, Illin\u2026 [+2320 chars]"
+        "author": "Lisa Verrico",
+        "title": "Why two long-haired Swedes have Taylor Swift fans so excited - The Times",
+        "description": "Max Martin has written more No 1s than anyone since the Beatles. Shellback is his screaming prot\u00e9g\u00e9. Now they\u2019ve reunited with Swift for her new album",
+        "url": "https://www.thetimes.com/culture/music/article/taylor-swift-max-martin-shellback-sgs52ffsm",
+        "urlToImage": "https://www.thetimes.com/imageserver/image/%2Fff055e8b-4eae-46e7-9c0e-e14097905419.jpg?crop=1440%2C810%2C0%2C315&resize=1200",
+        "publishedAt": "2025-08-16T15:00:00Z",
+        "content": "Taylor Swift set the clock ticking on her 12th album on Tuesday, fuelling rumours that the worlds most productive pop star had found a portal to more hours in the day than everyone else. The Life of \u2026 [+6345 chars]"
     },
     {
         "source": {
@@ -145,19 +145,6 @@
     {
         "source": {
             "id": null,
-            "name": "Gothamist"
-        },
-        "author": "https://gothamist.com/staff/caroline-lewis, https://gothamist.com/staff/joe-hong",
-        "title": "City says government buildings among sources of Legionnaires\u2019 outbreak that killed 4 - Gothamist",
-        "description": "Twelve towers in Central Harlem tested positive for the bacteria. Ninety-nine people have been sickened and four have died.",
-        "url": "https://gothamist.com/news/nyc-health-and-hospital-building-among-those-that-tested-positive-for-legionella-bacteria",
-        "urlToImage": "https://api-prod.gothamist.com/images/352861/fill-1200x650|format-webp|webpquality-85/",
-        "publishedAt": "2025-08-16T14:01:00Z",
-        "content": "A fourth person has died in the Legionnaires' disease outbreak in Central Harlem, while the number of those stricken with the severe pneumonia increased to 99, up from 90 earlier in the week, the cit\u2026 [+4597 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "NPR"
         },
         "author": "",
@@ -167,32 +154,6 @@
         "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5109x2874+0+107/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2Feb%2F43809ef14f93a4aa3d3feb541f40%2Fap25227501316327.jpg",
         "publishedAt": "2025-08-16T13:18:56Z",
         "content": "TEL AVIV, Israel The world got a glimpse of one of the most famous Palestinian prisoners in Israel on Friday, Marwan Barghouti, for the first time in years.\r\nA video posted by Israel's far-right nati\u2026 [+4094 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "New Orleans mayor and bodyguard lover charged with fraud and corruption - BBC",
-        "description": "Prosecutors accuse LaToya Cantrell of conspiring with her protection cop to pay him for personal liasons.",
-        "url": "https://www.bbc.com/news/articles/cr4edddqpr7o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/de0f/live/54f220d0-7a97-11f0-a69a-95efe7e2a480.jpg",
-        "publishedAt": "2025-08-16T13:09:36Z",
-        "content": "Rachel Muller-Heyndyk\r\nThe mayor of New Orleans and her bodyguard have been charged with fraud and corruption over claims they used public funds to fuel an alleged romance.\r\nProsecutors said on Frida\u2026 [+2576 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "WTOP"
-        },
-        "author": "Jimmy Alexander",
-        "title": "\u2018The city has really went to hell\u2019: Some DC residents want police help, but are concerned about tactics - WTOP",
-        "description": "Shoppers at Hechinger Mall in Northeast D.C. share their thoughts on the extra police and National Guard in the District with WTOP.",
-        "url": "https://wtop.com/dc/2025/08/the-city-has-really-went-to-hell-some-dc-residents-want-police-help-but-are-concerned-about-tactics/",
-        "urlToImage": "https://wtop.com/wp-content/uploads/2025/08/Photo-Aug-15-2025-5-14-05-PM-scaled-e1755346677900.jpg",
-        "publishedAt": "2025-08-16T13:05:46Z",
-        "content": "Shortly after President Donald Trump announced the federal takeover of the D.C. police department, WTOP spoke with shoppers at Hechinger Mall in Northeast D.C. about their thoughts on the change comi\u2026 [+3728 chars]"
     },
     {
         "source": {
@@ -206,5 +167,18 @@
         "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/16/ac2dcedb-5b71-43cd-b13a-5b72ea62bbe7/thumbnail/1200x630/526bff4c487223406a424700b3a31e20/ap25227779670536.jpg",
         "publishedAt": "2025-08-16T12:20:47Z",
         "content": "Health officials are working to alert hundreds of people in dozens of states and several countries who may have been exposed to rabies in bat-infested cabins in Wyoming's Grand Teton National Park ov\u2026 [+3662 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "mlive.com"
+        },
+        "author": "Aaron McMann | amcmann@mlive.com",
+        "title": "NCAA report: Harbaugh viewed Michigan compliance staff as \u2018thorn in his side\u2019 - MLive.com",
+        "description": "The 74-page NCAA report detailed the rift between Jim Harbaugh's football program and the Michigan compliance department.",
+        "url": "https://www.mlive.com/wolverines/2025/08/ncaa-report-harbaugh-viewed-michigan-compliance-staff-as-thorn-in-his-side.html",
+        "urlToImage": "https://www.mlive.com/resizer/v2/YX5AJRZOLFCNLKG2CX5JIXINZ4.JPG?auth=cc2e7cb71f2e142680d1330f5e5c419c7bd90c76ab6e3804b1096598d0d8a76a&width=1280&quality=90",
+        "publishedAt": "2025-08-16T12:06:00Z",
+        "content": "While Connor Stalions and his sign-stealing operation at Michigan took center stage Friday, there was a behind-the-scenes feud bubbling over between Jim Harbaugh and the schools compliance department\u2026 [+4874 chars]"
     }
 ]
