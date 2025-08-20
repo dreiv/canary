@@ -1,29 +1,42 @@
 [
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": null,
+            "name": "BBC News"
         },
-        "author": "Lori Aratani, Amanda Coletta",
-        "title": "Air Canada canceling more flights as cabin crews defy order to end strike - The Washington Post",
-        "description": "Air Canada has been forced to cancel nearly 2,600 flights as striking flight attendants refuse to return to work.",
-        "url": "https://www.washingtonpost.com/transportation/2025/08/18/air-canada-strike-flight-attendants/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N3I7C7AAA4C72OKFD7WVGPSPD4.JPG&w=1440",
-        "publishedAt": "2025-08-19T02:36:11Z",
-        "content": "Air Canada said it will suspend all flights through Tuesday afternoon because of a strike that began Saturday by thousands of flight attendants, who have defied multipleorders by the government to re\u2026 [+18 chars]"
+        "author": null,
+        "title": "Hurricane Erin threatens US East Coast with life-threatening waves - BBC",
+        "description": "The Category 4 storm threatens to bring life-threatening surf and rip currents to the US East Coast.",
+        "url": "https://www.bbc.com/news/articles/c3r41zeqnexo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/693b/live/332f66a0-7c14-11f0-8db5-596ea140e19b.jpg",
+        "publishedAt": "2025-08-19T02:24:45Z",
+        "content": "Vanessa Buschschl\u00fcter\r\nHurricane Erin has strengthened to a Category 4 storm as it threatens to bring life-threatening surf and rip currents to the eastern coast of the United States. \r\nThe rains cau\u2026 [+2762 chars]"
     },
     {
         "source": {
             "id": "axios",
             "name": "Axios"
         },
-        "author": "Rebecca Falconer",
-        "title": "FBI gets 2 co-deputy directors: Missouri AG tapped to serve alongside Bongino - Axios",
-        "description": "The new position is seen by insiders as a prelude to the eventual departure of Bongino.",
-        "url": "https://www.axios.com/2025/08/18/fbi-co-director-bongino-bailey-bondi-patel",
-        "urlToImage": "https://images.axios.com/kYRu_nDrQlyetS4orCj_o3lBh64=/0x66:4257x2461/1366x768/2025/08/18/1755559017977.jpg",
-        "publishedAt": "2025-08-19T01:41:06Z",
-        "content": "What they're saying: Bondi said in a statement that Bailey included in a post on the Missouri attorney general's office website that she's \"thrilled\" to welcome him as co-deputy director of the FBI.\r\u2026 [+1784 chars]"
+        "author": "Shafaq Patel, Megan Stringer",
+        "title": "Texas Democrats return to state as GOP presses on with redistricting - Axios",
+        "description": "A committee on Monday evening approved the new map and it will go to the full House soon.",
+        "url": "https://www.axios.com/local/houston/2025/08/18/texas-democrats-return-abbott-republicans-redistricting",
+        "urlToImage": "https://images.axios.com/1bY050wOqg7FAXbbZUnyNVmdCSo=/0x423:8667x5298/1366x768/2025/08/18/1755549673154.jpeg",
+        "publishedAt": "2025-08-19T01:49:54Z",
+        "content": "<ul><li>Democrats who left the state will be under watch by the Texas Department of Public Safety.</li></ul>The latest: A committee on Monday evening approved the new map and it will go to the full H\u2026 [+2911 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Dylan Wells",
+        "title": "Trump says he will \u2018lead a movement\u2019 to eliminate mail-in voting - The Washington Post",
+        "description": "The Constitution gives states the authority to regulate how elections are run, making it unlikely Trump can change voting rules unilaterally.",
+        "url": "https://www.washingtonpost.com/politics/2025/08/18/trump-mail-in-constitution-elections/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EOQK3M2LRIIRMCXGBEXGRCUAF4.JPG&w=1440",
+        "publishedAt": "2025-08-19T01:26:14Z",
+        "content": "The Constitution gives states the authority to regulate how elections are run, making it unlikely Trump can change voting rules unilaterally.\r\nAugust 18, 2025 at 3:01 p.m. EDTToday at 3:01 p.m. EDT"
     },
     {
         "source": {
@@ -53,16 +66,16 @@
     },
     {
         "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": "Matthew  Davisson, Jack  Fink",
-        "title": "Texas Democrat says she's locked inside state Capitol after refusing mandatory DPS escort - CBS News",
-        "description": "Democratic state Rep. Nicole Collier says she remains locked in the House chamber because she wouldn't sign a permission slip to be under escort by the Texas Department of Public Safety.",
-        "url": "https://www.cbsnews.com/texas/news/texas-democrat-nicole-collier-locked-inside-house-chamber-returning-texas-capitol/",
-        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/04/fb9d5339-27d1-4bcc-8502-f4cf1c48097a/thumbnail/1200x630/dcf66513debed70a0f3f3bd29f2ae248/gettyimages-2227847217.jpg",
-        "publishedAt": "2025-08-19T00:39:00Z",
-        "content": "Democratic state Rep. Nicole Collier from Fort Worth returned to the Texas Capitol on Monday but says she remains locked inside the Capitol because she wouldn't sign a permission slip to be under esc\u2026 [+2885 chars]"
+        "author": null,
+        "title": "Kohberger's sexist, creepy behavior alarmed university faculty and students before Idaho murders - AP News",
+        "description": "Fellow grad students told investigators that Bryan Kohberger developed a reputation for being sexist and creepy while attending a criminal justice program in the months before he killed four University of Idaho students in 2022. His behavior was so problemati\u2026",
+        "url": "https://apnews.com/article/kohberger-idaho-murders-investigation-creepy-8715fe80ea8a24c033e48437790a6e75",
+        "urlToImage": "https://dims.apnews.com/dims4/default/b2ad386/2147483647/strip/true/crop/3808x2142+0+198/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb3%2Fdc%2F61760eeab161700aaeeaff8b5bb4%2F102a62159af549c7bfb771d7e2d01eb9",
+        "publishedAt": "2025-08-19T00:13:00Z",
+        "content": "BOISE, Idaho (AP) Bryan Kohberger developed a reputation for being sexist and creepy while attending a criminal justice program in the months before he killed four University of Idaho students in 202\u2026 [+4393 chars]"
     },
     {
         "source": {
@@ -80,41 +93,41 @@
     {
         "source": {
             "id": null,
-            "name": "Forbes"
+            "name": "OregonLive"
         },
-        "author": "Ewan Spence",
-        "title": "How Google\u2019s Pixel 10 Pro Will Change Smartphones Forever - Forbes",
-        "description": "Google is set to launch the Pixel 10 and Pixel 10 Pro smartphones this week. It's a chance to build on the success of the Pixel 9 family and shape the smartphone future.",
-        "url": "https://www.forbes.com/sites/ewanspence/2025/08/18/google-pixel-10-pro-secrets-android-16-tensor-ai-apple-iphone-17-pro/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66c7bf2f9eecea6b0c81ad45/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2025-08-19T00:05:00Z",
-        "content": "Update, Monday August 18, 2025: This article has been updated with details on Google AI cloud services and the final pre-launch moments of the Pixel 10 marketing campaign.\r\nEwan Spence\r\nGoogle is set\u2026 [+9100 chars]"
+        "author": "Lizzy Acker | The Oregonian/OregonLive",
+        "title": "Map shows Oregon, 15 other states, where northern lights could be visible Monday night - OregonLive.com",
+        "description": "The northern part of the United States could get a chance to see lights in the sky Monday night, when the view line for the northern lights lands on the Oregon-Washington border.",
+        "url": "https://www.oregonlive.com/weather/2025/08/map-shows-oregon-15-other-states-where-northern-lights-could-be-visible-monday-night.html",
+        "urlToImage": "https://www.oregonlive.com/resizer/v2/SAI4CVYXLND4ZMCPVUV45ZUL6M.jpg?auth=b5d409b09cdea9e1c65583652c6dc6c72ac07ac38089fc331f42ba45b21233a4&width=1280&quality=90",
+        "publishedAt": "2025-08-18T23:32:00Z",
+        "content": "The northern part of the United States could get a chance to see lights in the sky Monday night, when the view line for the auroras lands on the Oregon-Washington border.\r\nThe planet is still experie\u2026 [+1164 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "The Wall Street Journal",
+        "title": "Exclusive | TV-Station Owner Sinclair Proposes Merger With Tegna - The Wall Street Journal",
+        "description": null,
+        "url": "https://www.wsj.com/business/deals/tv-station-owner-sinclair-proposes-merger-with-tegna-4bd3bb86",
+        "urlToImage": null,
+        "publishedAt": "2025-08-18T23:02:00Z",
+        "content": null
     },
     {
         "source": {
             "id": null,
-            "name": "SFGate"
+            "name": "Commanders.com"
         },
-        "author": "Gillian Mohney",
-        "title": "'They're not going to live normally': Valley fever surges in California - SFGATE",
-        "description": "Valley fever cases are on pace to surpass last year's record-breaking levels. The infection is caused when people inhale fungus spores.",
-        "url": "https://www.sfgate.com/bayarea/article/valley-fever-cases-increase-california-20822556.php",
-        "urlToImage": "https://s.hdnux.com/photos/01/54/24/11/28394080/4/rawImage.jpg",
-        "publishedAt": "2025-08-18T23:46:11Z",
-        "content": "Valley fever, or coccidioidomycosis, is spread when spores from a naturally occurring fungus are inhaled.\u00a0\r\nThe Washington Post/Getty Images\r\nIn just 25 years, cases of an uncommon but potentially de\u2026 [+4547 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NPR"
-        },
-        "author": "Bill Chappell",
-        "title": "Hurricane Erin: Storm surge watch is issued for North Carolina's Outer Banks - NPR",
-        "description": "Tropical storm conditions and coastal flooding are expected to appear in areas along the Outer Banks starting late Wednesday.",
-        "url": "https://www.npr.org/2025/08/18/nx-s1-5506150/hurricane-erin-forecast-path-evacuation-outer-banks",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1640x923+0+86/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2Fd1%2F96169696410ea4a6d9b7dc165621%2Fhurricane-erin-cone-forecast-track.jpg",
-        "publishedAt": "2025-08-18T23:45:02Z",
-        "content": "Storm surge and tropical storm watches are in effect for areas along the North Carolina's Outer Banks as Hurricane Erin spins toward the Bahamas and the U.S.\r\nAs of Monday evening, Erin remains a pow\u2026 [+2978 chars]"
+        "author": null,
+        "title": "Commanders announce 13 players will not dress out vs. Bengals - Washington Commanders",
+        "description": "The Washington Commanders have announced that the following players will not dress out for the preseason game against the Cincinnati Bengals.",
+        "url": "https://www.commanders.com/news/commanders-announce-13-players-will-not-dress-out-vs-bengals",
+        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/commanders/azf7fux9holoq0xyslbp",
+        "publishedAt": "2025-08-18T22:45:37Z",
+        "content": null
     },
     {
         "source": {
@@ -128,19 +141,6 @@
         "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P6NAH7BRO3GFPNBEG3LTTOR4BA_size-normalized.JPG&w=1440",
         "publishedAt": "2025-08-18T22:32:28Z",
         "content": "As D.C. Mayor Muriel E. Bowser and Attorney General Brian Schwalb exited federal court Friday, saying the police chief remained in command of her force, on the ground the reality was murkier: Deputy \u2026 [+168 chars]"
-    },
-    {
-        "source": {
-            "id": "espn",
-            "name": "ESPN"
-        },
-        "author": "Marcel Louis-Jacques",
-        "title": "Source: Dolphins add Judon to boost pash rush - ESPN",
-        "description": "The Dolphins agreed to a one-year contract with outside linebacker Matthew Judon, a source confirmed to ESPN.",
-        "url": "https://www.espn.com/nfl/story/_/id/46010786/source-dolphins-add-veteran-matthew-judon-boost-pass-rush",
-        "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0225%2Fr1456476_1296x729_16%2D9.jpg",
-        "publishedAt": "2025-08-18T22:12:00Z",
-        "content": "MIAMI GARDENS, Fla. -- The Dolphins agreed to a one-year contract with outside linebacker Matthew Judon on Monday, a source confirmed to ESPN.\r\nThe contract is worth up to $6 million, according to mu\u2026 [+2194 chars]"
     },
     {
         "source": {
@@ -171,15 +171,15 @@
     {
         "source": {
             "id": null,
-            "name": "PCMag.com"
+            "name": "MMA Fighting"
         },
-        "author": "George Yang",
-        "title": "Get Your Hands on the Samsung Galaxy Tab A9+ With a 23% Discount - PCMag",
-        "description": "Need a tablet with plenty of storage? Check out the Samsun Galaxy Tab A9+, which you can get for $60 less today.",
-        "url": "https://www.pcmag.com/deals/new-egg-deal-of-the-day-samsung-galaxy-tab-a9-plus-23-discount-aug-18",
-        "urlToImage": "https://i.pcmag.com/imagery/articles/03yZv10w0tkJGofcODwQqE3-2.fit_lim.size_1200x630.v1755542160.png",
-        "publishedAt": "2025-08-18T20:30:40Z",
-        "content": null
+        "author": "Mike Heck",
+        "title": "Jon Jones reacts to Dana White saying he\u2019s \u2018billion-to-one\u2019 long shot to fight on UFC White House card - MMA Fighting",
+        "description": "Jon Jones issues response to Dana White after the UFC CEO said he\u2019s a \u2018billion to one\u2019 long shot to compete on the UFC White House card.",
+        "url": "https://www.mmafighting.com/ufc/399922/jon-jones-reacts-to-dana-white-saying-hes-billion-to-one-long-shot-to-fight-on-ufc-white-house-card",
+        "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/08/gettyimages-2184829172.jpg?quality=90&strip=all&crop=0%2C10.736036054732%2C100%2C78.527927890537&w=1200",
+        "publishedAt": "2025-08-18T21:00:00Z",
+        "content": "Jon Jones issued his first statement in response to Dana White and the UFCs proposed event at the White House.\r\nJones retired, and then abruptly unretired following the reveal that the promotion plan\u2026 [+1620 chars]"
     },
     {
         "source": {
@@ -197,15 +197,15 @@
     {
         "source": {
             "id": null,
-            "name": "Sports Illustrated"
+            "name": "Space.com"
         },
-        "author": "Bryan Fischer",
-        "title": "Predicting Every 2025 College Football Game for Power 4 and Notre Dame - Sports Illustrated",
-        "description": "From Week Zero through rivalry weekend, we forecast each league\u2019s order of finish and every result for 68 teams\u2019 schedules.",
-        "url": "https://www.si.com/college-football/predicting-every-2025-college-football-game-for-power-4-and-notre-dame",
-        "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4197,h_2360,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01k2z3rdmedsn8x1ht8t.jpg",
-        "publishedAt": "2025-08-18T19:43:17Z",
-        "content": "Media days have come and gone, fall camp is on its last legs before game preparation takes hold and the onset of Week Zero means the 2025 college football season has officially arrived.\u00a0\r\nAnd what a \u2026 [+33222 chars]"
+        "author": "Elizabeth Howell",
+        "title": "Chinese astronauts beef up Tiangong space station's debris shield during 6.5-hour spacewalk (video) - Space",
+        "description": "Two astronauts were outside the three-module space station for more than six hours on Friday (Aug. 15).",
+        "url": "https://www.space.com/space-exploration/human-spaceflight/chinese-astronauts-beef-up-tiangong-space-stations-debris-shield-during-6-5-hour-spacewalk-video",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/h9EHoMWakwh5SWXJxwAoM7.jpg",
+        "publishedAt": "2025-08-18T20:00:00Z",
+        "content": "Chinese astronauts added more debris shielding to the Tiangong space station during a 6.5-hour spacewalk on Friday (Aug. 15), according to state media.\r\nTwo astronauts from the three-person Shenzhou \u2026 [+2211 chars]"
     },
     {
         "source": {
@@ -223,27 +223,14 @@
     {
         "source": {
             "id": null,
-            "name": "ChicagoBears.com"
+            "name": "Viewfromthewing.com"
         },
-        "author": null,
-        "title": "By the Numbers: Bears' Preseason Week 2 win over Bills - Chicago Bears",
-        "description": "Senior writer Larry Mayer identifies some notable numbers and stats from the Bears\u2019 38-0 win over the Bills Sunday night at Soldier Field.",
-        "url": "https://www.chicagobears.com/news/chicago-bears-buffalo-bills-2025-preseason-week-2-stats-numbers",
-        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/uzooi34mcrptvnohwpcy",
-        "publishedAt": "2025-08-18T18:16:01Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "cleveland.com"
-        },
-        "author": "Mary Kay Cabot, cleveland.com",
-        "title": "Joe Flacco named Browns starting quarterback for Week 1 vs. the Bengals - Cleveland.com",
-        "description": "Joe Flacco has been named the Week 1 starter for the Browns.",
-        "url": "https://www.cleveland.com/browns/2025/08/joe-flacco-announced-as-browns-starting-quarterback-for-week-1-vs-the-bengals.html",
-        "urlToImage": "https://www.cleveland.com/resizer/v2/SMXD6HK2G5HA3PBVZRCFITJCIM.jpeg?auth=d893b92b633ac284a15e2bbf34d75c40daefe8f09b25d16e7c5560d190b0c651&width=1280&quality=90",
-        "publishedAt": "2025-08-18T16:59:00Z",
-        "content": null
+        "author": "Gary Leff",
+        "title": "Jail And $1,000-A-Day Fines: Air Canada Flight Attendants Defy Back-To-Work Order - View from the Wing",
+        "description": "A union that \u201cdeclares or authorizes\u201d an illegal strike faces up to $1,000 per day. The penalty for an officer or union rep is $10,000. Air Canada could win massive damages.",
+        "url": "https://viewfromthewing.com/jail-and-1000-a-day-fines-air-canada-flight-attendants-defy-back-to-work-order/",
+        "urlToImage": "https://viewfromthewing.com/wp-content/uploads/2025/08/air-canada-toronto.jpeg",
+        "publishedAt": "2025-08-18T19:29:34Z",
+        "content": "Fines and jail: what Air Canada flight attendant are risking by defying the government\u2019s order to go back to work. \r\nIn the U.S. it has more or less been government policy for years that airline work\u2026 [+4429 chars]"
     }
 ]
