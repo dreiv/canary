@@ -1,16 +1,29 @@
 [
     {
         "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Ben Kamisar",
+        "title": "Texas Senate passes new Republican-drawn congressional map - NBC News",
+        "description": "The Republican-controlled Texas state Senate passed the party\u2019s new congressional maps overnight, completing a legislative odyssey that included significant Democratic delays and sparked a nationwide scramble over redistricting in the process.",
+        "url": "https://www.nbcnews.com/politics/elections/texas-senate-passes-new-republican-drawn-congressional-map-rcna226278",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250821-Texas-REDISTRICTING-maps-aa-942-49d523.jpg",
+        "publishedAt": "2025-08-23T07:21:00Z",
+        "content": "The Republican-controlled Texas state Senate passed the partys new congressional maps overnight, completing a legislative odyssey that included significant Democratic delays and sparked a nationwide \u2026 [+3016 chars]"
+    },
+    {
+        "source": {
             "id": "associated-press",
             "name": "Associated Press"
         },
         "author": null,
-        "title": "Texas redistricting fight shakes up battle lines for both parties in key US Senate race - AP News",
-        "description": "The push to redraw congressional maps in Texas is shifting the dynamics of the state\u2019s 2026 Senate campaign. It is renewing hope for Democrats as they gain attention for pushing back against the GOP redistricting efforts led by President Donald Trump. Republi\u2026",
-        "url": "https://apnews.com/article/texas-redistricting-79633b09731bcb286027e14df97bc73a",
-        "urlToImage": "https://dims.apnews.com/dims4/default/da2f794/2147483647/strip/true/crop/5107x2873+0+266/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb6%2Ff0%2F7db99f37d75b9015ccc9e684b634%2Faf127ba0cfec467fadfd56970fef5dbf",
-        "publishedAt": "2025-08-23T04:01:00Z",
-        "content": "HOUSTON (AP) Just as Democratic U.S. Senate candidate Colin Allred was holding a town hall near the Mexican border as part of an unrig Texas campaign tour, the states Democratic fundraising powerhous\u2026 [+7027 chars]"
+        "title": "Mahomes leads sharp Chiefs offense before Bears rally for 29-27 win in preseason finale - AP News",
+        "description": "Patrick Mahomes and the Kansas City Chiefs offense have shown impressive form in their preseason finale against the Bears. They scored on all three of their opportunities before the Bears rallied for a 29-27 victory. Mahomes completed 8 of 13 passes for 143 y\u2026",
+        "url": "https://apnews.com/article/chicago-bears-kansas-city-chiefs-nfl-preseason-score-0e620c0bca4fec012e9025d35f6c0efd",
+        "urlToImage": "https://dims.apnews.com/dims4/default/ecfc79d/2147483647/strip/true/crop/7566x4256+0+394/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe0%2F11%2F346e6559936178cc2a3298eeb6ac%2F2fb08ec66b8e453abafec3bc4de3d334",
+        "publishedAt": "2025-08-23T04:27:00Z",
+        "content": "KANSAS CITY, Mo. (AP) Patrick Mahomes and the first-team Kansas City Chiefs offense were in midseason form in their preseason finale Friday night, scoring on each of their three opportunities with th\u2026 [+3945 chars]"
     },
     {
         "source": {
@@ -28,19 +41,6 @@
     {
         "source": {
             "id": null,
-            "name": "NBCSports.com"
-        },
-        "author": "Mike Florio",
-        "title": "Patrick Mahomes plays three drives in preseason finale for Chiefs - NBC Sports",
-        "description": "With only three preseason games and plenty of joint practices, more and more teams are keeping their key players in bubble wrap throughout August.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-plays-three-drives-in-preseason-finale-for-chiefs",
-        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/fbc93e9/2147483647/strip/true/crop/4932x2774+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5c%2F91%2Ff2c24c1c42f9b2c893a6fc94efdf%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2231570679",
-        "publishedAt": "2025-08-23T02:30:48Z",
-        "content": "With only three preseason games and plenty of joint practices, more and more teams are keeping their key players in bubble wrap throughout August. The Chiefs are not.\r\nQuarterback Patrick Mahomes pla\u2026 [+681 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "BBC News"
         },
         "author": null,
@@ -54,15 +54,15 @@
     {
         "source": {
             "id": null,
-            "name": "WKBW-TV"
+            "name": "MMA Mania"
         },
-        "author": "WKBW News Staff",
-        "title": "5 killed, at least 44 others transported to local hospitals after tour bus crash on I-90 in Pembroke - WKBW",
-        "description": "Five people were killed and at least 44 others were transported to local hospitals after a tour bus crash on the New York State Thruway in the Pembroke area on Friday.",
-        "url": "https://www.wkbw.com/news/local-news/all-i-90-lanes-closed-in-pembroke-after-crash-involving-bus",
-        "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/ad6183b/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fe1%2Ff0%2F3fe5c15f4042903c5662043238fb%2Fnew-thumb.jpg",
-        "publishedAt": "2025-08-23T02:06:11Z",
-        "content": "PEMBROKE, N.Y. (WKBW) Five people were killed and at least 44 others were transported to local hospitals after a tour bus crash on the New York State Thruway in the Pembroke area on Friday. \r\nNew Yor\u2026 [+3922 chars]"
+        "author": "Dan Hiergesell",
+        "title": "Merab Cam! Ortega Takes Apparent Ambulance Ride - MMA Mania",
+        "description": "UFC champion Merab Dvalishvili allegedly captures UFC Shanghai\u2019s Brian Ortega in an ambulance following grueling weight cut.",
+        "url": "https://www.mmamania.com/ufc-news/384527/merab-cam-ufc-champion-captures-video-of-brian-ortegas-presumed-ambulance-ride-after-botched-weight-cut-ufc-shanghai",
+        "urlToImage": "https://platform.mmamania.com/wp-content/uploads/sites/110/2025/08/gettyimages-2172049819.jpg?quality=90&strip=all&crop=0%2C10.730597965895%2C100%2C78.538804068211&w=1200",
+        "publishedAt": "2025-08-23T00:30:00Z",
+        "content": "Brian Ortega is still competing tomorrow morning (Sat.., Aug. 23, 2025) at UFC Shanghai from Shanghai, China, but not after an apparent ride in an ambulance.\r\nOn Thursday evening, it was revealed tha\u2026 [+1969 chars]"
     },
     {
         "source": {
@@ -79,29 +79,29 @@
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": "cnn",
+            "name": "CNN"
         },
-        "author": "Warren P. Strobel, Noah Robertson, Dan Lamothe",
-        "title": "Hegseth fires head of Defense Intelligence Agency, Lt. Gen. Jeffrey Kruse - The Washington Post",
-        "description": "Secretary of Defense Pete Hegseth has fired Lt. Gen. Jeffrey Kruse, director of the Defense Intelligence Agency, the latest national security senior officer to be purged.",
-        "url": "https://www.washingtonpost.com/national-security/2025/08/22/defense-intelligence-agency-kruse-fired-hegseth/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OIK5NFDXJEUQCNY4D7CNXRVD7U.JPG&w=1440",
-        "publishedAt": "2025-08-22T23:36:20Z",
-        "content": "Secretary of Defense Pete Hegseth has fired Lt. Gen. Jeffrey Kruse, director of the Defense Intelligence Agency, the latest senior military or intelligence officer to lose his position in a wider pur\u2026 [+92 chars]"
+        "author": "Isabelle Khurshudyan",
+        "title": "\u2018Militarization of politics\u2019: How bucolic Bethesda woke up to FBI search on John Bolton - CNN",
+        "description": "Robert Hill called in sick to work when he heard about what was happening in his Bethesda, Maryland. Every major cable news network was broadcasting from a house just a few streets away, but Hill had to see it for himself.",
+        "url": "https://www.cnn.com/2025/08/22/politics/how-bethesda-woke-up-to-fbi-raid-on-john-bolton",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-08-22t134531z-353007330-rc2dcgas97v5-rtrmadp-3-usa-trump-bolton-20250822224732783.JPG?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-08-22T23:55:00Z",
+        "content": "Robert Hill called in sick to work when he heard about what was happening in his Bethesda, Maryland. Every major cable news network was broadcasting from a house just a few streets away, but Hill had\u2026 [+4563 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "PBS"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": null,
-        "title": "Carney says Canada will match U.S. tariff exemptions under USMCA trade pact - PBS",
-        "description": "Canada is dropping many of its retaliatory tariffs to match U.S. tariff exemptions for goods covered under the\u00a0United States-Mexico-Canada trade pact,\u00a0Prime Minister Mark Carney announced Friday.",
-        "url": "https://www.pbs.org/newshour/economy/carney-says-canada-will-match-u-s-tariff-exemptions-under-usmca-trade-pact",
-        "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/08/2025-08-22T173255Z_485497211_RC2HCGARPUWL_RTRMADP_3_USA-TRUMP-TARIFFS-CANADA-1024x576.jpg",
-        "publishedAt": "2025-08-22T23:10:20Z",
-        "content": "TORONTO (AP) Canada is dropping many of its retaliatory tariffs to match U.S. tariff exemptions for goods covered under the\u00a0United States-Mexico-Canada trade pact,\u00a0Prime Minister Mark Carney announce\u2026 [+4554 chars]"
+        "author": "Nicole  Brown Chau",
+        "title": "Tour bus rolls over on western New York highway, killing 5 people, police say - CBS News",
+        "description": "A tour bus with more than 50 passengers lost control and rolled over on the New York State Thruway near Pembroke, killing five people, police said.",
+        "url": "https://www.cbsnews.com/news/tour-bus-crash-western-new-york-thruway-highway/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/22/334fe850-3788-4184-b8ed-3d99f7d4d701/thumbnail/1200x630/4fe70822662dea4195172273c6bcce57/ap25234706862372.jpg",
+        "publishedAt": "2025-08-22T23:50:00Z",
+        "content": "Five people are dead after a tour bus with more than 50 passengers lost control and rolled over on a major highway in western New York on Friday, state police said.\u00a0\r\nThe bus was traveling back to Ne\u2026 [+2768 chars]"
     },
     {
         "source": {
@@ -157,16 +157,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "axios",
+            "name": "Axios"
         },
-        "author": "Michele Luhn",
-        "title": "Trump says furniture tariffs are coming later this year - CNBC",
-        "description": "Stocks for some furniture and home goods companies, including Wayfair, RH and Williams-Sonoma, tumbled after the market close, following Trump's post.",
-        "url": "https://www.cnbc.com/2025/08/22/trump-tariffs-furniture-trade.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108172431-17526141012025-07-15t211227z_334473751_rc26nfa9jpcp_rtrmadp_0_usa-economy.jpeg?v=1752614172&w=1920&h=1080",
-        "publishedAt": "2025-08-22T21:17:41Z",
-        "content": "The Trump administration has launched an investigation into imported furniture, President Donald Trump said Friday, setting the stage for new tariffs on a wide range of products.\r\n\"Within the next 50\u2026 [+2071 chars]"
+        "author": "Ben Berkowitz",
+        "title": "Trump threatens heavy furniture tariffs in coming months - Axios",
+        "description": "Furniture prices have already been rising on the impact of the tariffs imposed earlier this year.",
+        "url": "https://www.axios.com/2025/08/22/trump-tariffs-furniture-wayfair-rh",
+        "urlToImage": "https://images.axios.com/CesJtdIOskHCVLLC-yhM06W9QeQ=/0x212:8640x5072/1366x768/2025/08/22/1755896790586.jpg",
+        "publishedAt": "2025-08-22T21:25:57Z",
+        "content": "<ul><li>Further levies risk accelerating the inflation that's taking hold.</li></ul>What they're saying: Trump posted about the tariff investigation on Truth Social Friday afternoon.\r\n<ul><li>\"Within\u2026 [+1370 chars]"
     },
     {
         "source": {
@@ -197,19 +197,6 @@
     {
         "source": {
             "id": null,
-            "name": "Hollywood Reporter"
-        },
-        "author": "Brian Davids",
-        "title": "\u2018Peacemaker\u2019 Star Steve Agee Says Season 2\u2019s Last Three Episodes Are Like a \u201cWhole New Season\u201d - The Hollywood Reporter",
-        "description": "The actor experienced highs and lows on his journey with John Economos, including losing his mother in between 'The Suicide Squad' and landing on 'Peacemaker.'",
-        "url": "http://www.hollywoodreporter.com/tv/tv-features/peacemaker-steve-agee-season-2-1236351542/",
-        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/08/st-118-H-2025.jpg?w=1296&h=730&crop=1",
-        "publishedAt": "2025-08-22T20:18:28Z",
-        "content": "[This story contains major spoilers for Peacemaker\u2019s season two premiere.]\r\nPeacemaker star Steve Agee has been by James Gunn\u2019s side since a random Sunday night in 2008.\u00a0\r\nOf course, this was long be\u2026 [+26581 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Deadline"
         },
         "author": "Nellie Andreeva",
@@ -219,5 +206,18 @@
         "urlToImage": "https://deadline.com/wp-content/uploads/2025/08/dexter-resurrection-original-sin.jpg?w=1024",
         "publishedAt": "2025-08-22T20:16:00Z",
         "content": "Showtime\u2018s new leadership has made their first major programming decision, and it involves the network\u2019s flagship Dexter franchise. \r\nThe Paramount TV Studios team, led by Matt Thunell, which took ov\u2026 [+3538 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Space.com"
+        },
+        "author": "Robert Z. Pearlman",
+        "title": "Watch Blue Origin launch its 200th payload on 35th New Shepard spaceflight Aug. 23 - Space",
+        "description": "Liftoff of the uncrewed NS-35 mission is scheduled for 8:30 a.m. EDT on Saturday (Aug. 23) from West Texas.",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-launch-200th-payload-35th-new-shepard-spaceflight",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/MdxM68BehvFt6WxszjSLri.jpg",
+        "publishedAt": "2025-08-22T20:00:00Z",
+        "content": "Blue Origin plans to launch its 35th New Shepard mission on Saturday (Aug. 23), and you can watch live.\r\nThe commercial spaceflight company, which was founded by billionaire Jeff Bezos, will send its\u2026 [+2929 chars]"
     }
 ]
