@@ -2,15 +2,80 @@
     {
         "source": {
             "id": null,
-            "name": "DW (English)"
+            "name": "NPR"
         },
-        "author": "Alex Berry, John Silk",
-        "title": "Trump administration seeks to deport Abrego Garcia to Uganda - DW",
-        "description": "Kilmar Abrego Garcia was one of more than 200 people sent to El Salvador's CECOT prison as part of Donald Trump's crackdown on undocumented migrants. Now he's facing a second deportation.",
-        "url": "https://www.dw.com/en/trump-administration-seeks-to-deport-abrego-garcia-to-uganda/a-73738718",
-        "urlToImage": "https://static.dw.com/image/73738978_6.jpg",
-        "publishedAt": "2025-08-24T04:18:21Z",
-        "content": "The US government under President Donald Trump is planning a second deportation for a Salvadoran man who was illegally deported and then sent back\u00a0to the United States during a fierce row over the Wh\u2026 [+2643 chars]"
+        "author": "",
+        "title": "Smithsonian artists and scholars respond to White House list of objectionable art - NPR",
+        "description": "A page published by the White House entitled \"President Trump Is Right About the Smithsonian\" lists exhibits, educational sites and more that the administration seems to take issue with.",
+        "url": "https://www.npr.org/2025/08/24/nx-s1-5511241/smithsonian-white-house-art",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2477x1393+0+178/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F4f%2F71a0629d42c38abf6f007db187a6%2Fgonzalez-painting-hig-res.jpg",
+        "publishedAt": "2025-08-24T09:07:29Z",
+        "content": "The official White House newsletter has posted an article titled \"President Trump Is Right About the Smithsonian.\" It calls out some of the institution's artwork, exhibitions, programs and online art\u2026 [+12007 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "Thomas Germain",
+        "title": "YouTube secretly used AI to edit people's videos. The results could bend reality - BBC",
+        "description": "YouTube made AI enhancements to videos without telling users or asking permission. As AI quietly mediates our world, what happens to our shared connections with real life?",
+        "url": "https://www.bbc.com/future/article/20250822-youtube-is-using-ai-to-edit-videos-without-permission",
+        "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0lyhvrk.jpg",
+        "publishedAt": "2025-08-24T09:01:08Z",
+        "content": "YouTube made AI enhancements to videos without telling users or asking permission. As AI quietly mediates our world, what happens to our shared connection with real life?\r\nRick Beato's face just didn\u2026 [+1711 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NBCSports.com"
+        },
+        "author": "Michael David Smith",
+        "title": "Frank Reich and Andrew Luck start 0-1 at Stanford - NBC Sports",
+        "description": "Andrew Luck took over the Stanford football program as its general manager at the end of last year, and he put his stamp on the program in March when he fired head coach Troy Taylor and replaced him with Frank Reich, who previously coached Luck on the Colts.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/frank-reich-and-andrew-luck-start-0-1-at-stanford",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/3238f9a/2147483647/strip/true/crop/3600x2025+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6f%2F78%2F57effe6646e08479af546f31bd4b%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D26915927",
+        "publishedAt": "2025-08-24T08:51:45Z",
+        "content": "Andrew Luck took over the Stanford football program as its general manager at the end of last year, and he put his stamp on the program in March when he fired head coach Troy Taylor and replaced him \u2026 [+1233 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": null,
+        "title": "North Korean leader Kim Jong Un supervises test of new antiair missiles - AP News",
+        "description": "North Korean leader Kim Jong Un has supervised the test-firing of two types of new antiair missiles displaying his expanding military capabilities as the South Korean and U.S. militaries carry out joint drills. State media says the test proved the effectivene\u2026",
+        "url": "https://apnews.com/article/north-korea-kim-jong-un-antiair-missile-4f189845f7564d0a3779fcef8a19f6f5",
+        "urlToImage": "https://dims.apnews.com/dims4/default/20c2068/2147483647/strip/true/crop/2160x1215+0+99/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3b%2Fc4%2F7228e6c075b1b8d661c46bdd55f9%2F9e280949d04d415b8e5f7740255e9408",
+        "publishedAt": "2025-08-24T05:11:00Z",
+        "content": "SEOUL, South Korea (AP) North Korean leader Kim Jong Un supervised the test-firing of two types of new antiair missiles, state media said Sunday, displaying his expanding military capabilities as the\u2026 [+2489 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Suntimes.com"
+        },
+        "author": "Georgia Nicols",
+        "title": "Horoscope for Sunday, August 24, 2025 - Chicago Sun-Times",
+        "description": null,
+        "url": "https://chicago.suntimes.com/horoscopes/2025/08/24/horoscopes-today-sunday-august-24-2025",
+        "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+        "publishedAt": "2025-08-24T05:01:00Z",
+        "content": "Moon alert\r\nThere are no restrictions to shopping or important decisions today.\r\nAries (March 21-April 19)\r\nSomething unexpected today might impact your job or your attitude to your work. You might f\u2026 [+4009 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Sports Illustrated"
+        },
+        "author": "Grant Cohn",
+        "title": "49ers' Biggest Risers & Fallers from Preseason Win Over Chargers - Sports Illustrated",
+        "description": "The 49ers just beat the Los Angeles Chargers 30-23 in their preseason finale. Here are the players who stood out.",
+        "url": "https://www.si.com/nfl/49ers/news/49ers-biggest-risers-fallers-from-preseason-win-over-chargers",
+        "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_8192,h_4608,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_49ers/01k3d4ex8hbmkwp1wbd4.jpg",
+        "publishedAt": "2025-08-24T04:17:27Z",
+        "content": "SANTA CLARA -- The 49ers just beat the Los Angeles Chargers 30-23 in their preseason finale. Here are the players who stood out.\r\nKeep in mind, Brian Robinson Jr. did not play in this game because th\u2026 [+5117 chars]"
     },
     {
         "source": {
@@ -28,19 +93,6 @@
     {
         "source": {
             "id": null,
-            "name": "NBCSports.com"
-        },
-        "author": "Nate Ryan",
-        "title": "What drivers said at Daytona after victory by Ryan Blaney - NBC Sports",
-        "description": "Team Penske driver wins from the pole on the final lap as crashes eliminate several playoff hopefuls.",
-        "url": "https://www.nbcsports.com/nascar/news/what-drivers-said-at-daytona-after-victory-by-ryan-blaney",
-        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/13c3e6b/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F364%2F727%2Fnbc_nas_bowmanintrv_250823.jpg",
-        "publishedAt": "2025-08-24T03:19:35Z",
-        "content": "Ryan Blaney winner: What a wild last couple of laps. I was with Cole (Custer). I kind of asked him on the restart, if you go to the top Im going with you. We kind of just waited and waited and then t\u2026 [+12240 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "CBS Sports"
         },
         "author": "Cody Benjamin",
@@ -50,19 +102,6 @@
         "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/08/23/5b8cbd62-bd85-43d9-9f54-baafd986d7ca/thumbnail/1200x675/22edd83df3d4117850bab7ff1f31be83/usatsi-26912083-shedeur-sanders-browns-qb-2025-preseason-pregame-1400.jpg",
         "publishedAt": "2025-08-24T02:12:18Z",
         "content": "The clock is about to strike midnight on the 2025 NFL preseason. After exhibitions on Thursday, Friday and Saturday, teams put the final touches on the summer before the regular season, and players o\u2026 [+6393 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Extra"
-        },
-        "author": "Extra Staff",
-        "title": "Jerry Adler, Late-Blooming Actor of 'Sopranos' Fame, Dies at 96 - extratv.com",
-        "description": "Jerry Adler, the longtime theater director and late-in-life actor who memorably played Hesh on \"The Sopranos,\" died Saturday at 96.",
-        "url": "https://extratv.com/2025/08/23/jerry-adler-veteran-actor-of-sopranos-fame-dies-at-96/",
-        "urlToImage": "https://extra-images.akamaized.net/image/35/16by9/2025/08/24/35c4aef1a58340f8ad4d2215753ea2de_xl.jpg",
-        "publishedAt": "2025-08-24T01:56:28Z",
-        "content": "Jerry Adler, the longtime theater director and late-in-life actor who memorably played Hesh on \"The Sopranos,\" died Saturday at 96.\r\nHis friend Frank J. Reilly confirmed his death on X Saturday, writ\u2026 [+1862 chars]"
     },
     {
         "source": {
@@ -79,16 +118,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
+            "id": "nbc-news",
+            "name": "NBC News"
         },
-        "author": "Jack Baer",
-        "title": "Shilo Sanders ejected from Buccaneers' preseason finale for taking a swing at Bills TE - Yahoo Sports",
-        "description": "Shilo Sanders' preseason ended in a way you never want to see from a rookie fighting for a roster spot.",
-        "url": "https://sports.yahoo.com/nfl/breaking-news/article/shilo-sanders-ejected-from-buccaneers-preseason-finale-for-taking-a-swing-at-bills-te-004650447.html",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZkPPXihE0PeYZpjQQmOurw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-08/a5664720-8083-11f0-99f9-9e1d99e9c52b",
-        "publishedAt": "2025-08-24T01:09:00Z",
-        "content": "Shilo Sanders' preseason ended in a way you never want to see from a rookie fighting for a roster spot.\r\nThe Tampa Bay Buccaneers safety was ejected from their preseason finale against Buffalo on Sat\u2026 [+2837 chars]"
+        "author": "The Associated Press",
+        "title": "Rocco Becht stars as Iowa State beats Kansas State in Ireland - NBC News",
+        "description": "Rocco Becht passed for two touchdowns and ran for another score, helping No. 22 Iowa State beat No. 17 Kansas State 24-21 in the Aer Lingus Classic on Saturday.",
+        "url": "https://www.nbcnews.com/sports/college-football/rocco-becht-stars-iowa-state-beats-kansas-state-ireland-rcna226810",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/25823-rocco-becht-rc-941p-dbd412.jpg",
+        "publishedAt": "2025-08-24T01:47:00Z",
+        "content": "DUBLIN Rocco Becht passed for two touchdowns and ran for another score, helping No. 22 Iowa State beat No. 17 Kansas State 24-21 in the Aer Lingus Classic on Saturday.\r\nBecht was 14 for 28 for 183 ya\u2026 [+3328 chars]"
     },
     {
         "source": {
@@ -144,29 +183,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "BBC News"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
         "author": null,
-        "title": "North Korean leader oversees new missile test, state media says - BBC",
-        "description": "Two new air defence missiles with \"superior combat capability\" have been fired in a test observed by Kim Jong Un.",
-        "url": "https://www.bbc.com/news/articles/cj3lp47nxdjo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/048c/live/11cef040-807c-11f0-9c84-8f69c101453a.jpg",
-        "publishedAt": "2025-08-23T23:51:33Z",
-        "content": "North Korean state media has said two new air defence missiles have been fired in a test overseen by the country's leader Kim Jong Un.\r\nThe weapons had \"superior combat capability\" and used a \"unique\u2026 [+2457 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gothamist"
-        },
-        "author": "https://gothamist.com/staff/stephen-nessen",
-        "title": "Columbia student, NJ residents among those killed in upstate NY bus crash - Gothamist",
-        "description": "Police said the driver, 55-year-old Bin Shao of Flushing, Queens, had no signs of impairment.",
-        "url": "https://gothamist.com/news/columbia-student-nj-residents-among-those-killed-in-upstate-ny-bus-crash",
-        "urlToImage": "https://api-prod.gothamist.com/images/352978/fill-1200x650|format-webp|webpquality-85/",
-        "publishedAt": "2025-08-23T23:04:00Z",
-        "content": "Federal safety investigators are examining the wreckage of a charter bus headed from Niagara Falls to New York City that veered off the road and crashed Friday afternoon, killing five people and inju\u2026 [+2274 chars]"
+        "title": "Gov. DeSantis' administration lacks authority to operate \"Alligator Alcatraz,\" lawsuit alleges - CBS News",
+        "description": "The lawsuit is the third major legal challenge to the detention center.",
+        "url": "https://www.cbsnews.com/miami/news/alligator-alcatraz-lawsuit-florida-state-desantis-authority/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/22/98adca0a-8038-4d88-8572-90cd4ddd2494/thumbnail/1200x630/d4220c39e4d8d101ff517eac9eba59a3/cbsmiami-desantis-alligator-alcatraz-appeal-1.jpg",
+        "publishedAt": "2025-08-23T22:59:23Z",
+        "content": "Calling it \"exactly the kind of disaster that Congress took pains to avoid,\" attorneys for immigrants held at a detention center in the Everglades filed a lawsuit alleging Gov. Ron DeSantis' administ\u2026 [+6119 chars]"
     },
     {
         "source": {
@@ -184,28 +210,15 @@
     {
         "source": {
             "id": null,
-            "name": "SFGate"
+            "name": "Fox Business"
         },
-        "author": "Sam Mauhay-Moore",
-        "title": "Wildfires spark across California as state is hit by heat wave, lightning storms - SFGATE",
-        "description": "A wave of lightning and thunderstorms is expected to fuel more fires throughout the state.",
-        "url": "https://www.sfgate.com/california-wildfires/article/california-wildfires-heat-wave-20947096.php",
-        "urlToImage": "https://s.hdnux.com/photos/01/54/27/14/28406572/6/rawImage.jpg",
-        "publishedAt": "2025-08-23T22:41:39Z",
-        "content": "The Pickett Fire has burned 4,690 acres in Napa County, California, as of Saturday, Aug. 23, 2025.\r\nCal Fire\r\nWildfires have cropped up in different regions across California over the past\u00a0several da\u2026 [+3589 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NPR"
-        },
-        "author": "",
-        "title": "Boxed in by shifting tariff rules, European shippers pause some U.S.-bound parcels - NPR",
-        "description": "New customs regulations take effect August 29, and many European postal agencies and companies say until new systems are set up they can't ship some goods. Gifts worth less than $100 are not affected.",
-        "url": "https://www.npr.org/2025/08/23/nx-s1-5513936/dhl-parcel-tariffs",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6240x3510+0+325/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F77%2F77%2F5b76a1924f619fff37b6da52c2df%2Fgettyimages-2189003959.jpg",
-        "publishedAt": "2025-08-23T22:21:20Z",
-        "content": "Many European parcel companies including DHL, the Royal Mail, and the French and Spanish national post offices are temporarily suspending some shipments to the U.S., citing new U.S. tariff policies t\u2026 [+3371 chars]"
+        "author": "Brie Stimson",
+        "title": "European, Asian postal services to halt shipments to US after end of de minimis tariff exemption - Fox Business",
+        "description": "Postal services across Europe and Asia have paused U.S. deliveries ahead of new Trump administration tariff rules taking effect next Friday, Aug. 29.",
+        "url": "https://www.foxbusiness.com/economy/european-asian-postal-services-halt-shipments-us-end-tariff-exemption",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/08/0/0/dhl-building.jpg?ve=1&tl=1",
+        "publishedAt": "2025-08-23T22:15:00Z",
+        "content": "Postal services in Europe and around the world plan to halt shipping merchandise to the U.S. as the Trump administration\u2019s end of the de minimus tariff exemption goes into effect.\u00a0\r\nThe \"de minimus\" \u2026 [+3517 chars]"
     },
     {
         "source": {
