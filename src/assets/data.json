@@ -1,6 +1,45 @@
 [
     {
         "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "William  Harwood",
+        "title": "SpaceX launches giant Super Heavy-Starship rocket on critical test flight - CBS News",
+        "description": "SpaceX launched its huge Super Heavy-Starship on Tuesday, chalking up what appeared to be a remarkably successful test flight in the wake of three back-to-back failures\u200b earlier this year.",
+        "url": "https://www.cbsnews.com/news/spacex-launches-super-heavy-starship-critical-10th-test-flight/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/27/2c9afa9a-3146-44d3-aff5-f2889901210b/thumbnail/1200x630/d9151e0e7de8f19ebdeea23b6f065297/2025-08-27t000302z-2130037024-rc2cfgat3eoj-rtrmadp-3-spacex-starship.jpg",
+        "publishedAt": "2025-08-27T02:13:55Z",
+        "content": "Running two days late, SpaceX launched its huge Super Heavy-Starship on Tuesday, chalking up what appeared to be a remarkably successful test flight in the wake of three back-to-back failures earlier\u2026 [+8816 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Andrew Ackerman, Emily Davies, Liz Goodwin",
+        "title": "Trump\u2019s move to take over the Fed adds more uncertainty to the economy - The Washington Post",
+        "description": "By seeking to remove Fed governor Lisa Cook, Trump has taken his boldest step to bring the independent central bank under his control, with consequences for the economy.",
+        "url": "https://www.washingtonpost.com/politics/2025/08/26/trump-fed-control-lisa-cook-economy/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RUGLRTKULZB6XPESJMXXJVLTDI.jpeg&w=1440",
+        "publishedAt": "2025-08-27T02:07:23Z",
+        "content": "President Donald Trumps bid to oust Federal Reserve governor Lisa Cook marks his boldest move yet to assert more control over the independent central bank. But undermining the banks autonomy, experts\u2026 [+85 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Brianna Sacks",
+        "title": "FEMA employees put on leave after criticizing Trump administration in open letter - The Washington Post",
+        "description": "About 180 current and former FEMA staffers sent a letter on Monday to members of Congress and other officials protesting the agency\u2019s leadership and direction.",
+        "url": "https://www.washingtonpost.com/climate-environment/2025/08/26/fema-employees-leave-trump-administration-letter/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YQ5AO4AO2DWKHRVWF7Z2CZCHGU_size-normalized.jpg&w=1440",
+        "publishedAt": "2025-08-27T01:59:07Z",
+        "content": "The Trump administration placed some Federal Emergency Management Agency employees on leave Tuesday after they signed an open letter of dissent about the agencys leadership, according to documents re\u2026 [+29 chars]"
+    },
+    {
+        "source": {
             "id": "politico",
             "name": "Politico"
         },
@@ -27,29 +66,16 @@
     },
     {
         "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Josh Gerstein, Kyle Cheney",
-        "title": "Justice Department asks Supreme Court to allow Trump to withhold foreign aid - Politico",
-        "description": "The solicitor general argues that only Congress has the authority to challenge impoundment of federal money.",
-        "url": "https://www.politico.com/news/2025/08/26/justice-department-supreme-court-foreign-aid-00527929",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F43%2F2a%2F31bbbcaf4b1a935bdd43385dced0%2Fsupreme-court-69107.jpg",
-        "publishedAt": "2025-08-27T00:55:20Z",
-        "content": "Congress did not upset the delicate interbranch balance by allowing for unlimited, unconstrained private suits, Sauer wrote. Any lingering dispute about the proper disposition of funds that the Presi\u2026 [+2685 chars]"
-    },
-    {
-        "source": {
             "id": null,
-            "name": "NBCSports.com"
+            "name": "CBS Sports"
         },
-        "author": "Mike Florio",
-        "title": "Brian Schottenheimer wants Micah Parsons to prepare for season \"as soon as possible\" - NBC Sports",
-        "description": "The clock is ticking, more and more loudly.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-schottenheimer-wants-micah-parsons-to-prepare-for-season-as-soon-as-possible",
-        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/63afea4/2147483647/strip/true/crop/7233x4069+0+377/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F31%2Fcf%2F0220f1b54d839081df6d73fe1a14%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D26870342",
-        "publishedAt": "2025-08-27T00:46:41Z",
-        "content": "In nine days, the Cowboys face the Eagles in the first game of the 2025 regular season. It remains to be seen whether linebacker Micah Parsons will play.\r\nTo have any chance to be ready to go, he nee\u2026 [+1566 chars]"
+        "author": null,
+        "title": "Seattle Storm vs. Indiana Fever Live Score and Stats - August 26, 2025 Gametracker - CBS Sports",
+        "description": "gametracker.wnba.meta_description",
+        "url": "https://www.cbssports.com/wnba/gametracker/recap/WNBA_20250826_SEA@IND/",
+        "urlToImage": "https://sportsfly.cbsistatic.com/fly-149/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
+        "publishedAt": "2025-08-27T01:08:24Z",
+        "content": "INDIANAPOLIS (AP) Aliyah Boston had 27 points and nine rebounds, Odyssey Sims scored 22 points and the Indiana Fever beat the Seattle Storm 95-75 on Tuesday night to finish a sweep of the three-game \u2026 [+1351 chars]"
     },
     {
         "source": {
@@ -66,42 +92,42 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "HuffPost"
+            "id": "abc-news",
+            "name": "ABC News"
         },
-        "author": "Kelby Vera",
-        "title": "Bruce Willis' Wife Shares Gut-Wrenching Update About His Life With Dementia - HuffPost",
-        "description": "The action star was forced to retire after frontotemporal dementia severely limited his ability to speak and process language.",
-        "url": "https://www.huffpost.com/entry/bruce-willis-wife-dementia-health-update_n_68ae2f55e4b0ba4856d38c27",
-        "urlToImage": "https://img.huffingtonpost.com/asset/68ae36f2170000e31263f2c2.jpeg?cache=HQhwRlBsFR&ops=1200_630",
-        "publishedAt": "2025-08-26T23:51:49Z",
-        "content": "Bruce Willis wife says the actors brain is failing him three years after he retired from acting due to frontotemporal dementia.\r\nEmma Heming Willis is set to talk about her experience caring for the \u2026 [+3098 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Associated Press",
-        "title": "A kayaker faked his own death to meet a woman overseas. He\u2019ll now spend 3 months in jail - CNN",
-        "description": "A Wisconsin man who faked his own drowning while kayaking and left his wife and three children to meet a woman in the country of Georgia was convicted Tuesday of obstructing an officer and sentenced to 89 days in jail \u2013 the amount of time he successfully misl\u2026",
-        "url": "https://www.cnn.com/2025/08/26/us/wisconsin-missing-kayaker",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24346725099078.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-08-26T23:41:00Z",
-        "content": "A Wisconsin man who faked his own drowning while kayaking and left his wife and three children to meet a woman in the country of Georgia was convicted Tuesday of obstructing an officer and sentenced \u2026 [+3574 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "The Wall Street Journal",
-        "title": "\u2018Uncharted Waters\u2019: Trump\u2019s Attempt to Take Charge of the Fed - The Wall Street Journal",
+        "author": "ABC News",
+        "title": "Man who faked death, fled US gets 89 days in jail for the 89 days he was missing - ABC News",
         "description": null,
-        "url": "https://www.wsj.com/economy/central-banking/uncharted-waters-trumps-attempt-to-take-charge-of-the-fed-a2548461",
+        "url": "https://abcnews.go.com/US/man-faked-death-fled-us-gets-89-days/story?id\\\\u003d124986360",
         "urlToImage": null,
-        "publishedAt": "2025-08-26T22:42:00Z",
+        "publishedAt": "2025-08-26T23:48:45Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Donald Trump: PM Modi says make and spend in India as 50% tariffs kick in - BBC",
+        "description": "The US president's steep 50% tariffs on India have kicked in, sending Narendra Modi's government into firefighting mode.",
+        "url": "https://www.bbc.com/news/articles/c5ykznn158qo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3e40/live/5f28ff50-81c8-11f0-b1b7-d5227004453f.jpg",
+        "publishedAt": "2025-08-26T23:37:22Z",
+        "content": "Modi has urged small shop owners and businesses to put up \"Made in India\" boards outside their stores\r\nDonald Trump's steep 50% tariffs on India have kicked in, weeks after the US president issued an\u2026 [+6296 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NBCSports.com"
+        },
+        "author": "Josh Alper",
+        "title": "Robbie Chosen released, Brandon Aiyuk to PUP as 49ers reach 53 players - NBC Sports",
+        "description": "The 49ers made a number of moves involving wide receivers on their way to the 53-man roster limit on Tuesday.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/robbie-chosen-released-brandon-aiyuk-to-pup-as-49ers-reach-53-players",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/bbd5edb/2147483647/strip/true/crop/4506x2535+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F05%2Fb1%2F51e186644cb39dd8385fd3004335%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2230851178",
+        "publishedAt": "2025-08-26T23:15:00Z",
+        "content": "The 49ers made a number of moves involving wide receivers on their way to the 53-man roster limit on Tuesday. \r\nAs expected, they moved Brandon Aiyuk to the reserve version of the physically unable t\u2026 [+1484 chars]"
     },
     {
         "source": {
@@ -128,45 +154,6 @@
         "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250310-elon-musk-vl-1142a-5aceac.jpg",
         "publishedAt": "2025-08-26T22:02:45Z",
         "content": "The Department of Government Efficiency put the personal data of millions of Americans, including Social Security numbers, on a vulnerable server in June, according to a new whistleblower complaint.\r\u2026 [+4219 chars]"
-    },
-    {
-        "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Andrew Greif",
-        "title": "Shedeur Sanders will have to wait to play for the Browns this season - NBC News",
-        "description": "Few teams carried more scrutiny \u2014 but lower expectations \u2014 entering training camp this summer ahead of the NFL season than Cleveland",
-        "url": "https://www.nbcnews.com/sports/nfl/shedeur-sanders-browns-rcna227361",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250826-Shedeur-Sanders-ch-1654-61147b.jpg",
-        "publishedAt": "2025-08-26T21:55:20Z",
-        "content": "Few teams carried more scrutiny but lower expectations entering training camp this summer ahead of the NFL season than Cleveland.\r\nComing off last season's 3-14 record, the Browns were projected for \u2026 [+3161 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Taylor Swift and Travis Kelce engaged - BBC",
-        "description": "Superstar pop singer announces on Instagram that she will marry her NFL star partner.",
-        "url": "https://www.bbc.com/news/articles/c707grqqdnwo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0860/live/95c481a0-82aa-11f0-83cc-c5da98c419b8.jpg",
-        "publishedAt": "2025-08-26T21:38:29Z",
-        "content": "Pop superstar Taylor Swift has announced she is engaged to her partner Travis Kelce.\r\nIn a post on Instagram on Tuesday, Swift wrote: \"Your English teacher and your gym teacher are getting married.\"\r\u2026 [+5033 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "AFP",
-        "title": "French political turmoil sends European stocks down, Wall Street edges up - Yahoo Finance",
-        "description": "European stock markets and shares in French banks fell Tuesday as investors fretted over fresh political turmoil in France.Shares in French banks sank, with ...",
-        "url": "https://finance.yahoo.com/news/asian-stocks-down-trump-fed-025501866.html",
-        "urlToImage": "https://media.zenfs.com/en/afp.com/980aa76d22d29de2382c7beaa29db26a",
-        "publishedAt": "2025-08-26T20:29:57Z",
-        "content": "Francois Bayrou proposed a confidence vote to break an impasse over his proposed budget cuts (Thibaud MORITZ)\r\nEuropean stock markets and shares in French banks fell Tuesday as investors fretted over\u2026 [+3715 chars]"
     },
     {
         "source": {
@@ -222,15 +209,28 @@
     },
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
+            "id": null,
+            "name": "BBC News"
         },
-        "author": "Lea Skene, Sudhin Thanawala",
-        "title": "Court tosses lawsuit by Trump against Maryland federal judges, calling it 'potentially calamitous' - AP News",
-        "description": "The White House says a judge's decision to throw out the Trump administration's lawsuit against all federal judges in Maryland is a direct assault on the president\u2019s ability to enforce immigration laws. White House spokesperson Abigail Jackson says Tuesday's \u2026",
-        "url": "https://apnews.com/article/trump-lawsuit-maryland-judges-dc9c203cfc4ca37814179d2b220e361f",
-        "urlToImage": "https://dims.apnews.com/dims4/default/49a5ccc/2147483647/strip/true/crop/2993x1684+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa4%2Ff1%2F8310e8d3d0a240d217b5a1753feb%2F8304a6f4f3cd4807898983dda01003a8",
-        "publishedAt": "2025-08-26T17:54:00Z",
-        "content": "BALTIMORE (AP) A federal judge on Tuesday threw out the Trump administrations lawsuit against Marylands entire federal bench in an emphatic ruling that underscored the extraordinary nature of the sui\u2026 [+5659 chars]"
+        "author": null,
+        "title": "Teen avoids jail over plot to attack Taylor Swift Vienna concert - BBC",
+        "description": "Mohamed A will serve an 18-month suspended sentence after sending bomb-making instructions.",
+        "url": "https://www.bbc.com/news/articles/crlz72l66pro",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d58d/live/ed9d9f70-829a-11f0-bda8-213e434b329e.jpg",
+        "publishedAt": "2025-08-26T17:39:09Z",
+        "content": "A 16-year-old who helped to prepare a foiled attack on a Taylor Swift concert in Vienna last year has avoided prison. \r\nMohamed A was given an 18-month suspended sentence under juvenile criminal law \u2026 [+1594 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investopedia"
+        },
+        "author": "Colin Laidley",
+        "title": "After Months of Calm, Nvidia Earnings Could Spark a Big Stock Market Move - Investopedia",
+        "description": "All eyes are on Nvidia heading into the AI chip giant's second-quarter earnings report, due after markets close on Wednesday.",
+        "url": "https://www.investopedia.com/after-months-of-calm-nvidia-earnings-could-spark-a-big-stock-market-move-11797843",
+        "urlToImage": "https://www.investopedia.com/thmb/JeFHzfZsHjJy_uBhVNlxP08cTsg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2231344336-7896931d52c04abfb99345f52496e52f.jpg",
+        "publishedAt": "2025-08-26T17:38:21Z",
+        "content": "<ul><li>Nvidia, which accounts for about 8% of the S&amp;P 500, is expected to move markets when it reports quarterly results after the close on Wednesday. </li><li>Nvidia's dominance within the AI c\u2026 [+4278 chars]"
     }
 ]
