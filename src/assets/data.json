@@ -2,28 +2,41 @@
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "Yahoo Entertainment"
         },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "Afghanistan: Helicopter teams lead rescue after earthquake kills more than 800 - follow live - BBC",
-        "description": "A handful of countries have already responded to the Taliban's aid appeal, including the UK which has set out \u00a31m in relief funding.",
-        "url": "https://www.bbc.com/news/live/cd7y7d1248zt",
-        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a6a/live/db83ecf0-87b2-11f0-9cf6-cbf3e73ce2b9.jpg",
-        "publishedAt": "2025-09-02T04:41:15Z",
-        "content": "Some families affected by the earthquake had just recently been deported from Pakistan, according to local news outlet Tolo News. \r\nMohammad Aslam, who lives in Ghaziabad village in Kunar, said he'd \u2026 [+985 chars]"
+        "author": "Yahoo Sports Staff",
+        "title": "TCU vs. North Carolina: Bill Belichick, UNC blown out by Horned Frogs in season opener - Yahoo Sports",
+        "description": "After a weekend full of surprises, Bill Belichick's team failed to show up for a Monday night clash against TCU.",
+        "url": "https://sports.yahoo.com/college-football/breaking-news/live/tcu-vs-north-carolina-bill-belichick-unc-blown-out-by-horned-frogs-in-season-opener-230328006.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/wpEcGg7PlOfHQn_log..kA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/a357fe30-87a2-11f0-bcfe-7e2cb0f71b87",
+        "publishedAt": "2025-09-02T04:53:00Z",
+        "content": "The Bill Belichick honeymoon at North Carolina lasted exactly one possession.\r\nTCU scored 41 unanswered points on the way to a 48-14 win over North Carolina in Belichicks first game as head coach. Th\u2026 [+867 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "NBCSports.com"
+            "id": "abc-news",
+            "name": "ABC News"
         },
-        "author": "Mike Florio",
-        "title": "After hot start, Belichick\u2019s Tar Heels struggle - NBC Sports",
-        "description": "Things started hot for the Tar Heels.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-hot-start-belichicks-tar-heels-struggle",
-        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/293391d/2147483647/strip/true/crop/4913x2764+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe5%2F60%2Fa58f5881433292e650edabc940ab%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2233264934",
-        "publishedAt": "2025-09-02T01:52:35Z",
-        "content": "Things started hot for the Tar Heels. It then cooled off, quickly.\r\nAfter taking a 7-0 lead on an opening-drive touchdown during which TCU couldnt stop the UNC offense, North Carolina has become bord\u2026 [+634 chars]"
+        "author": "ABC News",
+        "title": "Powerball jackpot reaches $1.3 billion after Labor Day drawing sees no winner - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/US/powerball-jackpot-reaches-11-billion-labor-day-drawing/story?id\\\\u003d125155756",
+        "urlToImage": null,
+        "publishedAt": "2025-09-02T03:15:59Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Ken Moritsugu",
+        "title": "China\u2019s military parade is a show of strength from a country devastated in World War II - AP News",
+        "description": "Yang Huafeng, a 92-year-old Chinese army veteran, recalls the modest military presence at the founding of communist China in 1949. On Wednesday, the country marks the 80th anniversary of the end of World War II with a grand parade. The event highlights China'\u2026",
+        "url": "https://apnews.com/article/china-military-parade-world-war-ii-anniversary-c0fe1cbaec4be19acf83d76ec5a557d3",
+        "urlToImage": "https://dims.apnews.com/dims4/default/9ab9283/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcb%2Fc7%2F4a7b25c1833386b209b36117eebb%2F2f2c9e0a1f5d42c9869d905245bae226",
+        "publishedAt": "2025-09-02T01:28:00Z",
+        "content": "SHENYANG, China (AP) Yang Huafeng, a 92-year-old Chinese army veteran, remembers the troops on horseback and the handful of planes that marked the founding of communist China in 1949.\r\nIt was a far c\u2026 [+7673 chars]"
     },
     {
         "source": {
@@ -66,29 +79,16 @@
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": null,
+            "name": "Eonline.com"
         },
-        "author": "Kelly Tyko",
-        "title": "Labor Day Powerball drawing: Numbers drawn for $1.1 billion lottery drawing - Axios",
-        "description": "The Labor Day lottery drawing has the fifth-largest Powerball prize at $1.1 billion with a cash option of nearly $500 million before taxes.",
-        "url": "https://www.axios.com/2025/09/02/powerball-drawing-time-labor-day-lottery",
-        "urlToImage": "https://images.axios.com/v5leluNEkxCoOVTW1iQE5lpiZz8=/0x567:5441x3628/1366x768/2025/09/01/1756751900150.jpeg",
-        "publishedAt": "2025-09-02T00:00:47Z",
-        "content": "State of play: Monday's Powerball drawing is the 40th drawing since the jackpot was last won in California on May 31.\r\n<ul><li>The longest Powerball jackpot run was 42 consecutive drawings, which was\u2026 [+2582 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Reuters",
-        "title": "Over 1,000 killed in landslide in western Sudan village, army says - CNN",
-        "description": "At least 1,000 were killed in a landslide that destroyed a village in the Marra Mountains area of western Sudan, leaving only one survivor, The Sudan Liberation Movement/Army said on Monday.",
-        "url": "https://www.cnn.com/2025/09/01/africa/western-sudan-landslide-marra-mountains-latam-intl",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2025-09-01-at-8-04-49-pm.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-09-01T23:57:00Z",
-        "content": "At least 1,000 people were killed in a landslide that destroyed a village in the Marra Mountains area of western Sudan, leaving only one survivor, the Sudan Liberation Movement/Army said on Monday.\r\n\u2026 [+872 chars]"
+        "author": "Will Reid",
+        "title": "Taylor Swift's Engagement Ring Designer on Fan Reaction to Diamond - yahoo.com",
+        "description": "Taylor Swift\u2019s engagement ring designer Kindred Lubeck shared an uplifting message after the singer announced her engagement to NFL star Travis Kelce.",
+        "url": "https://www.eonline.com/news/1421875/taylor-swift-engagement-ring-designer-on-reaction-to-diamond?cmpid=sn-syndicate-aolfeed-us-",
+        "urlToImage": "https://media.zenfs.com/en/e__181/bb58fc0eccb00a8a971d2c072f99f5e2",
+        "publishedAt": "2025-09-02T00:02:00Z",
+        "content": "Originally appeared on E! Online\r\nTaylor Swifts engagement ring designer is sharing an inspiring message.\r\nDays after the Bejeweled singer announced that she and Travis Kelce are set to exchange vows\u2026 [+7283 chars]"
     },
     {
         "source": {
@@ -105,16 +105,16 @@
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": null,
+            "name": "Rolling Stone"
         },
-        "author": "Gaya Gupta",
-        "title": "Nationwide Labor Day protests denounce billionaires in Trump\u2019s orbit - The Washington Post",
-        "description": "The \u201cWorkers over Billionaires\u201d event, backed by AFL-CIO and others, focused on issues like Medicaid and Social Security cuts.",
-        "url": "https://www.washingtonpost.com/nation/2025/09/01/nationwide-labor-day-protests-denounce-billionaires-trumps-orbit/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OWSKLVSWQWHU4TSF5FAXTCICYU_size-normalized.jpg&w=1440",
-        "publishedAt": "2025-09-01T23:13:13Z",
-        "content": "Crowds gathered in cities like Chicago, San Diegoand D.C. on Labor Day to denounce what they see as the undue influence of Americas business tycoons and corporations overthe second Trump administrati\u2026 [+2 chars]"
+        "author": "Jeff Ihaza",
+        "title": "Burning Man Homicide: Police Seek Help Identifying Victim - Rolling Stone",
+        "description": "The Pershing County Sheriff's Office is looking to identify a \"white male adult\" between the ages of 35 and 40",
+        "url": "http://www.rollingstone.com/culture/culture-news/burning-man-homicide-victim-police-seek-help-identifying-1235419729/",
+        "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/08/BurningManDeath-1.jpg?w=1600&h=900&crop=1",
+        "publishedAt": "2025-09-01T22:51:20Z",
+        "content": "Police are seeking help identifying the victim in what is being investigated as a homicide during this year\u2019s Burning Man Festival held in the Nevada Desert. The victim was discovered on Saturday, Au\u2026 [+2711 chars]"
     },
     {
         "source": {
@@ -128,6 +128,19 @@
         "urlToImage": "https://images.axios.com/SUOUcdUtNJlmrLcc8EMK2nHCayM=/934x491:7127x3975/1366x768/2025/09/01/1756763878242.jpeg",
         "publishedAt": "2025-09-01T22:46:31Z",
         "content": "<ul><li>He was released on Monday afternoon, per the New York Times.</li></ul>Driving the news: Trump called Giuliani \"the greatest Mayor in the history of New York City, and an equally great America\u2026 [+1490 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NBCSports.com"
+        },
+        "author": "Vaughn Dalzell",
+        "title": "2025 College Football Rankings Week 2 Top 25 Poll: New No. 1! OSU, LSU, Miami winners; FSU IN, K-State OUT - NBC Sports",
+        "description": "Vaughn Dalzell breaks down his Week 2 Top 25 Poll after the disastrous Week 1 that was, plus his biggest winner, loser, and bold predictions for Week 3.",
+        "url": "https://www.nbcsports.com/college-football/news/2025-college-football-week-2-top-25-poll-new-no-1-ohio-state-lsu-miami-big-winners-fsu-in-k-state-out",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/afe9b6e/2147483647/strip/true/crop/3711x2087+0+193/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2F2c%2F60680f774b9795e0034c2708146f%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2232897660",
+        "publishedAt": "2025-09-01T22:41:15Z",
+        "content": "The Week 2 Top Poll was extremely amusing, enjoyable, diabolical, whatever you want to call it! I loved it!\r\nTexas, Clemson, Notre Dame, and Alabama all went down swinging in Week 1, which caused ple\u2026 [+2469 chars]"
     },
     {
         "source": {
@@ -184,19 +197,6 @@
     {
         "source": {
             "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Yahoo Sports Staff",
-        "title": "College football scores, results: Miami tops Notre Dame in last-minute thriller - Yahoo Sports",
-        "description": "After a drama-filled Saturday, college football's opening weekend rolls on with more action Sunday.",
-        "url": "https://sports.yahoo.com/college-football/breaking-news/live/college-football-scores-results-miami-tops-notre-dame-in-last-minute-thriller-181650451.html",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/eUnQsBOP.8Yhi8v8y3OHRA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/7038a750-86e1-11f0-b3bf-aa56b0adffad",
-        "publishedAt": "2025-09-01T20:48:48Z",
-        "content": "After a drama-filled Saturday, college football's opening weekend kept right on rolling with more intrigue on Sunday.\r\nNo. 13 South Carolina and Virginia Tech got things started in another SEC vs. AC\u2026 [+780 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Hollywood Reporter"
         },
         "author": "Chris Gardner",
@@ -209,15 +209,28 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "9to5google.com"
+            "id": "axios",
+            "name": "Axios"
         },
-        "author": "Ben Schoon",
-        "title": "Samsung just added these Galaxy phones to the One UI 8 beta ahead of stable rollout - 9to5Google",
-        "description": "Samsung\u2019s stable One UI 8 rollout with Android 16 should be starting any day now and, ahead of that, a...",
-        "url": "http://9to5google.com/2025/09/01/samsung-just-added-these-galaxy-phones-to-the-one-ui-8-beta-ahead-of-stable-rollout/",
-        "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/02/samsung-galaxy-s23-ultra-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "publishedAt": "2025-09-01T20:15:00Z",
-        "content": "Samsung\u2019s stable One UI 8 rollout with Android 16 should be starting any day now and, ahead of that, a bunch of new Galaxy phones have been updated to gain access to the beta program or get a revised\u2026 [+976 chars]"
+        "author": "Dave Lawler",
+        "title": "Modi joins hands with Xi and Putin in message to Trump - Axios",
+        "description": "The image of all three leaders literally holding hands is, at the very least, a symbolic blow to Trump.",
+        "url": "https://www.axios.com/2025/09/01/trump-modi-xi-putin-hold-hands-tariffs",
+        "urlToImage": "https://images.axios.com/P-FrngsByeh6tYAyN1lj1AppnRY=/0x13:1880x1071/1366x768/2025/09/01/1756749453196.jpeg",
+        "publishedAt": "2025-09-01T20:12:32Z",
+        "content": "Facing tariffs and insults from President Trump, Indian Prime Minister Narendra Modi had a far friendlier interaction on Monday with his Russian and Chinese counterparts during his first visit to Chi\u2026 [+2663 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Skylar Woodhouse",
+        "title": "Trump Weighs Declaring National Housing Emergency, Bessent Says - Bloomberg.com",
+        "description": "Treasury Secretary Scott Bessent said the Trump administration may declare a national housing emergency this fall as the White House looks to highlight key issues for midterm campaign voters.",
+        "url": "https://www.bloomberg.com/news/articles/2025-09-01/trump-weighs-declaring-national-housing-emergency-bessent-says",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieMLiVZ9oaVE/v1/1200x800.jpg",
+        "publishedAt": "2025-09-01T19:32:54Z",
+        "content": "Treasury Secretary Scott Bessent said the Trump administration may declare a national housing emergency this fall as the White House looks to highlight key issues for midterm campaign voters.\r\nWere t\u2026 [+220 chars]"
     }
 ]
