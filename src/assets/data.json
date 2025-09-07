@@ -1,19 +1,6 @@
 [
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Dana Munro, Erin Cox",
-        "title": "Maryland deploys more law enforcement to Baltimore amid Trump\u2019s threats to send troops - The Washington Post",
-        "description": "Maryland state troopers will be sent to state-owned routes within Baltimore city limits, allowing Baltimore police to patrol elsewhere as President Donald Trump threatens to send federal troops.",
-        "url": "https://www.washingtonpost.com/dc-md-va/2025/09/05/baltimore-trump-national-guard-troops/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KCWEREDVQKZCKDU4NCPZFDZ2DI_size-normalized.JPG&w=1440",
-        "publishedAt": "2025-09-06T03:51:47Z",
-        "content": "With President Donald Trumps threat to send National Guard troops into Baltimore in the air, Maryland leaders said Friday that they will pour more of their own resources to further bring down crime i\u2026 [+25 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "NBCSports.com"
         },
@@ -40,6 +27,32 @@
     },
     {
         "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "US Navy SEALs killed North Korean civilians during botched mission: Report - Al Jazeera",
+        "description": "US special forces killed several North Korean fishermen diving for shellfish after encountering them by accident.",
+        "url": "https://www.aljazeera.com/news/2025/9/6/us-navy-seals-killed-north-korean-civilians-during-botched-mission-report",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/2011-11-12T120000Z_669170028_GM1E7BD0HRD01_RTRMADP_3_SEALS-DEMONSTRATION-1757124983_b5f9ba-1757125759.jpg?resize=1200%2C630&quality=80",
+        "publishedAt": "2025-09-06T02:42:20Z",
+        "content": "United States Navy SEALs shot and killed several North Korean civilians during a botched mission in 2019 to plant a listening device in the nuclear-armed country, reportedly approved by US President \u2026 [+2236 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Kelly Tyko",
+        "title": "Powerball jumps to $1.8 billion for Saturday, near all-time record - Axios",
+        "description": "If nobody wins Powerball Saturday, Monday's drawing could set a new U.S. record for largest jackpot.",
+        "url": "https://www.axios.com/2025/09/05/powerball-drawing-saturday-second-largest-jackpot",
+        "urlToImage": "https://images.axios.com/EKtiBJLIef2Lt1tIvjK7ptQfEqg=/0x0:1600x900/1366x768/2025/09/05/1757091250676.png",
+        "publishedAt": "2025-09-06T02:13:23Z",
+        "content": "<ul><li>It's likely the jackpot will be higher for the Sept. 6 drawing, as ticket sales surge heading into the weekend. </li></ul>State of play: If nobody wins Saturday, Monday's drawing could set a \u2026 [+1628 chars]"
+    },
+    {
+        "source": {
             "id": "abc-news",
             "name": "ABC News"
         },
@@ -50,6 +63,19 @@
         "urlToImage": null,
         "publishedAt": "2025-09-06T02:12:30Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Howard Fendrich",
+        "title": "Carlos Alcaraz beats Novak Djokovic at the US Open to reach his 3rd Grand Slam final in a row - AP News",
+        "description": "Carlos Alcaraz has defeated Novak Djokovic 6-4, 7-6 (4), 6-2 at the U.S. Open to reach his third consecutive Grand Slam final. The No. 2-seeded Alcaraz's victory Friday means he will face either No. 1 Jannik Sinner or No. 25 Felix Auger-Aliassime for the cham\u2026",
+        "url": "https://apnews.com/article/us-open-djokovic-alcaraz-sinner-auger-aliassime-semifinals-men-e2476ffd6a5623479b080cc0f6a61866",
+        "urlToImage": "https://dims.apnews.com/dims4/default/7b9b02e/2147483647/strip/true/crop/5972x3359+0+310/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2F23%2F377b04052ff23ac006a837c93871%2F4689b715b14b45ff9757351147099e27",
+        "publishedAt": "2025-09-06T00:31:00Z",
+        "content": "NEW YORK (AP) Carlos Alcaraz used his youth, athleticism and creativity to assert himself against the much more accomplished, but also much older, Novak Djokovic and beat the 24-time major champion 6\u2026 [+4406 chars]"
     },
     {
         "source": {
@@ -66,29 +92,16 @@
     },
     {
         "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
+            "id": null,
+            "name": "Live Science"
         },
-        "author": "Cara  Tabachnick",
-        "title": "Salmonella outbreak linked to Metabolic Meals sickens more than a dozen people, 7 hospitalized, CDC says - CBS News",
-        "description": "People sickened in the Salmonella outbreak linked to home delivery Metabolic Meals lived in 10 states, the CDC said.",
-        "url": "https://www.cbsnews.com/news/salmonella-outbreak-metabolic-meals-cdc/",
-        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/05/f862d1e4-9f47-48a2-b808-4e4ce7e59a4f/thumbnail/1200x630/9fa441f5fae658d6490e4a91effb6fa0/where-sick-people-lived-582025.png",
-        "publishedAt": "2025-09-06T00:02:47Z",
-        "content": "A Salmonella\u00a0outbreak linked to certain home delivery meals from Metabolic Meals has sickened more than a dozen people across 10 states, and seven had to be hospitalized, the Centers for Disease Cont\u2026 [+2375 chars]"
-    },
-    {
-        "source": {
-            "id": "the-jerusalem-post",
-            "name": "The Jerusalem Post"
-        },
-        "author": "The Jerusalem Post",
-        "title": "Israel at War Day 701: What's going on in Gaza, West Bank? - The Jerusalem Post",
-        "description": null,
-        "url": "https://www.jpost.com/israel-news/defense-news/2025-09-06/live-updates-866524",
-        "urlToImage": null,
-        "publishedAt": "2025-09-06T00:00:05Z",
-        "content": null
+        "author": "Harry Baker",
+        "title": "The universe's first magnetic fields were 'comparable' to the human brain \u2014 and still linger within the 'cosmic web' - Live Science",
+        "description": "New computer simulations suggest the first magnetic fields that emerged after the Big Bang were much weaker than expected \u2014 containing the equivalent magnetic energy of a human brain.",
+        "url": "https://www.livescience.com/space/cosmology/the-universes-first-magnetic-fields-were-comparable-to-the-human-brain-and-still-linger-within-the-cosmic-web",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/qLGBR2qCoCAdYJtAiywqLg.webp",
+        "publishedAt": "2025-09-06T00:00:00Z",
+        "content": "The universe's first magnetic fields may have been much weaker than we first imagined \u2014 and were roughly equivalent to the strength of the magnetic activity within the human brain\r\n, according to a n\u2026 [+4515 chars]"
     },
     {
         "source": {
@@ -118,16 +131,16 @@
     },
     {
         "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
+            "id": "axios",
+            "name": "Axios"
         },
-        "author": "Melissa  Gaffney",
-        "title": "Powerball winners can opt for potentially \"dangerous\" lump sum or \"safe bet\" annual payments. An accountant gives advice. - CBS News",
-        "description": "Saturday's Powerball jackpot would be the second-biggest in U.S. lottery history, only trailing the world-record $2.04 billion grand prize won in 2022.",
-        "url": "https://www.cbsnews.com/news/powerball-jackpot-winners-lump-sum-annual-payments-accountant-advice/",
-        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/05/98a01478-a85d-42bd-bb43-b6225557a146/thumbnail/1200x630/4aa4596d487331d8c4252dc82e1c90f1/gettyimages-2231845592.jpg",
-        "publishedAt": "2025-09-05T23:13:05Z",
-        "content": "With the Powerball jackpot now an estimated $1.8 billion for Saturday night's drawing, there's lottery fever in the air. If you're the lucky one whose $2 ticket ends up worth millions, what do you do\u2026 [+2599 chars]"
+        "author": "Herb Scribner",
+        "title": "Trump breaks from RFK on vaccines: \"Pure and simple, they work\" - Axios",
+        "description": "RFK Jr. has faced widespread criticism for his recent round of vaccine mandates.",
+        "url": "https://www.axios.com/2025/09/05/trump-rfk-jr-covid-vaccine-cdc",
+        "urlToImage": "https://images.axios.com/4JEijWxk8uAyMaZXvjgryFbOGw4=/0x156:8068x4694/1366x768/2025/09/05/1757110021039.jpeg",
+        "publishedAt": "2025-09-05T23:30:27Z",
+        "content": "Driving the news: Trump was asked Friday during an Oval Office meeting about Kennedy's vaccine mandate changes, which include limiting which children are eligible for vaccines.\r\n<ul><li>\"I think you \u2026 [+1995 chars]"
     },
     {
         "source": {
@@ -183,32 +196,6 @@
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Herb Scribner",
-        "title": "Eric Adams refuses to exit NYC mayor race after reports of Trump job offer - Axios",
-        "description": "Adams denied the media reports that he's leaving the race to join the Trump administration.",
-        "url": "https://www.axios.com/2025/09/05/eric-adams-nyc-mayor-race-trump-job",
-        "urlToImage": "https://images.axios.com/o-hfXsqZIpGEJp-sifjJs50rgh8=/0x81:4000x2331/1366x768/2025/09/05/1757104166663.jpeg",
-        "publishedAt": "2025-09-05T22:09:46Z",
-        "content": "<ul><li>Adams had previously denied the claims and said during a Friday afternoon press conference that some reports said, \"I'm in Washington on Monday. Those reports are wrong. I'm not.\"</li><li>The\u2026 [+1852 chars]"
-    },
-    {
-        "source": {
-            "id": "the-hill",
-            "name": "The Hill"
-        },
-        "author": "Brett Samuels",
-        "title": "Trump expresses reservations over Florida eliminating vaccine mandates: \u2018We have to be very careful\u2019 - yahoo.com",
-        "description": "President Trump expressed reservations Friday about Florida moving to eliminate school vaccine mandates, calling it a \u201cvery tough position\u201d and arguing some vaccines are uncontroversial. \u201cI think we have to be very careful. You have some vaccines that are so \u2026",
-        "url": "https://thehill.com/policy/healthcare/5489364-trump-vaccine-reservations-florida/",
-        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/09/AP25248780314869-e1757109755700.jpg?w=1280",
-        "publishedAt": "2025-09-05T22:06:10Z",
-        "content": "Skip to content\r\nPresident Trump expressed reservations Friday about Florida moving to eliminate school vaccine mandates, calling it a \u201cvery tough position\u201d and arguing some vaccines are uncontrovers\u2026 [+1974 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Whitehouse.gov"
         },
@@ -232,5 +219,44 @@
         "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YZ7IEIT2EO3ZC6PTJXYQKYV3NM.JPG&w=1440",
         "publishedAt": "2025-09-05T19:59:22Z",
         "content": "At least 15 people from the Democratic Republic of Congo, including four health care workers, died following a new outbreak of the Ebola virus, the central African nations 16th major brush with the d\u2026 [+57 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "IndieWire"
+        },
+        "author": "Ritesh Mehta",
+        "title": "\u2018Palestine 36\u2019 Review: Epic Historical Drama Overreaches in Its Ambition but Resonates with Today - IndieWire",
+        "description": "'Palestine 36' review: Epic historical drama overreaches in its ambition but resonates with today.",
+        "url": "https://www.indiewire.com/criticism/movies/palestine-36-review-1235149102/",
+        "urlToImage": "https://www.indiewire.com/wp-content/uploads/2025/09/Palestine-36_Still_.jpg?w=650",
+        "publishedAt": "2025-09-05T19:00:00Z",
+        "content": "There\u2019s origin stories, and then there\u2019s more origin stories in the beyond.\r\nTo know when a country came into being, where does one look? Which contentious social faction does one consult? Which land\u2026 [+7761 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "Foreign troops in Ukraine would be considered 'legitimate targets' to Russia, Putin says - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/International/foreign-troops-ukraine-considered-legitimate-targets-russia-putin/story?id\\\\u003d125296415",
+        "urlToImage": null,
+        "publishedAt": "2025-09-05T18:00:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Dan Gelston",
+        "title": "Jalen Carter shames Super Bowl champion Eagles by spitting on Dak Prescott. What happens next? - AP News",
+        "description": "Philadelphia Eagles defensive tackle Jalen Carter faces backlash after being ejected for spitting on Dallas quarterback Dak Prescott. This incident occurred just six seconds into the Eagles' 24-20 victory in the NFL season opener. Carter apologized, calling i\u2026",
+        "url": "https://apnews.com/article/jalen-carter-spit-dak-prescott-eagles-66cc9331c44f738319541db2c2f6ef6e",
+        "urlToImage": "https://dims.apnews.com/dims4/default/796d8f7/2147483647/strip/true/crop/3262x1835+0+170/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0d%2F0a%2Ff5916f74f18090ba2bba53a6d4e3%2Fcf4c6cffd23a4063ababbf71a89920d6",
+        "publishedAt": "2025-09-05T17:36:00Z",
+        "content": "PHILADELPHIA (AP) Read the jokes that spread through text chains and chats and social media everything from Dak Tuah! to a Star Wars-esque Dak Spit First to the Seinfeld-inspired magic loogie memes a\u2026 [+4769 chars]"
     }
 ]
