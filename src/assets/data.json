@@ -1,6 +1,32 @@
 [
     {
         "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Siobh\u00e1n O'Grady, Serhiy Morgunov",
+        "title": "Russia\u2019s largest-ever air attack on Ukraine burns Kyiv government building - The Washington Post",
+        "description": "Russia unleashed a massive air assault on Ukraine early Sunday, setting the main government building in Kyiv ablaze for the first time during the war.",
+        "url": "https://www.washingtonpost.com/world/2025/09/07/ukraine-russia-attacks-missile-kyiv/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R3D7W6RAVMKYCKXTYNA2DRJKUY.JPG&w=1440",
+        "publishedAt": "2025-09-07T21:33:45Z",
+        "content": "KYIV Russia unleashedits largest-ever air assault on Ukraine early Sunday, sending more than 800 drones and 13 missiles into the country in an hours-long attack that set the main government building \u2026 [+248 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CBS Sports"
+        },
+        "author": "Bryan DeArdo",
+        "title": "Aaron Rodgers exorcises demons vs. Jets, leading Steelers over former team with four touchdown passes - CBS Sports",
+        "description": "Rodgers and Justin Fields traded places in the offseason before engaging in a Week 1 shootout",
+        "url": "https://www.cbssports.com/nfl/news/steelers-jets-live-updates-game-score-week-1-aaron-rodgers-justin-fields/live/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/07/e75da8c7-6327-49cd-abd5-7ef32fbf2b17/thumbnail/1200x675/8df385a859b1a916fcd0e4129bacf861/aaron-rodgers.jpg",
+        "publishedAt": "2025-09-07T20:24:32Z",
+        "content": "In a high-scoring game, Aaron Rodgers and the Steelers recorded a 34-32 win over the Jets in Week 1 of the 2025 regular season. Rodgers led the Steelers to victory by throwing four touchdown passes a\u2026 [+4444 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Haaretz"
         },
@@ -14,16 +40,16 @@
     },
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
+            "id": "abc-news",
+            "name": "ABC News"
         },
-        "author": "Jake Coyle",
-        "title": "Another \u2018Knives Out\u2019 makes a raucous premiere at the Toronto International Film Festival - AP News",
-        "description": "For the third time, the knives were out at the Toronto International Film Festival. Rian Johnson on Saturday night premiered the third movie in his whodunit series, \u201cWake Up Dead Man: A Knives Out Mystery.\u201d Like the previous two movies, \u201cKnives Out\u201d and \u201cGlas\u2026",
-        "url": "https://apnews.com/article/wake-up-deadman-knives-out-tiff-01587cc840adc3756bbd036252dd8bda",
-        "urlToImage": "https://dims.apnews.com/dims4/default/4999d7c/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F47%2F2d%2F7ea9788274b86578d3bd580de812%2F7fbca4a0a8444e5e82a5966ff0afd9c2",
-        "publishedAt": "2025-09-07T17:04:00Z",
-        "content": "TORONTO (AP) For the third time, the knives were out at the Toronto International Film Festival.\r\nRian Johnson on Saturday night premiered the third movie in his whodunit series, Wake Up Dead Man: A \u2026 [+2426 chars]"
+        "author": "ABC News",
+        "title": "Massie on Epstein files: \u2018We can't avoid justice to avoid embarrassment for some very powerful men\u2019 - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/Politics/massie-epstein-files-avoid-justice-avoid-embarrassment-powerful/story?id\\\\u003d125336706",
+        "urlToImage": null,
+        "publishedAt": "2025-09-07T18:00:00Z",
+        "content": null
     },
     {
         "source": {
@@ -41,28 +67,28 @@
     {
         "source": {
             "id": null,
-            "name": "Variety"
+            "name": "Deadline"
         },
-        "author": "Rebecca Rubin",
-        "title": "\u2018Conjuring: Last Rites\u2019 Scares Up Second Biggest Global Horror Opening Ever With $187 Million - Variety",
-        "description": "\"Conjuring: Last Rites\" towered over the box office with $187 million, the biggest global horror opening ever.",
-        "url": "https://variety.com/2025/film/box-office/conjuring-last-rites-box-office-second-biggest-global-horror-opening-ever-1236510820/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2025/09/MCDCOLA_WB015.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2025-09-07T16:12:00Z",
-        "content": "\u201cThe Conjuring: Last Rites\u201d towered over the worldwide box office with $187 million, cementing by far the best start for the occult-titled franchise. It\u2019s also the second-biggest global debut in hist\u2026 [+2073 chars]"
+        "author": "Nancy Tartaglione",
+        "title": "\u2018The Conjuring: Last Rites\u2019 Divine With $187M Global Bow; Breaks Record For Biggest-Ever Overseas Horror Debut \u2013 International Box Office - Deadline",
+        "description": "The Conjuring: Last Rites opened to $187M at the worldwide box office; $104M is from international to make it the biggest horror debut ever overseas",
+        "url": "http://deadline.com/2025/09/conjuring-last-rites-opening-horror-record-international-box-office-1236510860/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/The-Conjuring-Last-Rites.jpg?w=1024",
+        "publishedAt": "2025-09-07T16:20:00Z",
+        "content": "Updated: New Line/Warner Bros\u2019 The Conjuring: Last Rites positively possessed the global and international box office this weekend with a $187M worldwide opening, $104M of the total coming from 66 ov\u2026 [+3709 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Sporting News"
+            "name": "SportsLine"
         },
-        "author": "KD Jain",
-        "title": "Was Cheryl Richardson-Wagner fired from her job? School issues statement about Phillies Karen's employment status - Yahoo Sports",
-        "description": "Can the real \"Phillies Karen\" come forward already.",
-        "url": "https://www.sportingnews.com/us/mlb/news/was-cheryl-richardson-wagner-fired-her-job-school-issues-statement-about-phillies-karens-employment-status/680e615555dfa27fa4cf7e83",
-        "urlToImage": "https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2025-09/USATSI_27008790.jpg.webp?itok=W_uH-Rjf",
-        "publishedAt": "2025-09-07T15:57:00Z",
-        "content": "The search for \"Phillies Karen\" received an update from the\u00a0Hammonton Public Schools, which denied any association with the viral woman, whom rumors claim to be named Cheryl Richardson-Wagner.\r\nIn th\u2026 [+2213 chars]"
+        "author": null,
+        "title": "NFL DFS, 2025: Best FanDuel, DraftKings picks, lineup advice, player pool for Week 1 from a daily Fantasy pro - SportsLine",
+        "description": "The 2025 NFL season is finally upon us, which means NFL DFS contests have arrived as well. The Sunday Week 1 NFL DFS player pool will be stocked ...",
+        "url": "https://www.sportsline.com/insiders/nfl-dfs-2025-best-fanduel-draftkings-picks-lineup-advice-player-pool-for-week-1-from-a-daily-fantasy-pro/",
+        "urlToImage": "https://splnhub.cbsistatic.com/i/2024/12/14/6fb8aecb-b064-43bf-9d41-be1f068a61f4/drake-london-sl.jpg",
+        "publishedAt": "2025-09-07T16:14:00Z",
+        "content": "The 2025 NFL season is finally upon us, which means NFL DFS contests have arrived as well. The Sunday Week 1 NFL DFS player pool will be stocked with big names, including Christian McCaffrey, Stefon \u2026 [+1665 chars]"
     },
     {
         "source": {
@@ -79,42 +105,42 @@
     },
     {
         "source": {
-            "id": "fox-sports",
-            "name": "Fox Sports"
+            "id": null,
+            "name": "Playbill.com"
         },
-        "author": null,
-        "title": "NFL Week 1 Injury Report, Inactives: De'Von Achane In, WR Chris Godwin Out - FOX Sports",
-        "description": "Get the latest injury news on the biggest names in the NFL ahead of the first Week 1 Sunday of the season.",
-        "url": "https://www.foxsports.com/stories/nfl/nfl-week-1-injury-report-inactives-latest-on-myles-garrett-cameron-heyward-more",
-        "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/09/1408/814/nfl-week-1-injury-report.jpg?ve=1&tl=1",
+        "author": "Logan Culwell-Block",
+        "title": "Broadway's Cabaret Revival Will Close Earlier Than Expected; Billy Porter Out for Remainder With Illness - Playbill",
+        "description": "The immersive staging of the Kander and Ebb musical will end a month sooner than announced.",
+        "url": "https://playbill.com/article/broadways-cabaret-revival-will-close-earlier-than-expected-billy-porter-out-for-remainder-with-illness",
+        "urlToImage": "https://assets.playbill.com/editorial/_facebookOpenGraph/Cabaret-Wallace-and-Porter-PROD-4448-Enhanced-NR-Edit.jpg",
+        "publishedAt": "2025-09-07T15:52:00Z",
+        "content": "Broadway's immersive revival of John Kander and Fred Ebb's\u00a0Cabaret has moved up its final performance at the Kit Kat Club, n\u00e9e August Wilson Theatre, by about a month, to September 21. The revival ha\u2026 [+4300 chars]"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Kaia  Hubbard",
+        "title": "Sen. Tammy Duckworth says Trump \"essentially just declared war\" on Chicago, but there's no \"indications\" of deployment - CBS News",
+        "description": "Sen. Tammy Duckworth, an Illinois Democrat, said President Trump \"essentially just declared war on a major city in his own nation.\"",
+        "url": "https://www.cbsnews.com/news/tammy-duckworth-chicago-trump-national-guard/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/07/29ade337-705e-4f28-bb7a-a5de5df00ee9/thumbnail/1200x630/f1db4fccc614aeb2647811e9d845d580/0907-ftn-duckworth.jpg",
         "publishedAt": "2025-09-07T15:51:00Z",
-        "content": "Football is back, and there are already some big names around the league whose Week 1 statuses are up in the air.\r\nChristian McCaffrey is back on the injury report, while a couple Dolphins playmakers\u2026 [+8832 chars]"
+        "content": "Sen. Tammy Duckworth, an Illinois Democrat, said Sunday that President Trump \"essentially just declared war on a major city in his own nation\" referring to his recent remarks about Chicago. But she o\u2026 [+3844 chars]"
     },
     {
         "source": {
-            "id": "abc-news",
-            "name": "ABC News"
+            "id": "axios",
+            "name": "Axios"
         },
-        "author": "ABC News",
-        "title": "Ukraine cabinet building hit in largest Russian strike of war, Zelenskyy says - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/International/ukraine-cabinet-building-hit-largest-russian-strike-war/story?id\\\\u003d125335388",
-        "urlToImage": null,
-        "publishedAt": "2025-09-07T15:32:55Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Gregory Svirnovskiy",
-        "title": "Florida surgeon general denies need for study ahead of end to vaccine mandates in the state - Politico",
-        "description": "Joseph Ladapo insisted that his position was a principled defense of parents' rights.",
-        "url": "https://www.politico.com/news/2025/09/07/vaccines-florida-surgeon-general-00549262",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F24%2F66%2Fd58d87344c0a8671d7855d84537d%2Fflorida-vaccine-mandates-86702.jpg",
-        "publishedAt": "2025-09-07T15:22:00Z",
-        "content": "President Donald Trump, whose own health secretary, Robert F. Kennedy Jr., has come under fire on vaccine access, declined to support Floridas push during an Oval Office event Friday, touting in part\u2026 [+1179 chars]"
+        "author": "Barak Ravid",
+        "title": "White House envoy sends new proposal to Hamas through Israeli peace activist - Axios",
+        "description": "On Friday, President Trump said the U.S. is \"in deep negotiations with Hamas\" on a Gaza hostage and ceasefire deal.",
+        "url": "https://www.axios.com/2025/09/07/us-israel-hamas-ceasefire-talks",
+        "urlToImage": "https://images.axios.com/vpfApqKEP30-cvASs_5j48egqj8=/0x319:4280x2726/1366x768/2025/09/07/1757255660456.jpg",
+        "publishedAt": "2025-09-07T15:10:52Z",
+        "content": "Driving the news: On Friday, President Trump said the U.S. is \"in deep negotiations with Hamas\" on a Gaza hostage and ceasefire deal. \r\n<ul><li>He stressed the U.S. message to Hamas is: \"If you immed\u2026 [+6264 chars]"
     },
     {
         "source": {
@@ -167,57 +193,5 @@
         "urlToImage": "https://s.hdnux.com/photos/01/34/56/51/24308313/3/rawImage.jpg",
         "publishedAt": "2025-09-07T14:17:11Z",
         "content": "Saturday night's Powerball winning jackpot was the second largest in the lottery's history.\r\nErik Verduzco/Associated Press\r\nPowerball history was made in the Texas Hill Country on Saturday night.\r\nW\u2026 [+1172 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Lauren Izso, Nadeen Ebrahim, Oren Liebermann, Jeremy Diamond, Mohammed Tawfeeq",
-        "title": "Sirens fail as Houthi drone hits arrivals hall at Ramon Airport in southern Israel, authorities say - CNN",
-        "description": "A Houthi drone hit the arrivals hall at Ramon Airport in southern Israel, the Israeli military and the Israel Airports Authority said Sunday. No sirens were sounded, the Israel Defense Forces (IDF) said, adding that the incident was under review.",
-        "url": "https://www.cnn.com/2025/09/07/middleeast/houthi-drone-hits-ramon-airport-southern-israel-intl",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2019-01-21t000000z-71057592-rc1d4d6e9300-rtrmadp-3-israel-airport-eilat.JPG?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-09-07T14:16:00Z",
-        "content": "A drone launched from Yemen by Houthi rebels hit the arrivals hall at Ramon Airport in southern Israel on Sunday, the Israeli military and the Israel Airports Authority said.\r\nNo sirens were sounded,\u2026 [+3110 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NPR"
-        },
-        "author": "John Otis",
-        "title": "Colombia's lone Amazon port faces drying river and rising tensions with Peru - NPR",
-        "description": "Colombia's only Amazon port town could soon be cut off from the river that keeps it alive. As drought and a shifting river spark a tense border dispute with Peru, locals are scrambling to adapt\u2014and politicians are raising flags, literally.",
-        "url": "https://www.npr.org/2025/09/07/nx-s1-5525686/colombia-peru-amazon",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+378/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa5%2Fd6%2F7779a7174d6b97e58d079c4954fc%2Funloadingboatsleticia4.jpg",
-        "publishedAt": "2025-09-07T13:30:00Z",
-        "content": "LETICIA, Colombia The jungle town of Leticia provides Colombia's only access to the Amazon River. But as the river changes course the town could soon be left high and dry and that's fueling a border \u2026 [+5517 chars]"
-    },
-    {
-        "source": {
-            "id": "ars-technica",
-            "name": "Ars Technica"
-        },
-        "author": "Jonathan M. Gitlin",
-        "title": "Porsche\u2019s insanely clever hybrid engine comes to the 911 Turbo S - Ars Technica",
-        "description": "The new 911 variant is 14 seconds quicker around the N\u00fcrburgring Nordschleife.",
-        "url": "https://arstechnica.com/cars/2025/09/porsches-insanely-clever-hybrid-engine-comes-to-the-911-turbo-s/",
-        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/911_turbos_1001-1152x648.jpg",
-        "publishedAt": "2025-09-07T13:00:58Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Anthony  Salvanto, Jennifer  De Pinto, Fred  Backus",
-        "title": "CBS News poll: On Trump deploying National Guard, divisions over impact on crime, rights - CBS News",
-        "description": "Trump's approval rating ticks back up; support for tariffs declines as some pull back buying.",
-        "url": "https://www.cbsnews.com/news/trump-national-guard-cities-opinion-poll/",
-        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/04/0a799e6b-6360-4439-91c5-20254b723df4/thumbnail/1200x630g8/8c97b7409f5c14a12f2bd10ffbbb341c/gettyimages-2232835059.jpg",
-        "publishedAt": "2025-09-07T13:00:02Z",
-        "content": "The National Guard was deployed to Washington, D.C., and reportedly may be sent to other cities. But wherever Americans live, it is speaking to larger issues \u2013 ranging from crime and their safety, to\u2026 [+5449 chars]"
     }
 ]
