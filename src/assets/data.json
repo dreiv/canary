@@ -1,6 +1,32 @@
 [
     {
         "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "Ukrainian woman stabbed to death in unprovoked attack while riding train in North Carolina: Police - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/US/ukrainian-woman-stabbed-death-train-attack/story?id\\\\u003d125360100",
+        "urlToImage": null,
+        "publishedAt": "2025-09-08T20:37:30Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "TMZ"
+        },
+        "author": "TMZ Staff",
+        "title": "'Breaking Bad' Star Raymond Cruz Arrested For Spraying a Neighbor with Hose - TMZ",
+        "description": "Tough break for Raymond Cruz -- the actor who brought fan-fav villain Tuco Salamanca to life -- 'cause cops hauled him in this morning on suspicion of misdemeanor battery.",
+        "url": "https://www.tmz.com/2025/09/08/breaking-bad-raymond-cruz-arrested-for-alleged-battery/",
+        "urlToImage": "https://imagez.tmz.com/image/55/16by9/2025/09/08/552b6dfda0a0475bb52649af5f5cc6ee_xl.jpg",
+        "publishedAt": "2025-09-08T20:21:59Z",
+        "content": "Tough break forRaymond Cruz -- the actor who brought fan-fav villain Tuco Salamanca to life -- 'cause cops hauled him in this morning on suspicion of misdemeanor battery.\r\nLaw enforcement sources tel\u2026 [+1009 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "BaltimoreRavens.com"
         },
@@ -14,16 +40,29 @@
     },
     {
         "source": {
-            "id": "abc-news",
-            "name": "ABC News"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "ABC News",
-        "title": "GOP-led House Oversight Committee receives Epstein estate documents, 'birthday book' - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/Politics/gop-led-house-oversight-committee-expected-receive-epstein/story?id\\\\u003d125365100",
-        "urlToImage": null,
-        "publishedAt": "2025-09-08T19:41:15Z",
-        "content": null
+        "author": "Dr. C\u00e9line  Gounder",
+        "title": "Florida surgeon general says decision to end school vaccine requirements wasn't based on data - CBS News",
+        "description": "Florida Surgeon General Dr. Joseph Ladapo said his department did not do any data analysis on how a change in vaccine rules could affect outbreaks of diseases like measles, polio or whooping cough.",
+        "url": "https://www.cbsnews.com/news/florida-surgeon-general-school-vaccine-requirements/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/08/44de747f-f7b4-4fb3-ae0e-692f651aaaf0/thumbnail/1200x630g2/1bbe63e80c0021aa6897a1e1639fec21/gettyimages-2179480270.jpg",
+        "publishedAt": "2025-09-08T19:50:00Z",
+        "content": "Florida's top health official said last week that the state will start dismantling school vaccine mandates, something no other state has done in modern U.S. history. On Sunday, in a CNN interview wit\u2026 [+4130 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Steve Kopack",
+        "title": "Trump trade, immigration agendas collide in Hyundai raid - NBC News",
+        "description": "Two key components of President Donald Trump\u2019s agenda collided Thursday, when federal authorities launched an immigration raid on a Georgia construction site for a Hyundai electric vehicle battery plant.",
+        "url": "https://www.nbcnews.com/business/economy/trump-trade-immigration-agendas-collide-hyundai-raid-rcna229890",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250908-hyundai-plant-vl-117p-c91063.jpg",
+        "publishedAt": "2025-09-08T19:44:02Z",
+        "content": "Two key components of President Donald Trumps agenda collided Thursday, when federal authorities launched an immigration raid on a Georgia construction site for a Hyundai electric vehicle battery pla\u2026 [+6208 chars]"
     },
     {
         "source": {
@@ -37,6 +76,19 @@
         "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F8c%2Fee%2F4301726e4a2881f9a20919345308%2Fimmigration-raids-los-angeles-82959.jpg",
         "publishedAt": "2025-09-08T18:41:04Z",
         "content": "The courts three liberal justices dissented.\r\nWe should not have to live in a country where the Government can seize anyone who looks Latino, speaks Spanish, and appears to work a low wage job, Justi\u2026 [+2410 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Ellis Kim, Manu Raju",
+        "title": "Speaker Johnson walks backs comment that Trump was an \u2018FBI informant\u2019 in Epstein case - CNN",
+        "description": "House Speaker Mike Johnson on Monday attempted to clean up earlier remarks he made claiming that President Donald Trump had been an \u201cFBI informant\u201d in the Jeffrey Epstein case.",
+        "url": "https://www.cnn.com/2025/09/08/politics/johnson-trump-fbi-informant-epstein",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25251641996471.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-09-08T18:38:00Z",
+        "content": "House Speaker Mike Johnson on Monday attempted to clean up earlier remarks he made claiming that President Donald Trump had been an FBI informant in the Jeffrey Epstein case.\r\nWhat I was referring to\u2026 [+3877 chars]"
     },
     {
         "source": {
@@ -67,54 +119,15 @@
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "Pittsburgh Post-Gazette"
         },
-        "author": null,
-        "title": "Fatal stabbing of Ukrainian refugee in North Carolina ignites crime debate - BBC",
-        "description": "Commentators are criticising the judicial system after a graphic video showing the killing of Iryna Zarutska on a train in Charlotte was released.",
-        "url": "https://www.bbc.com/news/articles/cgknxyl77x6o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b913/live/74bd0c60-8cd3-11f0-9cf6-cbf3e73ce2b9.jpg",
-        "publishedAt": "2025-09-08T17:59:03Z",
-        "content": "The murder of 23-year old Ukrainian refugee Iryna Zarutska on a train in North Carolina last month has sparked ongoing concerns about crime in the US. \r\nA video publicised on Friday by the Charlotte \u2026 [+3391 chars]"
-    },
-    {
-        "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "ABC News",
-        "title": "Father and son speak out after viral Phillies-Marlins game confrontation - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/GMA/Living/father-son-speak-after-viral-phillies-marlins-game/story?id\\\\u003d125366422",
-        "urlToImage": null,
-        "publishedAt": "2025-09-08T17:54:44Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Lawrence Hurley",
-        "title": "Supreme Court allows Trump to fire FTC commissioner - NBC News",
-        "description": "The Supreme Court on Monday allowed President Donald Trump to fire a member of the Federal Trade Commission despite a federal law that is intended to restrict the White House\u2019s power to control the agency.",
-        "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-trump-fire-ftc-commissioner-rcna229385",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250904-Rebecca-Kelly-Slaughter-vl-412p-c67113.jpg",
-        "publishedAt": "2025-09-08T17:39:20Z",
-        "content": "WASHINGTON The Supreme Court on Monday allowed President Donald Trump to fire a member of the Federal Trade Commission despite a federal law that is intended to restrict the White Houses power to con\u2026 [+2688 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Emily Mae  Czachor",
-        "title": "Auburn professor stabbed to death while walking her dog in Alabama park; man charged with murder - CBS News",
-        "description": "A retired Auburn University professor was stabbed to death in a public park near the school in Alabama on Saturday, according to police and the university.",
-        "url": "https://www.cbsnews.com/news/auburn-professor-stabbed-death-walking-dog-man-charge-murder/",
-        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/08/e6d0e4eb-07ce-4df6-bd73-dccd77e96aee/thumbnail/1200x630/475147c2ad380dbe41795c54d758cb76/schnuelle.png",
-        "publishedAt": "2025-09-08T17:33:00Z",
-        "content": "A retired professor at Auburn University was stabbed to death over the weekend in a park near the Alabama college campus, according to Auburn Police\u00a0and the university. A man has been arrested and ch\u2026 [+2892 chars]"
+        "author": "Gerry Dulac",
+        "title": "Gerry Dulac: It was only Week 1, but don't let that discount Aaron Rodgers' near-perfect Steelers debut - Pittsburgh Post-Gazette",
+        "description": "False",
+        "url": "https://www.post-gazette.com/sports/steelers/2025/09/08/gerry-dulac-steelers-jets-week-1-breakdown-aaron-rodgers-nfl/stories/202509040150",
+        "urlToImage": "https://f50d772ec1e2a4347264-964b3324d77f313a724faa237152e95f.ssl.cf2.rackcdn.com/stories/202509040150/1140x_a10-7_cTC/2234186751_1757346412.jpg",
+        "publishedAt": "2025-09-08T17:31:27Z",
+        "content": "MENU"
     },
     {
         "source": {
@@ -128,6 +141,19 @@
         "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2f4ae972-ee38-44b6-a1fe-da2956f16217.jpg?source=next-barrier-page",
         "publishedAt": "2025-09-08T17:29:34Z",
         "content": "Complete digital access to quality analysis and expert insights, complemented with our award-winning Weekend Print edition.\r\n<ul><li></li>Everything in Print<li></li>Weekday Print Edition<li></li>FT \u2026 [+231 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "9to5google.com"
+        },
+        "author": "Andrew Romero",
+        "title": "Rabbit R1 wants a second chance with the new RabbitOS 2 update - 9to5Google",
+        "description": "Rabbit R1 might be a name gone unheard for a while, but the company behind the AI device is trying...",
+        "url": "http://9to5google.com/2025/09/08/rabbit-r1-gets-do-over-update/",
+        "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Rabbit-R1-RabbitOS-2-launch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-09-08T17:18:00Z",
+        "content": "Rabbit Inc.\r\nRabbit R1 might be a name gone unheard for a while, but the company behind the AI device is trying to get a do-over. An update to RabbitOS 2 is rolling out today for the Rabbit R1, compl\u2026 [+2856 chars]"
     },
     {
         "source": {
@@ -183,41 +209,15 @@
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Walter Willett, MD",
-        "title": "Column | Is whole milk better than low-fat? Here\u2019s what the science says. - The Washington Post",
-        "description": "RFK Jr. is promoting full-fat dairy. I\u2019ve studied nutrition for 50 years and this is what the science says about whole vs. skim milk.",
-        "url": "https://www.washingtonpost.com/wellness/2025/09/08/whole-skim-milk-nutrition-plant-protein/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KSSVDOOGXFBV7MEQPJ5HZPPA2U.jpg&w=1440",
-        "publishedAt": "2025-09-08T16:02:04Z",
-        "content": "If you are confused about the role of milk and other dairy foods in a healthy diet, you are not alone.\r\nFor decades, national guidelines have recommended that Americans consume at least three serving\u2026 [+146 chars]"
-    },
-    {
-        "source": {
             "id": null,
-            "name": "The Seattle Times"
+            "name": "ChicagoBears.com"
         },
-        "author": "Annika Hammerschlag",
-        "title": "Warming seas threaten key phytoplankton species that fuels the food web, study finds - The Seattle Times",
-        "description": "New research suggests that a tiny phytoplankton that is an essential part of the marine food web may decline sharply as oceans warm.",
-        "url": "https://www.seattletimes.com/seattle-news/environment/warming-seas-threaten-key-phytoplankton-species-that-fuels-the-food-web-study-finds/",
-        "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/09/09082025_tzr_tzr_094833.jpg?d=1200x630",
-        "publishedAt": "2025-09-08T15:58:16Z",
-        "content": "SEATTLE (AP) For decades, scientists believed Prochlorococcus, the smallest and most abundant phytoplankton on Earth, would thrive in a warmer world. But new research suggests the microscopic bacteri\u2026 [+4887 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Live Science"
-        },
-        "author": "Patrick Pester",
-        "title": "'Blood moon' gallery: Stunning snaps from last night's total lunar eclipse - Live Science",
-        "description": "A \"blood moon\" hovered above parts of the globe last night. And while North America missed out, we've rounded up some of the best photographs of September 2025's total lunar eclipse.",
-        "url": "https://www.livescience.com/space/the-moon/blood-moon-gallery-stunning-snaps-from-last-nights-total-lunar-eclipse",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/9LgdtNG5YGobkphJDuBXgJ.jpg",
-        "publishedAt": "2025-09-08T15:28:18Z",
-        "content": "A lunar eclipse can give the moon a red hue, which is why it's called a \"blood moon.\" Here it is photographed with double exposure above Jiujiang, China. (Image credit: Photo by Shen Junfeng/VCG via \u2026 [+3316 chars]"
+        "author": null,
+        "title": "Game Preview: Vikings vs. Bears | 2025 Week 1 - Chicago Bears",
+        "description": "Senior writer Larry Mayer previews the Bears' 2025 season opener against the Minnesota Vikings Monday night at Soldier Field.",
+        "url": "https://www.chicagobears.com/news/game-preview-vikings-vs-bears-2025-week-1-monday-night-football-caleb-williams",
+        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/stsw7ojll914wa7stas2",
+        "publishedAt": "2025-09-08T16:39:15Z",
+        "content": null
     }
 ]
