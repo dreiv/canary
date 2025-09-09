@@ -1,6 +1,19 @@
 [
     {
         "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Holly Yan",
+        "title": "Video shows fatal stabbing of Ukrainian refugee on Charlotte light rail train - CNN",
+        "description": "Gruesome video shows a 23-year-old Ukrainian refugee getting stabbed to death on a Charlotte light rail train \u2013 a case that has turned into a flashpoint as the Trump administration vows to crack down on crime in large, predominantly Democratic cities.",
+        "url": "https://www.cnn.com/2025/09/08/us/iryna-zarutska-murder-ukraine-refugee",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/get-20250908103247186.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-09-08T11:30:00Z",
+        "content": "Gruesome video shows a 23-year-old Ukrainian refugee getting stabbed to death on a Charlotte light rail train a casethat has turned into a flashpoint as the Trump administration vows to crack down on\u2026 [+4117 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "CNBC"
         },
@@ -14,29 +27,55 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "BBC News"
+            "id": "google-news",
+            "name": "Google News"
         },
-        "author": null,
-        "title": "Norway's tight vote to decide whether to stick with Labour or turn right - BBC",
-        "description": "Norwegians are going to the polls, with domestic issues expected to be at the forefront of voters' minds.",
-        "url": "https://www.bbc.com/news/articles/c701382e994o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/49d2/live/62b61cd0-8c80-11f0-9cf6-cbf3e73ce2b9.jpg",
-        "publishedAt": "2025-09-08T06:47:17Z",
-        "content": "Alex MaxiaBBC News, in Norway\r\nConservative Erna Solberg is challenged by Labour's Jonas Gahr St\u00f8re during a TV debate in the run-up to the election\r\nNorwegians are going to the polls in a tight race\u2026 [+6605 chars]"
+        "author": "CNN",
+        "title": "At least 6 killed in shooting attack at Jerusalem bus stop, Israeli officials say - CNN",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTlV0amYtdTRuaEprVUktSjB2a2JFRDgycmhqSWVwMW85WkQzU1F1OFpvWVJCalQyNVNWcnhhYjVwMUtCSjlDZjlGSk1FMHdSS1I3X2ZDZFNuYVh5ZnVCNURmVE1Qbll1VnA1OFFlb3l5SWZBcGd0bmE2WlNKZjdQd1hOTQ?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2025-09-08T07:46:00Z",
+        "content": null
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
+            "id": null,
+            "name": "New York Post"
         },
-        "author": "Amanda Musa",
-        "title": "What we know about the agreement for detained South Korean workers to return home - CNN",
-        "description": "When hundreds of federal, state and local officers descended on a Georgia Hyundai manufacturing plant last week, they came armed with a judicial search warrant naming four people. Ultimately, over 450 people were taken into custody, officials say, suspected o\u2026",
-        "url": "https://www.cnn.com/2025/09/08/us/wwk-south-korean-workers-detained-georgia",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-21927146-143185-078-still.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-09-08T04:16:00Z",
-        "content": "When hundreds of federal, state and local officers descended on a Georgia Hyundai manufacturing plant last week, they came armed with a judicial search warrant naming four people. Ultimately, over 45\u2026 [+7303 chars]"
+        "author": "Ryan Dunleavy",
+        "title": "Russell Wilson has nightmarish Giants debut in season-opening loss to Commanders - New York Post",
+        "description": "After an eight-month layoff, the Giants played their 18th\u00a0game of the 2024 Season That Everyone Wants To Forget, and it went just as poorly as most of the others.",
+        "url": "https://nypost.com/2025/09/07/sports/russell-wilson-has-ugly-giants-debut-in-season-opening-loss-to-commanders/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/newspress-collage-mtype5h25-1757278913395.jpg?quality=75&strip=all&1757264629&w=1024",
+        "publishedAt": "2025-09-08T05:15:00Z",
+        "content": "LANDOVER, Md. After an eight-month layoff, the Giants played their 18th game of the 2024 Season That Everyone Wants To Forget, and it went just as poorly as most of the others.\r\nWait a second.\r\nSunda\u2026 [+5264 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Financial Times"
+        },
+        "author": "David Feliba",
+        "title": "Javier Milei suffers stinging setback in Buenos Aires polls - Financial Times",
+        "description": "Pressure grows on libertarian president over reform agenda and corruption scandal ahead of October midterms",
+        "url": "https://www.ft.com/content/8264b6ac-fdf8-4b60-8cc7-707eea290f28",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5805e64e-5804-4d92-b388-aa1f029e5a3d.jpg?source=next-barrier-page",
+        "publishedAt": "2025-09-08T04:30:00Z",
+        "content": "Complete digital access to quality analysis and expert insights, complemented with our award-winning Weekend Print edition.\r\n<ul><li></li>Everything in Print<li></li>Weekday Print Edition<li></li>FT \u2026 [+231 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "9to5Mac"
+        },
+        "author": "Michael Burkhardt",
+        "title": "iPhone 17 battery capacity leak reveals a brand new advantage for eSIM-only models - 9to5Mac",
+        "description": "There\u2019s under two days left until Apple\u2019s \u2018Awe dropping\u2019 event for all four iPhone 17 models, AirPods Pro 3, a...",
+        "url": "https://9to5mac.com/2025/09/07/iphone-17-final-battery-capacity-leak-better-than-expected/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/iphone-17-lineup-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-09-08T04:29:00Z",
+        "content": "There\u2019s under two days left until Apple\u2019s \u2018Awe dropping\u2019 event for all four iPhone 17 models, AirPods Pro 3, a trio of Apple Watch models, and more. That doesn\u2019t stop last minute leaks, though \u2013 and \u2026 [+2458 chars]"
     },
     {
         "source": {
@@ -66,6 +105,19 @@
     },
     {
         "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Avery Lotz",
+        "title": "\"Despicable and thoughtless\": Vance's drug vessel strike praise slammed by senator - Axios",
+        "description": "Vance enthusiastically endorsed the strike, which Trump said killed 11 \"terrorists.\"",
+        "url": "https://www.axios.com/2025/09/07/vance-rand-paul-drug-vessel-strike",
+        "urlToImage": "https://images.axios.com/Hjd6Xiwn5KGe1omMhg67wfLz5mY=/0x0:8640x4860/1366x768/2025/09/07/1757256596529.jpg",
+        "publishedAt": "2025-09-08T03:55:48Z",
+        "content": "<ul><li>Top Democrats said they were left in the dark ahead of the operation. Senate national security and leadership staff were set to be briefed about the strike last week, but Trump's team abruptl\u2026 [+3712 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Steelers.com"
         },
@@ -76,45 +128,6 @@
         "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/steelers/z7qkwazxeawkk5h6flb5",
         "publishedAt": "2025-09-08T03:40:44Z",
         "content": null
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "The Wall Street Journal",
-        "title": "BMW and Mercedes Take On Tesla With New Luxury SUVs - The Wall Street Journal",
-        "description": null,
-        "url": "https://www.wsj.com/business/autos/bmw-mercedes-ev-suv-tesla-483024d9",
-        "urlToImage": null,
-        "publishedAt": "2025-09-08T03:00:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": "TOI World Desk",
-        "title": "Mushroom murders: Erin Patterson, who served death to family at lunch, jailed for life; 3 died, but myste - Times of India",
-        "description": "Rest of World News: Erin Patterson, the central figure in the infamous \\\"mushroom murders\\\" case, received a life sentence from an Australian judge on Monday, with a possib",
-        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/mushroom-murders-erin-patterson-who-served-death-to-family-at-lunch-jailed-for-life-3-died-but-mystery-is-still-alive/articleshow/123755460.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-123755524,width-1070,height-580,imgsize-1344862,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2025-09-08T02:20:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Manuela Tobias, Patrick Gillespie",
-        "title": "Milei on Track to Lose Buenos Aires Province by Landslide - Bloomberg",
-        "description": "Argentina\u2019s President Javier Milei vowed no changes to his free-market economic program after a resounding defeat on Sunday to the center-left Peronist opposition in the province of Buenos Aires.",
-        "url": "https://www.bloomberg.com/news/articles/2025-09-08/milei-on-track-to-lose-buenos-aires-province-by-landslide",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibC0id2KQFZM/v0/1200x799.jpg",
-        "publishedAt": "2025-09-08T01:46:00Z",
-        "content": "Argentinas President Javier Milei vowed no changes to his free-market economic program after a resounding defeat on Sunday to the center-left Peronist opposition in the province of Buenos Aires.\r\nThe\u2026 [+176 chars]"
     },
     {
         "source": {
@@ -144,19 +157,6 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Todd Symons",
-        "title": "Tom Callam Phillips: Police shoot dead fugitive father and find his three children missing for years in wilderness - CNN",
-        "description": "A fugitive father who had been hiding with his three children in the dense New Zealand wilderness was shot dead in an armed confrontation with police, and his three children are in the custody of police, ending a near four-year search for the family.",
-        "url": "https://www.cnn.com/2025/09/07/world/new-zealand-tom-phillips-police-hnk-intl",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/release-26-08-22-tom-resize.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-09-07T23:22:00Z",
-        "content": "A fugitive father who had been hiding with his three children in the dense New Zealand wilderness was shot dead in an armed confrontation with police on Monday, leading to his three children being pl\u2026 [+4969 chars]"
-    },
-    {
-        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
@@ -183,29 +183,16 @@
     },
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
+            "id": null,
+            "name": "GSMArena.com"
         },
-        "author": "Ed White",
-        "title": "Florida\u2019s plan to drop school vaccine rule won\u2019t start for 90 days, won\u2019t cover all diseases - AP News",
-        "description": "Florida has a plan to drop school vaccine mandates. But it likely won\u2019t take effect for 90 days and would include only chickenpox and a few others unless lawmakers decide to extend it to other diseases. The Florida health department shared some details Sunday\u2026",
-        "url": "https://apnews.com/article/florida-vaccine-mandates-children-4e697db6085dc5dd4bd9b206ed9a51b6",
-        "urlToImage": "https://dims.apnews.com/dims4/default/5ad8aa7/2147483647/strip/true/crop/4200x2363+0+218/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F69%2F18%2F3ccd81abbfa549b979e97538ecd6%2Fb1d74ff6b2db4a4a8a5f2b75adf50142",
-        "publishedAt": "2025-09-07T18:43:00Z",
-        "content": "Floridas plan to drop school vaccine mandates likely wont take effect for 90 days and would include only chickenpox and a few other illnesses unless lawmakers decide to extend it to other diseases, l\u2026 [+2489 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Alison Main",
-        "title": "Trump administration launches immigration enforcement surge in Massachusetts - CNN",
-        "description": "The Trump administration launched a new federal immigration enforcement effort in Massachusetts focused on deporting criminals who entered the country illegally, according to the Department of Homeland Security.",
-        "url": "https://www.cnn.com/2025/09/07/politics/immigration-enforcement-surge-in-massachusetts",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-08-19t162446z-42259325-rc2eagav710l-rtrmadp-3-usa-trump-boston.JPG?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-09-07T17:51:00Z",
-        "content": "The Trump administration launched a new federal immigration enforcement effort in Massachusetts focused on deporting criminals who entered the country illegally, according to the Department of Homela\u2026 [+3249 chars]"
+        "author": "Peter",
+        "title": "Deals: Samsung Galaxy S25 FE and Tab S11 are here, we also look at alternatives - GSMArena.com news - GSMArena.com",
+        "description": "The S25 FE skipped pre-orders and launched immediately - but that doesn't mean there are no early bird perks. Samsung announced the Galaxy S25 FE this...",
+        "url": "https://www.gsmarena.com/deals_samsung_galaxy_s25_fe_and_tab_s11_are_here_we_also_look_at_alternatives-news-69366.php",
+        "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/09/deals-5/-952x498w6/gsmarena_us.jpg",
+        "publishedAt": "2025-09-07T17:52:02Z",
+        "content": "Samsung announced the Galaxy S25 FE this week, a more affordable variant of its flagship S-series. Also new this week are flagship tablets, the Galaxy Tab S11 and Tab S11 Ultra. Lets have a look at w\u2026 [+4610 chars]"
     },
     {
         "source": {
