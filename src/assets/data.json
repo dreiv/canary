@@ -14,16 +14,16 @@
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": "Gaya Gupta",
-        "title": "Lawsuit says U.S. deported migrants to Ghana to sidestep restrictions - The Washington Post",
-        "description": "A lawsuit alleges that five migrants were unlawfully deported to Ghana to circumvent restrictions against sending them back to their home countries.",
-        "url": "https://www.washingtonpost.com/nation/2025/09/13/ghana-deportation-trump-migrants/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4LU4C4HB7UY6ES7XSWJNPX2FC4.jpg&w=1440",
-        "publishedAt": "2025-09-14T06:19:33Z",
-        "content": "A new lawsuit against the Trump administration alleges that five migrants were unlawfully deported to Ghana, with four enduring the 16-hour flight in straitjackets, to circumvent restrictions against\u2026 [+42 chars]"
+        "author": "Simina Mistreanu",
+        "title": "China launches probes targeting US semiconductors ahead of Madrid trade talks - AP News",
+        "description": "China has launched two probes targeting the U.S. semiconductor sector ahead of trade talks in Spain. China\u2019s Ministry of Commerce on Saturday announced an anti-dumping investigation into certain analog IC chips imported from the U.S. The ministry also has ann\u2026",
+        "url": "https://apnews.com/article/china-us-semiconductors-trade-investigations-madrid-fae364b02c32da4e37b645046a3c17db",
+        "urlToImage": "https://dims.apnews.com/dims4/default/30a43fb/2147483647/strip/true/crop/5360x3015+0+279/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd4%2F40%2Fb172868a732c6a8b59f5792e58c5%2F2b6f628e3fc14f08a7b80797c07d5fce",
+        "publishedAt": "2025-09-14T05:47:00Z",
+        "content": "TAIPEI, Taiwan (AP) China launched two probes targeting the U.S. semiconductor sector Saturday ahead of talks between the two nations in Spain this week on trade, national security and the ownership \u2026 [+2255 chars]"
     },
     {
         "source": {
@@ -40,42 +40,29 @@
     },
     {
         "source": {
-            "id": "fox-news",
-            "name": "Fox News"
+            "id": null,
+            "name": "Suntimes.com"
         },
-        "author": "Rachel Wolf",
-        "title": "Charlie Kirk's widow breaks silence hours after Donald Trump announces alleged shooter in custody - Fox News",
-        "description": "Erika Kirk, Charlie's widow, made her first public remarks since her husband's assassination. She stood behind a sign reading \"May Charlie be received into the merciful arms of Jesus, our loving savior.\"",
-        "url": "https://www.foxnews.com/live-news/charlie-kirk-shooting-utah-valley-university-9-13-2025",
-        "urlToImage": "https://livenews.foxnews.com/images/2025/09/64a8889a2d631419316bacdef5a3b8c6.jpg",
-        "publishedAt": "2025-09-14T04:49:07Z",
-        "content": "The assassination of\u00a0Charlie Kirk\u00a0hit close to home for Oregon football head coach Dan Lanning, who recently found out that Kirk was a fan of Lanning's own Ducks.\r\nLanning offered his condolences to \u2026 [+2962 chars]"
+        "author": "Georgia Nicols",
+        "title": "Horoscope for Sunday, September 14, 2025 - Chicago Sun-Times",
+        "description": null,
+        "url": "https://chicago.suntimes.com/horoscopes/2025/09/14/horoscopes-today-sunday-september-14-2025",
+        "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+        "publishedAt": "2025-09-14T05:01:00Z",
+        "content": "Moon alert\r\nAvoid shopping or major decisions from 5:30 to 7:45 p.m. Chicago time. After that, the moon moves from Gemini into Cancer.\r\nAries (March 21-April 19)\r\nThis is a challenging day because yo\u2026 [+3707 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Deadline"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": "Glenn Garner",
-        "title": "Chris Martin Encourages Fans To Send Love \u201cTo Charlie Kirk\u2019s Family\u201d At Coldplay Concert - Deadline",
-        "description": "As the killing of Charlie Kirk sparks mass partisan fallout, it seems Chris Martin is trying to keep the peace with a message of love.",
-        "url": "http://deadline.com/2025/09/chris-martin-send-love-charlie-kirk-family-coldplay-concert-1236530908/",
-        "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/Chris-Martin-Charlie-Kirk-2-shot.jpg?w=1024",
-        "publishedAt": "2025-09-14T03:55:00Z",
-        "content": "As the killing of Charlie Kirk sparks mass partisan fallout, it seems Chris Martin is trying to keep the peace with a message of love.\r\nDuring the band\u2019s final stop on their Music of the Spheres Worl\u2026 [+2237 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "DW (English)"
-        },
-        "author": "Karl Sexton, Kieran Burke",
-        "title": "Germany updates: NRW holds election in key test for Merz - DW",
-        "description": "Germany's most populous state, North Rhine-Westphalia, is holding local elections on Sunday. The vote is seen as an early test for Chancellor Merz's fragile coalition. Follow DW for the latest.",
-        "url": "https://www.dw.com/en/germany-updates-nrw-holds-election-in-key-test-for-merz/live-73986739",
-        "urlToImage": "https://static.dw.com/image/73985012_6.jpg",
-        "publishedAt": "2025-09-14T03:40:42Z",
-        "content": "Local elections in North Rhine-Westphalia take place every five years. There are some 13.7 million eligible voters, who will be choosing\u00a0city and municipal councils, county councils, mayors and distr\u2026 [+1023 chars]"
+        "author": "Eric Tucker",
+        "title": "Patel faces congressional hearings after missteps in Kirk assassination probe and turmoil at FBI - AP News",
+        "description": "FBI Director Kash Patel is bracing for scrutiny over his leadership of the Charlie Kirk investigation and other areas when he appears before Congress this coming week for oversight hearings. He raised eyebrows hours after Kirk's killing when he posted on X th\u2026",
+        "url": "https://apnews.com/article/fbi-patel-russia-epstein-c3e70633befef64b60613709c9919b0c",
+        "urlToImage": "https://dims.apnews.com/dims4/default/e3f782d/2147483647/strip/true/crop/3500x1969+0+182/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F89%2Fb8%2F24bac16d829268a4321c4d420013%2F8be7cc88159e4091a214c58c9df0ebd9",
+        "publishedAt": "2025-09-14T03:51:00Z",
+        "content": "WASHINGTON (AP) Hours after the assassination of conservative activist Charlie Kirk, FBI Director Kash Patel declared online that the subject in the killing was in custody. The shooter was not. The t\u2026 [+10444 chars]"
     },
     {
         "source": {
@@ -102,32 +89,6 @@
         "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4577,h_2574,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01k52bb85y6sby54qsnf.jpg",
         "publishedAt": "2025-09-14T02:09:35Z",
         "content": "Humans have long been fascinated by bees, wasps, and the like. We imitate their social structures, admire their collectivist spirit, taste their delicious honey, and wonder how we can save them.\r\nPer\u2026 [+6239 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Nikole  Killion",
-        "title": "White House requests $58 million to increase security for executive, judicial branches after Charlie Kirk shooting, sources say - cbsnews.com",
-        "description": "A White House official confirmed the extra funds would be directed to the U.S. Marshals Service and would also include enhanced \r\nprotection for Supreme Court justices.",
-        "url": "https://www.cbsnews.com/news/white-house-requests-58-million-dollars-to-increase-security-executive-judicial-branches-after-charlie-kirk-shooting/",
-        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/14/332b1358-c77c-4543-add7-5a7c377ad4c1/thumbnail/1200x630/79041041adc0c6fec3e1d4fadce6d38a/gettyimages-2234387268.jpg",
-        "publishedAt": "2025-09-14T01:32:00Z",
-        "content": "The Trump administration is sending a $58 million request to Congress to increase security for the executive and judicial branches in the\u00a0wake of the killing\u00a0of conservative activist Charlie Kirk, mu\u2026 [+1824 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": null,
-        "title": "China Launches Anti-Dumping Probe Against Some US Chips - Bloomberg.com",
-        "description": "China launched two investigations targeting the US semiconductor sector ahead of planned talks between the two nations on trade and other issues.",
-        "url": "https://www.bloomberg.com/news/articles/2025-09-13/china-launches-anti-dumpinng-probe-against-some-us-chips",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iq.TYFPgivI4/v0/1200x800.jpg",
-        "publishedAt": "2025-09-14T01:22:00Z",
-        "content": "China launched two investigations targeting the US semiconductor sector ahead of planned talks between the two nations on trade and other issues.\r\nThe Ministry of Commerce said in a statement on Satu\u2026 [+334 chars]"
     },
     {
         "source": {
@@ -170,6 +131,19 @@
     },
     {
         "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Camilo  Montoya-Galvez",
+        "title": "Judge says U.S. trying to do \"end-run\" around legal protections with deportations to Ghana - cbsnews.com",
+        "description": "Earlier this month, the U.S. deported a group of non-Ghanaian nationals to Ghana, including deportees from Gambia and Nigeria.",
+        "url": "https://www.cbsnews.com/news/judge-says-u-s-trying-to-do-end-run-around-legal-protections-with-deportations-to-ghana/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/13/4858b161-5f6a-45a5-8451-c0dc14dee279/thumbnail/1200x630/6e7876f1da3cf03d4c2711e45b24658a/gettyimages-2234216979.jpg",
+        "publishedAt": "2025-09-13T23:59:41Z",
+        "content": "A federal judge on Saturday accused the Trump administration of trying to do an \"end-run\" around legal obligations that the U.S. has to protect people fleeing persecution and torture following the de\u2026 [+3930 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "NPR"
         },
@@ -209,6 +183,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Reuters",
+        "title": "Fed governor Cook asks appeals court to reject White House's bid to remove her from Fed board - CNBC",
+        "description": "Federal Reserve Gov. Lisa Cook is asking a U.S. appeals court to reject the Trump administration's latest bid to remove her from her post.",
+        "url": "https://www.cnbc.com/2025/09/13/trump-fed-lisa-cook-appeals-court.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108192448-1756477319590-gettyimages-1258906734-SENATE_FED_NOMINATION.jpeg?v=1756477417&w=1920&h=1080",
+        "publishedAt": "2025-09-13T22:36:33Z",
+        "content": "Federal Reserve Governor Lisa Cook is asking a U.S. appeals court to reject the Trump administration's latest bid to remove her from her post ahead of the central bank's next vote on interest rates.\r\u2026 [+3480 chars]"
+    },
+    {
+        "source": {
             "id": "associated-press",
             "name": "Associated Press"
         },
@@ -222,16 +209,29 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
+            "id": null,
+            "name": "Cult of Mac"
         },
-        "author": null,
-        "title": "Fed Governor Cook declared her Atlanta property as \u2018vacation home,\u2019 documents show - CNN",
-        "description": "A loan estimate for an Atlanta home purchased by Lisa Cook, the Federal Reserve governor accused of mortgage fraud by the Trump administration, shows that Cook had declared the property as a \u201cvacation home,\u201d according to a document reviewed by Reuters.",
-        "url": "https://www.cnn.com/2025/09/13/business/lisa-cook-atlanta-house-fed",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1258902366-20250826154246204.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-09-13T21:16:25Z",
-        "content": "A loan estimate for an Atlanta home purchased by Lisa Cook, the Federal Reserve governor accused of mortgage fraud by the Trump administration, shows that Cook had declared the property as a vacation\u2026 [+3850 chars]"
+        "author": "Rajesh Pandey, Rajesh Pandey",
+        "title": "What time will Apple release iOS 26, iPadOS 26 and watchOS 26 on September 15 in your time zone? - Cult of Mac",
+        "description": "Apple's next big software updates, iOS 26, iPadOS 26, watchOS 26, and macOS Tahoe, drop September 15. Here\u2019s when they\u2019ll hit your device.",
+        "url": "https://www.cultofmac.com/news/ios-26-ipados-26-watchos-26-release-time",
+        "urlToImage": "https://cdn.cultofmac.com/wp-content/uploads/2025/09/ios-26-release-time.jpg.webp",
+        "publishedAt": "2025-09-13T20:55:49Z",
+        "content": "Apple is finally ready to release iOS 26, iPadOS 26, watchOS 26 and macOS Tahoe to the public. After initially showcasing these operating systems at WWDC25 this spring, the company will release the f\u2026 [+3401 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Action Network"
+        },
+        "author": "Sean Koerner",
+        "title": "NFL Player Props Week 2: Aaron Rodgers, Kyren Williams, Travis Hunter, More - Action Network",
+        "description": "The NFL season is heating up in Week 2, and I have some NFL player props locked in for this Sunday. Let\u2019s get into my NFL player props",
+        "url": "https://www.actionnetwork.com/nfl/nfl-player-props-week-2-aaron-rodgers-kyren-williams-travis-hunter-more-qs",
+        "urlToImage": "https://images.actionnetwork.com/blog/2025/09/Aaron-Rodgers-9_14_25.jpg",
+        "publishedAt": "2025-09-13T20:44:00Z",
+        "content": "The NFL season is heating up in Week 2, and I have some NFL player props locked in for this Sunday.\r\nLet's get into my NFL player props for Week 2 keep tabs on this story as I continue to add more We\u2026 [+8596 chars]"
     },
     {
         "source": {
