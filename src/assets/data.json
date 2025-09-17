@@ -1,42 +1,81 @@
 [
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
+            "id": null,
+            "name": "NPR"
         },
-        "author": "Jessie Yeung, Lucas Lilieholm",
-        "title": "Live updates: Israel begins ground offensive in Gaza City, as UN commission says Israel is committing genocide - CNN",
-        "description": "Israel\u2019s ground incursion escalates its war in defiance of international condemnation and backlash from the families of hostages still held by Hamas. Follow for live updates",
-        "url": "https://www.cnn.com/world/live-news/israel-hamas-war-gaza-city-incursion-09-16-25-intl-hnk",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gaza-city-displaced-citizens-thumb.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-09-16T08:34:00Z",
-        "content": "Medical services are already stretched to breaking point in northern Gaza as Israel launches a ground incursion to occupy its largest city, health officials and aid workers said.\r\nThe Health Ministry\u2026 [+1705 chars]"
+        "author": "Jackie Forti\u00e9r",
+        "title": "Kennedy's vaccine panel expected to recommend delaying hepatitis B shot in children - NPR",
+        "description": "RFK Jr.'s hand-picked panel of vaccine advisors is expected to vote to delay the hepatitis B shot for newborns. Doctors warn that could fuel a return of a disease virtually eradicated in U.S. kids.",
+        "url": "https://www.npr.org/sections/shots-health-news/2025/09/16/nx-s1-5542405/rfk-jr-acip-vaccine-advisory-panel-vote-delay-hepatitis-b-shot-in-infants",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3936x2214+0+209/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2F5a%2Ff321a94740ed862db24e9f32fc07%2Fap25253623716598.jpg",
+        "publishedAt": "2025-09-16T09:00:00Z",
+        "content": "A key federal vaccine advisory panel whose members were recently replaced by Health Secretary Robert F. Kennedy Jr. is expected to vote to recommend delaying, until age 4, the hepatitis B vaccine tha\u2026 [+10303 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "Israel begins ground offensive in Gaza City, IDF says - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/International/israel-begins-ground-offensive-gaza-city-idf/story?id\\\\u003d125612822",
+        "urlToImage": null,
+        "publishedAt": "2025-09-16T08:40:34Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Barak Ravid",
+        "title": "Israel's Qatar attack was a costly failure - Axios",
+        "description": "Hamas' top leaders survived. Israel's reputation suffered another blow.",
+        "url": "https://www.axios.com/2025/09/16/israel-qatar-strike-failed-hamas-survive",
+        "urlToImage": "https://images.axios.com/jfrrZCwzbNdE4_cDECU61RelR68=/0x269:5512x3370/1366x768/2025/09/16/1757988166510.jpeg",
+        "publishedAt": "2025-09-16T08:31:08Z",
+        "content": "How it happened: Israel's plan was to take out several of Hamas' top leaders all at once as they met to discuss President Trump's Gaza peace proposal.\r\n<ul><li>Five Hamas members were killed, along w\u2026 [+3917 chars]"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "John Power",
+        "title": "US appeals court blocks Trump\u2019s bid to fire Lisa Cook from Federal Reserve - Al Jazeera",
+        "description": "Cook\u2019s claim that she was denied due process has a \u2018strong likelihood of success\u2019, court rules",
+        "url": "https://www.aljazeera.com/economy/2025/9/16/us-appeals-court-blocks-trumps-bid-to-fire-lisa-cook-from-federal-reserve",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/AP25238487132940-1757991823_33bb9e-1757997233.jpg?resize=1200%2C630&quality=80",
+        "publishedAt": "2025-09-16T05:35:50Z",
+        "content": "An appeals court in the United States has ruled that Lisa Cook can keep her seat on the Federal Reserve for now, in a setback to President Donald Trumps bid to fire the governor over as yet unproven \u2026 [+2404 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Investing.com"
+            "name": "NPR"
         },
-        "author": "Ayushman Ojha",
-        "title": "Asia stocks: Japan, S. Korea hit record highs amid Fed easing bets; China dips - Investing.com",
-        "description": "Asia stocks: Japan, S. Korea hit record highs amid Fed easing bets; China dips",
-        "url": "https://www.investing.com/news/stock-market-news/asia-stocks-japan-s-korea-hit-record-highs-amid-fed-easing-bets-china-dips-4239711",
-        "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEC3I0EK_L.jpg",
-        "publishedAt": "2025-09-16T07:14:47Z",
-        "content": "Updates at 04:10 GMT with latest price moves, India open, additional context\r\nInvesting.com--\u00a0Most Asian stock markets extended their rally on Tuesday, with shares in Japan and South Korea hitting fr\u2026 [+2560 chars]"
+        "author": "The Associated Press",
+        "title": "Trump says the U.S. military targeted a boat allegedly carrying drugs from Venezuela - NPR",
+        "description": "President Trump said the U.S. military on Monday again targeted a boat allegedly carrying drugs from Venezuela, killing three aboard the vessel.",
+        "url": "https://www.npr.org/2025/09/16/g-s1-88985/u-s-military-again-targeted-boat-carrying-drugs-venezuela",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2Fff%2Fe92b9aab41db9d9a60438322453c%2Fap25258741990734.jpg",
+        "publishedAt": "2025-09-16T05:31:04Z",
+        "content": "WASHINGTON President Donald Trump said the U.S. military on Monday again targeted a boat allegedly carrying drugs from Venezuela, killing three aboard the vessel, and hinted that the military targeti\u2026 [+6063 chars]"
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
+            "id": null,
+            "name": "NBCSports.com"
         },
-        "author": "Holmes Lybrand",
-        "title": "Kash Patel to face questions from Congress amid turmoil at his FBI - CNN",
-        "description": "After months of slow burning controversies around his agency, from the handling of the investigation into Charlie Kirk\u2019s murder to the bungled release of Epstein files, FBI Director Kash Patel will face Senate and House lawmakers at two highly anticipated hea\u2026",
-        "url": "https://www.cnn.com/2025/09/16/politics/kash-patel-to-face-questions-from-congress-amid-turmoil-at-his-fbi",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-09-12t142332z-166211912-rc2eqgatchu1-rtrmadp-3-usa-shooting-kirk.JPG?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-09-16T07:00:05Z",
-        "content": "After months of slow burning controversies around his agency, from the handling of the investigation into Charlie Kirks murder to the bungled release of Epstein files, FBI Director Kash Patel will fa\u2026 [+4618 chars]"
+        "author": "Myles Simmons",
+        "title": "Monday Night Football: Chargers move to 2-0 with 20-9 win over Raiders - NBC Sports",
+        "description": "Los Angeles turned in a strong defensive performance, picking off Las Vegas QB Geno Smith three times in the win.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-chargers-move-to-2-0-with-20-9-win-over-raiders",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/5df8bee/2147483647/strip/true/crop/5117x2878+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F92%2Fe2%2F3fa664284ace9fe628fb43243dc3%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2235671736",
+        "publishedAt": "2025-09-16T05:07:56Z",
+        "content": "The Chargers turned in a strong defensive performance on Monday night to defeat the Raiders 20-9 and move to 2-0.\r\nLos Angeles pass coverage was sticky, and its run defense was stingy, limiting Las V\u2026 [+1977 chars]"
     },
     {
         "source": {
@@ -79,6 +118,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Phys.Org"
+        },
+        "author": "SISSA Medialab",
+        "title": "Mapping the universe, faster and with the same accuracy - Phys.org",
+        "description": "If you think a galaxy is big, compare it to the size of the universe: it's just a tiny dot which, together with a huge number of other tiny dots, forms clusters that aggregate into superclusters, which in turn weave into filaments threaded with voids\u2014an immen\u2026",
+        "url": "https://phys.org/news/2025-09-universe-faster-accuracy.html",
+        "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/mapping-the-universe-f.jpg",
+        "publishedAt": "2025-09-16T04:00:01Z",
+        "content": "If you think a galaxy is big, compare it to the size of the universe: it's just a tiny dot which, together with a huge number of other tiny dots, forms clusters that aggregate into superclusters, whi\u2026 [+5556 chars]"
+    },
+    {
+        "source": {
             "id": "associated-press",
             "name": "Associated Press"
         },
@@ -92,16 +144,16 @@
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Tara Copp, Samantha Schmidt, Dan Lamothe",
-        "title": "U.S. kills 3 in strike on alleged drug boat from Venezuela, Trump says - The Washington Post",
-        "description": "The president also signaled that his administration was preparing to take military action against Latin American cartels that move narcotics over land.",
-        "url": "https://www.washingtonpost.com/national-security/2025/09/15/trump-venezuela-drug-strike/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5LV5OQQPOX4ZR5N4N5YIYMMH5Y_size-normalized.JPG&w=1440",
-        "publishedAt": "2025-09-16T02:58:37Z",
-        "content": "The U.S. military on Monday conducted a new attack on alleged drug smugglers from Venezuela, killing three people, President Donald Trump said on social media.\r\nThis morning, on my orders, U.S. milit\u2026 [+399 chars]"
+        "author": "Jennifer  Jacobs, Richard  Escobedo",
+        "title": "Oracle could play key role in TikTok deal between Trump administration and China, sources say - CBS News",
+        "description": "Technology company Oracle is among a consortium of firms that would enable TikTok to continue operations in the U.S. if a framework deal is finalized, sources say.",
+        "url": "https://www.cbsnews.com/news/oracle-tiktok-deal-trump-administration-china/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/15/93b94c27-4acb-4faa-adb8-978f60dd05d1/thumbnail/1200x630/fdf9fdeae62f23b94f2c63bdc2bb46fb/cbsn-fusion-us-china-reach-framework-tiktok-deal-trump-administration-thumbnail.jpg",
+        "publishedAt": "2025-09-16T03:12:00Z",
+        "content": "Technology company Oracle is among a consortium of firms that would enable TikTok to continue operations in the U.S. if a framework deal between the United States and China is finalized, sources with\u2026 [+2990 chars]"
     },
     {
         "source": {
@@ -118,16 +170,16 @@
     },
     {
         "source": {
-            "id": "the-hill",
-            "name": "The Hill"
+            "id": null,
+            "name": "Android Authority"
         },
-        "author": "Tara Suter",
-        "title": "Poland \u2018neutralized a drone operating over government buildings\u2019: Polish prime minister - The Hill",
-        "description": "Polish Prime Minister Donald Tusk said Monday that his country \u201cneutralized a drone operating over government buildings,\u201d less than a week after he said that his country downed multiple Russian drones that breached Poland\u2019s airspace. \u201cJust now, the State Prot\u2026",
-        "url": "https://thehill.com/policy/defense/5504975-poland-neutralizes-drone-government/",
-        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/03/tusk_donald_poland_whitehouse_03122024_AP_AP24072775011828.jpg?w=1280",
-        "publishedAt": "2025-09-16T02:53:00Z",
-        "content": "Skip to content\r\nPolish Prime Minister Donald Tusk said Monday that his country \u201cneutralized a drone operating over government buildings,\u201d less than a week after he said that his country downed multi\u2026 [+1673 chars]"
+        "author": null,
+        "title": "Here's your first official look at the first Snapdragon 8 Elite Gen 5 flagship phones - Android Authority",
+        "description": "Xiaomi has released our first official look at the Xiaomi 17 Pro and Pro Max, both of which will feature a bold, new second screen.",
+        "url": "https://www.androidauthority.com/xiaomi-17-pro-max-design-second-display-3597961/",
+        "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/Xiaomi-17-Pro-17-Pro-Max.jpg",
+        "publishedAt": "2025-09-16T02:48:58Z",
+        "content": "<ul><li>Xiaomi has officially shown off the design of the Xiaomi 17 Pro and Pro Max.</li><li>The flagship Snapdragon 8 Elite Gen 5 phones will feature a secondary display at the back.</li><li>It will\u2026 [+1701 chars]"
     },
     {
         "source": {
@@ -141,6 +193,19 @@
         "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/09/AP25254758922062-e1757766690247.jpg?w=1280",
         "publishedAt": "2025-09-16T02:27:00Z",
         "content": "Skip to content\r\nPresident Trump on Monday defended not ordering U.S. flags lowered to half-staff after the assassination of a Minnesota Democratic state lawmaker this summer, saying the governor did\u2026 [+2209 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Pff.com"
+        },
+        "author": "Nathan Jahnke",
+        "title": "NFL Week 2 Recap: Immediate fantasy football takeaways from Monday's games - PFF",
+        "description": "PFF's fantasy football recap focuses on player usage and stats, breaking down all the vital information you need to achieve fantasy success in 2025.",
+        "url": "https://www.pff.com/news/fantasy-football-nfl-week-2-recap-immediate-fantasy-football-takeaways-monday-2025",
+        "urlToImage": "https://media.pff.com/2025/09/Marks-Woody-Featyre-scaled.jpg?w=1200&h=675",
+        "publishedAt": "2025-09-16T02:00:00Z",
+        "content": "<ul><li>Bucky Irving continues to see an increased role: In terms of playing time, Irvings past two games have been the best of his career.</li></ul>Estimated Reading Time: 5 minutes\r\nPFF's fantasy f\u2026 [+11245 chars]"
     },
     {
         "source": {
@@ -167,44 +232,5 @@
         "urlToImage": "https://dims.apnews.com/dims4/default/49f2f42/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F07%2Fb0%2Fb6539943556fe8c04b1529894499%2F461798e5dddb4a98afc4505f1f67bdd7",
         "publishedAt": "2025-09-16T00:57:00Z",
         "content": "LONDON (AP) Prime Minister Keir Starmer on Monday condemned dangerous comments by Elon Musk after the X and Tesla owner told an anti-immigration rally that violence is coming to Britain and they must\u2026 [+5003 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "The Ringer"
-        },
-        "author": null,
-        "title": "Joe Burrow\u2019s Devastating Injury D\u00e9j\u00e0 Vu - The Ringer",
-        "description": "The Bengals quarterback needs surgery after suffering yet another serious injury. Will Cincinnati ever learn its lesson and find a way to protect its most important player?",
-        "url": "https://www.theringer.com/2025/09/15/nfl/joe-burrow-turf-toe-injury-surgery-out-three-months-cincinnati-bengals",
-        "urlToImage": "https://wp.theringer.com/wp-content/uploads/2025/09/cropped-joeburrowsad_getty_ringer-scaled-1.jpg",
-        "publishedAt": "2025-09-16T00:13:00Z",
-        "content": "Getty Images/Ringer illustration\r\nA few years ago, the club of ascendant young quarterbacks in the AFC had a membership of four. Patrick Mahomes, of course, plus Josh Allen, Lamar Jackson, and Joe Bu\u2026 [+10128 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Hollywood Reporter"
-        },
-        "author": "Chris Gardner",
-        "title": "Noah Wyle and Stephen Graham Have Emotional Sidewalk Chat Following Emmy Awards - The Hollywood Reporter",
-        "description": "Graham was especially enthusiastic, praising Wyle\u2019s work on 'The Pitt' as \u201cphenomenal\u201d and adding that he and his wife, Hannah, have been Wyle fans dating back to his days on that other medical drama, \u2018ER.\u2019",
-        "url": "http://www.hollywoodreporter.com/tv/tv-news/noah-wyle-stephen-graham-emmy-awards-wins-pitt-adolescence-1236372130/",
-        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/Stephen-Graham-and-Noah-Wyle-Split-Getty-H-2025.jpg?w=1296&h=730&crop=1",
-        "publishedAt": "2025-09-15T22:56:43Z",
-        "content": "Two of the biggest winners at Sunday night\u2019s Emmy Awards had a chance encounter far from the glamorous backdrop of a red carpet or an A-list-packed afterparty.\r\nShortly after 9:30 p.m. PT, The Pittst\u2026 [+2249 chars]"
-    },
-    {
-        "source": {
-            "id": "ars-technica",
-            "name": "Ars Technica"
-        },
-        "author": "Stephen Clark",
-        "title": "Northrop Grumman\u2019s new spacecraft is a real chonker - Ars Technica",
-        "description": "\u201cWe\u2019re excited that Northrop is ready to deliver this incredibly beneficial increase in capacity.\u201d\u2026",
-        "url": "https://arstechnica.com/space/2025/09/northrop-grummans-new-spacecraft-is-a-real-chonker/",
-        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/ng23encap1-1152x648.jpg",
-        "publishedAt": "2025-09-15T22:22:53Z",
-        "content": null
     }
 ]
