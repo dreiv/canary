@@ -1,16 +1,29 @@
 [
     {
         "source": {
-            "id": "abc-news",
-            "name": "ABC News"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": "ABC News - Breaking News, Latest News and Videos",
-        "title": "How to watch the Charlie Kirk memorial service - ABC News - Breaking News, Latest News and Videos",
-        "description": null,
-        "url": "https://abcnews.go.com/Politics/how-watch-charlie-kirk-memorial-service/story?id\\\\u003d125735217",
-        "urlToImage": null,
-        "publishedAt": "2025-09-20T05:57:19Z",
-        "content": null
+        "author": "Derek Hawkins, Yvonne Wingett Sanchez",
+        "title": "Armed man detained at site of planned memorial service for Charlie Kirk - The Washington Post",
+        "description": "The service, which will feature President Donald Trump and Cabinet members, has a top-level security designation akin to a Super Bowl",
+        "url": "https://www.washingtonpost.com/national-security/2025/09/20/kirk-security-detained-memorial/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G54EPYSNTKGYYGHVBEP5SI6HII.JPG&w=1440",
+        "publishedAt": "2025-09-20T07:03:57Z",
+        "content": "The service, which will feature President Donald Trump and Cabinet members, has a top-level security designation akin to a Super Bowl.\r\nSeptember 20, 2025 at 12:02 a.m. EDTJust now"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "J.D.  Miles, Nathalie Marie Palacios",
+        "title": "Telephone equipment outage causes ground stop at DFW Airport and Dallas Love Field - CBS News",
+        "description": "The failure stranded passengers, diverted planes, and left travelers scrambling to recover lost baggage and rebook flights across North Texas.",
+        "url": "https://www.cbsnews.com/texas/news/delay-incoming-flights-dfw-international-dallas-love-field-airport-friday/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/02/04/d0523b68-4d9e-479c-b4e3-d3fa33a8e54c/thumbnail/1200x630/ed40a6ba82edddb207ece6af0a81a388/DFW-Airport-1.jpg",
+        "publishedAt": "2025-09-20T04:12:01Z",
+        "content": "An unexpected ground stop on Friday at Dallas-Fort Worth International Airport and Dallas Love Field disrupted travel for hundreds of passengers, with more than half of the scheduled flights delayed \u2026 [+1606 chars]"
     },
     {
         "source": {
@@ -24,6 +37,19 @@
         "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/maher.jpg?w=1000",
         "publishedAt": "2025-09-20T03:37:00Z",
         "content": "This week, Bill Maher walked out in front of his live audience to a standing ovation, as the Real Time with Bill Maher host addressed ABC\u2018s suspension of Jimmy Kimmel Live!, comparing it to his own c\u2026 [+5528 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MMA Fighting"
+        },
+        "author": "Damon Martin",
+        "title": "Conor McGregor claims he\u2019s fighting Michael Chandler at UFC White House card - MMA Fighting",
+        "description": "Conor McGregor is confident that he\u2019s finally going to settle some unfinished business with Michael Chandler at the UFC White House card in 2026.",
+        "url": "https://www.mmafighting.com/ufc/404949/conor-mcgregor-claims-hes-fighting-michael-chandler-at-ufc-white-house-card",
+        "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/09/gettyimages-1617831283.jpg?quality=90&strip=all&crop=0%2C5.4032135155253%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-09-20T03:28:00Z",
+        "content": "Conor McGregor is calling his shot.\r\nAs the former two-division UFC champion works his way back to compete for the first time in over four years, hes now named Michael Chandler as the opponent he exp\u2026 [+1878 chars]"
     },
     {
         "source": {
@@ -50,6 +76,19 @@
         "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/20/50f8dbca-2ebb-41f8-8ee9-c840c188c154/thumbnail/1200x675/827f944800e047fcea15977e39c2dbff/091925-mercury.jpg",
         "publishedAt": "2025-09-20T03:25:43Z",
         "content": "The Phoenix Mercury claimed the fourth and final spot in the semifinals of the 2025 WNBA playoffs with a dramatic 79-73 win over the reigning champion New York Liberty in the winner-take-all Game 3 o\u2026 [+1612 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Kyivindependent.com"
+        },
+        "author": "Dmytro Basmat",
+        "title": "2 killed, 27 injured in large-scale Russian missile, drone attack on Ukrainian cities - The Kyiv Independent",
+        "description": "Russia launched a large-scale missile and drone attack on Ukrainian cities overnight on Sept. 20, killing at least two people and injuring 27 others, officials reported.",
+        "url": "https://kyivindependent.com/russia-launches-large-scale-missile-drone-attack-targeting-regions-across-ukraine/",
+        "urlToImage": "https://assets.kyivindependent.com/content/images/2025/09/photo_2025-09-20_00-30-55.jpg",
+        "publishedAt": "2025-09-20T03:15:43Z",
+        "content": "Editor's note: This is a developing story and is being updated.\r\nRussia launched a large-scale missile and drone attack on Ukrainian cities overnight on Sept. 20, killing at least two people and inju\u2026 [+2377 chars]"
     },
     {
         "source": {
@@ -80,41 +119,28 @@
     {
         "source": {
             "id": null,
-            "name": "Hollywood Reporter"
+            "name": "Financial Times"
         },
-        "author": "Chris Gardner",
-        "title": "Marvel Stars Stand for Jimmy Kimmel: Pedro Pascal Defends Free Speech While Others Endorse Boycott - The Hollywood Reporter",
-        "description": "Hollywood stars \u2014 including those with Disney, ABC, Hulu and Marvel Cinematic Universe credits \u2014 are continuing to show their support for the \u2018Jimmy Kimmel Live!\u2019 host in the wake of his suspension.",
-        "url": "http://www.hollywoodreporter.com/tv/tv-news/jimmy-kimmel-suspension-reactions-marvel-disney-stars-1236376120/",
-        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/07/Pedro-Pascal-getty-H-2025.png?w=1296&h=730&crop=1",
-        "publishedAt": "2025-09-20T00:45:00Z",
-        "content": "Jimmy Kimmel, who had his late night show suspended indefinitely by Disney-owned ABC in the wake of comments about the Charlie Kirk shooting suspect, Tyler Robinson, is receiving more support from hi\u2026 [+4662 chars]"
+        "author": "Steff Ch\u00e1vez, Joe Daniels",
+        "title": "US military conducts third fatal strike on alleged drug smuggling vessel - Financial Times",
+        "description": "Earlier attacks targeted alleged Venezuelan cartels that Trump claims were trafficking narcotics",
+        "url": "https://www.ft.com/content/c4cff377-5c2a-4f2f-8a75-f30499e32a35",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe091337a-b5fe-47c8-8499-11e6523f6735.jpg?source=next-barrier-page",
+        "publishedAt": "2025-09-20T01:25:23Z",
+        "content": "was $755now $719 for your first year\r\nGet Premium &amp; FT Weekend Print edition for the price of Premium. Complete digital access to quality analysis and expert insights, complemented with our award\u2026 [+338 chars]"
     },
     {
         "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
+            "id": null,
+            "name": "Suntimes.com"
         },
-        "author": "Joe  Walsh",
-        "title": "Ted Cruz criticizes Trump-appointed FCC chair for urging \"action\" on Jimmy Kimmel: \"Right out of Goodfellas\" - CBS News",
-        "description": "Republican Sen. Ted Cruz of Texas sharply criticized FCC Chair Brendan Carr for his comments on Jimmy Kimmel, calling them \"dangerous as hell\" and likening his move to a mafia shakedown.",
-        "url": "https://www.cbsnews.com/news/ted-cruz-fcc-brendan-carr-jimmy-kimmel-goodfellas-trump/",
-        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/06/17/fb9e9eee-b946-42da-aa14-9e970c085d4d/thumbnail/1200x630/48457b0e3b447b3d3463465b403dd15a/ap25167801559617.jpg",
-        "publishedAt": "2025-09-19T23:51:52Z",
-        "content": "Republican Sen. Ted Cruz of Texas sharply criticized the head of the Federal Communications Commission for urging ABC to crack down on the now-benched late-night host Jimmy Kimmel, calling the Trump \u2026 [+4582 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Brianna Tucker, Amy B Wang",
-        "title": "Congressional candidate thrown to ground during protest outside ICE facility - The Washington Post",
-        "description": "Kat Abughazaleh, a 26-year-old Democratic candidate running for Illinois\u2019s 9th Congressional District seat, was among the demonstrators who clashed with federal agents.",
-        "url": "https://www.washingtonpost.com/politics/2025/09/19/kat-abughazaleh-ice-protest-chicago/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HHEQIJ7J2GIICN35ZTVNHEC2KQ_size-normalized.JPG&w=1440",
-        "publishedAt": "2025-09-19T23:51:38Z",
-        "content": "Federal agents clashed with protesters and threw a congressional candidate to the ground Friday morning during a protest outside a Chicago-area Immigration and Customs Enforcement facility.\r\nThe chao\u2026 [+316 chars]"
+        "author": "Cindy Hernandez, Chip Mitchell | WBEZ, Mohammad Samra",
+        "title": "ICE fires chemical agents at Broadview protest - Chicago Sun-Times",
+        "description": "Federal agents confronted dozens of demonstrators in two separate protests Friday over the detention of people rounded up in the Trump administration's deportation campaign.",
+        "url": "https://chicago.suntimes.com/news/2025/09/19/ice-broadview-protest-write-thru",
+        "urlToImage": "https://cst.brightspotcdn.com/dims4/default/19b991e/2147483647/strip/true/crop/8192x4676+0+394/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffd%2F6e%2F28f626f2497c8af785425e32eb8b%2Fdw5a6212.jpg",
+        "publishedAt": "2025-09-20T00:30:06Z",
+        "content": "Clashes between protesters and federal agents Friday outside the U.S. Immigration and Customs Enforcement facility in Broadview saw an officer shove a congressional candidate to the ground, agents fi\u2026 [+8418 chars]"
     },
     {
         "source": {
@@ -144,6 +170,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Brett James: 'Jesus, Take the Wheel' songwriter dies in plane crash in North Carolina - BBC",
+        "description": "Friends and co-artists remember the Grammy-winning writer as \"a songwriting force of nature\".",
+        "url": "https://www.bbc.com/news/articles/c24rzgrez59o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/750f/live/3250ead0-95ad-11f0-8b02-ff721f50dc42.jpg",
+        "publishedAt": "2025-09-19T23:10:14Z",
+        "content": "Grammy-winning songwriter Brett James, best known for co-writing the 2005 hit song Jesus Take the Wheel, has died in a plane crash in North Carolina.\r\nJames, 57, was one of the three people aboard a \u2026 [+1846 chars]"
+    },
+    {
+        "source": {
             "id": "nbc-news",
             "name": "NBC News"
         },
@@ -154,19 +193,6 @@
         "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250915-capitol-building-se-144p-6138e5.jpg",
         "publishedAt": "2025-09-19T22:27:38Z",
         "content": "WASHINGTON The Senate voted Friday to block dueling Republican and Democratic proposals to keep the federal government funded on a short-term basis, raising the chances of a shutdown at the end of th\u2026 [+6229 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "The Dallas Morning News"
-        },
-        "author": "Jordan  Parker",
-        "title": "DFW, Love Field flights paused due to telephone issue, FAA says - Dallas News",
-        "description": "The FAA said on its website the ground stops will last until 5 p.m. and the probability that the ground stops are extended is between a 30 and 60% chance. A...",
-        "url": "https://www.dallasnews.com/business/airlines/2025/09/19/ground-stop-snarls-flights-to-dfw-love-field/",
-        "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/EGK7L6NO4ZG5ZNLBA6WV5JJ44M.jpg?auth=7ca0cc0605f3166b0777082689b669694691a3a1d5e936213818a26e7e6da5db&quality=80&width=1200&height=630&smart=true",
-        "publishedAt": "2025-09-19T21:33:45Z",
-        "content": "The Federal Aviation Administration issued a ground stop for both DFW International and Dallas Love Field Airports due to what the agency said was a telephone outage, effectively stopping departing a\u2026 [+2251 chars]"
     },
     {
         "source": {
@@ -183,19 +209,6 @@
     },
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Rita Nazareth",
-        "title": "Stocks Hit a Wall After $15 Trillion Run to Record: Markets Wrap - Bloomberg.com",
-        "description": "Wall Street closed out the highly anticipated Federal Reserve week with stocks notching fresh all-time highs as prospects for more rate cuts bolstered the outlook for corporate earnings.",
-        "url": "https://www.bloomberg.com/news/articles/2025-09-18/stock-market-today-dow-s-p-live-updates",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifYrqMknkL40/v0/1200x675.png",
-        "publishedAt": "2025-09-19T21:02:37Z",
-        "content": "Wall Street closed out the highly anticipated Federal Reserve week with stocks notching fresh all-time highs as prospects for more rate cuts bolstered the outlook for corporate earnings.\r\nWhile calls\u2026 [+297 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Hollywood Reporter"
         },
@@ -206,44 +219,5 @@
         "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/05/241121_d4vd_Withering0057-Edit_R-H-2025.jpg?w=1296&h=730&crop=1",
         "publishedAt": "2025-09-19T20:26:15Z",
         "content": "The severely decomposing body discovered at a Los Angeles impound lot inside a Tesla, which was found to be registered to up-and-coming singer D4vd, has been identified as a missing Inland Empire tee\u2026 [+3415 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Tipranks.com"
-        },
-        "author": "David Craik",
-        "title": "Walmart Stock (WMT) Weakens after Probe Finds Safety Issues in Marketplace Selling - TipRanks",
-        "description": "Walmart ($WMT) stock was lower today after question marks were raised about the retail giant\u2019s marketplace practices. Online Surge An investigation by CNBC has clai...",
-        "url": "https://www.tipranks.com/news/walmart-stock-wmt-weakens-after-probe-finds-safety-issues-in-marketplace-selling",
-        "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/marketcnbc-750x406.jpg",
-        "publishedAt": "2025-09-19T20:15:00Z",
-        "content": "Story HighlightsWMT stock is lower after a media investigation into its Marketplace service."
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Space.com"
-        },
-        "author": "Robert Z. Pearlman",
-        "title": "Astronauts find sweet treats aboard extra-large Cygnus supply ship | On the International Space Station Sept. 15-19, 2025 - Space",
-        "description": "Reese's Peanut Butter Cups, Mike & Ike candies and Korean savory treats, too!",
-        "url": "https://www.space.com/space-exploration/international-space-station/astronauts-find-sweet-treats-aboard-extra-large-cygnus-supply-ship-on-the-international-space-station-sept-15-19-2025",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/it8vJ5FgQSXrYVx33mFX64.jpg",
-        "publishedAt": "2025-09-19T20:00:00Z",
-        "content": "The Expedition 73 crew on the International Space Station\r\n (ISS) began their week with the delayed arrival of an extra-large cargo delivery, which, in addition to bringing new science and supplies, \u2026 [+5086 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": null,
-        "title": "Notre Dame Cathedral's iconic towers reopen 6 years after devastating fire - CBS News",
-        "description": "The reopening of Notre Dame's iconic towers in Paris is one of the final steps in the cathedral's immense reconstruction following a devastating fire in 2019.",
-        "url": "https://www.cbsnews.com/news/notre-dame-cathedral-towers-reopen-fire/",
-        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/19/e8dd8e55-722a-47ec-8763-b918c192be71/thumbnail/1200x630/a24b1faf92afe9d2fb757f1462737dff/gettyimages-2235667498.jpg",
-        "publishedAt": "2025-09-19T19:46:02Z",
-        "content": "French President Emmanuel Macron on Friday reopened Notre Dame's iconic towers in Paris for public visits, one of the final steps in the immense reconstruction following a devastating fire.\u00a0\r\nThe ina\u2026 [+3298 chars]"
     }
 ]
