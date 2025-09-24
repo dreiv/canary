@@ -1,16 +1,81 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "BaltimoreRavens.com"
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
-        "author": null,
-        "title": "Ravens Fall to Lions on \u2018Monday Night Football\u2019 | Game Recap - Baltimore Ravens",
-        "description": "The Ravens suffered their second loss of the year with a tough defeat to Detroit.",
-        "url": "https://www.baltimoreravens.com/news/lamar-jackson-derrick-henry-ravens-lions-monday-night-football-recap",
-        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/ravens/czqjaimgqpxdyz7whqvc",
-        "publishedAt": "2025-09-23T03:33:06Z",
-        "content": null
+        "author": "Anand Krishnamoorthy",
+        "title": "Asian Stocks Edge Up After Record on Wall Street: Markets Wrap - Bloomberg",
+        "description": "Asian equities came off session highs, swinging between modest gains and losses after benchmarks in Hong Kong and mainland China retreated.",
+        "url": "https://www.bloomberg.com/news/articles/2025-09-22/stock-market-today-dow-s-p-live-updates",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijMr870uUXqw/v0/1200x675.png",
+        "publishedAt": "2025-09-23T05:57:00Z",
+        "content": "Asian equities came off session highs, swinging between modest gains and losses after benchmarks in Hong Kong and mainland China retreated.\r\nShares in Hong Kong fell 1.1% on lower-than-usual trading \u2026 [+377 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Tom Warren",
+        "title": "A first look at Kojima\u2019s OD Xbox game - The Verge",
+        "description": "Development of OD is \u2018well underway,\u2018 and Microsoft is helping with Unreal Engine technical work.",
+        "url": "https://www.theverge.com/news/783409/od-kojima-xbox-game-trailer",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/od.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "publishedAt": "2025-09-23T05:52:00Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nDevelopment of OD is well underway, and Microsoft is helping with Unreal Engine technical work.\r\nDevelopment of OD is well underway, and Microsoft is helping wit\u2026 [+3411 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Heba Farouk Mahfouz, Claire Parker",
+        "title": "Arab Spring activist Alaa Abdel Fattah released after pardon from Egypt\u2019s Sisi - The Washington Post",
+        "description": "Abdel Fattah was a symbol of the 2011 uprising but was arrested two years later. He has since spent almost all of the past 12 years behind bars.",
+        "url": "https://www.washingtonpost.com/world/2025/09/22/alaa-abdel-fattah-egypt-pardon/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JQFAD6RO5NDDFI33Z7M3WGWWKU.jpg&w=1440",
+        "publishedAt": "2025-09-23T04:05:54Z",
+        "content": "CAIRO Egyptian President Abdel Fatah El-Sisi pardoned the countrys highest-profile political prisoner, the British Egyptian computer programmer and Arab Spring activist Alaa Abdel Fattah, on Monday. \u2026 [+144 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Aamer Madhani",
+        "title": "Trump to take aim at 'globalist institutions,' make case for his foreign policy record in UN speech - AP News",
+        "description": "President Donald Trump will use his address to the United Nations General Assembly to spotlight his second-term foreign policy achievements and lament that \u201cglobalist institutions have significantly decayed the world order.\" That's according to the White Hous\u2026",
+        "url": "https://apnews.com/article/united-nations-unga-trump-global-feb243ecb979d53317dfb1cad9968038",
+        "urlToImage": "https://dims.apnews.com/dims4/default/c469002/2147483647/strip/true/crop/4574x2573+0+238/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8d%2F53%2Fda8353c2eb6c091fd60725ba2540%2F46d7ca7d3d7544f3b9d39b236c65db1d",
+        "publishedAt": "2025-09-23T04:02:00Z",
+        "content": "NEW YORK (AP) Watched by the world, President Donald Trump returns to the United Nations on Tuesday to deliver a wide-ranging address on his second-term foreign policy achievements and lament that gl\u2026 [+6284 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Ariana Eunjung Cha, Matt Viser, Dan Diamond",
+        "title": "As Trump ties Tylenol to autism, doctors raise alarms - The Washington Post",
+        "description": "U.S. officials will issue a warning label on Tylenol for those who are pregnant, a move that contradicts the guidance from the major medical societies.",
+        "url": "https://www.washingtonpost.com/health/2025/09/22/tylenol-autism-trump-announcement/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LTRCC4BDMLEMJORFTB7UW74M6I_size-normalized.JPG&w=1440",
+        "publishedAt": "2025-09-23T03:45:21Z",
+        "content": "The Trump administration on Monday ventured into uncertain scientific territory, calling to limit the use of one medication under investigation for a possible connection to autism while pushing to ex\u2026 [+110 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NBCSports.com"
+        },
+        "author": "Charean Williams",
+        "title": "Monday Night Football: Lions run over Ravens 38-30 - NBC Sports",
+        "description": "Detroit ran for 224 yards and scored four rushing touchdowns.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-lions-run-over-ravens-38-30",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/c640948/2147483647/strip/true/crop/4210x2368+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3d%2F31%2Fde5cf40d411c875bfd393b47454e%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2236833775",
+        "publishedAt": "2025-09-23T03:26:30Z",
+        "content": "There might have been questions about the Lions after a Week 1 loss at Green Bay. Detroit, which had its coaching staff raided in the offseason, answered with back-to-back impressive wins.\r\nAfter blo\u2026 [+1944 chars]"
     },
     {
         "source": {
@@ -40,32 +105,6 @@
     },
     {
         "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "ABC News - Breaking News, Latest News and Videos",
-        "title": "Supreme Court allows Trump firing of FTC commissioner, accepts case for December argument - ABC News - Breaking News, Latest News and Videos",
-        "description": null,
-        "url": "https://abcnews.go.com/Politics/supreme-court-allows-trump-firing-ftc-commissioner-accepts/story?id\\\\u003d125827895",
-        "urlToImage": null,
-        "publishedAt": "2025-09-23T01:47:40Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "The Wall Street Journal",
-        "title": "Stock Market News, Sept. 22, 2025: Nasdaq Rises to Record After Nvidia, OpenAI Link Up - The Wall Street Journal",
-        "description": null,
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-22-2025",
-        "urlToImage": null,
-        "publishedAt": "2025-09-23T01:38:00Z",
-        "content": null
-    },
-    {
-        "source": {
             "id": null,
             "name": "Yahoo Entertainment"
         },
@@ -79,42 +118,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "BBC News"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": null,
-        "title": "'Moonies' church leader arrested over gifts to ex-South Korea first lady - BBC",
-        "description": "Han Hak-ja, who leads the controversial Unification Church, allegedly bribed Kim Keon Hee with luxury gifts.",
-        "url": "https://www.bbc.com/news/articles/cjedkdy7ljno",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a514/live/43ba5190-9813-11f0-af66-0bbad60467c0.jpg",
-        "publishedAt": "2025-09-23T00:53:46Z",
-        "content": "South Korea has arrested the leader of the controversial Unification Church over allegations the organisation bribed South Korea's former first lady in exchange for business and political favours.\r\nH\u2026 [+2805 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "POLITICO.eu"
-        },
-        "author": "Sasha Schroeder",
-        "title": "Poland to Russia: \u2018You have been warned\u2019 so don\u2019t \u2018whine\u2019 if your jets are shot down in NATO airspace - politico.eu",
-        "description": "Rados\u0142aw Sikorski upbraids Moscow for being \u201cincapable of living in peace\u201d with its neighbors following a series of incursions into NATO airspace.",
-        "url": "https://www.politico.eu/article/radoslaw-sikorski-poland-russia-un-security-council-nato/",
-        "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/23/GettyImages-2235069357-scaled.jpg",
-        "publishedAt": "2025-09-23T00:36:00Z",
-        "content": "The incursion into Estonia came after Russia sent drones into both Poland and Romania earlier this month, putting NATO on high alert across Europe.\r\nPolish Prime Minister Donald Tusk said Monday that\u2026 [+933 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "John Hudson",
-        "title": "France defies Trump, recognizes Palestinian statehood despite U.S. pressure - The Washington Post",
-        "description": "Secretary of State Marco Rubio tried to kill France\u2019s recognition of Palestinian statehood, publicly lambasting it as a \u201cgift to Hamas\u201d ahead of the U.N. summit in New York.",
-        "url": "https://www.washingtonpost.com/national-security/2025/09/22/rubio-france-palestine-statehood-un/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5MDNEZG3WCQ5UAHHDICFR56XTQ_size-normalized.jpg&w=1440",
-        "publishedAt": "2025-09-23T00:07:23Z",
-        "content": "NEW YORK France recognized a Palestinian state on Monday, overcoming a months-long push by the Trump administration to intimidate and discourage countries from working with Paris on the initiative.\r\n\u2026 [+263 chars]"
+        "author": "Kelsey Vlamis",
+        "title": "Jensen Huang and Sam Altman React to New H-1B $100K Fee - Business Insider",
+        "description": "Nvidia CEO Jensen Huang and OpenAI CEO Sam Altman reacted to the new H-1B visa fee on Monday, with Huang expressing direct support for Trump.",
+        "url": "https://www.businessinsider.com/jensen-huang-sam-altman-react-new-h1b-100k-fee-2025-9",
+        "urlToImage": "https://i.insider.com/68d1e1f2f9db348adc0bf753?width=1200&format=jpeg",
+        "publishedAt": "2025-09-23T00:51:00Z",
+        "content": "Newly announced changes to the H-1B visa program sparked confusion and chaos in Silicon Valley over the weekend, but two of tech's most prominent leaders seem optimistic.\r\nCNBC interviewed\u00a0Nvidia CEO\u2026 [+1874 chars]"
     },
     {
         "source": {
@@ -128,6 +141,19 @@
         "urlToImage": "https://arc.stimg.co/startribunemedia/4WUPS6HXQ6MEI44ZYZKAGQ6SRM.jpg?&w=1200&ar=1.91:1&fit=crop",
         "publishedAt": "2025-09-22T23:15:00Z",
         "content": "Minnesotas top doctor issued a standing order Monday allowing pharmacists to give COVID-19 vaccines without prescriptions to a broader group of patients than federally recommended.\r\nThe state Departm\u2026 [+1788 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fantasylife.com"
+        },
+        "author": "",
+        "title": "Fantasy Football Takeaways: Trey Benson Headlines Utilization Report For Week 4 - Fantasy Life",
+        "description": "Welcome to the Utilization Report, presented by DraftKings, where Dwain McFarland highlights his top fantasy football takeaways heading into Week 4.",
+        "url": "https://www.fantasylife.com/articles/fantasy/fantasy-football-takeaways-trey-benson-headlines-utilization-rep",
+        "urlToImage": "https://cdn.fantasylife.com/assets/content/large_UR_Week_4_2_80b5db3e5e.webp",
+        "publishedAt": "2025-09-22T23:00:39Z",
+        "content": "\u00a9 2025 Matthew Berry's Fantasy Life1301 6th Ave 42nd Floor New York, NY 10019"
     },
     {
         "source": {
@@ -157,6 +183,19 @@
     },
     {
         "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Mike Blanchfield",
+        "title": "Carney defends move to recognize Palestinian statehood - Politico",
+        "description": "\u201cConsequences of this foreign policy decision will undoubtedly unfold domestically,\u201d Israel's envoy in Ottawa warns.",
+        "url": "https://www.politico.com/news/2025/09/22/carney-defends-recognize-palestinian-statehood-00575763",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ffa%2F9b%2Ff932ebab4918be9f0c1b64ed48f2%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2236325266",
+        "publishedAt": "2025-09-22T21:43:07Z",
+        "content": "Its sustained assault in Gaza has killed tens of thousands of civilians, displaced well over one million people, and caused a devastating and preventable famine in violation of international law, Car\u2026 [+3698 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Pittsburgh Post-Gazette"
         },
@@ -167,19 +206,6 @@
         "urlToImage": "https://f50d772ec1e2a4347264-964b3324d77f313a724faa237152e95f.ssl.cf2.rackcdn.com/stories/202509220043/1140x_a10-7_cTC/20240501LSWICAnniversary-3_1758576579.jpg",
         "publishedAt": "2025-09-22T21:41:01Z",
         "content": "MENU"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Rachel Cohrs Zhang, John Tozzi, Jessica Nix",
-        "title": "White House Floats Doctor Exemptions for $100,000 Visa Fee - Bloomberg.com",
-        "description": "Doctors could qualify for exemptions from the Trump administration\u2019s new $100,000 fee for high-skilled H-1B visa applications, the White House said Monday, after some of the biggest medical bodies called out the risk to rural America where there\u2019s already a d\u2026",
-        "url": "https://www.bloomberg.com/news/articles/2025-09-22/white-house-says-doctors-may-be-exempt-from-100-000-h-1b-fee",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3q0wfrweCzA/v0/1200x800.jpg",
-        "publishedAt": "2025-09-22T21:39:33Z",
-        "content": "Doctors could qualify for exemptions from the Trump administrations new $100,000 fee for high-skilled H-1B visa applications, the White House said Monday, after some of the biggest medical bodies cal\u2026 [+339 chars]"
     },
     {
         "source": {
@@ -206,31 +232,5 @@
         "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/TD_iPhone_Air_4-1152x648-1758575100.jpg",
         "publishedAt": "2025-09-22T21:25:18Z",
         "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NBCSports.com"
-        },
-        "author": "Myles Simmons",
-        "title": "Tests confirm Najee Harris suffered torn Achilles - NBC Sports",
-        "description": "Chargers running back Najee Harris will not be available for the rest of the 2025 season.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tests-confirm-najee-harris-suffered-torn-achilles",
-        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/2c86adc/2147483647/strip/true/crop/4778x2688+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5c%2F69%2Fe5f5ef0744c79afb09e19b1f3c49%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2235846363",
-        "publishedAt": "2025-09-22T20:48:38Z",
-        "content": "Chargers running back Najee Harris will not be available for the rest of the 2025 season. \r\nVia multiple reporters, Los Angeles head coach Jim Harbaugh told reporters in his Monday news conference th\u2026 [+793 chars]"
-    },
-    {
-        "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Liz Kreutz, David K. Li",
-        "title": "Jimmy Kimmel suspension might have been a factor in shooting at Sacramento ABC affiliate, DA says - NBC News",
-        "description": "The man accused of shooting at an ABC affiliate in Sacramento last week may have been motivated in part by that network's suspension of late-night host Jimmy Kimmel, authorities said Monday",
-        "url": "https://www.nbcnews.com/news/us-news/jimmy-kimmel-suspension-might-factor-shooting-sacramento-abc-affiliate-rcna233010",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250922-sacramento-abc-shooting-mn-1415-f9fc3c.jpg",
-        "publishedAt": "2025-09-22T20:21:26Z",
-        "content": "The man accused of shooting at an ABC affiliate in Sacramento last week may have been motivated in part by that network's suspension of late-night host Jimmy Kimmel, authorities said Monday.\r\nThere's\u2026 [+3258 chars]"
     }
 ]
