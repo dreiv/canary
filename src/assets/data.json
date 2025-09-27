@@ -14,6 +14,32 @@
     },
     {
         "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Washington Post staff",
+        "title": "Read the Comey indictment - The Washington Post",
+        "description": "A federal grand jury in Alexandria charged Comey with one count of making false statements and one count of obstruction of Congress. He has denied wrongdoing.",
+        "url": "https://www.washingtonpost.com/national-security/2025/09/25/read-comey-indictment/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ISZEWSAOPCPNQLUOZMXA5L2ZPU_size-normalized.jpg&w=1440",
+        "publishedAt": "2025-09-26T06:40:51Z",
+        "content": "Former FBI director James B. Comey was indicted Thursday on allegations he lied to Congress following an extraordinary demand from President Donald Trump for the Justice Department to prosecute a man\u2026 [+39 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Deadline"
+        },
+        "author": "Anthony D'Alessandro",
+        "title": "\u2018One Battle After Another\u2019 Begins With $2.5M Previews, On Par With \u2018Killers Of The Flower Moon\u2019 \u2013 Box Office - Deadline",
+        "description": "The very expensive Warner Bros Leonardo DiCaprio movie 'One Battle After Another' begins with $2.5M Thursday previews",
+        "url": "http://deadline.com/2025/09/box-office-one-battle-after-another-1236556684/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/MCDONBA_WB014-e1758863034396.jpg?w=1024",
+        "publishedAt": "2025-09-26T05:42:00Z",
+        "content": "EXCLUSIVE: Warner Bros\u2018 original Leonardo DiCaprio movie from Paul Thomas Anderson,One Battle After Another,is posting previews around $2.5M with potential for upside according to sources. \r\nWe keep \u2026 [+2283 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "NPR"
         },
@@ -27,16 +53,16 @@
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": null,
+            "name": "Suntimes.com"
         },
-        "author": "Anthony Faiola, Stefano Pitrelli",
-        "title": "As Gaza engulfs European politics, Italy sends navy ship on unlikely mission - The Washington Post",
-        "description": "Italian Prime Minister Giorgia Meloni, inclined toward Israel, is navigating an uncomfortable position as the Italian navy helps a Gaza aid flotilla.",
-        "url": "https://www.washingtonpost.com/world/2025/09/25/gaza-flotilla-italy-spain-navy-israel/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HEGCIX7VISJLI3BYDPZEY4YNIA_size-normalized.jpg&w=1440",
-        "publishedAt": "2025-09-26T05:18:22Z",
-        "content": "ROME One of President Donald Trumps staunch allies, Italian Prime Minister Giorgia Meloni, took office in 2022 as one of Israels most vocal supporters in Europe. Fast-forward to the present: As the p\u2026 [+128 chars]"
+        "author": "Georgia Nicols",
+        "title": "Horoscope for Friday, September 26, 2025 - Chicago Sun-Times",
+        "description": null,
+        "url": "https://chicago.suntimes.com/horoscopes/2025/09/26/horoscopes-today-friday-september-26-2025",
+        "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+        "publishedAt": "2025-09-26T05:01:00Z",
+        "content": "Moon Alert\r\nAvoid shopping (except food and gas) and important decisions from 12:15 p.m. to 5 p.m. After that, the moon moves from Scorpio into Sagittarius.\r\nAries (March 21-April 19)\r\n Some practica\u2026 [+3850 chars]"
     },
     {
         "source": {
@@ -53,29 +79,55 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Arizona Sports"
+            "id": "axios",
+            "name": "Axios"
         },
-        "author": "Dan Bickley",
-        "title": "Marvin Harrison Jr. potentially turning corner is only hope for Cardinals\u2019 broken offense - Arizona Sports",
-        "description": "Marvin Harrison Jr. showed real toughness in how he fought through mistakes on Thursday, sparking a near-comeback for the Cardinals.",
-        "url": "https://arizonasports.com/nfl/arizona-cardinals/marvin-harrison-jr-corner/3597253/",
-        "urlToImage": "https://arizonasports.com/wp-content/uploads/2025/09/GettyImages-2237442195-e1758860366330.jpg",
-        "publishedAt": "2025-09-26T04:20:22Z",
-        "content": "Game balls are not dispensed for moral victories in the NFL.\r\nNot in Year 3 of a painstaking rebuild in Arizona, where the Cardinals have now lost two divisional games in the span of five days. But i\u2026 [+2078 chars]"
+        "author": "Rebecca Falconer",
+        "title": "Trump slams \"radical left\" after signing \"organized political violence\" memo - Axios",
+        "description": "Trump mentioned Democratic Party donors George Soros and Reid Hoffman when a reporter asked for names of possible targets.",
+        "url": "https://www.axios.com/2025/09/26/trump-organized-political-violence-radical-left",
+        "urlToImage": "https://images.axios.com/Dkh9iGPacQIGg8LmbRwbbQe1V3c=/0x0:8359x4702/1366x768/2025/09/26/1758857029876.jpeg",
+        "publishedAt": "2025-09-26T04:21:31Z",
+        "content": "<ul><li>ACLU issued a statement saying the memo is part of Trump's \"larger pattern of abusing his power to target critics through invocations of law enforcement, national security, and financial sanc\u2026 [+2722 chars]"
     },
     {
         "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
+            "id": null,
+            "name": "KHOU.com"
         },
-        "author": null,
-        "title": "Alabama man convicted of killing store clerk in 1997 is executed by nitrogen gas - CBS News",
-        "description": "Alabama on Thursday night executed Geoffrey Todd West, 50, by nitrogen gas for the 1997 fatal shooting of Margaret Parrish Berry, 33.",
-        "url": "https://www.cbsnews.com/news/alabama-executes-geoffrey-todd-west-nitrogen-gas-1997-shooting-death-store-clerk/",
-        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/26/f56c407d-03ab-40b8-8aa6-a3839ca5a1ff/thumbnail/1200x630/58204d1805e03349c1fef18305f3acfb/ap25266002043731.jpg",
-        "publishedAt": "2025-09-26T01:30:51Z",
-        "content": "An Alabama man convicted of killing a woman during a 1997 gas station robbery was put to death Thursday after apologizing to his victim's family and pleas from the woman's son to spare his life.\u00a0\r\nGe\u2026 [+4718 chars]"
+        "author": "Andrew Weil",
+        "title": "Texas Starbucks store closings: Here's the list, so far, of locations shutting down in the Houston area - KHOU",
+        "description": "The coffee chain's website and employees have confirmed a list of closures.",
+        "url": "https://www.khou.com/article/news/local/texas-starbucks-closing-list-houston/285-e477339a-1d0a-4b35-8380-98bf1ce0e32f",
+        "urlToImage": "https://media.khou.com/assets/KHOU/images/24a0fa53-91db-4bbe-ad2e-409f3f6b51b7/20250224T182557/24a0fa53-91db-4bbe-ad2e-409f3f6b51b7_1140x641.jpg",
+        "publishedAt": "2025-09-26T03:01:00Z",
+        "content": "HOUSTON Starbucks announced Thursday it's closing hundreds of stores in the U.S., Canada and Europe.\u00a0\r\nThe Seattle-based coffee giant said store closures would start immediately.\r\nAs of Sept. 25, we'\u2026 [+755 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Seattle Times"
+        },
+        "author": "Adam Jude",
+        "title": "Cal Raleigh rewards fan who caught HR No. 60 and then gave it to a kid - The Seattle Times",
+        "description": "The mystery Mariners fan who caught Cal Raleigh's 60th home run ball and then gave it away to a young fan was back at T-Mobile Park Thursday for a special meeting.",
+        "url": "https://www.seattletimes.com/sports/mariners/mariners-cal-raleigh-meets-mystery-fan-who-caught-no-60-and-then-gave-it-away/",
+        "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/09/09252025_tzr_tzr_183418.jpg?d=1200x630",
+        "publishedAt": "2025-09-26T02:38:02Z",
+        "content": "Moral of the story is, nice guys finish with a front-row seat.\r\nGlenn Mutti-Driscoll, sitting in the right place at the right time, reached out his right hand and caught Cal Raleigh\u2019s historic 60th h\u2026 [+2858 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Jason Lalljee",
+        "title": "How to get a refund from the Amazon Prime FTC settlement - Axios",
+        "description": "Amazon.com will pay $2.5 billion in penalties and refunds to settle its suit with the FTC.",
+        "url": "https://www.axios.com/2025/09/25/amazon-prime-settlement-refund-eligibility-ftc",
+        "urlToImage": "https://images.axios.com/ifU131fZlxdgiaMzjRFlzWuTncg=/0x275:6000x3650/1366x768/2025/09/25/1758831730059.jpeg",
+        "publishedAt": "2025-09-26T00:47:31Z",
+        "content": "Driving the news: In addition to the penalties and refunds, Amazon agreed to have improved disclosures and a simple way to cancel subscriptions. \r\nWhat they're saying: \"Today, the Trump-Vance FTC mad\u2026 [+3952 chars]"
     },
     {
         "source": {
@@ -92,16 +144,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Variety"
+            "id": "abc-news",
+            "name": "ABC News"
         },
-        "author": "Brian Steinberg",
-        "title": "NBCUniversal Could Be Headed for YouTube TV Blackout - Variety",
-        "description": "NBCUniversal and YouTube TV are squabbling over renewal terms for their distribution contract and may head for ablackout if no agreement is reached",
-        "url": "https://variety.com/2025/tv/news/nbcuniversal-youtube-tv-blackout-contract-1236529578/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2019/04/variety-cord-cutting-placeholder.jpg?w=1000&h=562&crop=1",
-        "publishedAt": "2025-09-26T00:00:00Z",
-        "content": "YouTube TV has grappled with carriage-contract showdowns in recent weeks with Fox Corp. and TelevisaUnivison. Next up: NBCUniversal.\r\nNBCU on Thursday evening started telling YouTube TV subscribers t\u2026 [+3015 chars]"
+        "author": "ABC News - Breaking News, Latest News and Videos",
+        "title": "Video shows the moment gunfire erupts at ICE facility in Dallas: Exclusive - ABC News - Breaking News, Latest News and Videos",
+        "description": null,
+        "url": "https://abcnews.go.com/US/video-shows-moment-gunfire-erupts-ice-facility-dallas/story?id\\\\u003d125947524",
+        "urlToImage": null,
+        "publishedAt": "2025-09-26T00:00:41Z",
+        "content": null
     },
     {
         "source": {
@@ -109,11 +161,24 @@
             "name": "ABC News"
         },
         "author": "ABC News - Breaking News, Latest News and Videos",
-        "title": "Hegseth calls rare meeting of large number of generals and admirals - ABC News - Breaking News, Latest News and Videos",
+        "title": "Parents of girl still missing from Camp Mystic flooding calls reopening of camp 'unthinkable' - ABC News - Breaking News, Latest News and Videos",
         "description": null,
-        "url": "https://abcnews.go.com/Politics/hegseth-calls-rare-meeting-large-number-generals-admirals/story?id\\\\u003d125935650",
+        "url": "https://abcnews.go.com/US/parents-girl-missing-camp-mystic-flooding-calls-reopening/story?id\\\\u003d125936638",
         "urlToImage": null,
-        "publishedAt": "2025-09-25T23:48:45Z",
+        "publishedAt": "2025-09-26T00:00:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "The Wall Street Journal",
+        "title": "The TV Boss Who Kicked Kimmel Off His Stations and Started a Firestorm - The Wall Street Journal",
+        "description": null,
+        "url": "https://www.wsj.com/business/media/who-is-nexstar-ceo-jimmy-kimmel-724f4da7",
+        "urlToImage": null,
+        "publishedAt": "2025-09-26T00:00:00Z",
         "content": null
     },
     {
@@ -144,16 +209,16 @@
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": "politico",
+            "name": "Politico"
         },
-        "author": "Ben Berkowitz, Dan Primack",
-        "title": "Trump signs order allowing TikTok deal to proceed - Axios",
-        "description": "A deal still isn't done, but it's closer to happening than it's ever been before.",
-        "url": "https://www.axios.com/2025/09/25/tiktok-trump-deal",
-        "urlToImage": "https://images.axios.com/KKK6S64jnp5e0DLTLE7bIVO1tHo=/1366x768/smart/2023/03/24/152514-1679671514250.jpg",
-        "publishedAt": "2025-09-25T22:42:03Z",
-        "content": "Driving the news: The order Trump signed Thursday certifies that the deal that's been negotiated meets the requirements of a law passed by Congress last year, requiring TikTok be sold or banned.\r\n<ul\u2026 [+1995 chars]"
+        "author": "Paul McLeary",
+        "title": "Trump bills Hegseth\u2019s unusual meeting with generals as a friendly meet-up - Politico",
+        "description": "The Defense secretary demanded hundreds of top officials come to a base near Washington next week but did not say why.",
+        "url": "https://www.politico.com/news/2025/09/25/trump-hegseth-meeting-generals-00581413",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fee%2Fe3%2Fe869f4e64946b2ae526fcfca3cb8%2Ftrump-71994.jpg",
+        "publishedAt": "2025-09-25T22:51:26Z",
+        "content": "The sudden meeting has led to frantic travel plans and concerns from some defense officials, who worry about the disruption it will cause to their schedules and the security aspects of having most of\u2026 [+2025 chars]"
     },
     {
         "source": {
@@ -171,79 +236,14 @@
     {
         "source": {
             "id": null,
-            "name": "Page Six"
-        },
-        "author": "Antoinette Bueno",
-        "title": "Corey Feldman blasts Maksim Chmerkovskiy's claim that Jenna Johnson had a 'difficult time' with him on 'DWTS' - Page Six",
-        "description": "The \u201cStand by Me\u201d actor left a pointed comment on his \u201cDancing With the Stars\u201d partner\u2019s Instagram post.",
-        "url": "https://pagesix.com/2025/09/25/entertainment/corey-feldman-blasts-maksim-chmerkovskiys-claim-that-jenna-johnson-had-a-difficult-time-with-him-on-dwts/",
-        "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2025/09/112131013.jpg?quality=75&strip=all&w=1024",
-        "publishedAt": "2025-09-25T21:58:00Z",
-        "content": "Corey Feldman insisted that he practiced hard for \u201cDancing With the Stars\u201d despite claims that he didn\u2019t have a good work ethic. Jenna Johnson/Instagram\r\nCorey Feldman blasted claims that he and his \u2026 [+3569 chars]"
-    },
-    {
-        "source": {
-            "id": "usa-today",
-            "name": "USA Today"
-        },
-        "author": "Ramon Padilla",
-        "title": "Kimmel's ratings spike. See the numbers, his monologue and which stations didn't air the show - USA Today",
-        "description": "See what Jimmy Kimmel said about Charlie Kirk, why he got cancelled, and the full monologue that caused his viewership to skyrocket.",
-        "url": "https://www.usatoday.com/story/graphics/2025/09/25/where-jimmy-kimmel-not-aired-ratings-charts/86350749007/",
-        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/25/USAT/86353151007-kimmeltopper.png?crop=4328,2434,x1663,y774&width=3200&height=1800&format=pjpg&auto=webp",
-        "publishedAt": "2025-09-25T21:52:16Z",
-        "content": "\"Anyway, as I was saying before I was interrupted,\" began Jimmy Kimmel as he returned to his late-night comedy show on Sept. 23 with better ratings than he had seen for years.\r\nKimmel's comeback brou\u2026 [+3295 chars]"
-    },
-    {
-        "source": {
-            "id": "ign",
-            "name": "IGN"
-        },
-        "author": "Jim Vejvoda",
-        "title": "Spaceballs 2 Announces Start of Production With a Star Wars: The Force Awakens Parody Photo - IGN",
-        "description": "Amazon MGM Studios announced Thursday that Spaceballs 2 is now in production by releasing a behind-the-scenes photo of the cast doing a table read, which is a send-up of the famous Star Wars: The Force Awakens cast table read photo from 2014.",
-        "url": "https://www.ign.com/articles/spaceballs-2-announces-start-of-production-with-a-star-wars-the-force-awakens-parody-photo",
-        "urlToImage": "https://assets-prd.ignimgs.com/2025/09/25/spaceballs-dark-helmet-rick-moranis-1280x720-1758835035089.jpeg?width=1280&format=jpg&auto=webp&quality=80",
-        "publishedAt": "2025-09-25T21:25:43Z",
-        "content": "Amazon MGM Studios announced Thursday that Spaceballs 2, the long-awaited sequel to the 1987 sci-fi comedy and Star Wars parody, is now in production. The studio also released a behind-the-scenes pho\u2026 [+2570 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Zack Whittaker, Sarah Perez",
-        "title": "Viral call-recording app Neon goes dark after exposing users' phone numbers, call recordings, and transcripts - TechCrunch",
-        "description": "Call recording app Neon was one of the top-ranked iPhone apps, but was pulled offline after a security bug allowed any logged-in user to access the call recordings and transcripts of any other user.",
-        "url": "https://techcrunch.com/2025/09/25/viral-call-recording-app-neon-goes-dark-after-exposing-users-phone-numbers-call-recordings-and-transcripts/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/neon-phone-app-smaller.jpg?resize=1200,800",
-        "publishedAt": "2025-09-25T21:10:00Z",
-        "content": "A viral app called Neon, which offers to record your phone calls and pay you for the audio so it can sell that data to AI companies, has rapidly risen to the ranks of the top-five free iPhone apps si\u2026 [+4908 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Spaceflight Now"
+            "name": "Whitehouse.gov"
         },
         "author": null,
-        "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg - Spaceflight Now",
-        "description": null,
-        "url": "https://spaceflightnow.com/2025/09/25/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-2/",
-        "urlToImage": null,
-        "publishedAt": "2025-09-25T20:54:31Z",
-        "content": "File: A SpaceX Falcon 9 rocket stands in the launch position during sunset at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California. Image: SpaceX\r\nUpdate Sept. 26, 1 a.m.\u2026 [+1070 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Caroline Haskins",
-        "title": "Amazon Will Pay $2.5 Billion to Settle FTC Suit That Alleged \u2018Dark Patterns\u2019 in Prime Sign-Ups - WIRED",
-        "description": "Amazon will pay both the Federal Trade Commission and consumers directly to settle a lawsuit alleging that it used manipulative and deceptive tactics to encourage sign-ups for Prime.",
-        "url": "https://www.wired.com/story/amazon-ftc-settlement-prime-dark-patterns/",
-        "urlToImage": "https://media.wired.com/photos/68d569fb76743967bd8569ca/191:100/w_1280,c_limit/FTC-Amazon-Prime-Settlement-Business-2213559465.jpg",
-        "publishedAt": "2025-09-25T20:20:00Z",
-        "content": "In the six-year time frame established in the settlement, anyone who unsuccessfully attempted to cancel their Prime subscription online is eligible to get paid up to $51 from Amazon. People who signe\u2026 [+3667 chars]"
+        "title": "Fact Sheet: President Donald J. Trump Saves TikTok While Protecting National Security - The White House (.gov)",
+        "description": "SAVING TIKTOK FROM GOING DARK: Today, President Donald J. Trump signed an Executive Order saving TikTok from a ban while protecting America\u2019s national",
+        "url": "https://www.whitehouse.gov/fact-sheets/2025/09/fact-sheet-president-donald-j-trump-saves-tiktok-while-protecting-national-security/",
+        "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
+        "publishedAt": "2025-09-25T22:02:17Z",
+        "content": "SAVING TIKTOK FROM GOING DARK: Today, President Donald J. Trump signed an Executive Order saving TikTok from a ban while protecting Americas national security.\r\n<ul><li>President Trump has determined\u2026 [+4117 chars]"
     }
 ]
