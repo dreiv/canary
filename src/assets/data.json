@@ -1,6 +1,32 @@
 [
     {
         "source": {
+            "id": null,
+            "name": "IFLScience"
+        },
+        "author": "Tom Hale",
+        "title": "Interstellar Object 3I/ATLAS Appeared To Turn From Red To Green. Why? - IFLScience",
+        "description": "It ain't easy be green.",
+        "url": "https://www.iflscience.com/interstellar-object-3iatlas-appeared-to-turn-from-red-to-green-why-80962",
+        "urlToImage": "https://assets.iflscience.com/assets/articleNo/80962/aImg/86671/green-comet-meta.jpg",
+        "publishedAt": "2025-09-28T08:12:36Z",
+        "content": "When 3I/ATLAS was first spotted a few months ago, it seemed to emit a reddish color. But earlier this month, some astronomers noted it was glowing green. So why is our latest interstellar visitor app\u2026 [+2906 chars]"
+    },
+    {
+        "source": {
+            "id": "espn",
+            "name": "ESPN"
+        },
+        "author": "Max Olson",
+        "title": "Ducks' Moore breaks through in 2OT upset of PSU - ESPN",
+        "description": "Oregon coach Dan Lanning touted Dante Moore as the best quarterback in the nation after his poised performance led the Ducks to a 30-24 double-overtime win over Penn State.",
+        "url": "https://www.espn.com/college-football/story/_/id/46406122/oregon-lanning-touts-moore-best-qb-beating-penn-state",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0928%2Fr1552238_1296x729_16%2D9.jpg",
+        "publishedAt": "2025-09-28T06:24:00Z",
+        "content": "STATE COLLEGE, Pa. -- For the first time all night, Dante Moore was overwhelmed. The Oregon quarterback paused his victory lap and bent over, staring down at the Beaver Stadium grass while trying his\u2026 [+4469 chars]"
+    },
+    {
+        "source": {
             "id": "associated-press",
             "name": "Associated Press"
         },
@@ -11,19 +37,6 @@
         "urlToImage": "https://dims.apnews.com/dims4/default/680ff02/2147483647/strip/true/crop/1620x911+0+84/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5d%2F47%2F003cc0c45b4ea614c5b6cad75f79%2F25fb40dbb6f64d5591568e2242d5b33a",
         "publishedAt": "2025-09-28T05:47:00Z",
         "content": "NEW DELHI (AP) A stampede at a rally for a popular Indian actor and politician in the southern state of Tamil Nadu killed at least 36 people and injured 40 others, the states health minister said lat\u2026 [+2462 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Drake Riggs",
-        "title": "UFC Perth results: Carlos Ulberg destroys Dominick Reyes with ferocious KO, punches likely title shot ticket - Yahoo Sports",
-        "description": "Ulberg didn't waste any time putting a stamp on his first UFC main event Saturday night at the RAC Arena in Perth, Australia.",
-        "url": "https://sports.yahoo.com/mma/breaking-news/live/ufc-perth-live-updates-carlos-ulberg-vs-dominick-reyes-results-round-by-round-analysis-highlights-060038930.html",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/z8x3Av012A3J6PnYTX.KBw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/28a64bd0-9c27-11f0-beae-1ea27a299180",
-        "publishedAt": "2025-09-28T05:31:00Z",
-        "content": "Carlos Ulberg didn't waste any time putting a stamp on his first UFC main event against Dominick Reyes on Saturday night at the RAC Arena in Perth, Australia. The surging Kiwi contender extended his \u2026 [+3585 chars]"
     },
     {
         "source": {
@@ -41,15 +54,15 @@
     {
         "source": {
             "id": null,
-            "name": "OregonLive"
+            "name": "The Action Network"
         },
-        "author": "James Crepea | The Oregonian/OregonLive",
-        "title": "What Dan Lanning said after No. 6 Oregon beats No. 3 Penn State in double-overtime thriller - OregonLive.com",
-        "description": "Follow live updates from Dan Lanning's postgame press conference",
-        "url": "https://www.oregonlive.com/ducks/2025/09/live-updates-dan-lanning-postgame-press-conference-after-no-6-oregon-beats-no-3-penn-state-in-double-overtime-thriller.html",
-        "urlToImage": "https://www.oregonlive.com/resizer/v2/GOJN5GJSHJHQ7JJCGNGNPR2UH4.jpg?auth=4780525eaddd97136037b11d81f1d1540c4a7eb7fedc204dd49eec4ed921a825&width=1280&smart=true&quality=90",
-        "publishedAt": "2025-09-28T03:29:00Z",
-        "content": "STATE COLLEGE, Pa. No. 6 Oregon defeated No. 3 Penn State 30-24 in double overtime Saturday night at Beaver Stadium.\r\nDan Lanning recapped the fifth win of the season for the Ducks (5-0, 2-0 Big Ten)\u2026 [+2253 chars]"
+        "author": "Brandon Anderson",
+        "title": "Vikings vs Steelers Prediction, Pick, Odds for NFL Week 4 - Action Network",
+        "description": "The Minnesota Vikings (2-1) and Pittsburgh Steelers (2-1) will face off in NFL Week 4. Kickoff is set for 9:30 a.m. ET from Croke Park in Dublin, Ireland.",
+        "url": "https://www.actionnetwork.com/nfl/minnesota-vikings-vs-pittsburgh-steelers-prediction-pick-odds-nfl-week-4-september-28-qs",
+        "urlToImage": "https://images.actionnetwork.com/blog/2025/09/Vikings-Steelers.png",
+        "publishedAt": "2025-09-28T03:32:00Z",
+        "content": "The Minnesota Vikings (2-1) and Pittsburgh Steelers (2-1) will face off in NFL Week 4. Kickoff is set for 9:30 a.m. ET from Croke Park in Dublin, Ireland. The game will broadcast live on NFL Network.\u2026 [+4240 chars]"
     },
     {
         "source": {
@@ -132,45 +145,6 @@
     {
         "source": {
             "id": null,
-            "name": "Thefriedegg.com"
-        },
-        "author": null,
-        "title": "Keegan Bradley, Team USA Compounding Mistakes at 2025 Ryder Cup - Fried Egg Golf",
-        "description": "Keegan Bradley and the U.S. Ryder Cup team doubled down on Saturday at Bethpage Black and compounded mistakes at the 2025 Ryder Cup",
-        "url": "https://www.thefriedegg.com/articles/2025-ryder-cup-usa-keegan-bradey-mistakes",
-        "urlToImage": "https://cdn.prod.website-files.com/67ab6ef769ff843db623d709/68d85a03779e4e4090a78c60_keegan-decisions-seo.jpg",
-        "publishedAt": "2025-09-27T23:07:14Z",
-        "content": "At 7:07 a.m. ET, Collin Morikawa was on the driving range finishing his swing with just one hand on the club, exhaling and adjusting his hat before going back to the well. By 8:53 a.m. ET, a member o\u2026 [+4877 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": null,
-        "title": "At least 4 dead in Arizona following devastating flooding - CBS News",
-        "description": "In the rural community of Globe, one of Arizona's oldest mining towns, sheriff deputies are looking into reports of people who may be missing.",
-        "url": "https://www.cbsnews.com/news/arizona-flood-deaths-propane-hazmat-situation/",
-        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/27/509d822d-8230-4b63-be7f-f9c3263d9538/thumbnail/1200x630/f3c724bee20931b83ea2392d28b47958/ap25270768653120.jpg",
-        "publishedAt": "2025-09-27T22:59:00Z",
-        "content": "At least four people are confirmed dead after heavy rain caused flooding in Arizona, and hundreds of propane tanks have created a hazardous situation in a rural community devastated by the floods.\r\nT\u2026 [+2682 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Nino Paoli",
-        "title": "Walmart CEO wants 'everybody to make it to the other side' and the retail giant will keep headcount flat for now even as AI changes every job - Fortune",
-        "description": "But Walmart's 2.1 million-strong workforce will change in composition due to AI.",
-        "url": "https://fortune.com/2025/09/27/ai-ceos-job-market-transformation-walmart-accenture-salesforce/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-1920821231-e1759010745640.jpg?resize=1200,600",
-        "publishedAt": "2025-09-27T22:24:00Z",
-        "content": "CEOs arent shying away from what labor market experts have been saying for months: AI is transforming the workforce.From bankers to consulting firms, business leaders are restructuring rapidly as AI \u2026 [+2949 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Deadline"
         },
         "author": "Glenn Garner",
@@ -180,6 +154,19 @@
         "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/P1162M6X-e1759009235355.jpg?w=910",
         "publishedAt": "2025-09-27T21:41:00Z",
         "content": "While on pause from filming Spider-Man: Brand New Day after suffering a concussion on the Glasgow set, Tom Holland has shared an update with fans.\r\nThe actor noted he\u2019s \u201cfeeling better and on the men\u2026 [+1346 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News - Breaking News, Latest News and Videos",
+        "title": "Arizona flooding kills 4, causes 1,000 propane tanks to wash away in hazmat concern - ABC News - Breaking News, Latest News and Videos",
+        "description": null,
+        "url": "https://abcnews.go.com/US/arizona-flooding-kills-4-causes-1000-propane-tanks/story?id\\\\u003d126002533",
+        "urlToImage": null,
+        "publishedAt": "2025-09-27T21:00:00Z",
+        "content": null
     },
     {
         "source": {
@@ -196,28 +183,28 @@
     },
     {
         "source": {
-            "id": "politico",
-            "name": "Politico"
+            "id": "axios",
+            "name": "Axios"
         },
-        "author": "Kyle Cheney, Irie Sentner",
-        "title": "Trump falsely suggests FBI agents to blame for igniting Jan. 6 violence - Politico",
-        "description": "The president\u2019s baseless claim continued a yearslong effort to rewrite the history of the Capitol attack.",
-        "url": "https://www.politico.com/news/2025/09/27/trump-january-6-fbi-00583383",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F06%2F96%2F427e35984002923e021c2c112c15%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1230454306",
-        "publishedAt": "2025-09-27T17:54:46Z",
-        "content": "In reality, the inspector general of the Justice Department revealed 10 months ago that hundreds of FBI agents went to the Capitol to assist at the request of the beleaguered Capitol Police. The bure\u2026 [+2684 chars]"
+        "author": "Lauren Floyd, Marc Caputo",
+        "title": "Colombian president accuses Trump of violating UN principles after visa revoked - Axios",
+        "description": "\"Time to go to a more democratic place,\" Petro said in an X statement.",
+        "url": "https://www.axios.com/2025/09/27/trump-gustavo-petro-visa-revoked-colombia-president",
+        "urlToImage": "https://images.axios.com/QCYcuA2VOYTqqTjkVD7HLtyulzY=/0x19:3334x1894/1366x768/2025/09/27/1759001608916.jpeg",
+        "publishedAt": "2025-09-27T20:17:09Z",
+        "content": "Colombian President Gustavo Petro accused President Trump on Saturday of violating \"founding principles\" of the United Nations after the U.S. State Department announced it will revoke the Colombian p\u2026 [+253 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Thedebrief.org"
+            "name": "Avon, CT Patch"
         },
-        "author": "Micah Hanks, Micah Hanks",
-        "title": "Unusual New 3I/ATLAS Discovery Suggests the Interstellar Comet is \u201cAnomalously Massive\u201d - The Debrief",
-        "description": "The mysterious comet 3I/ATLAS is \"anomalously massive\" compared to past interstellar objects observed in our solar system, a new study suggests.",
-        "url": "https://thedebrief.org/unusual-new-3i-atlas-discovery-suggests-the-interstellar-comet-is-anomalously-massive/",
-        "urlToImage": "https://thedebrief.b-cdn.net/wp-content/uploads/2025/09/3IATLAS-Gemini-South.jpg",
-        "publishedAt": "2025-09-27T17:26:08Z",
-        "content": "The mysterious comet 3I/ATLAS appears to be extremely large, making it orders of magnitude more massive than two other confirmed interstellar objects observed in our solar system in years past, a new\u2026 [+10617 chars]"
+        "author": "Michael Wittner",
+        "title": "Nightmare Bacteria, Superbugs On The Rise In California - Patch",
+        "description": "California is battling a deadly drug-resistant fungus at the same time a 'nightmare bacteria' is surging nationwide.",
+        "url": "https://patch.com/california/across-ca/nightmare-bacteria-superbugs-rise-california",
+        "urlToImage": "https://patch.com/img/cdn20/users/24074589/20250924/012535/styles/patch_image/public/img-8594___24132230910.jpg",
+        "publishedAt": "2025-09-27T19:20:32Z",
+        "content": "Infection rates from drug-resistant nightmare bacteria have spiked across the United States and in California at the same time a fungal superbug is spreading in the Golden State, according to a new r\u2026 [+5557 chars]"
     }
 ]
