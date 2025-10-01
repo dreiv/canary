@@ -1,6 +1,58 @@
 [
     {
         "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Paula Seligson, Claire Ruckin, Aaron Weinman",
+        "title": "JPMorgan\u2019s $20 Billion EA Deal Marks Win Over Private Credit - Bloomberg.com",
+        "description": "The $55 billion take-private of Electronic Arts Inc. has evoked several superlatives, including being heralded as the biggest leveraged buyout of all time. Part of that list is JPMorgan Chase &amp; Co.\u2019s $20 billion of financing \u2014 the largest debt commitment \u2026",
+        "url": "https://www.bloomberg.com/news/articles/2025-09-29/jpmorgan-s-20-billion-ea-check-marks-win-over-private-credit",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2pcA2w9SU8o/v1/1200x799.jpg",
+        "publishedAt": "2025-09-30T07:24:44Z",
+        "content": "The $55 billion take-private of Electronic Arts Inc. has evoked several superlatives, including being heralded as the biggest leveraged buyout of all time. Part of that list is JPMorgan Chase &amp; C\u2026 [+326 chars]"
+    },
+    {
+        "source": {
+            "id": "bleacher-report",
+            "name": "Bleacher Report"
+        },
+        "author": "B/R NFL Staff",
+        "title": "B/R Experts Week 5 NFL Power Rankings - Bleacher Report",
+        "description": "We're one month into the 2025 NFL season, and as usual, not everything has gone according to the script.",
+        "url": "https://bleacherreport.com/articles/25254039-br-experts-week-5-nfl-power-rankings",
+        "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/ap_images/e6ad15739b8d4d97aac528d882730e42/Saints_Bills_Football_70991_6601x3714_(0,605).jpg?w=3800&h=2000",
+        "publishedAt": "2025-09-30T07:03:03Z",
+        "content": "10 of 32Last Week:\u00a022\r\nWeek 5 Result:\u00a0Tied vs. Green Bay 40-40 (OT)\r\nMicah Parsons didn't exact his revenge against his old team. The Dallas Cowboys didn't prove anything, either, since their Sunday \u2026 [+805 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Rebecca Falconer",
+        "title": "Read: Judge pauses Trump administration's VOA cuts in scathing order - Axios",
+        "description": "Actions of Trump officials in the case that names Kari Lake as a defendant \"readily support contempt proceedings,\" the judge said.",
+        "url": "https://www.axios.com/2025/09/30/trump-voice-of-america-cuts-judge-order-kari-lake",
+        "urlToImage": "https://images.axios.com/hEdwk84jxUgr-D4peRwcgNX7wPc=/0x0:4054x2280/1366x768/2025/09/30/1759206783869.jpeg",
+        "publishedAt": "2025-09-30T05:39:09Z",
+        "content": "<ul><li>The Reagan-appointed judge said the \"disrespect\" the administration had shown the court in disregarding previous orders could result in contempt proceedings.</li></ul>Driving the news: Lake c\u2026 [+1647 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Sports Illustrated"
+        },
+        "author": "Gilberto Manzano",
+        "title": "Not Even Joe Burrow Could Save the Bengals Now - Sports Illustrated",
+        "description": "Cincinnati\u2019s second blowout loss in as many weeks highlighted major roster holes that would prevent the team from contending even if its star QB were healthy.",
+        "url": "https://www.si.com/nfl/not-even-joe-burrow-could-save-cincinnati-bengals-now",
+        "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3263,h_1835,x_254,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01k6cfh0jsammqrh98jk.jpg",
+        "publishedAt": "2025-09-30T05:02:58Z",
+        "content": "Lets not waste any more time here because the Bengals have been decaying for a while now.\u00a0\r\nThe Bengals are cooked and we probably could have put a fork in their season before Monday nights 283 debac\u2026 [+3945 chars]"
+    },
+    {
+        "source": {
             "id": "associated-press",
             "name": "Associated Press"
         },
@@ -14,16 +66,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Understandingwar.org"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": "Nadia Sleiman",
-        "title": "Iran Update, September 29, 2025 - Institute for the Study of War",
-        "description": "Toplines The European Union (EU) reimposed sanctions on Iran on September 29 that it had lifted under the 2015 Joint Comprehensive Plan of Action (JCPOA). The EU\u2019s reimposition of sanctions comes after the United Nations Security Council (UNSC) reimposed snap\u2026",
-        "url": "https://understandingwar.org/research/middle-east/iran-update-september-29-2025/",
-        "urlToImage": "https://understandingwar.org/wp-content/uploads/2025/08/Iran-Update-Thumbnail-corrected_207.webp",
-        "publishedAt": "2025-09-30T04:35:03Z",
-        "content": null
+        "author": "Noah Robertson, Tara Copp, Alex Horton, Dan Lamothe",
+        "title": "Military leaders voice concern over Hegseth\u2019s new Pentagon strategy - The Washington Post",
+        "description": "Top military officials have voiced concern over the Trump administration\u2019s forthcoming defense strategy, exposing a divide between the Pentagon\u2019s political and uniformed leadership.",
+        "url": "https://www.washingtonpost.com/national-security/2025/09/29/hegseth-national-defense-strategy-trump-dissent/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZC4RQEB54AADYL6TL3LVSMANAQ_size-normalized.jpg&w=1440",
+        "publishedAt": "2025-09-30T04:26:00Z",
+        "content": "The critiques from multiple top officers, including the chairman of the Joint Chiefs of Staff, Gen. Dan Caine, come as Defense Secretary Pete Hegseth reorders U.S. military priorities.\r\nUpdated Septe\u2026 [+37 chars]"
     },
     {
         "source": {
@@ -40,29 +92,42 @@
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": "politico",
+            "name": "Politico"
         },
-        "author": "Scott Nover",
-        "title": "Judge blocks Kari Lake from laying off over 500 Voice of America staffers - The Washington Post",
-        "description": "Royce Lamberth said Trump administration official Kari Lake, who is acting CEO of the agency that runs VOA, had shown \u201cconcerning disrespect\u201d that would merit a contempt trial.",
-        "url": "https://www.washingtonpost.com/business/2025/09/29/voa-usagm-kari-lake-judge/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6HSYREMETHHYOYX4V3JKJGD7FE_size-normalized.JPG&w=1440",
-        "publishedAt": "2025-09-30T04:06:00Z",
-        "content": "U.S. District Judge Royce C. Lamberth temporarily blocked the layoffs of more than 500 Voice of America employees, delivering a setback to the Trump administrations efforts to dismantle the United St\u2026 [+38 chars]"
+        "author": "Associated Press",
+        "title": "Internet blackout hits Afghanistan as Taliban enforce morality crackdown - Politico",
+        "description": "\u201cThe incident is likely to severely limit the public\u2019s ability to contact the outside world,\u201d Netblocks said.",
+        "url": "https://www.politico.com/news/2025/09/30/internet-blackout-hits-afghanistan-as-taliban-enforce-morality-crackdown-00586086",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F5c%2F03%2F84bf1834474e8c0d13bfcf1cde3c%2Fafghanistan-72317.jpg",
+        "publishedAt": "2025-09-30T04:12:00Z",
+        "content": "On Monday, internet-access advocacy group Netblocks said that live metrics showed connectivity in Afghanistan had collapsed to 14% of ordinary levels, with a near-total nationwide telecoms disruption\u2026 [+579 chars]"
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Riley Beggin, Hannah Natanson, Marianna Sotomayor",
-        "title": "Shutdown nears as Trump meeting yields no breakthrough with Congress - The Washington Post",
-        "description": "The government will shut down at 12:01 a.m. Wednesday unless lawmakers act. Democrats and Republicans are at a standstill on health care spending and a funding extension.",
-        "url": "https://www.washingtonpost.com/business/2025/09/29/shutdown-democrats-republicans-funding/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P4OPNEEOPXZNW6DZDYQJKUDHY4.JPG&w=1440",
-        "publishedAt": "2025-09-30T03:49:06Z",
-        "content": "A government shutdown early Wednesday looked increasingly likely after a White House meeting with congressional leaders left Democrats and Republicans no closer to agreeing on how to fund continued o\u2026 [+9 chars]"
+        "author": "Kaia  Hubbard, Kathryn  Watson, Caitlin  Yilek",
+        "title": "Government shutdown looms as leaders make little progress at White House meeting with Trump - CBS News",
+        "description": "Congressional leaders met with President Trump at the White House as Washington barrels toward a 2025 shutdown.",
+        "url": "https://www.cbsnews.com/live-updates/government-shutdown-latest-trump-congress-white-house/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/30/84cd042f-e1dd-4ad5-8ccc-d2198ea94904/thumbnail/1200x630g1/e07424fb1fd95d4905c35042bf76fb9c/2025-09-29t213053z-2113483901-rc2x1hagczzj-rtrmadp-3-usa-shutdown.jpg",
+        "publishedAt": "2025-09-30T03:56:00Z",
+        "content": "The last funding fight has seemed to color the Democrats' approach this time around. In March, Democrats pledged to push back on a GOP funding plan, but Schumer changed course at the eleventh hour, d\u2026 [+1623 chars]"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": null,
+        "title": "Mexican marine biologist seriously injured in shark attack off Costa Rica - CBS News",
+        "description": "Costa Rica's Fire Department said it rescued 48-year-old Mauricio Hoyos from the attack and carried him on a 36-hour journey from Cocos Island.",
+        "url": "https://www.cbsnews.com/news/mexican-marine-biologist-shark-attack-remote-island-costa-rica/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/17/04d24b4a-bd30-4999-965b-b5516bacc33c/thumbnail/1200x630/61f9fd2314284b8e2d1362e48d34df2f/gettyimages-1288684414.jpg",
+        "publishedAt": "2025-09-30T02:37:00Z",
+        "content": "A Mexican marine biologist was seriously injured after he was attacked by a shark while working off Costa Rica's Pacific coast and transferred to a hospital in the country's capital on Monday, author\u2026 [+1775 chars]"
     },
     {
         "source": {
@@ -80,28 +145,15 @@
     {
         "source": {
             "id": null,
-            "name": "Financial Times"
+            "name": "Kstp.com"
         },
-        "author": "Ivan Levingston, Antoine Gara, Arash Massoudi, Oliver Barnes, James Fontanella-Khan",
-        "title": "How Jared Kushner brokered the $55bn takeover of Electronic Arts - Financial Times",
-        "description": "Trump\u2019s son-in-law used deep ties in Saudi Arabia to help pull off the largest buyout",
-        "url": "https://www.ft.com/content/61cef75e-ceba-43ee-80e3-040756c6154f",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F39903df2-a39a-41e7-8467-c9dd4aa025f7.jpg?source=next-barrier-page",
-        "publishedAt": "2025-09-30T00:26:46Z",
-        "content": "was $409now $99 for your first year\r\nFT newspaper delivered Monday-Saturday, plus FT Digital Edition delivered to your device Monday-Saturday.\r\n<ul><li></li>Weekday Print Edition<li></li>FT Weekend<l\u2026 [+171 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Cristian  Benavides",
-        "title": "Videos appear to show captured Cuban nationals who were fighting alongside Russia in Ukraine - CBS News",
-        "description": "Ukrainian officials say Cubans are being offered one-year contracts with the promise of a $2,000 monthly salary.",
-        "url": "https://www.cbsnews.com/news/cuban-fighters-in-ukraine/",
-        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/29/ed016b60-0708-4d06-9519-1484ff9992de/thumbnail/1200x630/56d5d4c63d64dec0ffca1dcb2b4e4f57/f5-benavides-cuban-fighters-final-transfer-frame-3720.jpg",
-        "publishedAt": "2025-09-30T00:17:21Z",
-        "content": "In its push to hold captured territory in Ukraine, Russia has turned to countries like North Korea for added manpower. Now, it appears additional support is also coming from Cuban mercenaries.\r\nVideo\u2026 [+2218 chars]"
+        "author": null,
+        "title": "Iowa revokes license of schools superintendent arrested by ICE, saying he is in US illegally - 5 EYEWITNESS NEWS",
+        "description": "A state agency has revoked the professional license of the leader of Iowa\u2019s largest school district days after he was detained on accusations that he was living and working in the country illegally. The Iowa Board of Educational Examiners says in a letter to \u2026",
+        "url": "https://kstp.com/kstp-news/top-news/iowa-revokes-license-of-schools-superintendent-arrested-by-ice-saying-he-is-in-us-illegally/",
+        "urlToImage": "https://kstp.com/wp-content/uploads/apimg/2025/09/Immigration-Des-Moines-Schools-Superintendent_57203.jpg",
+        "publishedAt": "2025-09-30T00:03:36Z",
+        "content": "IOWA CITY, Iowa (AP) A state agency revoked the professional license of the leader of Iowas largest school district on Monday, days after federal agents arrested him on accusations that he was living\u2026 [+4609 chars]"
     },
     {
         "source": {
@@ -115,19 +167,6 @@
         "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/whatsapp-glass.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "publishedAt": "2025-09-29T23:21:00Z",
         "content": "Today, Meta officially confirmed what some WhatsApp users had already been noticing for the past few days: the app now supports Live Photos. Here\u2019s how it works.\r\nIn a Newsroom post today, Meta liste\u2026 [+2203 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Rebecca Falconer",
-        "title": "Charlie Javice sentenced to 7 years in prison for defrauding JP Morgan - Axios",
-        "description": "The 33-year-old featured in Forbes' \"30 under 30\" list just six years ago.",
-        "url": "https://www.axios.com/2025/09/29/charlie-javice-jp-morgan-fraud-case-sentenced-prison",
-        "urlToImage": "https://images.axios.com/9Gfhs-jFsD5--r_Kt2gu1CAe0qE=/0x66:3200x1866/1366x768/2025/09/29/1759182526015.jpeg",
-        "publishedAt": "2025-09-29T22:59:48Z",
-        "content": "Charlie Javice, founder of startup Frank, was sentenced on Monday after being convicted of charges related to deceiving JPMorgan Chase into a $175 million acquisition, the Department of Justice annou\u2026 [+1476 chars]"
     },
     {
         "source": {
@@ -180,18 +219,5 @@
         "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/bad-bunny-spanish-only.jpg?crop=0px%2C171px%2C1800px%2C1014px&resize=1600%2C900",
         "publishedAt": "2025-09-29T22:27:05Z",
         "content": "Bad Bunny is no stranger to making history. Since he arrived on the music scene in 2016, the Latin superstar continues to break new records and test the boundaries of the industry in every direction.\u2026 [+4202 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "KOMO News"
-        },
-        "author": "KOMO News Staff",
-        "title": "Mpox (monkeypox) virus discovered in Pierce County wastewater - KOMO",
-        "description": "The Washington DOH has detected the clade I mpox virus, also known as monkeypox, in Pierce County wastewater.",
-        "url": "https://komonews.com/news/local/mpox-monkeypox-virus-discovered-in-pierce-county-wastewater-health-disease-pandemic-pox-infection-transmission-rash-blisters-children-pregnant-contact",
-        "urlToImage": "https://komonews.com/resources/media2/16x9/1080/986/0x237/90/e5f1ee8b-4d04-4f10-917b-412aaa2b1655-monkeypoxexamples2.jpg",
-        "publishedAt": "2025-09-29T22:00:50Z",
-        "content": "PIERCE COUNTY, Wash. The Washington State Department of Health and the University of Washington have detected the clade I mpox virus, also known as monkeypox, in Pierce County wastewater. \r\nThe disco\u2026 [+2188 chars]"
     }
 ]
