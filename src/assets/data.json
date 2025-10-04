@@ -1,28 +1,54 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Pitchfork"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": null,
-        "title": "Taylor Swift Releases New Album The Life of a Showgirl : Listen and Read the Full Credits - Pitchfork",
-        "description": null,
-        "url": "https://pitchfork.com/news/taylor-swift-releases-new-album-the-life-of-a-showgirl-listen-and-read-the-full-credits/",
-        "urlToImage": null,
-        "publishedAt": "2025-10-03T04:00:54Z",
-        "content": null
+        "author": "Matthew  Rodriguez",
+        "title": "Large fire erupts at Los Angeles County refinery - CBS News",
+        "description": "LA County Supervisor Holly Mitchell said crews contained the fire to one area of the refinery.",
+        "url": "https://www.cbsnews.com/losangeles/news/large-fire-erupts-at-los-angeles-county-refinery/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/03/8369cbeb-f827-45ad-9564-906900c8f93f/thumbnail/1200x630/f6d474b344875c8402886d238490f2b8/la-county-fire.jpg",
+        "publishedAt": "2025-10-03T04:48:00Z",
+        "content": "A large fire erupted at the El Segundo Chevron refinery in Los Angeles County following an explosion on Thursday night.\u00a0\r\nOfficers and firefighters responded to the Chevron refinery in El Segundo aft\u2026 [+2338 chars]"
     },
     {
         "source": {
-            "id": "espn",
-            "name": "ESPN"
+            "id": null,
+            "name": "BBC News"
         },
-        "author": "ESPN",
-        "title": "49ers 26-23 Rams (Oct 2, 2025) Game Recap - ESPN",
+        "author": null,
+        "title": "Taylor Swift: The Diary of a Showgirl is a triumphant pop victory lap - BBC",
+        "description": "Taylor Swift's 12th album is a breathtakingly fun pop record, capturing the joy of falling in love.",
+        "url": "https://www.bbc.com/news/articles/cn4wpe5z52qo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d309/live/0fb41d10-9f69-11f0-b741-177e3e2c2fc7.png",
+        "publishedAt": "2025-10-03T04:01:53Z",
+        "content": "Mark SavageMusic correspondent\r\nTaylor Swift's 12th album comes from \"the most infectiously joyful, wild, dramatic place\", she said ahead of release\r\nThe last time we met Taylor Swift, she was spiral\u2026 [+7486 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NBCSports.com"
+        },
+        "author": "Charean Williams",
+        "title": "Thursday Night Football: Mac Jones, 49ers outlast Rams in OT, winning 26-23 - NBC Sports",
+        "description": "The 49ers are beat up.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-mac-jones-49ers-outlast-rams-in-ot-winning-26-23",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/c688965/2147483647/strip/true/crop/4286x2411+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fef%2Fe4%2F185ce2bb489f9420f10acf83c575%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2238489145",
+        "publishedAt": "2025-10-03T03:52:25Z",
+        "content": "The 49ers are beat up. The Rams, though, were the team left hurting the most after Thursday Night Football.\r\nIn an entertaining game between division rivals, the gritty 49ers outlasted the Rams 26-23\u2026 [+2459 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": null,
+        "title": "FDA approves another generic abortion pill, prompting outrage from conservatives - NPR",
         "description": null,
-        "url": "https://www.espn.com/nfl/recap?gameId\\\\u003d401772939",
+        "url": "https://www.npr.org/2025/10/02/nx-s1-5561155/fda-generic-abortion-pill",
         "urlToImage": null,
-        "publishedAt": "2025-10-03T03:45:00Z",
+        "publishedAt": "2025-10-03T03:45:38Z",
         "content": null
     },
     {
@@ -40,29 +66,42 @@
     },
     {
         "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
+            "id": null,
+            "name": "CBS Sports"
         },
-        "author": "Kaia  Hubbard, Caitlin  Yilek",
-        "title": "Government shutdown continues as White House weighs \"thousands\" of layoffs - CBS News",
-        "description": "The 2025 government shutdown entered its second day on Thursday with no signs of an imminent resolution.",
-        "url": "https://www.cbsnews.com/live-updates/government-shutdown-latest-second-day-trump-johnson/",
-        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/02/d49e7616-5bc3-4d9a-bf8b-816fa61a4ddf/thumbnail/1200x630g2/d6aaac2152ae3547b9bcbe6391d82ca9/gettyimages-2238243760.jpg",
-        "publishedAt": "2025-10-03T03:05:00Z",
-        "content": "Treasury Secretary Scott Bessent blamed Democrats for shutting down the government on Thursday morning, saying on CNBC's \"Squawk Box\" that \"this is a choice that Schumer and Hakeem Jeffries have made\u2026 [+1617 chars]"
+        "author": "Mike Axisa",
+        "title": "Yankees vs. Red Sox score: Cam Schlittler leads New York past rivals, into ALDS - CBS Sports",
+        "description": "The rookie right-hander notched 12 strikeouts in eight unforgettable innings",
+        "url": "https://www.cbssports.com/mlb/news/yankees-vs-red-sox-score-cam-schlittler-leads-new-york-past-rivals-into-alds/live/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/10/03/bdc752b9-a203-45a1-9829-d6950565f877/thumbnail/1200x675/f9eb88a3afb6c063b9360858ef7e679a/schlittler-getty.png",
+        "publishedAt": "2025-10-03T02:44:00Z",
+        "content": "The New York Yankees are going to the ALDS. Thanks to eight brilliant innings from rookie right-hander Cam Schlittler, the Yankees won Game 3 of the Wild Card Series against the Red Sox on Thursday (\u2026 [+2014 chars]"
     },
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Bernard Condon",
-        "title": "Parents of college student killed in Tesla crash allege design flaw trapped her in the burning car - AP News",
-        "description": "A lawsuit filed Thursday by parents of a college student killed in a Tesla crash says she was trapped inside as the car burned because of a design flaw that makes it difficult to open the doors in fires. The suit filed in California state court by the parents\u2026",
-        "url": "https://apnews.com/article/tesla-crash-doors-musk-regulators-accident-burning-trapped-2a710dbbb859436090e0a4cb8a7c8f4c",
-        "urlToImage": "https://dims.apnews.com/dims4/default/b7b9b43/2147483647/strip/true/crop/4479x2519+0+175/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F18%2F22%2F674d21bd362a7ae495e896758c20%2F14a69037612a425d92ca646394db1e3e",
+        "author": null,
+        "title": "Popular Alaskan climber dies in fall from Yosemite's El Capitan - CBS News",
+        "description": null,
+        "url": "https://www.cbsnews.com/sacramento/news/balin-miller-climbing-fall-from-yosemite-el-capitan/",
+        "urlToImage": null,
         "publishedAt": "2025-10-03T01:15:00Z",
-        "content": "The parents of a college student killed in a Tesla crash say she was trapped in the car as it burst into flames because of a design flaw that made it nearly impossible for her to open the door, accor\u2026 [+1911 chars]"
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Post"
+        },
+        "author": "Christian Arnold",
+        "title": "Sophie Cunningham piles on to WNBA criticism: \u2018They don\u2019t know s\u2013t\u2019 - New York Post",
+        "description": "Another day, another WNBA player taking aim at commissioner Cathy Engelbert and the league\u2019s leadership.",
+        "url": "https://nypost.com/2025/10/02/sports/sophie-cunningham-piles-on-to-wnba-criticism/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/newspress-collage-ndtt6ej4f-1759443285626.jpg?quality=75&strip=all&1759428918&w=1024",
+        "publishedAt": "2025-10-03T00:44:00Z",
+        "content": "Another day, another WNBA player taking aim at commissioner Cathy Engelbert and the league\u2019s leadership.\u00a0\r\nFever star Sophie Cunningham became the latest player to speak out against the WNBA on Thurs\u2026 [+2286 chars]"
     },
     {
         "source": {
@@ -79,19 +118,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "CBS Sports"
-        },
-        "author": "Mike Axisa",
-        "title": "Yankees vs. Red Sox live updates and score for MLB Wild Card Series Game 3 - CBS Sports",
-        "description": "The rookie right-hander notched 12 strikeouts in eight unforgettable innings",
-        "url": "https://www.cbssports.com/mlb/news/yankees-vs-red-sox-score-cam-schlittler-leads-new-york-past-rivals-into-alds/live/",
-        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/10/03/bdc752b9-a203-45a1-9829-d6950565f877/thumbnail/1200x675/f9eb88a3afb6c063b9360858ef7e679a/schlittler-getty.png",
-        "publishedAt": "2025-10-03T00:06:54Z",
-        "content": "The New York Yankees are going to the ALDS. Thanks to eight brilliant innings from rookie right-hander Cam Schlittler, the Yankees won Game 3 of the Wild Card Series against the Red Sox on Thursday (\u2026 [+2014 chars]"
-    },
-    {
-        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
         },
@@ -105,29 +131,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "The Action Network"
+            "id": "entertainment-weekly",
+            "name": "Entertainment Weekly"
         },
-        "author": "Sean Koerner",
-        "title": "49ers vs Rams Predictions, Odds, Picks, Best Bets, Inactives, How to Watch Thursday Night Football - Action Network",
-        "description": "Find 49ers vs Rams predictions, picks, and odds for Week 5 Thursday Night Football on October 2.",
-        "url": "https://www.actionnetwork.com/nfl/san-francisco-49ers-vs-los-angeles-rams-prediction-pick-odds-nfl-thursday-night-football-october-2-qs",
-        "urlToImage": "https://images.actionnetwork.com/blog/2025/10/Rams-vs-49ers.png",
-        "publishedAt": "2025-10-02T23:20:00Z",
-        "content": "The San Francisco 49ers (3-1) and Los Angeles Rams (3-1) face off in Week 5 Thursday Night Football. Kickoff is set for 8:15 p.m. ET from SoFi Stadium in Inglewood, Calif. The game will broadcast liv\u2026 [+5987 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Federal News Network"
-        },
-        "author": "Jory Heckman",
-        "title": "\u2018Those were not my words:\u2019 Out-of-office message automatically updated for furloughed Education Dept employees - Federal News Network",
-        "description": "These messages are the latest example where the Trump administration has blamed Democrats for the government shutdown using official channels.",
-        "url": "https://federalnewsnetwork.com/government-shutdown/2025/10/those-were-not-my-words-out-of-office-message-automatically-updated-for-furloughed-education-dept-employees/",
-        "urlToImage": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/Congress-Shutdown-Education_22507-scaled.jpg",
-        "publishedAt": "2025-10-02T22:59:59Z",
-        "content": "Furloughed staff at the Education Department say out-of-office messages for their government email accounts have been automatically updated.\r\nThe new out-of-office message blames an ongoing governmen\u2026 [+3221 chars]"
+        "author": "https://www.facebook.com/entertainmentweekly",
+        "title": "Nicole Kidman's iconic response to Tom Cruise divorce resurfaces amid Keith Urban breakup - Entertainment Weekly",
+        "description": "An infamous Nicole Kidman remark about her divorce from Tom Cruise is going viral in the wake of her ending her 19-year marriage to Keith Urban.",
+        "url": "https://ew.com/nicole-kidman-iconic-response-tom-cruise-divorce-resurfaces-after-keith-urban-breakup-11823480",
+        "urlToImage": "https://ew.com/thmb/0v0Bkh-lXnrCwfrXs0rdyCYMiFs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Tom-Cruise-Nicole-Kidman-Keith-Urban-2-100225-297e925cfd524200941d4fba0dad5f96.jpg",
+        "publishedAt": "2025-10-02T21:34:17Z",
+        "content": "Nicole Kidman is going viral for a spicy comment about her headline-making divorce but not her most recent one.\r\nAmid news that the Oscar-winning actress is ending her 19-year marriage to country sta\u2026 [+3132 chars]"
     },
     {
         "source": {
@@ -141,19 +154,6 @@
         "urlToImage": "https://cdn.abcotvs.com/dip/images/17925692_100225-wabc-ap-diddy-img.jpg?w=1600",
         "publishedAt": "2025-10-02T21:30:32Z",
         "content": "Hours before he is set to be sentenced for two prostitution-related convictions, Sean Combs is apologizing for his actions in a letter to the judge overseeing his case.\r\nIn a four-page letter, Combs \u2026 [+2002 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Ibrahim Hazboun, Renata Brito",
-        "title": "Israeli navy intercepts boats attempting to break Gaza blockade and arrests activists - AP News",
-        "description": "Hundreds of Israeli police officers have been deployed to the port of Ashdod to process some 450 international activists detained by Israeli naval forces hours earlier. Israeli naval forces on Thursday boarded most of the vessels in a flotilla attempting to b\u2026",
-        "url": "https://apnews.com/article/israel-palestinians-gaza-flotilla-activists-efc168795ecaea6d569bcb3eba4254c5",
-        "urlToImage": "https://dims.apnews.com/dims4/default/fbc8154/2147483647/strip/true/crop/2217x1247+0+115/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F45%2F04%2F66bfc71b8f5dfc017f71e06aced1%2F0c2f150ce3aa4bea94b68aad6c397468",
-        "publishedAt": "2025-10-02T20:51:00Z",
-        "content": "JERUSALEM (AP) Hundreds of Israeli police officers were deployed Thursday to the southern port of Ashdod to process some 450 international activists detained by Israeli naval forces hours earlier in \u2026 [+8399 chars]"
     },
     {
         "source": {
@@ -171,66 +171,40 @@
     {
         "source": {
             "id": null,
-            "name": "Barron's"
+            "name": "Minneapolis Star Tribune"
         },
-        "author": "Barron's",
-        "title": "Tesla Stock Drops Despite Record Quarterly Deliveries. What Drove the Big Beat. - Barron's",
-        "description": null,
-        "url": "https://www.barrons.com/articles/tesla-ev-deliveries-stock-price-bbebb4fb",
-        "urlToImage": null,
-        "publishedAt": "2025-10-02T20:10:00Z",
-        "content": null
+        "author": "Neal Justin, Neal Justin",
+        "title": "Carleton College grad joins writing staff at \u2018Saturday Night Live\u2019 - Star Tribune",
+        "description": "At least three Minnesotans will be part of the new season.",
+        "url": "https://www.startribune.com/carleton-college-grad-joins-writing-staff-at-saturday-night-live/601485198",
+        "urlToImage": "https://arc.stimg.co/startribunemedia/DAKZONVTNNH6JKC5WUOVB7T2DI.jpg?&w=1200&ar=1.91:1&fit=crop",
+        "publishedAt": "2025-10-02T20:12:04Z",
+        "content": "When Saturday Night Live launches its 51st season this weekend, local viewers will be trying to spot new cast member Tommy Brennan who hails from St. Paul.\r\nBut hes not the only person with Minnesota\u2026 [+1078 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Space.com"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": "Victoria Corless",
-        "title": "Interstellar comet 3I/ATLAS will be eyed by Mars and Jupiter probes as it zooms past the sun this month - Space",
-        "description": "Observing 3I/ATLAS in this active phase will give some of the clearest insights yet into the mystery of interstellar comets.",
-        "url": "https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-will-be-eyed-by-mars-and-jupiter-probes-as-it-zooms-past-the-sun-this-month",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/uq9o3mKsVycBQF3Tjnh3WY-1600-80.png",
-        "publishedAt": "2025-10-02T19:00:00Z",
-        "content": "The European Space Agency is making use of spacecraft designed for Mars and Jupiter missions to track interstellar comet 3I/ATLAS as it continues its journey through our solar system.\r\nFirst spotted \u2026 [+4118 chars]"
+        "author": "The Associated Press",
+        "title": "Photos show widespread protests after Israeli forces intercept Gaza-bound flotilla - AP News",
+        "description": "Supporters of the Global Sumud Flotilla took to the streets in several major cities \u2014 including Rome, Istanbul, Athens and Buenos Aires \u2014 following news that Israeli forces had intercepted an international flotilla carrying activists seeking to break Israel\u2019s\u2026",
+        "url": "https://apnews.com/photo-gallery/gaza-flotilla-activists-protests-photos-b4ee905517eb030ed5c04aa4487d5af5",
+        "urlToImage": "https://dims.apnews.com/dims4/default/09b1016/2147483647/strip/true/crop/5818x3273+0+303/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F91%2F42%2Fc94b1672699eb0c8c56693c42e0c%2F02be75c6a8fa47eaa9c85f9be08423d5",
+        "publishedAt": "2025-10-02T19:50:00Z",
+        "content": "A student shouts slogans in front of the Ministry of Foreign Affairs, in Brasilia, Brazil, Thursday, Oct. 2, 2025, during a protest in solidarity with a Gaza-bound flotilla carrying humanitarian aid \u2026 [+62 chars]"
     },
     {
         "source": {
             "id": "abc-news",
             "name": "ABC News"
         },
-        "author": "ABC News - Breaking News, Latest News and Videos",
-        "title": "Former Des Moines superintendent who was detained by ICE federally charged - ABC News - Breaking News, Latest News and Videos",
-        "description": null,
-        "url": "https://abcnews.go.com/US/former-des-moines-superintendent-detained-ice-federally-charged/story?id\\\\u003d126156263",
-        "urlToImage": null,
-        "publishedAt": "2025-10-02T18:44:38Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Sarah Perez",
-        "title": "OpenAI\u2019s Sora soars to No. 3 on the US App Store - TechCrunch",
-        "description": "Sora becomes the No. 3 US app after 164K downloads in 2 days, making the AI video app an early hit.",
-        "url": "https://techcrunch.com/2025/10/02/openais-sora-soars-to-no-3-on-the-u-s-app-store/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
-        "publishedAt": "2025-10-02T18:24:54Z",
-        "content": "OpenAI\u2019s Sora app for AI videos is a viral hit, despite being invite-only for now and limited to users in the U.S. and Canada at launch. On its first day, Sora saw 56,000 downloads, and is now ranked\u2026 [+2516 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Jill Martin",
-        "title": "Caitlin Clark says Napheesa Collier made \u2018valid points\u2019 while Sophie Cunningham joins in blasting WNBA leadership - CNN",
-        "description": "Caitlin Clark gave support to fellow WNBA star Napheesa Collier, who had referenced Clark when admonishing the league and commissioner Cathy Engelbert in fiery remarks earlier this week.",
-        "url": "https://www.cnn.com/2025/10/02/sport/basketball-wnba-caitlin-clark-napheesa-collier-sophie-cunningham",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25272075850719.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-10-02T17:39:04Z",
-        "content": "Caitlin Clark gave support to fellow WNBA star Napheesa Collier, who had referenced Clark when admonishing the league and commissioner Cathy Engelbert in fiery remarks earlier this week.\r\nOn Tuesday,\u2026 [+3868 chars]"
+        "author": "MARCIA DUNN AP aerospace writer",
+        "title": "Interstellar comet swinging past Mars as a fleet of spacecraft looks on - ABC News - Breaking News, Latest News and Videos",
+        "description": "A comet from another star system is swinging by Mars as a fleet of spacecraft trains its sights on the interstellar visitor",
+        "url": "https://abcnews.go.com/Technology/wireStory/interstellar-comet-swinging-past-mars-fleet-spacecraft-126151147",
+        "urlToImage": "https://i.abcnewsfe.com/a/5de2c203-de20-4ec3-8850-172aa06055af/wirestory_b9df6568efee22c02b722a87377d30db_16x9.jpg?w=1600",
+        "publishedAt": "2025-10-02T19:22:31Z",
+        "content": "CAPE CANAVERAL, Fla. -- A comet from another star system will swing by Mars on Friday as a fleet of spacecraft trains its sights on the interstellar visitor.\r\nThe comet known as 3I/Atlas will hurtle \u2026 [+1264 chars]"
     }
 ]
