@@ -1,42 +1,68 @@
 [
     {
         "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Michelle Ye Hee Lee, Chie Tanaka",
+        "title": "Sanae Takaichi is set to become Japan\u2019s first female prime minister - The Washington Post",
+        "description": "The new leader will take the helm of the world\u2019s fourth-largest economy at a time of unusual political instability, rising prices and increasing regional tensions.",
+        "url": "https://www.washingtonpost.com/world/2025/10/04/sanae-takaichi-japan-prime-minister/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HNFZLKUWK6OY2IRHCJTFYIJIYQ_size-normalized.jpg&w=1440",
+        "publishedAt": "2025-10-04T07:51:41Z",
+        "content": "Sanae Takaichi, a hardline conservative security hawk, is set to become Japans new and first female prime minister, taking the helm of the country with the worlds fourth-largest economy at a time of \u2026 [+95 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Julianna Bragg",
+        "title": "More than 300,000 Venezuelans at risk of deportation under new Supreme Court ruling - Axios",
+        "description": "The Supreme Court ruled Trump can remove TPS protections from Venezuelans once again.",
+        "url": "https://www.axios.com/2025/10/03/trump-venezuela-deportations-supreme-court-ruling",
+        "urlToImage": "https://images.axios.com/ykI1fH7GoR70OepGqOZZiDzPfOU=/0x0:4000x2250/1366x768/2025/10/03/1759530364453.jpeg",
+        "publishedAt": "2025-10-04T07:30:14Z",
+        "content": "What they're saying: \"Although the posture of the case has changed, the parties' legal arguments and relative harms generally have not,\" the court order said. \"The same result that we reached in May \u2026 [+1631 chars]"
+    },
+    {
+        "source": {
             "id": null,
-            "name": "IFLScience"
+            "name": "Haaretz"
         },
-        "author": "James Felton",
-        "title": "Record-Breaking Rogue Planet Seen Growing At A Rate Of 6 Billion Tonnes Per Second - IFLScience",
-        "description": "\u201cThis discovery blurs the line between stars and planets.\"",
-        "url": "https://www.iflscience.com/record-breaking-rogue-planet-seen-growing-at-a-rate-of-6-billion-tonnes-per-second-81015",
-        "urlToImage": "https://assets.iflscience.com/assets/articleNo/81015/aImg/86765/rogue-meta.png",
-        "publishedAt": "2025-10-04T08:11:37Z",
-        "content": "An international team of astronomers using the European Southern Observatorys Very Large Telescope (ESOs VLT) have spotted a rogue planet breaking a new record; growing at a rate of 6 billion tonnes \u2026 [+3138 chars]"
+        "author": "Haaretz",
+        "title": "Israel Mulls Which Palestinian Prisoners to Release, Prepares to Send Negotiating Team - Haaretz",
+        "description": "***",
+        "url": "https://www.haaretz.com/israel-news/2025-10-04/ty-article-live/senior-hamas-official-says-hostage-release-within-72-hours-is-unrealistic-theoretical/00000199-ad00-ddb4-abdd-efbc3ee90000",
+        "urlToImage": "https://img.haarets.co.il/bs/0000018d-9c88-d92c-a9ed-fff9e1210001/90/a0/0309578e4ec9ac722fb4783a3011/final-desktop.png?precrop=1000,581,x0,y0&height=630&width=1200",
+        "publishedAt": "2025-10-04T06:56:00Z",
+        "content": "Britain's police on Saturday questioned six people, who were arrested on suspicion of terror offenses after the attack on a synagogue in northwest England on Thursday's Jewish day of observation, Yom\u2026 [+1193 chars]"
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": "Barak Ravid",
-        "title": "Trump tells Israel to stop bombing Gaza after Hamas responds to peace plan - Axios",
-        "description": "Hamas' response is, essentially, \"yes, but.\"",
-        "url": "https://www.axios.com/2025/10/03/hamas-respond-trump-plan-end-war-hostages",
-        "urlToImage": "https://images.axios.com/Jcu6w_iRRVF9b66B6Gcc1qPGOfk=/0x625:6000x4000/1366x768/2025/10/03/1759522779130.jpeg",
-        "publishedAt": "2025-10-04T07:36:17Z",
-        "content": "Driving the news: Hamas responded to Trump's Gaza peace plan with a \"yes, but.\" \r\n<ul><li>The group said it was willing to release all remaining hostages in return for an end to the war and a full Is\u2026 [+5859 chars]"
+        "author": "Anne Branigin, Samantha Chery, Amber Ferguson, Shayna Jacobs",
+        "title": "Sean \u2018Diddy\u2019 Combs was sentenced to over 4 years. Here\u2019s what\u2019s next. - The Washington Post",
+        "description": "The judge ordered Combs to pay a fine of $500,000 and imposed five years of supervised release once he completes his sentence. His defense is planning to appeal.",
+        "url": "https://www.washingtonpost.com/entertainment/music/2025/10/03/diddy-sentenced-prison-time-sean-combs/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X26OA6H7IRCDVFG4VTWXSDSDFY.JPG&w=1440",
+        "publishedAt": "2025-10-04T06:35:43Z",
+        "content": "NEW YORK Sean Diddy Combs was sentenced Friday to just over four years in prison, after a lengthy hearing during which Combs apologized to the ex-girlfriends who had accused him of sex trafficking, a\u2026 [+47 chars]"
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": "the-globe-and-mail",
+            "name": "The Globe And Mail"
         },
-        "author": "Andrew Solender",
-        "title": "House GOP cancels more votes in escalation of shutdown strategy - Axios",
-        "description": "Johnson signaled the House will remain out of session until Senate Democrats fold.",
-        "url": "https://www.axios.com/2025/10/03/mike-johnson-government-shutdown-house-votes",
-        "urlToImage": "https://images.axios.com/y0P4YbZVv8itosa56CN2qgjsBQk=/0x484:4369x2942/1366x768/2025/10/03/1759534753191.jpeg",
-        "publishedAt": "2025-10-04T06:09:54Z",
-        "content": "<ul><li>The House voted last month to pass a bill that would extend 2024 funding levels until November, but Democrats largely opposed it because it lacked provisions to preserve health care access.</\u2026 [+2027 chars]"
+        "author": "Sally Brompton",
+        "title": "Your daily horoscope: October 4, 2025 - The Globe and Mail",
+        "description": "Your daily horoscope for Saturday, October 4, 2025",
+        "url": "https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-october-4-2025/",
+        "urlToImage": "https://www.theglobeandmail.com/resizer/v2/LMZRFELKY5CP7NSCTCPEMNCFII.png?auth=47107fdfbf7ea0ccde091a624e8a92236787276e7c23c335aea3275bb34aa7eb&width=1200&height=800&quality=80&smart=true",
+        "publishedAt": "2025-10-04T04:01:00Z",
+        "content": "Open this photo in gallery:Libra.iStockPhoto / Getty Images\r\nDont fret too much about your money situation over the coming year because for the most part it will take care of itself. Instead, focus y\u2026 [+2960 chars]"
     },
     {
         "source": {
@@ -54,19 +80,6 @@
     {
         "source": {
             "id": null,
-            "name": "WABC-TV"
-        },
-        "author": null,
-        "title": "Sean 'Diddy' Combs sentencing live updates: Combs gets 50 months in prison - ABC7 New York",
-        "description": "Prosecutors argue Combs deserves at least 11 years in prison.",
-        "url": "https://abc7ny.com/live-updates/diddy-sentencing-hearing-live-updates-sean-combs-sentenced/17925091/",
-        "urlToImage": "https://cdn.abcotvs.com/dip/images/17924143_100225-wabc-diddy-sentencing-graphic-img.png?w=1600",
-        "publishedAt": "2025-10-04T03:23:00Z",
-        "content": "Doug Wigdor, the attorney for Cassie Ventura, released a statement following Sean Combs' sentencing.\r\n\"While nothing can undo the trauma caused by Combs, the sentence imposed today recognizes the imp\u2026 [+1690 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "San Francisco Chronicle"
         },
         "author": "Sophia Bollag",
@@ -79,16 +92,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Swooon.com"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": "Avery Thompson",
-        "title": "'Golden Bachelor' Star Gerry Turner Announces Surprising Engagement News - Swooon",
-        "description": "The Bachelor Nation star went public with his new girlfriend earlier this year.",
-        "url": "https://www.swooon.com/1233737/golden-bachelor-gerry-turner-engaged-girlfriend-lana-sutton/",
-        "urlToImage": "https://www.tvinsider.com/wp-content/uploads/2025/04/gerry-turner-lana-sutton-1-1420x798.jpg",
-        "publishedAt": "2025-10-04T01:54:29Z",
-        "content": "Bachelor Nation\r\nGerry Turner is headed down the aisle again! The Golden Bachelor Season 1 star surprised everyone on October 3 when he announced to the world that he\u2019s engaged.\r\nThe 74-year-old popp\u2026 [+1951 chars]"
+        "author": "Gary D. Robertson",
+        "title": "North Carolina governor signs criminal justice bill into law after Ukrainian refugee\u2019s death - AP News",
+        "description": "North Carolina\u2019s Democratic governor has signed into law a criminal justice measure pushed by the Republican-controlled legislature in response to the stabbing death of a Ukrainian refugee on a Charlotte train. While Gov. Josh Stein criticized portions of the\u2026",
+        "url": "https://apnews.com/article/north-carolina-governor-legislation-train-stabbing-89628f222063cb8f8b153df084f22b80",
+        "urlToImage": "https://dims.apnews.com/dims4/default/9c0c338/2147483647/strip/true/crop/5396x3035+0+281/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5b%2Fb1%2Fe5c4d46e5c4f7151d086c50c6151%2F6c705d18651e4fb780816aca1fa566f5",
+        "publishedAt": "2025-10-04T01:34:00Z",
+        "content": "RALEIGH, N.C. (AP) North Carolinas Democratic governor signed into law on Friday a criminal justice measure that the states Republican-controlled legislature approved in response to the stabbing deat\u2026 [+4548 chars]"
     },
     {
         "source": {
@@ -115,32 +128,6 @@
         "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/10/04/68ec3d3e-1822-4d6d-b484-c8c24681dbea/thumbnail/1200x675/0190cf31bd27a2bddf5363105eb2c5a2/untitled-design-30.png",
         "publishedAt": "2025-10-04T00:30:00Z",
         "content": "WNBA commissioner Cathy Engelbert said there were a lot of \"inaccuracies\" in what Minnesota Lynx forward Napheesa Collier recently shared from a private conversation that occurred earlier this year. \u2026 [+1799 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NPR"
-        },
-        "author": "",
-        "title": "Legal experts condemn Apple bowing to White House's request to remove ICE tracking app - NPR",
-        "description": "It's the latest example of tech giants bowing to pressure from the Trump administration. Legal experts say the developer of the app has free speech rights that may have been violated.",
-        "url": "https://www.npr.org/2025/10/03/nx-s1-5561999/apple-google-iceblock-app-removal",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7874x4429+0+697/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2Fd4%2F955ed608460aa801a278ec1b4478%2Fgettyimages-2233926823.jpg",
-        "publishedAt": "2025-10-03T23:34:38Z",
-        "content": "Apple and Google on Thursday removed apps that alert people when Immigration and Customs Enforcement agents are nearby following pressure from Attorney General Pam Bondi.\r\nCritics of the tech giants \u2026 [+3649 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "KABC-TV"
-        },
-        "author": "Leanne Suter, Tim Pulliam, ABC7.com staff",
-        "title": "Chevron refinery fire in El Segundo extinguished; investigation underway into cause - ABC7 Los Angeles",
-        "description": "Crews extinguished a massive fire that erupted at a Chevron oil refinery in El Segundo, which sent up large flames and plumes of smoke into the air.",
-        "url": "https://abc7.com/live-updates/chevron-refinery-explosion-possible-blast-massive-fire-erupts-el-segundo/17928145/",
-        "urlToImage": "https://cdn.abcotvs.com/dip/images/17932774_100325-kabc-refinery-explosion-split-tn-img.jpg?w=1600",
-        "publishedAt": "2025-10-03T23:31:00Z",
-        "content": "The fire at the Chevron refinery in El Segundo has been contained, Chevron said on its website Friday.\r\nChevron added that it launched an internal investigation to figure out what caused the massive \u2026 [+2322 chars]"
     },
     {
         "source": {
@@ -184,28 +171,15 @@
     {
         "source": {
             "id": null,
-            "name": "NPR"
-        },
-        "author": "Teri Schultz",
-        "title": "Denmark prepares for a Russian 'hybrid war' after repeated drone spottings - NPR",
-        "description": "Many Danes are rethinking their personal security, and stocking up on emergency supplies, amid unidentified drone appearances. Denmark's leaders warn that Russia is waging a \"hybrid war.\"",
-        "url": "https://www.npr.org/2025/10/03/nx-s1-5561990/denmark-russia-drones-hybrid-war",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x4860+0+450/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2F46%2Fd33d5a8242ddb50e168541bb3248%2Fgettyimages-2237861892.jpg",
-        "publishedAt": "2025-10-03T21:57:41Z",
-        "content": "COPENHAGEN, Denmark Trine, a hotel receptionist in the Danish capital, has had trouble sleeping recently. She is too nervous about the unsettling noise of unidentified drones hovering in the night.\r\n\u2026 [+5716 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "MarketWatch"
         },
-        "author": null,
+        "author": "Christine Idzelis, Victor Reklaitis, Steve Gelsi, Joseph Adinolfi, Myra P. Saefong, Barbara Kollmeyer, William Watts",
         "title": "Stock Market on Oct. 3, 2025: Dow, S&P 500 close at record highs; Nasdaq retreats as tech stocks fall under pressure - MarketWatch",
-        "description": null,
+        "description": "The Dow and S&P 500 extended their winning streaks on Friday, while the tech-heavy Nasdaq saw a modest loss. All three U.S. stock indexes booked weekly gains amid a U.S. government shutdown.",
         "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-and-s-p-500-line-up-for-more-records-as-shutdown-cancels-jobs-data",
-        "urlToImage": null,
+        "urlToImage": "https://images.mktw.net/im-51746529/social",
         "publishedAt": "2025-10-03T20:54:00Z",
-        "content": null
+        "content": "U.S. stocks closed mixed, with the S&amp;P 500 eking out a fresh record high alongside the Dow Jones Industrial Average as both indexes extended their winning streaks.\r\nThe Dow Jones Industrial Avera\u2026 [+694 chars]"
     },
     {
         "source": {
@@ -219,5 +193,31 @@
         "urlToImage": "https://s3media.247sports.com/Uploads/Assets/638/320/13320638.jpg?width=1200&height=628&crop=1.91:1&fit=cover",
         "publishedAt": "2025-10-03T20:44:35Z",
         "content": "* Texas (-5 \u00bd) at Florida, 3:30 p.m. (ESPN) \u2013 No. 9 Texas (3-1) comes off an open week and is looking for a strong offensive performance in The Swamp. This could be the last stand for Florida coach B\u2026 [+5044 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Daily Herald"
+        },
+        "author": "Randy Diamond",
+        "title": "Starbucks shutters five locations in Snohomish County - Everett Herald",
+        "description": "The closures in Lynnwood, Edmonds, Mill Creek and Bothell come as Starbucks CEO Brian Niccol attempts to reverse declining sales.",
+        "url": "https://www.heraldnet.com/news/the-end-has-come-for-five-snohomish-county-starbucks/",
+        "urlToImage": "https://www.heraldnet.com/wp-content/uploads/2025/10/40512429_web1_TSR-Starbucks99-EDH-250930-fs.jpg",
+        "publishedAt": "2025-10-03T20:33:00Z",
+        "content": "EDMONDS \u2014 Starbucks has closed five stores in Snohomish County as part of what the company says is an initiative to close unprofitable stores or locations that don\u2019t meet the company\u2019s vision of desi\u2026 [+4481 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Kaitlin Reilly",
+        "title": "6 true crime TV shows to stream after 'Monster: The Ed Gein Story' on Netflix - Yahoo",
+        "description": "The new true crime TV shows you should watch now after you check out \"Monster: The Ed Gein Story.\"",
+        "url": "https://www.yahoo.com/entertainment/tv/article/6-true-crime-tv-shows-to-stream-after-monster-the-ed-gein-story-on-netflix-200049456.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/r69pty_ZrDa7rpHEOiaI.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzY7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/4f1612a0-9e34-11f0-9b7d-87f3d851f907",
+        "publishedAt": "2025-10-03T20:00:49Z",
+        "content": "The next installment of Ryan Murphys Monster series is here, with all eight episodes of Monster: The Ed Gein Story dropping on Netflix at once on Friday. The anthology series centers on American seri\u2026 [+4109 chars]"
     }
 ]
