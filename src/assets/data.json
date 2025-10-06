@@ -1,16 +1,29 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "BBC News"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": null,
-        "title": "Czech Republic: Billionaire populist Andrej Babis' party wins parliamentary election - BBC",
-        "description": "However, his ANO party falls short of an overall majority in preliminary results.",
-        "url": "https://www.bbc.com/news/articles/c62qezmr92lo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/69ed/live/a4881e70-a138-11f0-92db-77261a15b9d2.jpg",
-        "publishedAt": "2025-10-05T06:38:01Z",
-        "content": "Rob CameronPrague Correspondent\r\nBillionaire businessman Andrej Babis has won parliamentary elections in the Czech Republic, although his populist ANO party fell short of an overall majority.\r\nANO re\u2026 [+4660 chars]"
+        "author": "Trisha Thadani",
+        "title": "Their parents never got them vaccinated. As young adults, they faced a choice. - The Washington Post",
+        "description": "Falling vaccination rates around the country mean more will grow up without protection from debilitating diseases until they are old enough to decide for themselves, typically at age 18.",
+        "url": "https://www.washingtonpost.com/health/2025/10/05/vaccines-skepticism-childhood-family-impacts/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZMU6JDDQ2NYC44ME5NLOFOFKOY.jpg&w=1440",
+        "publishedAt": "2025-10-05T10:32:04Z",
+        "content": "At 30 years old, Lacie Madison just assumed she was fully vaccinated her entire life. But when she got a job at a hospital and was required to check her immunity, the doctor called with shocking news\u2026 [+121 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Post"
+        },
+        "author": "Nicholas McEntyre",
+        "title": "Bad Bunny fires back at Super Bowl halftime show backlash in \u2018SNL\u2019 monologue: \u2018You have four months to learn\u2019 - New York Post",
+        "description": "Rapper Bad Bunny responded to the backlash surrounding the NFL\u2019s decision to book him for this year\u2019s Super Bowl Halftime show as he kicked off the 51st season of \u201cSaturday Night \u2026",
+        "url": "https://nypost.com/2025/10/05/entertainment/bad-bunny-fires-back-at-super-bowl-halftime-backlash-in-snl-monologue-you-have-four-months-to-learn/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/newspress-collage-0n0isxefu-1759655186801.jpg?quality=75&strip=all&1759640813&w=1024",
+        "publishedAt": "2025-10-05T09:21:00Z",
+        "content": "Rapper Bad Bunny responded to the backlash surrounding the NFL\u2019s decision to book him for this year\u2019s Super Bowl Halftime show as he kicked off the 51st season of \u201cSaturday Night Live.\u201d\r\nThe 31-year-\u2026 [+3489 chars]"
     },
     {
         "source": {
@@ -40,6 +53,32 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "OregonLive"
+        },
+        "author": "Gosia Wozniacka | The Oregonian/OregonLive, Kristine de Leon | The Oregonian/OregonLive",
+        "title": "Federal agents use tear gas, make arrests as Portland ICE protest swells into the hundreds - OregonLive.com",
+        "description": "Later on Saturday, Portland Police announced on social media that protesters were blocking the road, but said it \u201chas not witnessed any property or person crimes.\u201d",
+        "url": "https://www.oregonlive.com/crime/2025/10/400-people-protest-at-ice-facility-in-portland-at-least-3-arrested.html",
+        "urlToImage": "https://www.oregonlive.com/resizer/v2/QGHGOXCOFVATVCSM6RAA3AWOBI.JPG?auth=ff510271e8400b5c90bf9c07e5ef2ce0e7c5e7be92a80b4474355c9c2cac2535&width=1280&smart=true&quality=90",
+        "publishedAt": "2025-10-05T05:42:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Suntimes.com"
+        },
+        "author": "Georgia Nicols",
+        "title": "Horoscope for Sunday, October 05, 2025 - Chicago Sun-Times",
+        "description": null,
+        "url": "https://chicago.suntimes.com/horoscopes/2025/10/05/horoscopes-today-sunday-october-05-2025",
+        "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+        "publishedAt": "2025-10-05T05:01:00Z",
+        "content": "Moon alert\r\nAvoid shopping or important decisions after 7 p.m. Chicago time. After that, the moon moves from Pisces into Aries.\r\nAries (March 21-April 19)\r\nThis is a laid-back day. You dont feel part\u2026 [+3729 chars]"
+    },
+    {
+        "source": {
             "id": "bloomberg",
             "name": "Bloomberg"
         },
@@ -50,45 +89,6 @@
         "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iq26eORKPasg/v0/1200x800.jpg",
         "publishedAt": "2025-10-05T04:54:00Z",
         "content": "Bitcoin set another all-time high as a broader risk rally around the US government shutdown buoyed the worlds largest cryptocurrency.\r\nThe token climbed to as high as $125,689 on Sunday in Asia, topp\u2026 [+326 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Claire Rush, Rebecca Boone",
-        "title": "Judge temporarily blocks Trump administration from deploying troops in Portland, Oregon - AP News",
-        "description": "A federal judge in Oregon has temporarily blocked President Donald Trump\u2019s administration from deploying the National Guard in Portland. U.S. District Judge Karin Immergut issued the order Saturday in a lawsuit brought by the state and city. The Defense Depar\u2026",
-        "url": "https://apnews.com/article/deployment-trump-portland-national-guard-lawsuit-8a0323d49b708ebf905527f897352832",
-        "urlToImage": "https://dims.apnews.com/dims4/default/bdd4842/2147483647/strip/true/crop/8014x4508+0+418/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5e%2Fb6%2Fc315358e44fab6093cff7ebdcd6c%2Fap25278152013154.jpg",
-        "publishedAt": "2025-10-05T04:41:00Z",
-        "content": "PORTLAND, Ore. (AP) A federal judge in Oregon temporarily blocked President Donald Trumps administration from deploying the National Guard in Portland, ruling Saturday in a lawsuit brought by the sta\u2026 [+5940 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "247Sports"
-        },
-        "author": "Zach Blostein",
-        "title": "Recruits react to FSU's loss to Miami - 247Sports",
-        "description": "Top recruits share reactions to FSUs game against Miami",
-        "url": "https://247sports.com/college/florida-state/longformarticle/recruits-react-to-fsus-game-against-miami-255352089/",
-        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/10/02/dce5010a-d6a3-467c-9f10-b0aa477282ae/thumbnail/640x360/983dcac890f1dc31be399342b0f71d61/mike-norvell.png?width=1200&height=628&crop=1.91:1&fit=cover",
-        "publishedAt": "2025-10-05T04:28:50Z",
-        "content": "\u201cIt was great seeing the boys go out there and compete, but they came short just a little bit. But it was great seeing the tight ends getting used in all positions. So it was really awesome for me to\u2026 [+1674 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "OregonLive"
-        },
-        "author": "Gosia Wozniacka | The Oregonian/OregonLive",
-        "title": "Federal agents knock down elderly couple during Portland protest - OregonLive.com",
-        "description": "An 84-year-old said she sustained a concussion and was hit with a projectile after she and her husband, a Vietnam vet, were knocked down by federal officers.",
-        "url": "https://www.oregonlive.com/politics/2025/10/federal-agents-knock-down-elderly-couple-during-portland-protest.html",
-        "urlToImage": "https://www.oregonlive.com/resizer/v2/XQHTWJ6Z2ZEK3FFBQYISNI4KTU.jpeg?auth=629f7dce84adc76421394193bc4a9e28b352e5c12b03bdc22f2d395f625b747f&width=1280&smart=true&quality=90",
-        "publishedAt": "2025-10-05T03:53:00Z",
-        "content": "An elderly couple says they were charged and knocked down by federal agents as they peacefully protested on Saturday in front of the U.S. Immigration and Customs Enforcement building in South Portlan\u2026 [+3846 chars]"
     },
     {
         "source": {
@@ -105,29 +105,16 @@
     },
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
+            "id": null,
+            "name": "CBS Sports"
         },
-        "author": "Sudarsan Raghavan",
-        "title": "The Women Who Helped Defeat ISIS Are Fighting for Their Place in the New Syria - The Wall Street Journal",
-        "description": "Kurdish forces that have elevated women are wary of the Islamist values of Syria\u2019s new governors",
-        "url": "https://www.wsj.com/world/middle-east/the-women-who-helped-defeat-isis-are-fighting-for-their-place-in-the-new-syria-a502cda3",
-        "urlToImage": "https://images.wsj.net/im-91456580/social",
-        "publishedAt": "2025-10-05T03:00:00Z",
-        "content": "HASAKAH, SyriaInside a sprawling facility in northern Syria this summer, a group of U.S.-backed Kurdish special forces trained a cadre of their next generation of fighters. All of them were women.\r\nT\u2026 [+463 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Barak Ravid",
-        "title": "Exclusive \u2014 Trump on Gaza deal push: \"I said, 'Bibi, this is your chance for victory'\" - Axios",
-        "description": "\"Bibi took it very far.\"",
-        "url": "https://www.axios.com/2025/10/04/trump-gaza-deal-netanyahu-call",
-        "urlToImage": "https://images.axios.com/JrgeXIYRJ5MdG67-w-bu7jhBsFM=/0x0:4000x2250/1366x768/2025/10/04/1759596167856.jpeg",
-        "publishedAt": "2025-10-05T02:25:02Z",
-        "content": "White House envoy Steve Witkoff and Trump's son-in-law Jared Kushner were traveling to Egypt on the weekend to finalize the technical details of the hostage release \"and discuss the lasting peace dea\u2026 [+3607 chars]"
+        "author": "Cameron Salerno",
+        "title": "WATCH: Rick Neuheisel reacts as son Jerry Neuheisel helps UCLA shock No. 7 Penn State in play-calling debut - CBS Sports",
+        "description": "UCLA pulled off the upset of the season on Saturday",
+        "url": "https://www.cbssports.com/college-football/news/watch-rick-neuheisel-reacts-as-son-jerry-neuheisel-helps-ucla-shock-no-7-penn-state-in-play-calling-debut/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/10/05/dc7ed64d-e332-4a32-b86d-5a3e9b70c84b/thumbnail/1200x675/28abc5d5409d822e8f043384e6d21e2d/neuheisel-getty.png",
+        "publishedAt": "2025-10-05T02:35:52Z",
+        "content": "The biggest upset of the 2025 college football season occurred on Saturday when UCLA defeated No. 7 Penn State 42-37 at the Rose Bowl. The upset was even more shocking considering the Bruins, who ent\u2026 [+1658 chars]"
     },
     {
         "source": {
@@ -157,16 +144,29 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "SciTechDaily"
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
         },
-        "author": null,
-        "title": "Breakthrough Blood Test Detects Head and Neck Cancer up to 10 Years Before Symptoms - SciTechDaily",
-        "description": "Mass General Brigham\u2019s HPV-DeepSeek test enables much earlier cancer detection through a blood sample, creating a new opportunity for screening HPV-related head and neck cancers. Human papillomavirus (HPV) is responsible for about 70% of head and neck cancers\u2026",
-        "url": "https://scitechdaily.com/breakthrough-blood-test-detects-head-and-neck-cancer-up-to-10-years-before-symptoms/",
-        "urlToImage": "https://scitechdaily.com/images/Lab-Technician-Holding-Blood-Sample-Test-Tube.jpg",
-        "publishedAt": "2025-10-04T23:14:53Z",
-        "content": "A novel blood test, HPV-DeepSeek, shows it can reveal head and neck cancers linked to HPV up to 10 years before symptoms arise. The findings hint at a future where these cancers could be treated far \u2026 [+5099 chars]"
+        "author": "The Wall Street Journal",
+        "title": "How a Missile Strike Unlocked a Deal for Peace in Gaza - The Wall Street Journal",
+        "description": null,
+        "url": "https://www.wsj.com/world/middle-east/how-a-missile-strike-unlocked-a-deal-for-peace-in-gaza-0aa62c4f",
+        "urlToImage": null,
+        "publishedAt": "2025-10-05T01:00:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Bruce Schreiner, Olivia Diaz",
+        "title": "Democrat in Virginia attorney general race apologizes for 2022 texts depicting political violence - AP News",
+        "description": "Virginia\u2019s Democratic candidate for attorney general has been widely condemned for text messages from 2022 that revealed him suggesting that a prominent Republican get \u201ctwo bullets to the head.\u201d Democrat Jay Jones is on the defensive in what has been a hard-h\u2026",
+        "url": "https://apnews.com/article/virginia-attorney-general-race-ce4caf21a7b3f6a819363653c83a2830",
+        "urlToImage": "https://dims.apnews.com/dims4/default/2fde5f5/2147483647/strip/true/crop/1955x1100+0+102/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F60%2F03cd4d29d0ac22e651f2c3825053%2F9380b279f0414a7d906e4ecff534db8c",
+        "publishedAt": "2025-10-05T00:38:00Z",
+        "content": "RICHMOND, Va. (AP) Virginias Democratic candidate for attorney general has apologized for widely condemned text messages from 2022 that revealed him suggesting that a prominent Republican get two bul\u2026 [+4161 chars]"
     },
     {
         "source": {
@@ -187,38 +187,12 @@
             "name": "BBC News"
         },
         "author": null,
-        "title": "Who is Japan's 'Iron Lady' Sanae Takaichi? - BBC",
-        "description": "The conservative politician, who sees Margaret Thatcher as an inspiration, is set to be Japan's first female prime minister.",
-        "url": "https://www.bbc.com/news/articles/crkj5e73xkmo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6ee2/live/3948ea70-a19e-11f0-92db-77261a15b9d2.jpg",
-        "publishedAt": "2025-10-04T22:09:29Z",
-        "content": "Respected figure: Baroness Margaret Thatcher. Personal goal: To become Japan's Iron Lady.\r\nIt was only after two failed attempts that, on Saturday, Sanae Takaichi finally achieved her long-held ambit\u2026 [+5093 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Sara Dorn",
-        "title": "Virginia AG Candidate Faces Backlash Over Texts Musing About Shooting Political Opponent - Forbes",
-        "description": "Early voting has already begun in Virginia\u2019s off-year statewide races.",
-        "url": "https://www.forbes.com/sites/saradorn/2025/10/04/virginia-ag-candidate-faces-backlash-over-texts-musing-about-shooting-political-opponent/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68e18ff8bab6a0469599abc5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2025-10-04T21:26:07Z",
-        "content": "Jones wrote about hypothetically shooting Virginias former Republican Speaker of the House Todd Gilbert, writing to Republican state Delegate Carrie Coyner in 2022, put Gilbert in the crew with the t\u2026 [+1721 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Dan Williams, Sam Dagher, Fares Alghoul",
-        "title": "Israel Eases Gaza Strikes as Trump Hails Hamas Hostage Offer - Bloomberg.com",
-        "description": "Israel reined in its offensive in Gaza and prepared for talks with Hamas after US President Donald Trump hailed the militant group\u2019s offer to release all hostages as a breakthrough in his bid to end two years of war.",
-        "url": "https://www.bloomberg.com/news/articles/2025-10-04/israel-eases-bombing-of-gaza-after-trump-hails-hamas-hostage-release-offer",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iF.YYaQEohdE/v1/1200x800.jpg",
-        "publishedAt": "2025-10-04T19:32:47Z",
-        "content": "Israel reined in its offensive in Gaza and prepared for talks with Hamas after US President Donald Trump hailed the militant groups offer to release all hostages as a breakthrough in his bid to end t\u2026 [+288 chars]"
+        "title": "Hope and fear for hostage families after Hamas response to Gaza peace plan - BBC",
+        "description": "Families describe a \"fragile situation\", with negotiations between Israel and Hamas expected to resume.",
+        "url": "https://www.bbc.com/news/articles/cly9e6mnve9o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c2dd/live/0727e8c0-a135-11f0-a9f1-8d9167fcc08f.jpg",
+        "publishedAt": "2025-10-04T21:11:07Z",
+        "content": "Families of Israelis held hostage in Gaza have told the BBC they are hopeful that US President Donald Trump's plan for ending the war will bring their loved ones home.\r\nViki Cohen, whose son Nimrod i\u2026 [+4205 chars]"
     },
     {
         "source": {
