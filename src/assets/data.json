@@ -1,16 +1,16 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "The Seattle Times"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": null,
-        "title": "Despite ups and downs, there was no way the Mariners were losing ALDS Game 5 - The Seattle Times",
-        "description": null,
-        "url": "https://www.seattletimes.com/sports/mariners/why-there-was-no-way-the-mariners-were-losing-historic-15-inning-alds-game-5/",
-        "urlToImage": null,
-        "publishedAt": "2025-10-11T05:50:21Z",
-        "content": null
+        "author": "Luke Olson",
+        "title": "Polanco hits winning single in the 15th inning as the Mariners beat the Tigers to advance to ALCS - AP News",
+        "description": "Jorge Polanco hit a game-ending single in the 15th inning, and the Seattle Mariners advanced to the AL Championship Series by outlasting the Detroit Tigers for a 3-2 victory in the longest winner-take-all postseason game in baseball history. With one out and \u2026",
+        "url": "https://apnews.com/article/tigers-mariners-score-alds-skubal-483df1fa26a6bb4fa01c4c2ba8742340",
+        "urlToImage": "https://dims.apnews.com/dims4/default/6e3a317/2147483647/strip/true/crop/3870x2177+0+202/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F31%2Ffb%2Fff82626131f228691cb6953d0e5a%2F529a04958da745e8a3c2c70587bfea6e",
+        "publishedAt": "2025-10-11T05:18:00Z",
+        "content": "SEATTLE (AP) Jorge Polanco hit a game-ending single in the 15th inning, and the Seattle Mariners advanced to the AL Championship Series by outlasting the Detroit Tigers for a 3-2 victory Friday night\u2026 [+3416 chars]"
     },
     {
         "source": {
@@ -40,16 +40,16 @@
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": "nbc-news",
+            "name": "NBC News"
         },
-        "author": "Herb Scribner",
-        "title": "What to know about Idaho's Mountain Home base, home to Qatar's new air force station - Axios",
-        "description": "The facility will not be a military base for Qatar.",
-        "url": "https://www.axios.com/2025/10/10/qatar-military-base-idaho-mountain-home-air-force",
-        "urlToImage": "https://images.axios.com/jWizALpjyNimZMKMuIY7GoBTwAU=/0x134:7237x4204/1366x768/2025/10/10/1760123176783.jpeg",
-        "publishedAt": "2025-10-11T03:11:38Z",
-        "content": "Driving the news: Defense Secretary Pete Hegseth said a \"Qatari Emiri Air Force facility\" will be built at the base, which will host Qatar's F-15 jets and pilots.\r\n<ul><li>Hegseth made the announceme\u2026 [+3394 chars]"
+        "author": "Ryan J. Reilly, Kelly O'Donnell, Dareh Gregorian, Chloe Atkins",
+        "title": "Trump critic and former national security adviser John Bolton to be charged soon, sources say - NBC News",
+        "description": "Former Trump national security adviser turned Trump critic John Bolton is expected to be charged with federal crimes soon, according to two federal officials.",
+        "url": "https://www.nbcnews.com/politics/justice-department/trump-critic-former-national-security-adviser-john-bolton-charged-soon-rcna236937",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251010-John-Bolton-aa-251-9ef78b.jpg",
+        "publishedAt": "2025-10-11T02:54:00Z",
+        "content": "WASHINGTON John Bolton, a former national security adviser to President Donald Trump turned prominent Trump critic, is expected to be charged with federal crimes soon, according to two federal offici\u2026 [+4600 chars]"
     },
     {
         "source": {
@@ -79,19 +79,6 @@
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Dan Diamond",
-        "title": "Trump announces drug-price deal with AstraZeneca - The Washington Post",
-        "description": "The pharmaceutical giant is the second company to publicly agree to the Trump\u2019s administration\u2019s push for lower drug prices.",
-        "url": "https://www.washingtonpost.com/politics/2025/10/10/trump-drug-prices-astrazeneca/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2ZHUC5J2ZWLOKFTMNNJURRCA2E_size-normalized.jpg&w=1440",
-        "publishedAt": "2025-10-11T02:37:03Z",
-        "content": "President Donald Trump on Friday said that pharmaceutical giant AstraZeneca has struck a deal to sell its drugs to the governments Medicaid program at a discount, making it the second company to publ\u2026 [+253 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "New York Post"
         },
@@ -108,13 +95,13 @@
             "id": null,
             "name": "Financial Times"
         },
-        "author": null,
+        "author": "Julie Steinberg, Robert Smith, Ortenca Aliaj, Eric Platt, Jill R Shah",
         "title": "First Brands boss weighs resigning under pressure from lenders - Financial Times",
-        "description": null,
+        "description": "Car parts maker\u2019s rapid downfall has raised concerns of widespread losses on Wall Street",
         "url": "https://www.ft.com/content/e0005479-726c-4d4d-be06-2454e9ab2bd9",
-        "urlToImage": null,
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd06497c0-f318-4006-9aab-a45239e41436.jpg?source=next-barrier-page",
         "publishedAt": "2025-10-11T01:31:47Z",
-        "content": null
+        "content": "FT Digital Edition: todays FT, cover to cover on any device. This subscription does not include access to ft.com or the FT App.\r\n<ul><li>FT Digital Edition: our digitised print edition</li><li>Global\u2026 [+201 chars]"
     },
     {
         "source": {
@@ -131,16 +118,29 @@
     },
     {
         "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "The Wall Street Journal",
+        "title": "Qatar Facility at U.S. Air Force Base in Idaho Sparks Controversy - The Wall Street Journal",
+        "description": null,
+        "url": "https://www.wsj.com/politics/national-security/qatar-facility-at-u-s-air-force-base-in-idaho-sparks-controversy-8c9f8b4e",
+        "urlToImage": null,
+        "publishedAt": "2025-10-11T01:24:00Z",
+        "content": null
+    },
+    {
+        "source": {
             "id": null,
             "name": "Hollywood Reporter"
         },
-        "author": "Ryan Gajewski",
-        "title": "Jim Caviezel Won\u2019t Return as Jesus for Mel Gibson\u2019s \u2018Resurrection of the Christ\u2019 - The Hollywood Reporter",
-        "description": "Following the massive success of 'The Passion of the Christ,' Lionsgate is set to release the two-part project theatrically in 2027.",
-        "url": "http://www.hollywoodreporter.com/movies/movie-news/passion-of-the-christ-jim-caviezel-resurrection-mel-gibson-1236398258/",
-        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/MCDPAOF_NW031-2.jpg?w=1296&h=730&crop=1",
-        "publishedAt": "2025-10-11T00:24:05Z",
-        "content": "Jim Caviezel will not return to play Jesus Christ for director Mel Gibson\u2018s forthcoming follow-ups to the smash hit The Passion of the Christ, The Hollywood Reporter has confirmed.\r\nLionsgate is set \u2026 [+1814 chars]"
+        "author": "Tony Maglio",
+        "title": "Amy Bradley Investigators Have Three \u201cVery Significant Leads\u201d on Her Whereabouts (Exclusive) - The Hollywood Reporter",
+        "description": "This is, of course, assuming she\u2019s alive.",
+        "url": "http://www.hollywoodreporter.com/tv/tv-news/amy-bradley-alive-new-evidence-fbi-investigation-exclusive-1236397971/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/Amy_Bradley_Is_Missing_E2_00_17_28_12-H-2025.jpg?w=1296&h=730&crop=1",
+        "publishedAt": "2025-10-11T00:18:36Z",
+        "content": "Amy Bradley is (still) missing, but new evidence may help find the now 51-year-old American, if she\u2019s alive.\r\nNetflix docuseries Amy Bradley Is Missing from filmmakers Ari Mark and Phil Lott made a h\u2026 [+4661 chars]"
     },
     {
         "source": {
@@ -154,19 +154,6 @@
         "urlToImage": "https://images.axios.com/UsZCUHDbYEmftng1BD0ipd_yaB0=/0x856:8192x5464/1366x768/2025/10/10/1760115225522.jpg",
         "publishedAt": "2025-10-11T00:17:05Z",
         "content": "<ul><li>President Trump has repeatedly referred to federal employees as members of the \"deep state.\" The \"reductions in force,\" or RIFs, is the latest blow to the federal workforce, which is already \u2026 [+3306 chars]"
-    },
-    {
-        "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Josh Gerstein",
-        "title": "Trump administration has failed to deport Kilmar Abrego Garcia to Africa - Politico",
-        "description": "Three African nations won\u2019t accept the Salvadoran native, who was already deported illegally once and then brought back to the U.S.",
-        "url": "https://www.politico.com/news/2025/10/10/kilmar-abrego-garcia-deportations-africa-00604195",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F77%2Fad%2Fb8f009754aa090f4357389826bc1%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2231303351",
-        "publishedAt": "2025-10-10T23:56:39Z",
-        "content": "Abrego is originally from El Salvador. He entered the U.S. illegally and lived in Maryland for more than a decade before he was arrested in March and deported to a notorious Salvadoran prison. Courts\u2026 [+4912 chars]"
     },
     {
         "source": {
@@ -222,19 +209,6 @@
     },
     {
         "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Erika Edwards",
-        "title": "Hundreds of U.S. students quarantined amid measles outbreaks - NBC News",
-        "description": "A bubbling measles outbreak in the upstate of South Carolina has forced 153 unvaccinated children out of the classroom and into quarantine for a minimum of 21 days",
-        "url": "https://www.nbcnews.com/health/health-news/measles-students-quarantined-south-carolina-minnesota-rcna236844",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251010-mmr-shot-ch-0844-843566.jpg",
-        "publishedAt": "2025-10-10T21:47:26Z",
-        "content": "A bubbling measles outbreak in the upstate of South Carolina has forced 153 unvaccinated children out of the classroom and into quarantine for a minimum of 21 days.\r\nIn Minnesota, where a small outbr\u2026 [+1829 chars]"
-    },
-    {
-        "source": {
             "id": "bloomberg",
             "name": "Bloomberg"
         },
@@ -245,5 +219,31 @@
         "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYFTRGOIYB4c/v1/1200x800.jpg",
         "publishedAt": "2025-10-10T21:36:49Z",
         "content": "Morgan Stanleys asset-management business asked to redeem some money it invested in a Jefferies Financial Group Inc. fund with large exposure to the trade debt of bankrupt auto-parts supplier First B\u2026 [+431 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "James Pero",
+        "title": "Samsung\u2019s Rumored Ray-Ban Smart Glasses Killer May Arrive Sooner Than You Think - Gizmodo",
+        "description": "New reports suggest Samsung's first-ever smart glasses might be around the corner.",
+        "url": "https://gizmodo.com/samsungs-rumored-ray-ban-smart-glasses-killer-may-arrive-sooner-than-you-think-2000671078",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/09/oakley-meta-hstn-smart-glasses-08-1200x675.jpg",
+        "publishedAt": "2025-10-10T21:31:21Z",
+        "content": "Everyone wants a piece of the smart glasses pie. With Meta plowing full steam ahead, releasing three new pairs of smart glasses in one go at its Connect conference this year (including the Ray-Ban Di\u2026 [+3239 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "The Associated Press",
+        "title": "Macron puts Lecornu back as France's prime minister just days after he quit - NPR",
+        "description": "French President Emmanuel Macron has reappointed S\u00e9bastien Lecornu as prime minister, just days after his resignation, asking him to try again to form a government and produce a budget.",
+        "url": "https://www.npr.org/2025/10/10/g-s1-93066/france-government-prime-minister-lecornu-macron",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2359x1327+0+70/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb8%2Fd2%2Faaa250334a83b01dc8dde4289e94%2Fap25281392428908.jpg",
+        "publishedAt": "2025-10-10T21:23:32Z",
+        "content": "PARIS French President Emmanuel Macron on Friday re-appointed Sebastien Lecornu as prime minister, just days after his resignation, asking him to try again to form a government and produce a budget i\u2026 [+4713 chars]"
     }
 ]
