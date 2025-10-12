@@ -1,16 +1,55 @@
 [
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
+            "id": null,
+            "name": "NPR"
         },
-        "author": "Luke Olson",
-        "title": "Polanco hits winning single in the 15th inning as the Mariners beat the Tigers to advance to ALCS - AP News",
-        "description": "Jorge Polanco hit a game-ending single in the 15th inning, and the Seattle Mariners advanced to the AL Championship Series by outlasting the Detroit Tigers for a 3-2 victory in the longest winner-take-all postseason game in baseball history. With one out and \u2026",
-        "url": "https://apnews.com/article/tigers-mariners-score-alds-skubal-483df1fa26a6bb4fa01c4c2ba8742340",
-        "urlToImage": "https://dims.apnews.com/dims4/default/6e3a317/2147483647/strip/true/crop/3870x2177+0+202/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F31%2Ffb%2Fff82626131f228691cb6953d0e5a%2F529a04958da745e8a3c2c70587bfea6e",
-        "publishedAt": "2025-10-11T05:18:00Z",
-        "content": "SEATTLE (AP) Jorge Polanco hit a game-ending single in the 15th inning, and the Seattle Mariners advanced to the AL Championship Series by outlasting the Detroit Tigers for a 3-2 victory Friday night\u2026 [+3416 chars]"
+        "author": "The Associated Press",
+        "title": "Trump threatens tech export limits, new 100% tariff on Chinese imports - NPR",
+        "description": "President Trump threatened to place an additional 100% tax on Chinese imports starting on Nov. 1 or sooner, potentially escalating tariff rates close to levels that in April fanned fears of a recession.",
+        "url": "https://www.npr.org/2025/10/11/g-s1-93113/trump-threatens-100-tariff-chinese-imports",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2Ff5%2F538af430432ab0e329ff0e1c0938%2Fap25283809175090.jpg",
+        "publishedAt": "2025-10-11T07:44:18Z",
+        "content": "WASHINGTON President Donald Trump on Friday threatened to place an additional 100% tax on Chinese imports starting on Nov. 1 or sooner, potentially escalating tariff rates close to levels that in Apr\u2026 [+5965 chars]"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "At least 28 killed in heavy flooding caused by tropical storms in Mexico - Al Jazeera",
+        "description": "The storms have caused devastation nationwide as rains are expected to continue through Sunday.",
+        "url": "https://www.aljazeera.com/news/2025/10/11/at-least-28-killed-in-heavy-flooding-caused-by-tropical-storms-in-mexico",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/afp_68e9ea5dc576-1760160349.jpg?resize=1920%2C1440",
+        "publishedAt": "2025-10-11T06:38:56Z",
+        "content": "Flooding set off by heavy rainfall in Mexico has left at least 28 people dead and more missing, and has caused landslides, damaged homes and highways, according to local authorities.\r\nDownpours in th\u2026 [+3683 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Seattle Times"
+        },
+        "author": "Nicole Pasia",
+        "title": "Did the Mariners finally win ALDS Game 5 because of Humpy the Salmon? - The Seattle Times",
+        "description": "Humpy won his first ever Salmon Run Friday night -- just before the Mariners secured a win and advanced to the ALCS.",
+        "url": "https://www.seattletimes.com/sports/mariners/did-the-mariners-finally-win-alds-game-5-because-of-humpy-the-salmon/",
+        "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/10/10102025_tzr_tzr_225904.jpg?d=1200x630",
+        "publishedAt": "2025-10-11T06:12:02Z",
+        "content": "History was made Friday night in T-Mobile Park. A historic win prompted a sold out stadium of 47,025 fans to leap to their feet and cheer at the top of their lungs. But Jorge Polanco\u2019s walkoff single\u2026 [+1313 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Suntimes.com"
+        },
+        "author": "Georgia Nicols",
+        "title": "Horoscope for Saturday, October 11, 2025 - Chicago Sun-Times",
+        "description": null,
+        "url": "https://chicago.suntimes.com/horoscopes/2025/10/11/horoscopes-today-saturday-october-11-2025",
+        "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+        "publishedAt": "2025-10-11T05:01:00Z",
+        "content": "Moon alert\r\nAvoid shopping or important decisions after 9:30 p.m. Chicago time. After that, the moon moves from Gemini into Cancer.\r\nAries (March 21-April 19)\r\nWelcome any chance to learn something n\u2026 [+3869 chars]"
     },
     {
         "source": {
@@ -27,16 +66,16 @@
     },
     {
         "source": {
-            "id": "abc-news",
-            "name": "ABC News"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": "ABC News - Breaking News, Latest News and Videos",
-        "title": "Multiple people dead, 18 unaccounted for in 'devastating blast' at explosives manufacturer in Tennessee: Sheriff - ABC News - Breaking News, Latest News and Videos",
-        "description": null,
-        "url": "https://abcnews.go.com/US/tennessee-explosives-plant-manufacturer-explosion/story?id\\\\u003d126405185",
-        "urlToImage": null,
-        "publishedAt": "2025-10-11T03:23:00Z",
-        "content": null
+        "author": "Kyle Rempfer, Jonathan Edwards, Katie Tarrant",
+        "title": "19 missing after blast rocked Tennessee military explosives plant - The Washington Post",
+        "description": "Humphreys County Sheriff Chris Davis called the site of the blast at Accurate Energetic Systems in McEwen \u201cthe most devastating scene that I\u2019ve seen in my career.\u201d",
+        "url": "https://www.washingtonpost.com/nation/2025/10/10/tennessee-explosion-accurate-energetic-systems/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MJC7ON5B3SDRV45U5M2X4ATZC4.jpg&w=1440",
+        "publishedAt": "2025-10-11T03:46:00Z",
+        "content": "Nineteen people are missing after an explosion Friday morning demolished part of a munitions plant in rural Tennessee, according to local authorities.\r\nAn undetermined number of people were killed in\u2026 [+144 chars]"
     },
     {
         "source": {
@@ -105,45 +144,6 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Brad Lendon, Gawon Bae",
-        "title": "As its ruling party turns 80, an emboldened Kim Jong Un shows off North Korea\u2019s new hypersonic weapon, ICBM - CNN",
-        "description": "North Korea showed off a new hypersonic glide vehicle and intercontinental ballistic missiles (ICBM) at a military parade late Friday, as it marked 80 years of the ruling Workers\u2019 Party of Korea.",
-        "url": "https://www.cnn.com/2025/10/10/asia/north-korea-military-parade-new-missiles-intl-hnk-ml",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/0462a0499e02dae37d5fe78f60c-1-20251011035021823.JPG?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-10-11T01:26:00Z",
-        "content": "North Korea showed off a new hypersonic glide vehicle and intercontinental ballistic missiles (ICBM) at a military parade late Friday, as it marked 80 years of the ruling Workers Party of Korea.\r\nThe\u2026 [+4175 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "The Wall Street Journal",
-        "title": "Qatar Facility at U.S. Air Force Base in Idaho Sparks Controversy - The Wall Street Journal",
-        "description": null,
-        "url": "https://www.wsj.com/politics/national-security/qatar-facility-at-u-s-air-force-base-in-idaho-sparks-controversy-8c9f8b4e",
-        "urlToImage": null,
-        "publishedAt": "2025-10-11T01:24:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Hollywood Reporter"
-        },
-        "author": "Tony Maglio",
-        "title": "Amy Bradley Investigators Have Three \u201cVery Significant Leads\u201d on Her Whereabouts (Exclusive) - The Hollywood Reporter",
-        "description": "This is, of course, assuming she\u2019s alive.",
-        "url": "http://www.hollywoodreporter.com/tv/tv-news/amy-bradley-alive-new-evidence-fbi-investigation-exclusive-1236397971/",
-        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/Amy_Bradley_Is_Missing_E2_00_17_28_12-H-2025.jpg?w=1296&h=730&crop=1",
-        "publishedAt": "2025-10-11T00:18:36Z",
-        "content": "Amy Bradley is (still) missing, but new evidence may help find the now 51-year-old American, if she\u2019s alive.\r\nNetflix docuseries Amy Bradley Is Missing from filmmakers Ari Mark and Phil Lott made a h\u2026 [+4661 chars]"
-    },
-    {
-        "source": {
             "id": "axios",
             "name": "Axios"
         },
@@ -171,6 +171,32 @@
     {
         "source": {
             "id": null,
+            "name": "Digital Trends"
+        },
+        "author": "Moinak Pal",
+        "title": "Google Maps gets a brain upgrade as Gemini takes the wheel - Digital Trends",
+        "description": "Replacing the Google Assistant, Gemini can now reroute your trip, dodge tolls, check the weather, and answer questions mid-drive.",
+        "url": "https://www.digitaltrends.com/phones/google-maps-gets-a-brain-upgrade-as-gemini-takes-the-wheel/",
+        "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/05/Android-Auto-Carplay-second-screen-integration-chevy-equinox-2025-suv-1.jpg?resize=1200%2C630&p=1",
+        "publishedAt": "2025-10-10T23:52:20Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "Sydney Lupkin",
+        "title": "AstraZeneca makes deal with White House to lower drug prices - NPR",
+        "description": "The U.K.-based drugmaker became the second to strike a deal with the Trump administration as part of the president's push to rein in U.S. drug prices.",
+        "url": "https://www.npr.org/sections/shots-health-news/2025/10/10/nx-s1-5571070/astrazeneca-trump-drug-prices",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8552x4811+0+475/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F73%2F61%2F86093b674f38917cdc9f746de3c7%2Fgettyimages-2240330248.jpg",
+        "publishedAt": "2025-10-10T23:21:23Z",
+        "content": "AstraZeneca became the second drugmaker to enter a deal with the Trump administration to offer lower prices to Medicaid and to offer some of its drugs at a discount through TrumpRx\r\n, a government we\u2026 [+2612 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Variety"
         },
         "author": "Jordan Moreau",
@@ -180,19 +206,6 @@
         "urlToImage": "https://variety.com/wp-content/uploads/2025/10/Invincible.jpg?w=1000&h=563&crop=1",
         "publishedAt": "2025-10-10T21:59:00Z",
         "content": "Amazon Prime Video has released the first teaser for the upcoming \u201cInvincible\u201d Season 4, set to premiere in March 2026, out of New York Comic Con. One of the comic book series\u2019 most dangerous villain\u2026 [+1926 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NPR"
-        },
-        "author": "NPR",
-        "title": "Jake Sullivan tried to get a Gaza peace deal. Here's what he thinks of Trump's - NPR",
-        "description": "<p dir=\"ltr\">A ceasefire is now in effect between Israel and Hamas, and the Israeli military has pulled back from certain positions in the Gaza Strip. In the coming days, a hostage and prisoner exchange is set to begin, and hundreds of humanitarian aid trucks\u2026",
-        "url": "https://www.npr.org/2025/10/10/nx-s1-5570808/jake-sullivan-tried-to-get-a-gaza-peace-deal-heres-what-he-thinks-of-trumps",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2F6f%2F71d5fb0a4d4c8fb4c10871db8b99%2Feeadb7f6-101a-454e-b3f1-a42cc07a6c20.jpg",
-        "publishedAt": "2025-10-10T21:56:41Z",
-        "content": "A ceasefire is now in effect between Israel and Hamas, and the Israeli military has pulled back from certain positions in the Gaza Strip. In the coming days, a hostage and prisoner exchange is set to\u2026 [+880 chars]"
     },
     {
         "source": {
