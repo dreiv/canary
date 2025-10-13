@@ -1,6 +1,45 @@
 [
     {
         "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Mark Berman",
+        "title": "Appeals court bars Trump from deploying National Guard in Illinois - The Washington Post",
+        "description": "The appeals court weighed in after a federal judge, concluding that it was \u201clikely to lead to civil unrest,\u201d barred the president from deploying troops in and around Chicago.",
+        "url": "https://www.washingtonpost.com/politics/2025/10/11/trump-national-guard-illinois/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PSSW6QNUTHR6XF65M6WFSBTYSU_size-normalized.JPG&w=1440",
+        "publishedAt": "2025-10-12T03:16:00Z",
+        "content": "The appeals court weighed in after a federal judge, concluding that it was likely to lead to civil unrest, barred the president from deploying troops in and around Chicago.\r\nUpdated October 11, 2025 \u2026 [+27 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gematsu"
+        },
+        "author": "Sal Romano",
+        "title": "New Dissidia Final Fantasy title for iOS, Android to be announced on October 14 - Gematsu",
+        "description": "Square Enix will announce a new Dissidia Final Fantasy title for iOS and Android on October 14 at 3:00 a.m. PT / 6:00 a.m. ET / 19:00 JST, the company announced. You will be able to watch the &#822\u2026",
+        "url": "https://www.gematsu.com/2025/10/new-dissidia-final-fantasy-title-for-ios-android-to-be-announced-on-october-14",
+        "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/10/New-Dissidia_10-12-25.jpg",
+        "publishedAt": "2025-10-12T03:10:57Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Victor Loh",
+        "title": "China defends rare earth export curbs as \u2018legitimate,\u2019 hits back at U.S. tariffs as Trump-Xi meeting hangs in balance - CNBC",
+        "description": "The Chinese Ministry of Commerce said the controls, issued Oct. 9, were part of Beijing's effort to \"better safeguard world peace and regional stability.\"",
+        "url": "https://www.cnbc.com/2025/10/12/china-defends-rare-earth-export-curbs-as-legitimate-hits-back-at-us-tariffs-ahead-of-possible-trump-xi-meeting.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210930-1760237541506-gettyimages-121393135-65965310.jpeg?v=1760237569&w=1920&h=1080",
+        "publishedAt": "2025-10-12T02:53:00Z",
+        "content": "China on Sunday defended its new export controls on rare earths as a \"legitimate\" measure under international law, pushing back against U.S. accusations of economic coercion after Washington announce\u2026 [+4181 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "The Dallas Morning News"
         },
@@ -28,6 +67,32 @@
     {
         "source": {
             "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Afghan Taliban confirm 'retaliatory' border attacks on Pakistan - BBC",
+        "description": "The escalation comes days after Pakistan was accused of bombing a market inside Afghanistan.",
+        "url": "https://www.bbc.com/news/articles/cgmzmn4971zo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/561e/live/c3298eb0-a6fe-11f0-a7b7-218fd497c477.jpg",
+        "publishedAt": "2025-10-12T01:23:02Z",
+        "content": "Carrie DaviesPakistan correspondent,\r\nThe Taliban government has confirmed that it attacked Pakistani troops in multiple mountainous locations on the northern border.\r\nCasualties are not yet clear in\u2026 [+3095 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "The Wall Street Journal",
+        "title": "Sheriff Says 16 Dead in Blast at Tennessee Explosives Plant - The Wall Street Journal",
+        "description": null,
+        "url": "https://www.wsj.com/us-news/sheriff-says-16-dead-in-blast-at-tennessee-explosives-plant-bd87c0fb",
+        "urlToImage": null,
+        "publishedAt": "2025-10-12T01:11:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
             "name": "NPR"
         },
         "author": "The Associated Press",
@@ -37,6 +102,19 @@
         "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2972x1672+0+173/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe4%2Fa2%2Fad11d77a4722b25ec14c5046607c%2Fap25284737520325.jpg",
         "publishedAt": "2025-10-12T00:23:13Z",
         "content": "Diane Keaton, the Oscar-winning star of \"Annie Hall,\" \"The Godfather\" films and \"Father of the Bride,\" whose quirky, vibrant manner and depth made her one of the most singular actors of a generation,\u2026 [+8738 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CBS Sports"
+        },
+        "author": "Chip Patterson",
+        "title": "Indiana holds off Oregon: No. 7 Hoosiers, Curt Cignetti pick up signature win in pivotal Big Ten battle - CBS Sports",
+        "description": "The Hoosiers firmly proved themselves as legitimate Big Ten contenders with an impressive road win over the Ducks",
+        "url": "https://www.cbssports.com/college-football/news/oregon-indiana-game-score-live-updates/live/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/10/11/356f6019-f28c-43a8-a1a5-6758f9105a34/thumbnail/1200x675/5958ecc9e29888defe1596744d77392f/indiana-win.png",
+        "publishedAt": "2025-10-11T23:52:57Z",
+        "content": "After 46 attempts, the No. 7 Indiana Hoosiers secured their first road win against an AP top-five opponent in school history, knocking off No. 3 Oregon by a 30-20 score in Autzen Stadium on Saturday.\u2026 [+2318 chars]"
     },
     {
         "source": {
@@ -53,29 +131,29 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "OregonLive"
+            "id": "espn",
+            "name": "ESPN"
         },
-        "author": "James Crepea | The Oregonian/OregonLive",
-        "title": "What Dan Lanning said after Oregon lost to Indiana - OregonLive.com",
-        "description": "See what Dan Lanning said after Oregon's first loss of the season",
-        "url": "https://www.oregonlive.com/ducks/2025/10/live-updates-dan-lanning-postgame-press-conference-after-oregon-loses-to-indiana.html",
-        "urlToImage": "https://www.oregonlive.com/resizer/v2/M53BCD3JLRAN5K4NRFDXHUQYOA.jpg?auth=085c2ba0a548fe96793095dcfe8b76cc9528f628b220605f6a129731561e3220&width=1280&smart=true&quality=90",
-        "publishedAt": "2025-10-11T23:24:00Z",
-        "content": "EUGENE No. 3 Oregon lost to No. 7 Indiana 30-20 Saturday afternoon at Autzen Stadium.\r\nDan Lanning recapped the first loss of the season for the Ducks (5-1, 2-1 Big Ten), who travel to Rutgers next w\u2026 [+8822 chars]"
+        "author": "Jake Trotter",
+        "title": "Allar injured, out for year as PSU's skid hits 3 - ESPN",
+        "description": "Penn State quarterback Drew Allar, who left the Nittany Lions' stunning 22-21 loss to Northwestern on Saturday, is out for the season, coach James Franklin said in his postgame media availability, not long after his reeling team fell to 3-3.",
+        "url": "https://www.espn.com/college-football/story/_/id/46565328/drew-allar-suffers-season-ending-injury-penn-state-loses",
+        "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1011%2Fr1558898_1296x729_16%2D9.jpg",
+        "publishedAt": "2025-10-11T23:40:00Z",
+        "content": "Drew Allar's college career is likely over. And Penn State's once promising season has turned into a nightmare.\r\nThe Nittany Lions lost their third straight game Saturday -- a 22-21 loss at home to N\u2026 [+2239 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "The Seattle Times"
+            "name": "IFLScience"
         },
-        "author": "Ryan Divish",
-        "title": "Mariners turn attention to Toronto. They just had to get there first. - The Seattle Times",
-        "description": "After their 15-inning marathon victory, the Mariners were ready to turn their attention to Toronto. But they were delayed getting there.",
-        "url": "https://www.seattletimes.com/sports/mariners/mariners-delayed-getting-to-toronto-after-marathon-alds-game-5/",
-        "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/10/10112025_tzr_tzr_161810.jpg?d=1200x630",
-        "publishedAt": "2025-10-11T23:20:56Z",
-        "content": "TORONTO Following their 15-inning marathon victory to close out the American League Division Series over the Tigers and a postgame celebration that seemed slightly subdued, perhaps due to physical fa\u2026 [+3870 chars]"
+        "author": "Rachael Funnell",
+        "title": "This \u201cSuper Weird\u201d Sea Monster Lived 190 Million Years Ago, And It\u2019s The Only Of Its Kind Ever Discovered - IFLScience",
+        "description": "The rare ichthyosaur has some \u201csuper weird\u201d features.",
+        "url": "https://www.iflscience.com/190-million-year-old-sword-dragon-of-dorset-likely-the-worlds-most-complete-pliensbachian-reptile-81113",
+        "urlToImage": "https://assets.iflscience.com/assets/articleNo/81113/aImg/86919/pliensbachian-ichthyosaur-meta.png",
+        "publishedAt": "2025-10-11T23:30:08Z",
+        "content": "One of the most complete sea monsters on record had been discovered along the UKs Jurassic Coast, being perhaps the worlds most complete reptile fossil dating back to the Pliensbachian period. The ra\u2026 [+4761 chars]"
     },
     {
         "source": {
@@ -92,29 +170,42 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "PBS"
-        },
-        "author": null,
-        "title": "Appeals court rules U.S. troops Trump sent to Illinois can stay, but can\u2019t be deployed for now - PBS",
-        "description": "National Guard troops sent to Illinois by President Donald Trump can stay in the state and under federal control, but can\u2019t be deployed to protect federal property or go on patrol for now, an appeals court ruled Saturday.",
-        "url": "https://www.pbs.org/newshour/politics/appeals-court-rules-u-s-troops-trump-sent-to-illinois-can-stay-but-cant-be-deployed-for-now",
-        "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/10/2025-10-07T211601Z_646127881_RC277HAVHOS9_RTRMADP_3_USA-TRUMP-CHICAGO-1024x682.jpg",
-        "publishedAt": "2025-10-11T22:45:34Z",
-        "content": "CHICAGO (AP) National Guard troops sent to Illinois by President Donald Trump can stay in the state and under federal control, but cant be deployed to protect federal property or go on patrol for now\u2026 [+1984 chars]"
-    },
-    {
-        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
+        "author": "Jason Ma",
+        "title": "At this rate, the price of gold could soar to $10,000 per ounce in just three years - Fortune",
+        "description": "\"If it continues on its current path, it could reach $10,000 before the end of the decade.\"",
+        "url": "https://fortune.com/2025/10/11/gold-price-outlook-10000-debasement-trade-dedollarization/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2239818092_f4cf01-e1760213402981.jpg?resize=1200,600",
+        "publishedAt": "2025-10-11T22:18:00Z",
+        "content": "After surging nearly 50% so far this year, gold could skyrocket 150% as early as 2028 if its current pace keeps up.The precious metal topped $4,000 per ounce for the first time ever earlier this week\u2026 [+2617 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
         "author": "Nino Paoli",
-        "title": "Silicon Valley tech boss Marc Benioff says he's all for Trump sending troops to San Francisco since 'we don't have enough cops' - Fortune",
+        "title": "Silicon Valley tech boss Marc Benioff says he\u2019s all for Trump sending troops to San Francisco since \u2018we don\u2019t have enough cops\u2019 - Yahoo",
         "description": "\u201cWe don\u2019t have enough cops, so if they can be cops, I\u2019m all for it,\u201d Benioff told The New York Times on Friday.",
-        "url": "https://fortune.com/2025/10/11/tech-ceo-marc-benioff-trump-national-guard-troops-san-francisco/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2221463515-e1760219753931.jpg?resize=1200,600",
-        "publishedAt": "2025-10-11T22:08:00Z",
-        "content": "Salesforce CEO Marc Benioff says Americas tech capital has a police problem, and hes welcoming President Donald Trumps pitch to send National Guard troops to yet another Democrat-led city.We dont hav\u2026 [+2753 chars]"
+        "url": "https://www.yahoo.com/news/articles/silicon-valley-tech-boss-marc-220857424.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/OWdoh.sobyuVJw85Lk7MjA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/fortune_175/f6ea71b4c27f76906a97a757ab289763",
+        "publishedAt": "2025-10-11T22:08:57Z",
+        "content": "Salesforce CEO Marc Benioff says Americas tech capital has a police problem, and hes welcoming President Donald Trumps pitch to send National Guard troops to yet another Democrat-led city.\r\nWe dont h\u2026 [+2805 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News - Breaking News, Latest News and Videos",
+        "title": "Special education staff decimated after Trump administration shutdown firings: Sources - ABC News - Breaking News, Latest News and Videos",
+        "description": null,
+        "url": "https://abcnews.go.com/Politics/special-education-staff-decimated-after-trump-administration-shutdown/story?id\\\\u003d126432474",
+        "urlToImage": null,
+        "publishedAt": "2025-10-11T22:01:04Z",
+        "content": null
     },
     {
         "source": {
@@ -144,32 +235,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Craig Stirling",
-        "title": "Stock Bubble Dread Grips Central Bankers in Washington - Yahoo Finance",
-        "description": "Global policymakers and finance ministers will gather in Washington for the International Monetary Fund/World Bank fall meetings after a chorus of warnings...",
-        "url": "https://finance.yahoo.com/news/stock-bubble-dread-grips-central-200000324.html",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vnLchbPyXpabNIvOtluQvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/501903c24d069d5954d3493d66690ceb",
-        "publishedAt": "2025-10-11T20:00:00Z",
-        "content": "Kristalina Georgieva\r\n(Bloomberg) -- Central bankers, already uneasy about trade tensions and swelling public debt, will collectively confront a new worry in the coming week: the danger of a market c\u2026 [+10414 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Auzinea Bacon",
-        "title": "Trump\u2019s new 100% tariffs on China triggered an $18 billion crypto sell-off - CNN",
-        "description": "President Donald Trump\u2019s threat of 100% tariffs on China \u201cover and above any Tariff they are currently paying\u201d effective November 1, sparked a massive cryptocurrency sell-off late Friday.",
-        "url": "https://www.cnn.com/2025/10/11/business/trump-tariffs-crypto-selloff",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1240709623.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-10-11T19:48:50Z",
-        "content": "President Donald Trumps threat to impose an additional 100% tariff on imports from China sparked a massive cryptocurrency sell-off late Friday that exposed risky leverage in the space.\r\nDigital curre\u2026 [+1636 chars]"
-    },
-    {
-        "source": {
             "id": "the-verge",
             "name": "The Verge"
         },
@@ -180,57 +245,5 @@
         "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Clips3.webp?quality=90&strip=all&crop=0%2C11.044304996833%2C100%2C77.911390006335&w=1200",
         "publishedAt": "2025-10-11T19:35:04Z",
         "content": "<ul><li></li><li></li><li></li></ul>\r\nAs of October 10th it will no longer receive updates and wont be available to download for new users.\r\nAs of October 10th it will no longer receive updates and w\u2026 [+244 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Emmet  Lyons",
-        "title": "Israel awaits the release of hostages, as Palestinians return to the ruins of their homes - CBS News",
-        "description": "The ceasefire between Israel and Hamas continues to hold as aid begins to flow into the Gaza Strip.",
-        "url": "https://www.cbsnews.com/live-updates/israel-hamas-peace-deal-live-updates-gaza-ceasefire-day-1/",
-        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/11/1556db3c-0e35-4d37-bb3f-28363a4c677a/thumbnail/1200x630/67124cdb21e62cc804083f0fdd08693c/ap25283721150477.jpg",
-        "publishedAt": "2025-10-11T19:15:00Z",
-        "content": "U.S. Special Envoy Steve Witkoff spoke at Saturday night's rally in Hostages Square in Tel Aviv, the largest crowd reported there since it became the gathering place for relatives of Israelis taken h\u2026 [+1413 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Rolling Stone"
-        },
-        "author": "Daniel Kreps, Nick Reilly",
-        "title": "Lostprophets Singer Ian Watkins Dead at 48 After Prison Attack - Rolling Stone",
-        "description": "Lostprophets singer and convicted pedophile Ian Watkins has died at the age of 48 after he was attacked in prison Saturday by inmates.",
-        "url": "http://www.rollingstone.com/music/music-news/lostprophets-singer-ian-watkins-dead-prison-attack-1235445522/",
-        "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/10/GettyImages-143836903.jpg?w=1600&h=900&crop=1",
-        "publishedAt": "2025-10-11T18:14:04Z",
-        "content": "Lostprophets singer Ian Watkins has died at the age of 48 after he was attacked in prison Saturday, it has been confirmed.\r\nWatkins was serving a 29-year jail term after being convicted of a string o\u2026 [+2117 chars]"
-    },
-    {
-        "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "The Associated Press",
-        "title": "British army horse that galloped through London after being spooked gets well-deserved retirement - ABC News - Breaking News, Latest News and Videos",
-        "description": "One of the five British Cavalry horses that made headlines when they broke away from their trainers and galloped thorough the streets of London last year has been retired to the country without ever returning to active service",
-        "url": "https://abcnews.go.com/International/wireStory/british-army-horse-galloped-london-after-spooked-gets-126432427",
-        "urlToImage": "https://i.abcnewsfe.com/a/e666a239-3e73-4f18-9f0b-8309ab72f1a2/wirestory_24ca41e595c7fc57ad99236457f8f4b1_16x9.jpg?w=1600",
-        "publishedAt": "2025-10-11T17:42:03Z",
-        "content": "LONDON -- LONDON (AP) One of the five British Cavalry horses that made headlines when they broke away from their trainers and galloped thorough the streets of London last year has been retired to the\u2026 [+954 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Nintendoeverything.com"
-        },
-        "author": "Brian",
-        "title": "Pokemon Legends: Z-A leaks starting, new Mega Evolutions shown - Nintendo Everything",
-        "description": "Pokemon Legends: Z-A is only a few days away from launch, and leaks are now starting to happen, including a look at some new Mega Evolutions. If you\u2019ve kept up with pre-release happenings for Pokemon games, you probably know that information tends to come out\u2026",
-        "url": "https://nintendoeverything.com/pokemon-legends-z-a-leaks-mega-evolutions/",
-        "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Pokemon-Legends-Z-A-leaks-Mega-Evolutions.jpg",
-        "publishedAt": "2025-10-11T16:46:50Z",
-        "content": "Pokemon Legends: Z-A is only a few days away from launch, and leaks are now starting to happen, including a look at some new Mega Evolutions.\r\nIf you\u2019ve kept up with pre-release happenings for Pokemo\u2026 [+971 chars]"
     }
 ]
