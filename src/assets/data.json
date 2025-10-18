@@ -2,6 +2,32 @@
     {
         "source": {
             "id": null,
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Prince Andrew gives up royal titles including Duke of York after 'discussion with King' - BBC",
+        "description": "In a statement, the prince says: \"The continued accusations about me distract from the work of His Majesty and the Royal Family.\"",
+        "url": "https://www.bbc.com/news/live/cvgw31y75ywt",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6d8a/live/2e777cd0-ab88-11f0-ba75-093eca1ac29b.jpg",
+        "publishedAt": "2025-10-17T18:27:26Z",
+        "content": "Today's announcement comes days before the posthumous memoir of Jeffrey Epstein accuser Virginia Giuffre is due for release - almost six months after she took her own life.\r\nExtracts from the book, N\u2026 [+833 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Kylie Atwood, Natasha Bertrand, Zachary Cohen, Katie Bo Lillis",
+        "title": "US Navy detaining two survivors of strike against alleged drug boat - CNN",
+        "description": "The US military is holding two survivors on a Navy ship after the US carried out a strike on an alleged drug boat in the Caribbean on Thursday, according to three US officials.",
+        "url": "https://www.cnn.com/2025/10/17/politics/us-navy-detaining-survivors-strike-drug-boat",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25288500484824.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-10-17T16:31:40Z",
+        "content": "The US military is holding two survivors on a Navy ship after the US carried out a Thursday strike on an alleged drug boat in the Caribbean, according to three US officials.\r\nThe strike, which has no\u2026 [+2346 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "CNBC"
         },
         "author": "Liz Napolitano, Pia Singh",
@@ -15,54 +41,93 @@
     {
         "source": {
             "id": null,
-            "name": "Yahoo Entertainment"
+            "name": "CNBC"
         },
-        "author": "Neia Balao",
-        "title": "Britney Spears blasts people who 'profit off my pain' as excerpts of ex-husband Kevin Federline's memoir are released - Yahoo",
-        "description": "Spears and Federline married in 2004, before welcoming sons Sean Preston and Jayden James. Their divorce was finalized in 2007.",
-        "url": "https://www.yahoo.com/entertainment/article/britney-spears-blasts-people-who-profit-off-my-pain-as-excerpts-of-ex-husband-kevin-federlines-memoir-are-released-232131501.html",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IyG6uaKm0Hw.y3hXv9CwNQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/videos/user-uploaded/thumb-Britney-Spears-Kevin-Federline.jpg",
-        "publishedAt": "2025-10-17T14:20:26Z",
-        "content": "Britney Spears is continuing to push back at claims made by her ex-husband Kevin Federline in his upcoming memoir.\r\nTo be loved unconditionally and with a naive heart like mine, always being threaten\u2026 [+4954 chars]"
+        "author": "Kevin Breuninger",
+        "title": "Former Trump official John Bolton pleads not guilty to criminal charges - CNBC",
+        "description": "John Bolton, President Donald Trump's former national security advisor, pleaded not guilty to charges of mishandling classified information.",
+        "url": "https://www.cnbc.com/2025/10/17/john-bolton-charges-plea-trump.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213532-1760716407916-108213532-17607078402025-10-17t131540z_17167653_rc2pdhatn7yv_rtrmadp_0_usa-trump-bolton.jpg?v=1760716416&w=1920&h=1080",
+        "publishedAt": "2025-10-17T15:46:40Z",
+        "content": "John Bolton, President Donald Trump's former national security advisor, pleaded not guilty Friday to charges of mishandling classified information, multiple news outlets reported.\r\nBolton, 76, made h\u2026 [+1224 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Bengals.com"
+            "name": "9to5Mac"
         },
-        "author": null,
-        "title": "Ja'Marr Chase Makes History and Joe Flacco Revises It As Bengals Stay Current In AFC North With Thriller Over Steelers - Bengals.com",
-        "description": "Bengals.com senior writer Geoff Hobson takes a look at the Bengals' 33-31 last-second victory over the Steelers Thursday night at Paycor Stadium.",
-        "url": "https://www.bengals.com/news/ja-marr-chase-makes-history-joe-flacco-revises-it-as-bengals-stay-current-in-afc-north-with-thriller-over-steelers",
-        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bengals/nu9szsqckmp6tfxfok2c",
-        "publishedAt": "2025-10-17T14:03:45Z",
-        "content": null
+        "author": "Ryan Christoffel",
+        "title": "New iPhone Fold rumor details screen sizes, possible launch delay - 9to5Mac",
+        "description": "A new report offers fresh updates on the screen sizes to expect from Apple\u2019s iPhone Fold and the possibility of a delay.",
+        "url": "https://9to5mac.com/2025/10/17/new-iphone-fold-rumor-details-screen-sizes-possible-launch-delay/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-fold-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-10-17T14:45:00Z",
+        "content": "Next years iPhone lineup is expected to add the first ever foldable model, which may be called iPhone Fold or iPhone Ultra. Today a new report from The Elec offers fresh updates on the screen sizes t\u2026 [+1953 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Deadline"
         },
-        "author": "Rosy Cordero",
-        "title": "\u2018Euphoria\u2019 Season 3 Rounds Out Cast With New & Returning Stars; Danielle Deadwyler First-Look Photo Drops - Deadline",
-        "description": "'Euphoria' Season 3 Rounds Out Cast With 18 And 8 Additional Returning Stars including Danielle Deadwyler, Eli Roth and Natasha Lyonne.",
-        "url": "http://deadline.com/2025/10/euphoria-season-3-cast-danielle-deadwyler-photo-1236590026/",
-        "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/euphoria.jpg?w=1000",
-        "publishedAt": "2025-10-17T14:00:00Z",
-        "content": "HBO\u2018s hit teen drama Euphoria is entering its third and possibly final season with a stacked cast, including 18 new actors who have yet to be revealed. They include Bella Podaras, Bill Bodner, Cailyn\u2026 [+2082 chars]"
+        "author": "Anthony D'Alessandro",
+        "title": "\u2018Black Phone 2\u2019 Rings Up $2.6M In Previews \u2013 Friday AM Box Office - Deadline",
+        "description": "Universal and Blumhouse's Black Phone 2 dialed up $2.6 million in previews Thursday and is eyeing a $20 million-$30 million opening weekend.",
+        "url": "http://deadline.com/2025/10/box-office-black-phone-2-1236590286/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/The-Black-Phone-2.png?w=1024",
+        "publishedAt": "2025-10-17T14:32:00Z",
+        "content": "Universal and Blumhouse\u2019s Black Phone 2dialed up $2.6 million in previews Thursday at 2,900 theaters from showtimes that began at 2 p.m. That\u2019s just under the $3M the original 2021 movie pulled in be\u2026 [+3028 chars]"
     },
     {
         "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
+            "id": null,
+            "name": "Teslarati"
         },
-        "author": "Stefan  Becket",
-        "title": "Government shutdown live updates as funding lapse becomes third-longest in history - CBS News",
-        "description": "The government shutdown is now the third-longest funding lapse in modern history, and the Senate won't meet until Monday. Follow live updates here.",
-        "url": "https://www.cbsnews.com/live-updates/government-shutdown-2025-latest-senate-day-17/",
-        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/17/6955fe30-022d-4502-95c8-0371547c26c2/thumbnail/1200x630/d2f970937af04c222dd07c58db3f19b5/ap25286587748785.jpg",
-        "publishedAt": "2025-10-17T13:29:00Z",
-        "content": "House Minority Leader Hakeem Jeffries speaks to reporters at the Capitol on Friday, Oct. 17, 2025\r\nCBS News\r\nDemocrat Adelita Grijalva won a special election to fill her late father's seat several we\u2026 [+1400 chars]"
+        "author": "Simon Alvarez",
+        "title": "SpaceX posts Starship booster feat that\u2019s so nutty, it doesn\u2019t even look real - teslarati",
+        "description": "The Super Heavy booster's feat was so impressive that the whole maneuver almost looked like it was AI-generated.",
+        "url": "https://www.teslarati.com/spacex-posts-starship-booster-feat-doesnt-look-real/",
+        "urlToImage": "https://www.teslarati.com/wp-content/uploads/2025/10/spacex-starship-super-heavy-hover-1000x600.jpeg",
+        "publishedAt": "2025-10-17T14:12:48Z",
+        "content": "With the loss of the $7,500 Electric Vehicle Tax Credit, it looks as if Tesla CEO Elon Musk was right all along.\r\nAs the tax credit\u2019s loss starts to take effect, car companies that have long relied o\u2026 [+2768 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Variety"
+        },
+        "author": "Ethan Shanfeld",
+        "title": "'Euphoria' Season 3 Cast: Trisha Paytas, Natasha Lyonne and More Join - Variety",
+        "description": "Trisha Paytas, Natasha Lyonne, Danielle Deadwyler, Eli Roth and 14 more have joined the cast of 'Euphoria' Season 3. Nika King and more return.",
+        "url": "https://variety.com/2025/tv/news/euphoria-season-3-cast-trisha-paytas-natasha-lyonne-1236555183/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2025/10/MixCollage-17-Oct-2025-12-17-AM-1712-e1760674724836.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2025-10-17T14:00:00Z",
+        "content": "\u201cEuphoria\u201d has added 18 new cast members to Season 3, including Trisha Paytas, Natasha Lyonne, Danielle Deadwyler and Eli Roth. The HBO high school drama created by Sam Levinson will return in spring\u2026 [+2489 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Gerald Imray, Nqobile Ntshangase",
+        "title": "An army colonel who led a lightning-fast coup takes over as Madagascar\u2019s president - AP News",
+        "description": "Col. Michael Randrianirina has been sworn in as Madagascar's new leader after seizing power in a military coup. The rapid takeover ousted President Andry Rajoelina, who fled the country. Randrianirina, the commander of an elite army unit, took office at the n\u2026",
+        "url": "https://apnews.com/article/madagascar-coup-president-oath-randrianirina-a484f9233876ef559af0c2e3029f1f7a",
+        "urlToImage": "https://dims.apnews.com/dims4/default/b8bd410/2147483647/strip/true/crop/5000x2813+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd6%2F68%2Fbdd3ae3c737b3f3ff95d513b427f%2Fc1e10f273d58469fac94db1cf98e669a",
+        "publishedAt": "2025-10-17T13:47:00Z",
+        "content": "ANTANANARIVO, Madagascar (AP) An army colonel who seized power in a military coup was sworn in as Madagascars new leader Friday in a lightning-fast power grab that ousted the president and sent him f\u2026 [+6079 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SamMobile"
+        },
+        "author": "Abhijeet Mishra",
+        "title": "Samsung has pulled the Galaxy S24 One UI 8 update you already installed - SamMobile",
+        "description": "It seems Samsung is discovering bugs that slipped through the cracks in the One UI 8 update for multiple devices. The company recently pulled the update for the Galaxy S22 series just a week after its release, and now it has done the same for the Galaxy S24 l\u2026",
+        "url": "https://www.sammobile.com/news/samsung-galaxy-s24-plus-ultra-one-ui-8-rollout-stopped/",
+        "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/02/Galaxy-S24-Plus-review-3-1.jpg",
+        "publishedAt": "2025-10-17T13:33:00Z",
+        "content": "It seems Samsung is discovering bugs that slipped through the cracks in the One UI 8 update for multiple devices. The company recently pulled the update for the Galaxy S22 series just a week after it\u2026 [+1195 chars]"
     },
     {
         "source": {
@@ -76,45 +141,6 @@
         "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JJYI73GYNGHK5KMB3DI6PLDJRI_size-normalized.jpg&w=1440",
         "publishedAt": "2025-10-17T13:26:36Z",
         "content": "Ahead of thousands of anti-authoritarian No Kings protests planned for Saturday across the United States, Republicans are trying to brand the demonstrations as hate America rallies, ramping up their \u2026 [+144 chars]"
-    },
-    {
-        "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "The Associated Press",
-        "title": "Mahmoud Khalil can travel freely around the U.S. as he fights his deportation case, judge rules - NBC News",
-        "description": "A federal judge lifted restrictions that limited his travel to New York, New Jersey, Washington, D.C., Louisiana and Michigan.",
-        "url": "https://www.nbcnews.com/news/us-news/mahmoud-khalil-can-freely-travel-us-fights-deportation-case-judge-rule-rcna238157",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250917-Mahmoud-Khalil-ac-841p-c07458.jpg",
-        "publishedAt": "2025-10-17T13:13:31Z",
-        "content": "NEW YORK A federal judge has lifted travel restrictions for Mahmoud Khalil, allowing the Palestinian activist to speak at rallies and other events across the U.S. as he fights his deportation case br\u2026 [+1620 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Sports Illustrated"
-        },
-        "author": "Mike McDaniel",
-        "title": "Max Scherzer Refused to Come Out of Blue Jays-Mariners, and He Was Right - Sports Illustrated",
-        "description": "The 41-year-old absolutely delivered in a must-win start for Toronto.",
-        "url": "https://www.si.com/mlb/max-scherzer-refused-come-out-blue-jays-mariners",
-        "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4996,h_2810,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01k7r0b10sa09ykqx90k.jpg",
-        "publishedAt": "2025-10-17T13:01:01Z",
-        "content": "Thursday night's Game 4 of the ALCS was as close to must-win as a non-elimination game could get for the Blue Jays.\r\nAfter all, the Jays lost both home games to start the series, and traveled to Seat\u2026 [+1442 chars]"
-    },
-    {
-        "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Victoria Ebner, Rebecca Shabad, Michael Kosnar, Chloe Atkins, Peter Alexander",
-        "title": "John Bolton surrenders to authorities after federal indictment in classified information probe - NBC News",
-        "description": "WASHINGTON \u2014 John Bolton, who served as national security adviser during Donald Trump\u2019s first term before becoming a critic of the president, pleaded not guilty on Friday to charges of mishandling classified information",
-        "url": "https://www.nbcnews.com/politics/justice-department/john-bolton-surrender-authorities-federal-indictment-rcna238146",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251017john-bolton-2-rs-1cb675.jpg",
-        "publishedAt": "2025-10-17T12:59:20Z",
-        "content": "WASHINGTON John Bolton, who served as national security adviser during Donald Trumps first term before becoming a critic of the president, pleaded not guilty on Friday to charges of mishandling class\u2026 [+2821 chars]"
     },
     {
         "source": {
@@ -132,15 +158,15 @@
     {
         "source": {
             "id": null,
-            "name": "Yahoo Entertainment"
+            "name": "BBC News"
         },
-        "author": "KEN SWEET",
-        "title": "American Express profits surge 16% in Q3, driven by wealthy card members - Yahoo Finance",
-        "description": "Credit card giant American Express posted a 16% jump in third-quarter profits on Friday, helped by increased card spending, particularly among its wealthiest...",
-        "url": "https://finance.yahoo.com/news/american-express-profits-surge-16-120903139.html",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YKZKG6U_9QL963P12ZbODg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/07ba5e9a9c507b8060c6d60623a4bcd4",
-        "publishedAt": "2025-10-17T12:09:03Z",
-        "content": "NEW YORK (AP) Credit card giant American Express posted a 16% jump in third-quarter profits on Friday, helped by increased card spending, particularly among its wealthiest card members. The company r\u2026 [+1829 chars]"
+        "author": null,
+        "title": "OpenAI stops 'disrespectful' Martin Luther King Jr Sora videos - BBC",
+        "description": "The intervention has not stopped Sora users generating and sharing fake clips of other historical figures.",
+        "url": "https://www.bbc.com/news/articles/c5y0g79xevxo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3ba5/live/372f54e0-ab44-11f0-86b3-2dd47a6542fa.jpg",
+        "publishedAt": "2025-10-17T12:17:01Z",
+        "content": "Liv McMahonTechnology reporter\r\nOpenAI has stoppedits artificial intelligence (AI) app Sora creating deepfake videos portraying Dr Martin Luther King Jr, following a request from his estate.\r\nThe com\u2026 [+3709 chars]"
     },
     {
         "source": {
@@ -166,7 +192,7 @@
         "url": "https://triblive.com/sports/could-penn-state-see-an-influx-of-transfers-with-james-franklin-fired/",
         "urlToImage": null,
         "publishedAt": "2025-10-17T11:00:00Z",
-        "content": "Because you are coming from a location (Connecticut) covered by a Privacy Law, many of the features of TribLIVE.com, like videos and social media elements are disabled. If you wish to proceed to the \u2026 [+623 chars]"
+        "content": "Because you are coming from a location (Tennessee) covered by a Privacy Law, many of the features of TribLIVE.com, like videos and social media elements are disabled. If you wish to proceed to the si\u2026 [+619 chars]"
     },
     {
         "source": {
@@ -183,55 +209,16 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
+            "id": "espn",
+            "name": "ESPN"
         },
-        "author": "Katie Hunt",
-        "title": "A scientist wanted to create a mirror cell. Then she realized the dangers - CNN",
-        "description": "Kate Adamala started work on a cell in which the natural molecular structure is reversed. Then a possible doomsday scenario became clear.",
-        "url": "https://www.cnn.com/2025/10/17/science/mirror-cell-life-dangers",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20251008-science-mirror-cells-1.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-10-17T10:00:51Z",
-        "content": "Scientist Kate Adamala doesnt remember exactly when she realized her lab at the University of Minnesota was working on something potentially dangerous so dangerous in fact that some researchers think\u2026 [+14995 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Enda Curran, Amara Omeokwe",
-        "title": "Powell Has Backing for 2025 Rate Cuts and Then Things Get Cloudy - Bloomberg.com",
-        "description": "The Federal Reserve is ready to cut interest rates again this month, because right now a weakening job market outweighs inflation fears. But that balance may not hold for very long.",
-        "url": "https://www.bloomberg.com/news/articles/2025-10-17/powell-has-backing-for-2025-rate-cuts-and-then-things-get-cloudy",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQdTKjATmN.c/v1/1200x800.jpg",
-        "publishedAt": "2025-10-17T10:00:00Z",
-        "content": "The Federal Reserve is ready to cut interest rates again this month, because right now a weakening job market outweighs inflation fears. But that balance may not hold for very long.\r\nTheres a sizable\u2026 [+262 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Space.com"
-        },
-        "author": "Anthony Wood",
-        "title": "How to see Comet C/2025 R2 (SWAN) shine in the October sky - Space",
-        "description": "Comet C/2025 R2 (SWAN) will make a close flyby of Earth on Oct. 21.",
-        "url": "https://www.space.com/stargazing/how-to-see-comet-c2025-r2-swan-shine-in-the-october-sky-2025",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/FRuTA4jKjt2GjJBhePVaBJ-1920-80.jpg",
-        "publishedAt": "2025-10-17T10:00:00Z",
-        "content": "A bright new solar system comet could put on a show in the October night sky as it zooms past Earth.\r\nComet C/2025 R2 (SWAN)\r\n was discovered on Sept. 10 by Ukrainian amateur astronomer Vladimir Bezu\u2026 [+3410 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Jared  Ochacher",
-        "title": "Sparks fly at first NYC mayoral debate with Trump weighing heavily in the air - CBS News",
-        "description": "The first debate among the three men running for New York City mayor was marked by heated back-and-forths about crime, qualifications, Israel, affordability \u2014 and President Trump.",
-        "url": "https://www.cbsnews.com/news/sparks-fly-at-first-nyc-mayoral-debate-with-trump-weighing-heavily-in-the-sparring/",
-        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/17/3bcdb2c6-d762-4344-a440-9207011aec80/thumbnail/1200x630g2/221b04255dd9d813f4b040780822149e/ap25289860814500.jpg",
-        "publishedAt": "2025-10-17T09:57:00Z",
-        "content": "The first debate among the three men running for New York City mayor was marked by heated back-and-forths about crime, qualifications, Israel, affordability \u2014 and President Trump.\r\nThe Democratic can\u2026 [+3662 chars]"
+        "author": "ESPN",
+        "title": "Blue Jays 8-2 Mariners (Oct 16, 2025) Game Recap - ESPN",
+        "description": null,
+        "url": "https://www.espn.com/mlb/recap?gameId\\\\u003d401809286",
+        "urlToImage": null,
+        "publishedAt": "2025-10-17T09:45:00Z",
+        "content": null
     },
     {
         "source": {
@@ -245,5 +232,18 @@
         "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/929x523+0+48/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb8%2F17%2Fd3b774844bde95a8eb24946aaa17%2Fap25290157742482.jpg",
         "publishedAt": "2025-10-17T09:38:14Z",
         "content": "TOKYO Japan's former Prime Minister Tomiichi Murayama, who was known for his 1995 \"Murayama statement\" apologizing to Asian victims of his country's aggression, died Friday. He was 101.\r\nMurayama die\u2026 [+3613 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "DW (English)"
+        },
+        "author": "Saim Du\u0161an Inayatullah",
+        "title": "Porsche CEO Oliver Blume to step down - DW",
+        "description": "Blume also serves as the CEO of Porsche parent company Volkswagen, where he will remain in charge. Blume's dual role at the top of two major auto brands had drawn criticism.",
+        "url": "https://www.dw.com/en/porsche-ceo-oliver-blume-to-step-down/a-74396761",
+        "urlToImage": "https://static.dw.com/image/74400876_6.jpg",
+        "publishedAt": "2025-10-17T09:18:18Z",
+        "content": "Oliver Blume is to step down as the CEO of German sports carmaker Porsche, the firm said on Friday.\r\nHe also serves in the same role in Volkswagen Group, Porsche's parent company, a dual position tha\u2026 [+2114 chars]"
     }
 ]
