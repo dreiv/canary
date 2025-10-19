@@ -4,26 +4,39 @@
             "id": null,
             "name": "BBC News"
         },
-        "author": null,
-        "title": "No Kings protests across US kick off with National Guard on standby - BBC",
-        "description": "Protests are planned in over 2,500 cities across the US, including New York, DC, Atlanta and Los Angeles.",
-        "url": "https://www.bbc.com/news/articles/c93xgyp1zv4o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a80a/live/3b8c3060-ac36-11f0-b3b3-c99a905ae914.jpg",
-        "publishedAt": "2025-10-18T16:03:12Z",
-        "content": "A planned protest against President Donald Trump has begun in New York City, the first of more than 2,500 rallies organised coast-to-coast across the US on Saturday.\r\nThousands have already packed Ti\u2026 [+2672 chars]"
+        "author": "Andrew Benson",
+        "title": "US Grand Prix sprint: Lando Norris and Oscar Piastri collide as Max Verstappen wins in Austin - BBC",
+        "description": "McLaren team-mates Oscar Piastri and Lando Norris crash out of the United States Grand Prix sprint race in a collision just after the start.",
+        "url": "https://www.bbc.com/sport/formula1/articles/cn0gxrzk29zo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0e68/live/7cc89ab0-ac53-11f0-ba75-093eca1ac29b.jpg",
+        "publishedAt": "2025-10-18T17:52:42Z",
+        "content": "The crash was a gift for Verstappen, who McLaren have always insisted remained a threat in the championship despite his significant deficit, especially as Red Bull have returned to form in recent rac\u2026 [+1747 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "New York Post"
+            "name": "Financial Times"
         },
-        "author": "Andrew Crane",
-        "title": "Defiant James Franklin breaks silence on \u2018quick\u2019 Penn State firing during \u2018College GameDay\u2019 interview - New York Post",
-        "description": "James Franklin made his first comments about his Penn State firing that materialized earlier this week, appearing on a \u201cCollege GameDay\u201d segment.",
-        "url": "https://nypost.com/2025/10/18/sports/james-franklin-breaks-silence-on-penn-state-firing/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/newspress-collage-oqd19c5al-1760801289797.jpg?quality=75&strip=all&1760787001&w=1200",
-        "publishedAt": "2025-10-18T15:30:28Z",
-        "content": "James Franklins goal of winning a national championship hasnt changed even if he wasnt able to accomplish it at Penn State before getting fired Sunday.\r\nItll just need to happen with another program,\u2026 [+2969 chars]"
+        "author": "Demetri Sevastopulo, Patrick Temple-West, Claire Jones",
+        "title": "Massive crowds gather across US for \u2018No Kings\u2019 protests against Trump - Financial Times",
+        "description": "Republicans decry demonstrations as \u2018anti-American\u2019 as people voice opposition to administration\u2019s hardline policies",
+        "url": "https://www.ft.com/content/7c5b6e44-0fa1-482c-b490-87a23ff6ba94",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbd1ca572-7383-4cff-b9bb-8ca4d2952d4a.jpg?source=next-barrier-page",
+        "publishedAt": "2025-10-18T16:51:01Z",
+        "content": "was $755now $719 for your first year\r\nGet Premium &amp; FT Weekend Print edition for the price of Premium. Complete digital access to quality analysis and expert insights, complemented with our award\u2026 [+338 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Victoria Craw",
+        "title": "Vermont state senator resigns over racist Young Republican chat messages - The Washington Post",
+        "description": "Samuel Douglass was reportedly the only elected official to take part in the Young Republican group chat that included racist and antisemitic messages.",
+        "url": "https://www.washingtonpost.com/politics/2025/10/18/samuel-douglass-resigns-young-republican-chat/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2EH6BKPPMX2EJKTQAIAQ2VKXAU.jpg&w=1440",
+        "publishedAt": "2025-10-18T16:05:08Z",
+        "content": "A Vermont state senator has resigned over his involvement in a Young Republican group chat after racist and antisemitic chat messages shared among its members were made public.\r\nRepublican Samuel Dou\u2026 [+159 chars]"
     },
     {
         "source": {
@@ -50,6 +63,19 @@
         "urlToImage": "https://variety.com/wp-content/uploads/2025/10/phone-fortune-split.jpg?w=1000&h=563&crop=1",
         "publishedAt": "2025-10-18T15:05:00Z",
         "content": "Blumhouse\u2018s horror sequel \u201cBlack Phone 2\u201d dialed into $10.7 million across Friday and preview screenings, heading for a No. 1 opening. Meanwhile, Aziz Ansari\u2019s comedy \u201cGood Fortune\u201d isn\u2019t seeing much\u2026 [+4679 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Collin Binkley, Jonathan Mattise, The Associated Press",
+        "title": "The White House has faced a flurry of rejections after inviting 9 universities to be the first signatories of its higher-ed compact - Fortune",
+        "description": "The White House asked university leaders to provide initial feedback on the compact by Oct. 20, yet as the deadline approaches, none has signed on to the document.",
+        "url": "https://fortune.com/2025/10/18/white-house-rejections-universities-signatories-higher-education-compact/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/AP25290619876046.jpg?resize=1200,600",
+        "publishedAt": "2025-10-18T14:45:00Z",
+        "content": "The five universities that were still weighing President Donald Trumps higher-education\u00a0compact\u00a0were asked to join a White House call Friday to discuss the proposed deal. By late Friday afternoon, on\u2026 [+6283 chars]"
     },
     {
         "source": {
@@ -82,13 +108,13 @@
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
-        "author": "Laura Meckler, Danielle Douglas-Gabriel",
-        "title": "With shutdown cuts, Trump moves closer to eliminating Education Department - The Washington Post",
-        "description": "The administration is looking to shed workers and transfer some operations to other departments as it seeks to close the Education Department",
-        "url": "https://www.washingtonpost.com/education/2025/10/18/trump-education-department-cuts/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MCN5EJFBTY62CVIP44PS6CZKY4.JPG&w=1440",
-        "publishedAt": "2025-10-18T13:59:58Z",
-        "content": "The prolonged government shutdown is helping the Trump administration advance its goal of closing the Department of Education a longtime conservative aim that congressional Republicans have failed to\u2026 [+7 chars]"
+        "author": "Aaron Gregg",
+        "title": "Rise of \u2018shadow banking\u2019 brings new financial risks, experts say - The Washington Post",
+        "description": "Banks have increased their reliance on private credit in recent years, exposing them to unregulated loans that often have little disclosure.",
+        "url": "https://www.washingtonpost.com/business/2025/10/18/first-brands-tricolor-shadow-banking-risk/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OSQUX4TIQRG3JNL65Y6W6RFWHY_size-normalized.jpg&w=1440",
+        "publishedAt": "2025-10-18T14:01:44Z",
+        "content": "A spate of recent fraud cases and bankruptcies has raised new concerns about a growing class of largely unregulated loans, with a sell-off in U.S. banking stocks bleeding into global markets this wee\u2026 [+1 chars]"
     },
     {
         "source": {
@@ -131,6 +157,19 @@
     },
     {
         "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Maura Carey",
+        "title": "AP Top 25 shuffle on the way with No. 2 Miami going down before SEC showdowns take the spotlight - AP News",
+        "description": "The AP Top 25 college football rankings are headed toward a shake-up. Unranked Louisville upset No. 2 Miami 24-21 to start things off. Louisville, a 13.5-point underdog, intercepted four passes from Miami's Carson Beck. Minnesota defeated No. 25 Nebraska, 24-\u2026",
+        "url": "https://apnews.com/article/ap-top-25-preview-0e1b176e76bb411bb948647a8bb32a76",
+        "urlToImage": "https://dims.apnews.com/dims4/default/70a95ac/2147483647/strip/true/crop/3000x1688+0+222/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F98%2Fe3%2Fa89748c8f55056d19d97a32f8146%2F074428bd6ef74e4098ac8cf4d3a00907",
+        "publishedAt": "2025-10-18T13:10:00Z",
+        "content": "It didnt take long for things to get interesting in the AP Top 25 this week.\r\nNo. 2 Miami was shocked at home by unranked Louisville, a 13 1/2-point underdog that picked off four Carson Beck passes o\u2026 [+3649 chars]"
+    },
+    {
+        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -141,19 +180,6 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1546718215.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2025-10-18T12:52:42Z",
         "content": "The UNs nuclear watchdog has said work is underway to restore power to the Zaporizhzhia nuclear plant (ZNPP) following the establishment of rare ceasefire zones.\r\nThe plant has been without power fro\u2026 [+2784 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "TMZ"
-        },
-        "author": "TMZ Staff",
-        "title": "Selena Gomez Defends Hailey Bieber After Viral 'Inspired' Comments - TMZ",
-        "description": "Selena Gomez has entered the chat after Hailey Bieber's comments about not being inspired by other beauty brands went viral -- and planted a flag next the Rhode Beauty founder in her defense.",
-        "url": "https://www.tmz.com/2025/10/18/selena-gomez-defends-hailey-bieber-beauty-brand-comments/",
-        "urlToImage": "https://imagez.tmz.com/image/e4/16by9/2025/10/18/e4f757ad58a24876a3766213ae667c8a_xl.jpg",
-        "publishedAt": "2025-10-18T12:30:58Z",
-        "content": "Selena Gomezhas entered the chat after Hailey Bieber's comments about not being \"inspired by\" other beauty brands went viral -- and planted a flag next to the Rhode Beauty founder in her defense.\r\nCh\u2026 [+1131 chars]"
     },
     {
         "source": {
@@ -183,45 +209,6 @@
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Robyn Dixon",
-        "title": "With a phone call, Putin appears to change Trump\u2019s mind on Ukraine. Again. - The Washington Post",
-        "description": "It was the latest swing in President Donald Trump\u2019s position on the war that often shifts following contact with Russian President Vladimir Putin.",
-        "url": "https://www.washingtonpost.com/world/2025/10/18/russia-putin-trump-ukraine-phone/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AZUUCUWOQGSISI4RUKHNUWL5KY.jpg&w=1440",
-        "publishedAt": "2025-10-18T11:05:21Z",
-        "content": "Russian President Vladimir Putin put his relationship with President Donald Trump back on track with a phone call just ahead of Trumps crucial Friday meeting with Ukraines president, Volodymyr Zelens\u2026 [+99 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Prince Andrew should have given up Killyleagh title 'a long ago' - BBC",
-        "description": "The Prince was given the title Baron Killyleagh by his mother, the late Queen Elizabeth, in 1986 and he has visited the town on three of occasions.",
-        "url": "https://www.bbc.com/news/articles/cg7nr2p4g18o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/497c/live/f22353d0-ac09-11f0-a47c-6f0c4d6b53fc.jpg",
-        "publishedAt": "2025-10-18T10:55:11Z",
-        "content": "Tony BailieBBC News Northern Ireland\r\nPrince Andrew has given up his title of Baron Killyleagh which had been awarded to him by his mother, Elizabeth II, on his wedding day in 1986.\r\nOn Friday, Princ\u2026 [+2135 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Passant Rabie",
-        "title": "Starship V3: The World\u2019s Largest Rocket Is About to Get Even Bigger - Gizmodo",
-        "description": "SpaceX's Starship Version 3 is slated to attempt its first orbital launch in 2026.",
-        "url": "https://gizmodo.com/starship-v3-the-worlds-largest-rocket-is-about-to-get-even-bigger-2000673722",
-        "urlToImage": "https://gizmodo.com/app/uploads/2025/10/starship-raptor-engines-1200x675.jpeg",
-        "publishedAt": "2025-10-18T10:00:28Z",
-        "content": "This past Monday, October 13, Starship Version 2 launched for the last time, ending its nearly two-year run on a high note. The megarocket\u2019s 11th suborbital test flight marked the final launch of thi\u2026 [+3122 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Space.com"
         },
@@ -235,16 +222,16 @@
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": null,
+            "name": "Slate Magazine"
         },
-        "author": "Alex Bitter",
-        "title": "The UPS Chaos Shows Tariffs Have Finally Arrived on Our Doorsteps - Business Insider",
-        "description": "Challenges at shipping services such as UPS show how tariffs can be tedious as well as costly for consumers.",
-        "url": "https://www.businessinsider.com/ups-chaos-shows-tariffs-have-finally-arrived-on-our-doorsteps-2025-10",
-        "urlToImage": "https://i.insider.com/68f2647f1c1f80efbec5ca36?width=1200&format=jpeg",
-        "publishedAt": "2025-10-18T09:26:00Z",
-        "content": "Rich DeThomas never thought ordering wine from Italy would be this complicated.\r\nIn late August, he ordered a dozen bottles of red wineto be sent to his home in Huntsville, Alabama. It never showed u\u2026 [+5914 chars]"
+        "author": "Jim Newell",
+        "title": "The Voting Rights Act Is in Brett Kavanaugh\u2019s Hands. God Help Us. - Slate",
+        "description": "He has the Voting Rights Act in his hands.",
+        "url": "https://slate.com/news-and-politics/2025/10/brett-kavanaugh-voting-rights-act-surge.html",
+        "urlToImage": "https://compote.slate.com/images/eaf086c0-175c-4e10-8b14-8d225120e59f.jpeg?crop=1560%2C1040%2Cx0%2Cy1&width=1560",
+        "publishedAt": "2025-10-18T09:45:00Z",
+        "content": "Photo illustration by Slate. Photo by Kevin Dietsch/Getty Images.\r\nSign up for the Surge, the newsletter that covers most important political nonsense of the week, delivered to your inbox every Satur\u2026 [+10881 chars]"
     },
     {
         "source": {
