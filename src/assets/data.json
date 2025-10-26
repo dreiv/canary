@@ -1,16 +1,68 @@
 [
     {
         "source": {
+            "id": null,
+            "name": "CBS Sports"
+        },
+        "author": "Cameron Salerno",
+        "title": "College football scores, live updates: Week 9 schedule features No. 2 Indiana vs. UCLA in Big Ten clash - CBS Sports",
+        "description": "NCAA football scores, live updates and highlights from the full slate of Week 9 action on Saturday",
+        "url": "https://www.cbssports.com/college-football/news/college-football-scores-live-updates-schedule-week-9-ncaa-top-25-games-today/live/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/10/23/948be0eb-efc6-48b0-ac5e-0025b0e9ba83/thumbnail/1200x675/07b32e22baba4ab1efb0eed9030e81d4/fernando-mendoza-indiana.png",
+        "publishedAt": "2025-10-25T18:33:42Z",
+        "content": "Week 9 of the 2025 college football season has arrived. At this point in the season, contenders are starting to separate themselves from the pretenders, and this weekend should be no different with 2\u2026 [+1767 chars]"
+    },
+    {
+        "source": {
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
-        "author": "Steve Hendrix, Maham Javaid",
-        "title": "Ireland elects a leftist who campaigned on economic justice, Gaza - The Washington Post",
-        "description": "Catherine Connolly, an independent endorsed by Sinn Fein, campaigned on calls for urgent domestic reform with an unflinching critique of Israel\u2019s war in Gaza.",
-        "url": "https://www.washingtonpost.com/world/2025/10/25/ireland-president-catherine-connolly-elected/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QQYSMU5YV6SK66M4GZH57PTMWU.jpg&w=1440",
-        "publishedAt": "2025-10-25T16:33:09Z",
-        "content": "LONDON Irish voters, in a cautionary rebuke to the governing establishment, elected an outspoken leftist to the countrys mostly ceremonial presidency on Friday a landslide victory for an independent \u2026 [+148 chars]"
+        "author": "Ben Noll, Widlore M\u00e9rancourt, Ruby Mellen, Brady Dennis, Matthew Cappucci",
+        "title": "Melissa expected to rapidly intensify as Jamaica braces for worst-case scenario - The Washington Post",
+        "description": "An intensifying Melissa is expected to bring destructive flooding to Jamaica, southern Haiti and the Dominican Republic before tracking toward Cuba next week.",
+        "url": "https://www.washingtonpost.com/weather/2025/10/24/tropical-storm-melissa-jamaica-haiti-forecast-hurricane/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F3VO3RSU6REVBCDYTAPADFCVYE.gif&w=1440",
+        "publishedAt": "2025-10-25T17:28:54Z",
+        "content": "A weather disaster could unfold across Jamaica, southern Haiti and Cuba into early next week, as slow-moving Melissa is forecast to rapidly intensify into a major hurricane by Sunday.\r\nThe storm may \u2026 [+378 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Chelsea Janes",
+        "title": "The Blue Jays keep on hitting, and the World Series started with a bang - The Washington Post",
+        "description": "Toronto\u2019s contact-heavy approach contributed to a staggering 11-4 win over the favored Los Angeles Dodgers in Game 1 on Friday night.",
+        "url": "https://www.washingtonpost.com/sports/2025/10/25/blue-jays-dodgers-world-series-game-1/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MDNMC3EDEBWAIMVRRU4KENSFTI_size-normalized.jpg&w=1440",
+        "publishedAt": "2025-10-25T17:02:15Z",
+        "content": "TORONTO The Toronto Blue Jays might be trendsetting, though in baseball, it is always hard to tell. Any team that solves MLBs batty postseason and gets to the World Series earns extra scrutiny from r\u2026 [+206 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": null,
+        "title": "Company recalls 2 million pounds of barbecue pork jerky that may contain metal wire - CNN",
+        "description": "A South Dakota company is recalling more than 2.2 million pounds (998,000 kilograms) of Korean barbecue pork jerky sold at Costco and Sam\u2019s Club stores because the product may be contaminated with pieces of metal, federal health officials said Friday.",
+        "url": "https://www.cnn.com/2025/10/25/business/pork-jerky-recall",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25297838207316.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-10-25T16:42:29Z",
+        "content": "A South Dakota company is recalling more than 2.2 million pounds (998,000 kilograms) of Korean barbecue pork jerky sold at Costco and Sams Club stores because the product may be contaminated with pie\u2026 [+1074 chars]"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera Staff, News Agencies",
+        "title": "Connolly set to be Ireland\u2019s next president after rival concedes defeat - Al Jazeera",
+        "description": "Catherine Connolly, a pro-Palestine, left-wing candidate, secures 63 percent of the vote to defeat centre-right rival.",
+        "url": "https://www.aljazeera.com/news/2025/10/25/connolly-set-to-be-irelands-next-president-after-rival-concedes-defeat",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/reuters_68fcea68-1761405544.jpg?resize=1920%2C1440",
+        "publishedAt": "2025-10-25T16:05:59Z",
+        "content": "Left-wing independent candidate Catherine Connolly has won Irelands presidential election, securing 63 percent of the vote to defeat her centre-right rival.\r\nConnolly, 68, was officially declared the\u2026 [+1857 chars]"
     },
     {
         "source": {
@@ -50,6 +102,19 @@
         "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/MCDCHMA_SP012.jpg?w=1024",
         "publishedAt": "2025-10-25T15:05:00Z",
         "content": "SATURDAY AM: In an autumn where prestige awards potential isn\u2019t working, nor attempted tentpoles like Tron: Ares, Sony/Crunchyroll anime proves its merit again with its latest Chainsaw Man: Reze Arc \u2026 [+10924 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Danielle Bochove",
+        "title": "Trump\u2019s Attack on Ontario\u2019s Reagan Ad Helped Amplify Its Reach - Bloomberg",
+        "description": "In the global portfolio of political ads that changed history, a handful stand out.",
+        "url": "https://www.bloomberg.com/news/articles/2025-10-25/trump-s-attack-on-ontario-s-reagan-ad-helped-amplify-its-reach",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i73wHxGBogx4/v1/1200x800.jpg",
+        "publishedAt": "2025-10-25T15:00:11Z",
+        "content": "In the global portfolio of political ads that changed history, a handful stand out.\r\nIn the UK, the famed Labour Isnt Working poster of 1978 has long been credited for helping Margaret Thatchers Cons\u2026 [+259 chars]"
     },
     {
         "source": {
@@ -93,19 +158,6 @@
     {
         "source": {
             "id": null,
-            "name": "POLITICO.eu"
-        },
-        "author": "Louise Guillot",
-        "title": "Trump says open to making concessions to China to calm trade war - politico.eu",
-        "description": "U.S. president is set to meet with Chinese leader Xi Jinping next week.",
-        "url": "https://www.politico.eu/article/donald-trump-china-concessions-trade-war/",
-        "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/25/GettyImages-2241877698-scaled.jpg",
-        "publishedAt": "2025-10-25T13:08:00Z",
-        "content": "\"Id love China to help us out with Russia,\" he said.\u00a0\"We put very big sanctions on Russia. I think those sanctions are going to be very biting, very strong; but Id like to see China help us out.\"\r\nAs\u2026 [+456 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "The Conversation Africa"
         },
         "author": "Adam Grippin, Christiano Marconi",
@@ -115,19 +167,6 @@
         "urlToImage": "https://images.theconversation.com/files/696809/original/file-20251016-56-yeci3u.jpg?ixlib=rb-4.1.0&rect=0%2C328%2C4837%2C2418&q=45&auto=format&w=1356&h=668&fit=crop",
         "publishedAt": "2025-10-25T13:00:00Z",
         "content": "The COVID-19 mRNA-based vaccines that saved 2.5 million lives globally during the pandemic could help spark the immune system to fight cancer. This is the surprising takeaway of a new study that we a\u2026 [+4855 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "MarketWatch"
-        },
-        "author": "Christine Ji",
-        "title": "These five tech stocks could let you play earnings season like a pro - MarketWatch",
-        "description": "We surveyed experts on their favored picks heading into earnings season \u2014 and identified companies across the tech sector",
-        "url": "https://www.marketwatch.com/story/these-five-tech-stocks-could-let-you-play-earnings-season-like-a-pro-b589f8d4",
-        "urlToImage": "https://images.mktw.net/im-47621451/social",
-        "publishedAt": "2025-10-25T12:00:00Z",
-        "content": "In the coming days, third-quarter earnings reports will present a key test for technology stocks and a chance for investors to take advantage of big stock swings.\r\nEnthusiasm for the artificial-intel\u2026 [+202 chars]"
     },
     {
         "source": {
@@ -193,31 +232,5 @@
         "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A6EFKRPBD5FBJIV5VDFSGNJERY.gif&w=1440",
         "publishedAt": "2025-10-25T10:03:54Z",
         "content": "President Donald Trumps project to build an expansive new White House ballroom officially broke ground Monday. Crews tore down the East Wing in only four days, despite Trumps claim that the ballroom \u2026 [+278 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Microsoft's Halo series heading to rival PlayStation - BBC",
-        "description": "Microsoft is taking one of its most popular and recognisable game series to a rival console for the first time.",
-        "url": "https://www.bbc.com/news/articles/ckg14442r73o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5c84/live/f564b960-b17e-11f0-a628-fdce540967b8.jpg",
-        "publishedAt": "2025-10-25T09:48:56Z",
-        "content": "Andrew RogersBBC Newsbeat\r\nThe Halo series has gone to new worlds, and now it's going to new consoles too\r\nMicrosoft is taking one of its most popular and recognisable game series to a rival console \u2026 [+3301 chars]"
-    },
-    {
-        "source": {
-            "id": "mashable",
-            "name": "Mashable"
-        },
-        "author": "Matt Binder",
-        "title": "Samsung Galaxy XR vs Apple Vision Pro: Comparing specs and price - Mashable",
-        "description": "Which mixed reality headset is for you?",
-        "url": "https://mashable.com/article/samsung-galaxy-xr-vs-apple-vision-pro-specs-price",
-        "urlToImage": "https://helios-i.mashable.com/imagery/articles/04iNP22NOmiPvuhpwOkxE6c/hero-image.fill.size_1200x675.v1761336792.jpg",
-        "publishedAt": "2025-10-25T09:39:35Z",
-        "content": null
     }
 ]
