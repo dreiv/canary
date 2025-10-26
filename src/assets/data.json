@@ -1,16 +1,29 @@
 [
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": null,
+            "name": "New York Post"
         },
-        "author": "Ben Noll, Widlore M\u00e9rancourt, Ruby Mellen, Brady Dennis, Matthew Cappucci",
-        "title": "Melissa expected to rapidly intensify as Jamaica braces for worst-case scenario - The Washington Post",
-        "description": "An intensifying Melissa is expected to bring destructive flooding to Jamaica, southern Haiti and the Dominican Republic before tracking toward Cuba next week.",
-        "url": "https://www.washingtonpost.com/weather/2025/10/24/tropical-storm-melissa-jamaica-haiti-forecast-hurricane/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F3VO3RSU6REVBCDYTAPADFCVYE.gif&w=1440",
-        "publishedAt": "2025-10-25T11:28:52Z",
-        "content": "A weather disaster could unfold across Jamaica, southern Haiti and Cuba into early next week, as slow-moving Melissa is forecast to rapidly intensify into a major hurricane by Sunday.\r\nThe storm may \u2026 [+378 chars]"
+        "author": "Joseph Staszewski",
+        "title": "Stephen A. Smith refuses to back down after Kash Patel scolds ESPN star over NBA gambling probe comments - New York Post",
+        "description": "Stephen A. Smith isn\u2019t backing down from FBI director Kash Patel, even if he has no interest in escalating their verbal spat.",
+        "url": "https://nypost.com/2025/10/25/sports/stephen-a-smith-refuses-to-back-down-after-kash-patel-scolds-his-nba-gambling-probe-comments/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/newspress-collage-v88gwteq0-1761399060840.jpg?quality=75&strip=all&1761384723&w=1200",
+        "publishedAt": "2025-10-25T14:05:00Z",
+        "content": "Stephen A. Smith isnt backing down from FBI Director Kash Patel, even if he has no interest in escalating their verbal spat.\u00a0\r\nThe ESPN star stated during First Take on Thursday that President Trump \u2026 [+4760 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Samya Kullab, Elise Morton",
+        "title": "Russian missile and drone attacks kill 4 in Ukraine as Zelenskyy pleads for air defense - AP News",
+        "description": "Russian missile and drone attacks on Ukraine overnight into Saturday have killed at least four people and wounded 20, according to officials. In Kyiv, two people were killed and 13 were wounded in a ballistic missile attack. In the Dnipropetrovsk region, two \u2026",
+        "url": "https://apnews.com/article/russia-ukraine-zelenskyy-missile-ballistic-kyiv-4381b48b931d7ed32e44a6d671b97dd5",
+        "urlToImage": "https://dims.apnews.com/dims4/default/1fc7cd7/2147483647/strip/true/crop/6029x3391+0+314/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2F45%2Fc820aed1e862a1e7491f870e80f3%2F75136fe5255f4403860036db8693bba8",
+        "publishedAt": "2025-10-25T11:31:00Z",
+        "content": "KYIV, Ukraine (AP) Russian missile and drone attacks on Ukraine overnight into Saturday killed at least four people and wounded 20, officials said, and prompted fresh pleas from Ukraines president fo\u2026 [+3763 chars]"
     },
     {
         "source": {
@@ -30,13 +43,26 @@
             "id": "bloomberg",
             "name": "Bloomberg"
         },
-        "author": "Josh Xiao, Daniel Flatley",
-        "title": "US and China Begin Trade Talks in Malaysia to Ease Tensions - Bloomberg.com",
-        "description": "The US said it held \u201cvery constructive\u201d discussions with China after the first day of trade negotiations in Malaysia, as President Donald Trump began his trip to the region including a meeting with the Chinese leader next week.",
-        "url": "https://www.bloomberg.com/news/articles/2025-10-25/us-and-china-begin-trade-talks-in-malaysia-to-ease-tensions",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEakPeNt7v28/v0/1200x800.jpg",
-        "publishedAt": "2025-10-25T10:59:00Z",
-        "content": "Supply Lines is a daily newsletter that tracks global trade. Sign up here. \r\nThe US said it held very constructive discussions with China after the first day of trade negotiations in Malaysia, as Pre\u2026 [+102 chars]"
+        "author": "Jack Farchy, Yihui Xie, Jack Ryan",
+        "title": "A Gold Crash Everyone Saw Coming Lures Bargain Hunters Worldwide - Bloomberg.com",
+        "description": "As pictures of queues outside gold stores flooded social media over the past month, professional precious metals traders were getting increasingly nervous.",
+        "url": "https://www.bloomberg.com/news/articles/2025-10-25/a-gold-crash-everyone-saw-coming-lures-bargain-hunters-worldwide",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUdwSVfLB3uc/v0/1200x800.jpg",
+        "publishedAt": "2025-10-25T11:00:00Z",
+        "content": "As pictures of queues outside gold stores flooded social media over the past month, professional precious metals traders were getting increasingly nervous.\r\nGold is an overcrowded trade thats overext\u2026 [+308 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Chris Dolce",
+        "title": "Tropical Storm Melissa expected to explode into a Category 4 hurricane and could bring catastrophic impact to Jamaica - CNN",
+        "description": "Tropical Storm Melissa is forecast to rapidly intensify into a major hurricane this weekend as it lashes Jamaica and parts of the northern Caribbean, bringing days of life-threatening, potentially catastrophic impact.",
+        "url": "https://www.cnn.com/2025/10/25/weather/hurricane-melissa-storm-tracker-forecast-jamaica-haiti-climate",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/melissafri1pm.png?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-10-25T10:47:28Z",
+        "content": "Tropical Storm Melissa is forecast to rapidly intensify into a major hurricane this weekend as it lashes Jamaica and parts of the northern Caribbean, bringing days of life-threatening, potentially ca\u2026 [+5460 chars]"
     },
     {
         "source": {
@@ -79,6 +105,19 @@
     },
     {
         "source": {
+            "id": "mashable",
+            "name": "Mashable"
+        },
+        "author": "Matt Binder",
+        "title": "Samsung Galaxy XR vs Apple Vision Pro: Comparing specs and price - Mashable",
+        "description": "Which mixed reality headset is for you?",
+        "url": "https://mashable.com/article/samsung-galaxy-xr-vs-apple-vision-pro-specs-price",
+        "urlToImage": "https://helios-i.mashable.com/imagery/articles/04iNP22NOmiPvuhpwOkxE6c/hero-image.fill.size_1200x675.v1761336792.jpg",
+        "publishedAt": "2025-10-25T09:39:35Z",
+        "content": null
+    },
+    {
+        "source": {
             "id": null,
             "name": "BBC News"
         },
@@ -118,42 +157,16 @@
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": "cnn",
+            "name": "CNN"
         },
-        "author": "Madison Hoff",
-        "title": "Welcome to the 'Great Freeze': Why companies aren't firing, workers can't grow, and the unemployed can't get jobs - businessinsider.com",
-        "description": "Layoffs and hiring are low. That means people have job security, are stuck in their jobs, or are unable to find work.",
-        "url": "https://www.businessinsider.com/low-hire-low-fire-layoffs-employees-stuck-unemployment-job-seekers-2025-10",
-        "urlToImage": "https://i.insider.com/68fbc167599d46a4ccc0d140?width=1200&format=jpeg",
-        "publishedAt": "2025-10-25T08:46:00Z",
-        "content": "Bundle up and hunker down. The low-fire, low-hire job market can be summed up in one phrase: the \"Great Freeze.\"\r\nThere are a lot of \"lows\" in the soft job market, including layoffs and unemployment.\u2026 [+5693 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Davey Winder",
-        "title": "Act Now \u2014 Microsoft Issues Emergency Windows Update As Attacks Begin - Forbes",
-        "description": "You have been warned. The latest Windows attacks have already started, and Microsoft has issued an emergency update. Here\u2019s what you need to know.",
-        "url": "https://www.forbes.com/sites/daveywinder/2025/10/25/act-now---microsoft-issues-emergency-windows-update-as-attacks-begin/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68fc877d881b796e82ab5188/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2025-10-25T08:43:46Z",
-        "content": "Windows Server is under attack, act now.\r\nSOPA Images/LightRocket via Getty Images\r\nHot on the heels of a Chrome emergency security update issued by Google, Microsoft has now also confirmed an emerge\u2026 [+2252 chars]"
-    },
-    {
-        "source": {
-            "id": "espn",
-            "name": "ESPN"
-        },
-        "author": "Dave McMenamin",
-        "title": "Luka sets Lakers mark with 92 points to open year - ESPN",
-        "description": "Luka Doncic continued his torrid start to the season, scoring 49 points in Friday night's 128-110 win over the Wolves to give him a franchise-record 92 points through the first two games.",
-        "url": "https://www.espn.com/nba/story/_/id/46717404/luka-doncic-sets-lakers-record-92-points-1st-2-games",
-        "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1025%2Fr1565594_1296x729_16%2D9.jpg",
-        "publishedAt": "2025-10-25T07:10:00Z",
-        "content": "LOS ANGELES -- After Luka Doncic scored 49 points in the Lakers' 128-110 win over the Minnesota Timberwolves on Friday -- shattering Jerry West's 56-year franchise record of 81 points scored through \u2026 [+4027 chars]"
+        "author": null,
+        "title": "Miss USA crowns Nebraska\u2019s Audrey Eckert the winner as scandal-hit pageant heralds \u2018new era\u2019 - CNN",
+        "description": "Audrey Eckert from Nebraska was named Miss USA on Friday, as the scandal-hit annual pageant returned under new ownership.",
+        "url": "https://www.cnn.com/2025/10/25/style/miss-usa-winner-announced-hnk-intl",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/a3f-cropped.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-10-25T08:06:15Z",
+        "content": "Audrey Eckert from Nebraska was named Miss USA on Friday, as the scandal-hit annual pageant returned under new ownership.\r\nThe 22-year-old digital safety advocate beat 50 other contestants to claim t\u2026 [+6162 chars]"
     },
     {
         "source": {
@@ -196,42 +209,29 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "NBCSports.com"
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
         },
-        "author": "Mike Florio",
-        "title": "Adam Silver: NBA concluded there was \"insufficient evidence\" of wrongdoing by Terry Rozier - NBC Sports",
-        "description": "Prime Video debuted its NBA coverage on Friday night, one day after the league was rocked by a federal gambling indictment of Miami Heat guard Terry Rozier and Portland Trail Blazers coach Chauncey Billups.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/adam-silver-nba-concluded-there-was-insufficient-evidence-of-wrongdoing-by-terry-rozier",
-        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/0a6794c/2147483647/strip/true/crop/8256x4644+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F56%2Fab%2F8874451b449dbd746b15d1aff4be%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2199263475",
-        "publishedAt": "2025-10-25T03:44:47Z",
-        "content": "Prime Video debuted its NBA coverage on Friday night, one day after the league was rocked by a federal gambling indictment of Miami Heat guard Terry Rozier and Portland Trail Blazers coach Chauncey B\u2026 [+3505 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Dan Lamothe",
-        "title": "Pentagon orders aircraft carrier to Latin America as Trump signals escalation - The Washington Post",
-        "description": "A spokesman said the dramatic increase in combat power aims to \u201cdisrupt narcotics trafficking\u201d and \u201cdegrade and dismantle\u201d criminal groups operating in the region.",
-        "url": "https://www.washingtonpost.com/national-security/2025/10/24/aircraft-carrier-trump-caribbean-latin-america/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OQR43JAVIIEE36EALVSTJXW22Y_size-normalized.jpg&w=1440",
-        "publishedAt": "2025-10-25T03:19:57Z",
-        "content": "The Pentagon on Friday signaled a major expansion of its military campaign against Transnational Criminal Organizations in Latin America, saying Defense Secretary Pete Hegseth has ordered the aircraf\u2026 [+85 chars]"
+        "author": "Joe Flint, Isabella Simonetti, Ben Fritz",
+        "title": "David Ellison Is Moving Fast and Spending Big to Remake Hollywood - The Wall Street Journal",
+        "description": "The industry is rooting for him to revive Paramount. His pursuit of Warner Bros. Discovery has some worried.",
+        "url": "https://www.wsj.com/business/media/david-ellison-paramount-warner-a688b371",
+        "urlToImage": "https://images.wsj.net/im-79398578/social",
+        "publishedAt": "2025-10-25T03:00:00Z",
+        "content": "Newly minted Hollywood mogul David Ellison is trying to make good on a promise he made to former Paramount film chief Sherry Lansing.\u00a0\r\nSoon after closing his $8 billion purchase of Paramount, Elliso\u2026 [+188 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "WVTM13"
+            "name": "The Action Network"
         },
-        "author": null,
-        "title": "DNA from Napoleon\u2019s ill-fated 1812 army reveals what likely led to the soldiers\u2019 demise - WVTM",
-        "description": "New DNA findings reveal that multiple deadly diseases ravaged Napoleon\u2019s troops during the Russian invasion",
-        "url": "https://www.wvtm13.com/article/napoleon-1812-invasion-army-diseases-dna/69151987",
-        "urlToImage": "https://kubrick.htvapps.com/mediaos.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwgzew9uz3ywmdbkm2i2bji0zw1imw1s-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2ntadn5zguzntawmxgyn3fvmhliddryadupreview-2133102851570-06924084758968916.JPG?crop=1xw:0.84459459459459463xh;center,top&resize=1200:*",
-        "publishedAt": "2025-10-25T02:34:00Z",
-        "content": "Near the end of his reign, French emperor Napoleon Bonaparte led an army of over half a million men in an invasion of Russia in 1812. Six months later, after the army was forced to retreat, an estima\u2026 [+4786 chars]"
+        "author": "Collin Wilson, George Stuckey",
+        "title": "Week 9 College Football Predictions, Picks: Bet Favorites in Ole Miss vs Oklahoma, Minnesota vs Iowa - Action Network",
+        "description": "Check out Week 9 college football predictions and picks, including our top NCAAF favorites to bet for Saturday, October 25.",
+        "url": "https://www.actionnetwork.com/ncaaf/week-9-college-football-predictions-picks-favorites-ole-miss-vs-oklahoma-minnesota-vs-iowa-saturday-oct-25",
+        "urlToImage": "https://images.actionnetwork.com/blog/2025/10/week-9-favorite-favorites.png",
+        "publishedAt": "2025-10-25T02:38:00Z",
+        "content": "You may be familiar with our weekly moneyline underdog article. Well, we decided a couple of years ago that we needed to show love for the other side by also sharing our two favorite college football\u2026 [+3263 chars]"
     },
     {
         "source": {
