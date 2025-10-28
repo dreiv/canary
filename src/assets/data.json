@@ -1,6 +1,19 @@
 [
     {
         "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "The Associated Press",
+        "title": "Milei triumphs in Argentine midterm elections closely watched by Washington - NPR",
+        "description": "President Milei won in key districts in an election widely seen as a referendum on his past two years in office. Trump had appeared to condition billions of dollars in backing on a good showing for Milei.",
+        "url": "https://www.npr.org/2025/10/27/g-s1-95158/milei-triumphs-argentine-midterm-elections",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7366x4143+0+384/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F99%2Fda%2Fb4c3a79c4d07905029e4157c32c9%2Fap25300072940414.jpg",
+        "publishedAt": "2025-10-27T05:07:55Z",
+        "content": "BUENOS AIRES, Argentina Argentina's libertarian President Javier Milei won decisive victories in key districts in midterm elections Sunday, clinching a crucial vote of confidence that strengthens his\u2026 [+7431 chars]"
+    },
+    {
+        "source": {
             "id": "associated-press",
             "name": "Associated Press"
         },
@@ -41,19 +54,6 @@
     {
         "source": {
             "id": null,
-            "name": "Variety"
-        },
-        "author": "William Earl",
-        "title": "Taylor Sheridan Poised to Set Lucrative Production Pact With NBCUniversal - Variety",
-        "description": "Prolific series creator Taylor Sheridan is setting up a move to NBCUniversal for TV and film after his Paramount television pact ends in late 2028.",
-        "url": "https://variety.com/2025/tv/news/taylor-sheridan-nbcuniversal-deal-paramount-yellowstone-1236561616/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2025/10/GettyImages-1245360764.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2025-10-27T03:36:00Z",
-        "content": "Taylor Sheridan is poised to make NBCUniversal his TV and film production home under a lucrative long-term deal starting in three years after he will have spent a decade with Paramount Television.\r\nS\u2026 [+1835 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Financial Times"
         },
         "author": "William Sandlund, Leo Lewis",
@@ -66,29 +66,16 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Reuters",
-        "title": "US detains British commentator Sami Hamdi in middle of national speaking tour - CNN",
-        "description": "US immigration authorities detained British commentator Sami Hamdi, revoked his visa and said he would be deported rather than allowed to complete his speaking tour in the United States, a Homeland Security official said on Sunday.",
-        "url": "https://www.cnn.com/2025/10/26/us/sami-hamdi-british-commentator-detained",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187203752.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-10-27T03:01:00Z",
-        "content": "Washington (Reuters) U.S. immigration authorities detained British commentator Sami Hamdi, revoked his visa and said he would be deported rather than allowed to complete his speaking tour in the Unit\u2026 [+2312 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
+            "id": null,
+            "name": "Eonline.com"
         },
         "author": null,
-        "title": "\u2018Chainsaw Man\u2019 anime film topples Springsteen biopic and \u2018Black Phone 2\u2019 at the box office - AP News",
-        "description": "A big-screen adaptation of the anime \u201cChainsaw Man\u201d has topped the North American box office, beating a Springsteen biopic and \u201cBlack Phone 2.\u201d The movie earned $17.25 million in the U.S. and Canada this weekend. \u201cBlack Phone 2\u201d fell to second place with $13 \u2026",
-        "url": "https://apnews.com/article/jeremy-allen-white-movies-animation-and-comics-dave-franco-bruce-springsteen-873214f375dfc69ed1e392b8a9524e6c",
-        "urlToImage": "https://dims.apnews.com/dims4/default/f1a3a31/2147483647/strip/true/crop/8364x4705+0+436/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7a%2F7f%2Ff7f988d942a10c2be27fd6a6a622%2Fb6c608505c874e90bb8f7f70a8f6e571",
-        "publishedAt": "2025-10-27T02:53:00Z",
-        "content": "LOS ANGELES (AP) A big-screen adaptation of the popular anime Chainsaw Man has beaten out a biopic about the Boss and the horror sequel Black Phone 2 to top the North American box office.\r\nIts the la\u2026 [+2481 chars]"
+        "title": "Sister Wives ' Kody Brown Says Dating Is \"Kissing Another Man's Wife\" - Yahoo",
+        "description": "Kody Brown would like to talk about sex, baby. Specifically why he thinks his daughters shouldn't be having it before marriage. The father of 18 gave his take on Sister Wives' Oct. 26 episode.",
+        "url": "https://www.eonline.com/news/1424200/sister-wives-kody-brown-dating-is-kissing-another-mans-wife",
+        "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20251009/9e86299d-6771-40d3-9544-f6c86d530d61_1760036850.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+        "publishedAt": "2025-10-27T03:00:00Z",
+        "content": "To hear Kody's fourth and sole remaining wife Robyn Brown tell it, she always wanted the family, not just the man. \"I had marriage proposals,\" she revealed on the Sept. 28 episode. Not necessarily an\u2026 [+733 chars]"
     },
     {
         "source": {
@@ -96,12 +83,12 @@
             "name": "Deadline"
         },
         "author": "Nellie Andreeva",
-        "title": "\u2018It: Welcome To Derry\u2019 Episode 2 Gets Early Release On HBO Max For Halloween - Deadline",
-        "description": "Episode 2 of HBO\u2019s horror drama series 'It: Welcome To Derry' will be made available almost three days ahead of schedule to celebrate Halloween.",
-        "url": "http://deadline.com/2025/10/it-welcome-to-derry-episode-2-premiere-date-hbo-max-1236598290/",
-        "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/jack-molloy-legault-mikkal-karim-fidler_0.jpg?w=1024",
-        "publishedAt": "2025-10-27T02:28:00Z",
-        "content": "Episode 2 of HBO\u2019s horror drama series It: Welcome To Derry will be made available almost three days ahead of schedule to celebrate Halloween. It will debut Friday, October 31, at 12:00am PT/3:00am E\u2026 [+1177 chars]"
+        "title": "Taylor Sheridan To Leave Paramount For Big Film & TV Deal At NBCUniversal - Deadline",
+        "description": "Paramount will lose its most prolific television creator, Taylor Sheridan, who has closed a long-term film and television deal with NBCUniversal",
+        "url": "http://deadline.com/2025/10/taylor-sheridan-leaving-paramount-film-tv-deal-nbcuniversal-1236598297/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/TaylorSheridan1.jpg?w=1024",
+        "publishedAt": "2025-10-27T02:57:00Z",
+        "content": "Paramount will lose its most prolific television creator, Taylor Sheridan, who has closed a long-term film and television deal with NBCUniversal, Deadline has confirmed. \r\nThe massive five-year overa\u2026 [+2188 chars]"
     },
     {
         "source": {
@@ -131,19 +118,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "US and China agree framework of trade deal ahead of Trump-Xi meeting - BBC",
-        "description": "US trade secretary says the two will sign a deal on TikTok, while hinting at agreement on rare earths and tariffs.",
-        "url": "https://www.bbc.com/news/articles/c1lqj5lz4geo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/398a/live/426210d0-b27b-11f0-aa06-0d69e6791907.jpg",
-        "publishedAt": "2025-10-27T02:01:40Z",
-        "content": "Donald Trump and his Chinese counterpart Xi Jinping are due to hold talks in South Korea.\r\nThe US and China have agreed the framework of a potential trade deal that will be discussed when their respe\u2026 [+5178 chars]"
-    },
-    {
-        "source": {
             "id": "abc-news",
             "name": "ABC News"
         },
@@ -158,15 +132,28 @@
     {
         "source": {
             "id": null,
+            "name": "Push Square"
+        },
+        "author": "Liam Croft",
+        "title": "Cancelled God of War PS5 Game Leaks in Screenshots - Push Square",
+        "description": "Here's what Bluepoint was making",
+        "url": "https://www.pushsquare.com/news/2025/10/cancelled-god-of-war-ps5-game-leaks-in-screenshots",
+        "urlToImage": "https://images.pushsquare.com/1c7b3f18785c4/large.jpg",
+        "publishedAt": "2025-10-27T01:02:39Z",
+        "content": "Bluepoint Games, the remake specialist behind Shadow of the Colossus and Demon's Souls, was once working on a live-service God of War title for PS5. It was cancelled, along with another Game as a Ser\u2026 [+1901 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Vogue"
         },
-        "author": "Acielle/Style Du Monde, Hunter Abrams, Poupay Jutharat, Sinna Nasseri",
-        "title": "An Exclusive Look Inside Vogue World: Hollywood - Vogue",
-        "description": "Photographers Hunter Abrams, Poupay Jutharat, and Sinna Nasseri deliver the Vogue World 2025: Hollywood goods\u2014from candid shots of celebrity attendees to the best moments you didn\u2019t see at home.",
-        "url": "https://www.vogue.com/slideshow/inside-vogue-world-2025-hollywood",
-        "urlToImage": "https://assets.vogue.com/photos/68fec30ddbc75751250b24dc/16:9/w_1280,c_limit/VWH_BACKSTAGE_SINNANASSERI_004.jpg",
-        "publishedAt": "2025-10-27T01:03:14Z",
-        "content": "Talk about a fashion fantasia! On Sunday night in Los Angeles, Vogue World: Hollywood transformed the Paramount Studios lot into an active runway, flooded with new and custom designer looks on high-f\u2026 [+1097 chars]"
+        "author": "Christian Allaire",
+        "title": "The Best Dressed Stars From Vogue World 2025: Hollywood - Vogue",
+        "description": "See the best dressed celebrities from Vogue World 2025, held at Paramount Pictures Studios Lot in Los Angeles.",
+        "url": "https://www.vogue.com/slideshow/vogue-world-2025-hollywood-best-dressed-stars",
+        "urlToImage": "https://assets.vogue.com/photos/68fed26acddff4bb8e301943/16:9/w_1280,c_limit/SK1_8485_EZyZz14B_20251026060651.jpg",
+        "publishedAt": "2025-10-27T01:01:36Z",
+        "content": "This evening, Vogue World 2025: Hollywood event took over the Paramount Pictures Studios Lot. The event celebrated the rich conversation between film and fashionfeaturing looks that drew inspiration \u2026 [+720 chars]"
     },
     {
         "source": {
@@ -245,18 +232,5 @@
         "urlToImage": "https://images.wsj.net/im-31871021/social",
         "publishedAt": "2025-10-26T22:00:00Z",
         "content": "KUALA LUMPUR, MalaysiaWorld leaders have developed something of a blueprint for President \r\nTrump when he comes to visit: produce a lavish welcoming ceremony and launch a charm offensive in hopes of \u2026 [+543 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Violent protests flare in Cameroon as results due in contested election - BBC",
-        "description": "An opposition candidate is challenging the incumbent president's 43-year hold on power.",
-        "url": "https://www.bbc.com/news/articles/cly4x9n0yvno",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/958d/live/e0d98640-b2a7-11f0-ba75-093eca1ac29b.jpg",
-        "publishedAt": "2025-10-26T21:45:04Z",
-        "content": "Paul Njie,BBC Africa, Garoua, Cameroon and \r\nHundreds of protesters have clashed with security forces in several cities across Cameroon, a day before the results in a highly-contested presidential el\u2026 [+3465 chars]"
     }
 ]
