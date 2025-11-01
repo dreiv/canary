@@ -1,28 +1,80 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "nbc-news",
+            "name": "NBC News"
         },
-        "author": "Pia Singh",
-        "title": "S&P 500 and Nasdaq futures rise after Apple, Amazon earnings beat: Live updates - CNBC",
-        "description": "Capping this week's Big Tech earnings were Apple and Amazon, which posted quarterly results after market close Thursday.",
-        "url": "https://www.cnbc.com/2025/10/30/stock-market-today-live-updates.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219420-1761837546491-gettyimages-2243611370-AFP_82J47XJ.jpeg?v=1761837687&w=1920&h=1080",
-        "publishedAt": "2025-10-31T12:34:00Z",
-        "content": "Stock futures rose Friday as investors digested strong quarterly results from tech giants Amazon and Apple.\r\nS&amp;P futures gained 0.7%, while Nasdaq 100 futures added 1.3%. Futures tied to the Dow \u2026 [+2789 chars]"
+        "author": "Michael Kosnar, Tom Winter, Jonathan Dienst, Kelly O'Donnell, Patrick Smith",
+        "title": "FBI foiled a 'potential terrorist attack' in Michigan planned for Halloween weekend, Director Kash Patel says - NBC News",
+        "description": "The FBI arrested multiple suspects who were allegedly plotting a foiled \u201cpotential terrorist attack\u201d in Michigan over the Halloween weekend, Director Kash Patel said Friday.\u201cThis morning the FBI thwarted a potential terrorist attack and arrested multiple subj\u2026",
+        "url": "https://www.nbcnews.com/news/us-news/fbi-foiled-potential-terrorist-attack-michigan-planned-halloween-weeke-rcna241081",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251031-kash-patel-mn-0830-7e2243.jpg",
+        "publishedAt": "2025-10-31T14:04:06Z",
+        "content": "The FBI arrested multiple suspects who were allegedly plotting a foiled potential terrorist attack in Michigan over the Halloween weekend, Director Kash Patel said Friday.\r\nThis morning the FBI thwar\u2026 [+1415 chars]"
     },
     {
         "source": {
-            "id": "abc-news",
-            "name": "ABC News"
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
         },
-        "author": "ABC News",
-        "title": "FBI thwarts 'potential terrorist attack' in Michigan - ABC News",
+        "author": "The Wall Street Journal",
+        "title": "Stock Market Today: S&P 500 Futures Rise, Bolstered by Apple, Amazon Rally \u2014 Live Updates - The Wall Street Journal",
         "description": null,
-        "url": "https://abcnews.go.com/US/fbi-thwarts-potential-terrorist-attack-michigan-fbi-director/story?id\\\\u003d127051954",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-31-2025",
         "urlToImage": null,
-        "publishedAt": "2025-10-31T11:59:51Z",
+        "publishedAt": "2025-10-31T13:22:38Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "BBC",
+        "title": "Rob Jetten's Dutch centrist liberal party wins neck-and-neck election race, vote analysis says - BBC",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KclU5YWN4X3lMUUVuS0JuR2FvanZTUndjY1BrM19WVFJCcFl2TEkwUDFxbUNYQ0ZSNnc2Yi1MVEZIUk9rYlJ1YklJTWV1RjIxVGxPVnA5SlpmUdIBX0FVX3lxTE5CWVM1UjdjdXJSanVQT09GcHJ4ZFJjazZtS3JkdEQ3WUlZNW1rTnZxNDhodURUMHl0d2RwRkxwdV9QX0lGRkVmVmU2SXBfWEtLc3cta2QybmlYWldIU080?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2025-10-31T13:20:06Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "9to5Mac"
+        },
+        "author": "Chance Miller",
+        "title": "Tim Cook provides update on next-gen Siri development - 9to5Mac",
+        "description": "We\u2019re still waiting on Apple to release its promised next-generation version of Siri. CEO Tim Cook says things are going well so far\u2026",
+        "url": "https://9to5mac.com/2025/10/31/tim-cook-provides-update-on-next-gen-siri-development/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/siri.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-10-31T12:51:00Z",
+        "content": "During Apples earnings call with investors yesterday, Apple CEO Tim Cook provided a (vague) update on Apples work on the next-generation version of Siri.\r\nThe Apple CEO assured investors that the com\u2026 [+2083 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": null,
+        "title": "UN human rights chief says US strikes on alleged drug boats are \u2018unacceptable\u2019 - AP News",
+        "description": null,
+        "url": "https://apnews.com/article/un-us-military-strikes-south-america-ed0ce092af5ad2c64b34ed51f8ab59cc",
+        "urlToImage": null,
+        "publishedAt": "2025-10-31T12:37:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Lisa Kailai Han",
+        "title": "Cloud revenue is sending Amazon shares soaring. Here\u2019s what analysts had to say - CNBC",
+        "description": "Cloud growth has been a widely watched metric for the company as rivals such as Google and Microsoft ramp up the pressure.",
+        "url": "https://www.cnbc.com/2025/10/31/cloud-revenue-is-sending-amazon-shares-soaring-heres-what-analysts-had-to-say.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217894-17616659982025-10-28t153711z_1832712283_rc23lhajjp0m_rtrmadp_0_amazon-com-layoffs.jpeg?v=1761666041&w=1920&h=1080",
+        "publishedAt": "2025-10-31T11:51:43Z",
         "content": null
     },
     {
@@ -37,6 +89,19 @@
         "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Google-Gemini-Home-2-1152x648.jpg",
         "publishedAt": "2025-10-31T11:30:22Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Luke Fountain",
+        "title": "Chocolate's reign over Halloween is under threat from inflation, tariffs and high cocoa prices - CNBC",
+        "description": "Chocolate prices soar nearly 30% this Halloween, pushing shoppers toward gummies and sour treats as cocoa costs and inflation haunt candy aisles.",
+        "url": "https://www.cnbc.com/2025/10/31/chocolate-prices-halloween-tariffs-inflation-candy.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108048713-1729110725978-gettyimages-2178767864-dsc_1416_18rzkx1t.jpeg?v=1729110830&w=1920&h=1080",
+        "publishedAt": "2025-10-31T11:30:01Z",
+        "content": "A customer shops for Halloween candy at a Walmart Supercenter on October 16, 2024 in Austin, Texas.\u00a0\r\nThe scariest thing haunting Halloween this year isn't a ghost, goblin or ghoul it's the price of \u2026 [+5890 chars]"
     },
     {
         "source": {
@@ -66,32 +131,6 @@
     },
     {
         "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Rebecca Cohen",
-        "title": "Daylight saving time is ending Sunday. Here's what to know as clocks 'fall back.' - NBC News",
-        "description": "It\u2019s time to fall back again",
-        "url": "https://www.nbcnews.com/news/us-news/daylight-saving-time-ends-what-to-know-clocks-fall-back-rcna240998",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251030-daylight-saving-ch-1941-ab2951.jpg",
-        "publishedAt": "2025-10-31T11:00:00Z",
-        "content": "Its time to fall back again.\r\nThe clock will strike 1 a.m. twice Sunday as daylight saving time once again comes to an end.\r\nHeres what you need to know about daylight saving time and why the United \u2026 [+4473 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": null,
-        "title": "Cyclist falls down 130-foot ravine in France, survives 3 days by drinking wine he had in shopping bag - CBS News",
-        "description": "A helicopter airlifted him to hospital, with a rescue doctor calling his survival \"a miracle.\"",
-        "url": "https://www.cbsnews.com/news/cyclist-falls-ravine-survives-days-drinking-wine-france/",
-        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/31/6a9835e8-5144-4be1-979c-d3fbb928c628/thumbnail/1200x630/d6e3cd2b6713868716c064c80a42155b/gettyimages-2239304067.jpg",
-        "publishedAt": "2025-10-31T10:44:00Z",
-        "content": "A French cyclist survived for three days after a horrendous 130-foot fall into a ravine, kept alive by the bottles of red wine he had in his shopping bag, police said.\r\nThe 77-year-old missed a bend \u2026 [+1344 chars]"
-    },
-    {
-        "source": {
             "id": "politico",
             "name": "Politico"
         },
@@ -102,6 +141,19 @@
         "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F59%2F9b%2F1619d1ba4494a20fe6d2fc091603%2Ftrump-halloween-28242.jpg",
         "publishedAt": "2025-10-31T10:14:44Z",
         "content": "The filibuster is a long-standing Senate rule that allows the minority to delay or block legislation by extending debate, effectively requiring 60 votes to advance most bills. Senate Majority Leader \u2026 [+2333 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Suntimes.com"
+        },
+        "author": null,
+        "title": "Illinois lawmakers approve $1.5B legislative package to buoy mass transit - Chicago Sun-Times",
+        "description": "Lawmakers agreed on a tax package to stave off a $200 million-plus fiscal cliff next year that would likely result in major cuts to bus and rail service at the Chicago Transit Authority, Metra and Pace.",
+        "url": "https://chicago.suntimes.com/springfield/2025/10/30/mass-transit-funding-legislation-chicago-illinois-general-assembly-fiscal-cliff-cta-metra-pace",
+        "urlToImage": "https://cst.brightspotcdn.com/dims4/default/54c7099/2147483647/strip/true/crop/3000x1713+0+144/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9b%2F38%2F0767b6b74ce59da26c0490c7bfff%2Fchinatariffs-061825-15.jpg",
+        "publishedAt": "2025-10-31T09:38:00Z",
+        "content": "SPRINGFIELD State lawmakers finally reached their destination by passing a transit bill to save the Chicago areas ailing transit agencies early Friday, capping the final night of the fall veto sessio\u2026 [+4230 chars]"
     },
     {
         "source": {
@@ -118,29 +170,29 @@
     },
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
+            "id": "nbc-news",
+            "name": "NBC News"
         },
-        "author": null,
-        "title": "Here\u2019s How US, China Statements Compared After Xi-Trump Summit - Bloomberg.com",
-        "description": "After Donald Trump and Xi Jinping met in South Korea on Oct. 30, China released a statement on the outcomes of the landmark summit while US officials made public remarks.",
-        "url": "https://www.bloomberg.com/news/articles/2025-10-31/here-s-how-us-china-statements-compared-after-xi-trump-summit",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idhhTDG3oHAo/v0/1200x800.jpg",
-        "publishedAt": "2025-10-31T09:05:35Z",
-        "content": "After Donald Trump and Xi Jinping met in South Korea on Oct. 30, China released a statement on the outcomes of the landmark summit while US officials made public remarks.\r\nIn places, those comments d\u2026 [+145 chars]"
+        "author": "Tyler Kingkade",
+        "title": "In Zach Bryan's hometown, many support tougher immigration enforcement, with some caveats - NBC News",
+        "description": "The country music megastar\u2019s lyric about immigration raids sparked controversy nationwide. In Oologah, Oklahoma, opinions are just as divided.",
+        "url": "https://www.nbcnews.com/news/photo/zach-bryan-hometown-oklahoma-immigration-enforcement-rcna240234",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251030-zach-bryan-main-art-jg-ad58a8.jpg",
+        "publishedAt": "2025-10-31T09:00:41Z",
+        "content": "He kind of opened their eyes a little bit to what theyre actually doing, because its not something we should turn our heads from, Russell said.\r\nHer opinion did not seem to represent the majority vie\u2026 [+3463 chars]"
     },
     {
         "source": {
-            "id": "abc-news",
-            "name": "ABC News"
+            "id": null,
+            "name": "Sports Illustrated"
         },
-        "author": "ABC News",
-        "title": "What the US-China deal means for rare earths, soybean farmers and TikTok - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/Business/us-china-deal-means-rare-earths-soybean-farmers/story?id\\\\u003d127028309",
-        "urlToImage": null,
-        "publishedAt": "2025-10-31T09:03:59Z",
-        "content": null
+        "author": "Albert Breer",
+        "title": "Albert Breer\u2019s NFL Trade Deadline Notes and Which Players Could Be on the Move - Sports Illustrated",
+        "description": "It remains to be seen whether teams will pull the trigger and deal for a star before Tuesday\u2019s 4 p.m. ET cutoff. Here\u2019s what\u2019s being discussed.",
+        "url": "https://www.si.com/nfl/albert-breer-nfl-trade-deadline-notes-which-players-could-be-on-the-move",
+        "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4436,h_2495,x_0,y_256/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01k8wasdj3wp5gbkvxpg.jpg",
+        "publishedAt": "2025-10-31T09:00:00Z",
+        "content": "Orr: Twelve NFL Trade Deadline Deals Wed Love to See | Manzano: Top 15 Players Available at the Deadline | Manzano: Six NFL Teams That Should Be Sellers | Verderame: Biggest Need for 17 Playoff Conte\u2026 [+7360 chars]"
     },
     {
         "source": {
@@ -157,93 +209,28 @@
     },
     {
         "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Jordain Carney, Nicholas Wu",
+        "title": "Why Mark Warner is sitting out the shutdown - Politico",
+        "description": "The Virginia Democrat used to be a reliable participant in bipartisan Senate talks. This time, he doesn't see the point.",
+        "url": "https://www.politico.com/news/2025/10/31/mark-warner-shutdown-senate-00631012",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ff2%2F5c%2F13019a6647f69f435d1eb4ee4a1a%2Fu-s-congress-99692.jpg",
+        "publishedAt": "2025-10-31T08:45:00Z",
+        "content": "Its a twist not only because of Warners history as a card-carrying bipartisan gang member who would frequently host gatherings at his Old Town Alexandria home. Its also because of who he represents: \u2026 [+5986 chars]"
+    },
+    {
+        "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "Android Authority"
         },
         "author": null,
-        "title": "Hurricane Melissa: Death toll rises as aid struggles to reach parts of Jamaica - BBC",
-        "description": "Authorities report at least 30 people have been killed in Haiti and 19 in Jamaica as a result of the devastating storm.",
-        "url": "https://www.bbc.com/news/articles/clylqpyg8pjo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7867/live/68445b60-b64e-11f0-aa13-0b0479f6f42a.jpg",
-        "publishedAt": "2025-10-31T07:56:38Z",
-        "content": "Will Grant and Nick Davis in Kingston and \r\nWatch: Before and after footage shows the destruction Hurricane Melissa caused to St John's Anglican church, a 300-year-old church\r\nAt least 19 people have\u2026 [+5201 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Kaia  Hubbard",
-        "title": "Government shutdown likely to extend to next week as Senate adjourns with no breakthrough - CBS News",
-        "description": "Senators continued to express cautious optimism over bipartisan talks to end the shutdown, but the chamber adjourned without another vote.",
-        "url": "https://www.cbsnews.com/live-updates/government-shutdown-latest-trump-washington-senate-talks/",
-        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/30/6ffec534-44fe-4855-99aa-dca48b33b340/thumbnail/1200x630/d6ca20cac7dda6be694c7b46e55122ce/thunefloor-2.jpg",
-        "publishedAt": "2025-10-31T03:47:00Z",
-        "content": "Senators at the Capitol continued to express cautious optimism about the state of conversations to end the shutdown on Thursday.\u00a0\r\nSen. Kevin Cramer, a North Dakota Republican, told reporters he's \"s\u2026 [+2192 chars]"
-    },
-    {
-        "source": {
-            "id": "espn",
-            "name": "ESPN"
-        },
-        "author": null,
-        "title": "UTSA 48-26 Tulane (Oct 30, 2025) Game Recap - ESPN",
-        "description": "Expert recap and game analysis of the UTSA Roadrunners vs. Tulane Green Wave NCAAF game from October 30, 2025 on ESPN.",
-        "url": "https://www.espn.com/college-football/recap?gameId=401762443",
-        "urlToImage": "http://s.espncdn.com/stitcher/sports/football/college-football/events/401762443.png?templateId=espn.com.share.1",
-        "publishedAt": "2025-10-31T03:45:00Z",
-        "content": "SAN ANTONIO -- Owen McCown was 31-of-33 passing for 370 yards and four touchdowns, David Amador II and Devin McCuin each had two touchdown catches, and UTSA beat Tulane 48-26 on Thursday night.\r\n UTS\u2026 [+1310 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Android Police"
-        },
-        "author": "Rajesh Pandey",
-        "title": "Google drops a surprise late-October 2025 update for Pixels - Android Police",
-        "description": "And it's all about performance improvements",
-        "url": "https://www.androidpolice.com/google-drops-surprise-late-october-2025-update-pixels/",
-        "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/09/pixel-10-pro-xl-camera-visor-1.JPG?w=1600&h=900&fit=crop",
-        "publishedAt": "2025-10-31T03:41:00Z",
-        "content": "Google has rolled out a surprise late-October update for its Pixel, with the Pixel Tablet being the only one left out. The company had already seeded the October update at the beginning of the month.\u2026 [+1898 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Deadline"
-        },
-        "author": null,
-        "title": "\u20189-1-1: Nashville\u2019 Honors Guest Star Isabelle Tate After Her Death At 23 - Deadline",
-        "description": null,
-        "url": "http://deadline.com/2025/10/9-1-1-nashville-honors-isabelle-tate-death-1236603675/",
-        "urlToImage": null,
-        "publishedAt": "2025-10-31T02:54:00Z",
-        "content": "Want to access this website or page?\r\nAsk for permission"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "The Conversation Africa"
-        },
-        "author": "Kate Cantrell",
-        "title": "Prince Andrew stripped of all titles after Virginia Giuffre\u2019s memoir. Her family declares \u2018victory\u2019 - The Conversation",
-        "description": "Nobody\u2019s Girl is Virginia Giuffre\u2019s inside account of the two years she spent as a \u2018sex slave\u2019 working for Jeffrey Epstein and co-conspirator Ghislaine Maxwell.",
-        "url": "https://theconversation.com/prince-andrew-stripped-of-all-titles-after-virginia-giuffres-memoir-her-family-declares-victory-267751",
-        "urlToImage": "https://images.theconversation.com/files/699388/original/file-20251030-56-b6znnu.png?ixlib=rb-4.1.0&rect=0%2C50%2C1600%2C800&q=45&auto=format&w=1356&h=668&fit=crop",
-        "publishedAt": "2025-10-31T02:05:00Z",
-        "content": "Content warning: this article includes graphic details about sexual assault some readers may find distressing.\r\nPrince Andrew will be stripped of his royal titles, including prince, and will move out\u2026 [+13637 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Medium"
-        },
-        "author": "Avi Loeb",
-        "title": "First Evidence for a Non-Gravitational Acceleration of 3I/ATLAS at Perihelion - Avi Loeb \u2013 Medium",
-        "description": "By the date of its perihelion, 3I/ATLAS displayed the first evidence of a non-gravitational acceleration. The report (accessible here) was\u2026",
-        "url": "https://avi-loeb.medium.com/first-evidence-for-a-non-gravitational-acceleration-of-3i-atlas-at-perihelion-2698f6a453fe",
-        "urlToImage": "https://miro.medium.com/v2/resize:fit:911/1*g-w8oNdtz-fhLb-F-K1x1A.png",
-        "publishedAt": "2025-10-31T01:28:41Z",
-        "content": "A stack of 134 images of the interstellar object 3I/ATLAS at perihelion, taken by the PUNCHs WFI3 satellite on October 29, 2025. (Credit: kwalsh4a, Marshall Eubanks)\r\nBy the date of its perihelion, 3\u2026 [+5274 chars]"
+        "title": "This leaked OnePlus flagship looks like a better bet than the OnePlus 15 - Android Authority",
+        "description": "OnePlus' next compact flagship has leaked, and it does not appear to repeat the same mistakes as the OnePlus 15.",
+        "url": "https://www.androidauthority.com/oneplus-15-t-s-small-flagship-leak-3611928/",
+        "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/06/OnePlus-13s_1-scaled.jpg",
+        "publishedAt": "2025-10-31T08:38:03Z",
+        "content": "<ul><li>OnePlus next small phone just leaked, and it packs big upgrades.</li><li>The OnePlus 15T is expected to feature a larger battery, an improved fingerprint scanner, and a new Snapdragon chipset\u2026 [+3079 chars]"
     }
 ]
