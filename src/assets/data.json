@@ -1,6 +1,58 @@
 [
     {
         "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Danielle Abril",
+        "title": "The nation\u2019s largest employers are putting their workers on notice - The Washington Post",
+        "description": "Amazon and Walmart are among firms warning employees of layoffs or disruption from AI as leaders across corporate America talk of increasing efficiency.",
+        "url": "https://www.washingtonpost.com/business/2025/11/01/layoffs-workers-ai-amazon-walmart/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F3PTRFUUWHMUOF6ALME266KE2Y.JPG&w=1440",
+        "publishedAt": "2025-11-01T10:30:26Z",
+        "content": "Amazon and Walmart, the nations two largest private employers, swelled with hundreds of thousands of new workers in recent years as they battled for larger slices of consumer pocketbooks. Amazon said\u2026 [+226 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Reuters",
+        "title": "China's Xi pushes for global AI body at APEC in counter to U.S. - CNBC",
+        "description": "Xi said a World Artificial Intelligence Cooperation Organization could set governance rules and boost cooperation.",
+        "url": "https://www.cnbc.com/2025/11/01/chinas-xi-pushes-for-global-ai-body-at-apec-in-counter-to-us.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218701-17617542602025-09-02t043753z_430267540_rc2gjgahlcjf_rtrmadp_0_ww2-anniversary-china-russia-mongolia.jpeg?v=1761988814&w=1920&h=1080",
+        "publishedAt": "2025-11-01T09:20:40Z",
+        "content": "Chinese President Xi Jinping took center stage at a meeting of APEC leaders on Saturday to push a proposal for a global body to govern artificial intelligence and position China as an alternative to \u2026 [+2058 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "April Rubin, Josephine Walker",
+        "title": "Trump asking court how to \"legally fund SNAP\" after judge's order - Axios",
+        "description": "Food banks already experienced a surge in people as millions of families prepared for benefits to freeze.",
+        "url": "https://www.axios.com/2025/10/31/snap-hearing-massachusetts-state-lawsuit-trump",
+        "urlToImage": "https://images.axios.com/X0DeW5vj3sv6Aq9MX3BodmG-5_c=/0x0:6000x3375/1366x768/2025/10/30/1761841795476.jpeg",
+        "publishedAt": "2025-11-01T08:14:29Z",
+        "content": "<ul><li>Judge John James McConnell Jr. ruled Friday that the administration must fund SNAP, and asked for progress report by Monday, according to news reports.</li><li>\"There is no doubt and it is be\u2026 [+3019 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Financial Times"
+        },
+        "author": "Thomas Hale, Ryan McMorrow",
+        "title": "China signals easing of Nexperia semiconductor export ban - Financial Times",
+        "description": "Dispute over Netherlands-based chipmaker has threatened to disrupt global auto supply chains",
+        "url": "https://www.ft.com/content/32c29626-703e-43c0-b8f5-2197c165effb",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feb4f47ed-5913-4fd1-9830-b06c4035dbd5.jpg?source=next-barrier-page",
+        "publishedAt": "2025-11-01T07:45:08Z",
+        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+        "source": {
             "id": null,
             "name": "Nintendo Life"
         },
@@ -66,29 +118,29 @@
     },
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
+            "id": null,
+            "name": "bleachernation.com"
         },
-        "author": "Hadriana Lowenkron, Gabrielle Coppola",
-        "title": "US to Announce Nexperia Chip Shipments From China to Resume - Bloomberg.com",
-        "description": "The US is set to announce that Nexperia BV, a Dutch semiconductor company with facilities in China, will resume shipping chips, according to a person familiar with the matter, following a trade pact agreed to by Donald Trump and Xi Jinping at their summit thi\u2026",
-        "url": "https://www.bloomberg.com/news/articles/2025-10-31/us-to-announce-nexperia-chip-shipments-from-china-to-resume",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieUnSw.Ssank/v0/1200x802.jpg",
-        "publishedAt": "2025-11-01T04:28:00Z",
-        "content": "The US is set to announce that Nexperia BV, a Dutch semiconductor company with facilities in China, will resume shipping chips, according to a person familiar with the matter, following a trade pact \u2026 [+351 chars]"
+        "author": null,
+        "title": "Box Score & Player Grades: Bulls 135, Knicks 125 \u2013 October 31, 2025 - Bleacher Nation",
+        "description": "I'm going to be completely honest with all of you, my wife and I hosted our annual Hocus Pocus Watch Party tonight. In other words, the Chicago Bulls' victory",
+        "url": "https://www.bleachernation.com/bulls/2025/10/31/box-score-player-grades-bulls-135-knicks-125-october-31-2025/",
+        "urlToImage": "https://www.bleachernation.com/wp-content/uploads/2025/10/Nikola-Vucevic-Bulls-1.jpg",
+        "publishedAt": "2025-11-01T04:15:00Z",
+        "content": "I\u2019m going to be completely honest with all of you, my wife and I hosted our annual Hocus Pocus Watch Party tonight. In other words, the Chicago Bulls\u2019 victory over the New York Knicks was designated \u2026 [+2406 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Sports Illustrated"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": "Josh Wilson",
-        "title": "Dodgers Make Starting Pitcher Decision for World Series Game 7 - Sports Illustrated",
-        "description": "\"There's no wrong answer.\"",
-        "url": "https://www.si.com/mlb/dave-roberts-discusses-shohei-ohtani-pitching-role-game-7",
-        "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_6767,h_3806,x_0,y_103/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01k8yqma9f4vpvmb7k32.jpg",
-        "publishedAt": "2025-11-01T04:00:30Z",
-        "content": "As the Dodgers put a sudden end to Game 6 of the World Series in Rogers Centre, beating the Jays 3-1 on Friday night, the first question on everyone's mind: Who is pitching tomorrow? \r\nFor Toronto, w\u2026 [+1434 chars]"
+        "author": "Emily Davies, Dan Diamond",
+        "title": "Trump touts Lincoln Bathroom overhaul featuring marble, gold fixtures - The Washington Post",
+        "description": "The president unveiled the renovation project on his way to spend the weekend at his club in Mar-a-Lago as pressure mounts to reopen the government.",
+        "url": "https://www.washingtonpost.com/politics/2025/10/31/trump-overhauls-lincoln-bathroom/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GB25Z3CSBO5OCASPMSVJULYJ5U.JPG&w=1440",
+        "publishedAt": "2025-11-01T04:03:56Z",
+        "content": "President Donald Trump on Friday unveiled yet another White Housedesign project: an overhaul of the Lincoln Bathroom, sharing 24 images that highlight his choice of marble accented with golden handle\u2026 [+35 chars]"
     },
     {
         "source": {
@@ -106,32 +158,6 @@
     {
         "source": {
             "id": null,
-            "name": "NPR"
-        },
-        "author": null,
-        "title": "Dodgers force World Series to decisive Game 7 by holding off Blue Jays 3-1 - NPR",
-        "description": null,
-        "url": "https://www.npr.org/2025/10/31/g-s1-96140/dodgers-force-world-series-to-decisive-game-7",
-        "urlToImage": null,
-        "publishedAt": "2025-11-01T03:42:12Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Soo-hyang Choi, James Mayger",
-        "title": "Xi, Lee Will Hold Talks in South Korea Saturday to Rebuild Ties - Bloomberg.com",
-        "description": "China\u2019s President Xi Jinping will meet his new South Korean counterpart Lee Jae Myung as both leaders work to rebuild ties between their two countries, after years of Seoul moving closer to the US.",
-        "url": "https://www.bloomberg.com/news/articles/2025-11-01/xi-lee-will-hold-talks-in-south-korea-saturday-to-rebuild-ties",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ih.sK7Xybku8/v0/1200x800.jpg",
-        "publishedAt": "2025-11-01T03:30:00Z",
-        "content": "Chinas President Xi Jinping will meet his new South Korean counterpart Lee Jae Myung as both leaders work to rebuild ties between their two countries, after years of Seoul moving closer to the US.\r\nT\u2026 [+381 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "KSL.com"
         },
         "author": "Curtis Booker, KSL.com",
@@ -144,16 +170,29 @@
     },
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
+            "id": null,
+            "name": "Daily Beast"
         },
-        "author": "Ali Swenson, Nicholas Riccardi",
-        "title": "Federal judge rules Trump can\u2019t require citizenship proof on the federal voting form - AP News",
-        "description": "President Donald Trump\u2019s request to add a documentary proof of citizenship requirement to the federal voter registration form cannot be enforced. U.S. District Judge Colleen Kollar-Kotelly on Friday sided with Democratic and civil rights groups that had sued \u2026",
-        "url": "https://apnews.com/article/trump-elections-executive-order-democrats-citizenship-034a4d552a978a8f647d95bd3cf38ac0",
-        "urlToImage": "https://dims.apnews.com/dims4/default/e969768/2147483647/strip/true/crop/5424x3051+0+283/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd0%2F4f%2F662f901370843d83c630d51e9b18%2F720b7e545aa84694892ce0120e9fa674",
-        "publishedAt": "2025-11-01T02:46:00Z",
-        "content": "NEW YORK (AP) President Donald Trumps request to add a documentary proof of citizenship requirement to the federal voter registration form cannot be enforced, a federal judge ruled Friday.\r\nU.S. Dist\u2026 [+3656 chars]"
+        "author": "Jack Revell",
+        "title": "JD Vance Savaged as He Desperately Tries to Get In On the Joke - The Daily Beast",
+        "description": "The vice president\u2019s embrace of an infamous meme backfired spectacularly online.",
+        "url": "https://www.thedailybeast.com/jd-vance-savaged-as-he-desperately-tries-to-get-in-on-the-joke/",
+        "urlToImage": "https://www.thedailybeast.com/resizer/v2/L2V6JKCHEZC6RIZDLO5MSDXQL4.jpg?smart=true&auth=c20b5262f234c94aad6727a639ee9efb4caa36a025bdcc6d49f0847c1983f8ee&width=1200&height=630",
+        "publishedAt": "2025-11-01T02:16:00Z",
+        "content": "Getting into the spirit of spooky season, Vice President JD Vance donned a wig to complete the most horrifying costume of all: the iconic babyface Vance meme that has dogged the second-in-command sin\u2026 [+2523 chars]"
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Sam Ogozalek",
+        "title": "FAA warns of \u2018surge\u2019 in air traffic controllers calling out of work - Politico",
+        "description": "The agency reported \u201cwidespread impacts\u201d across the aviation system as the shutdown drags on.",
+        "url": "https://www.politico.com/news/2025/10/31/faa-warns-of-surge-in-air-traffic-controllers-calling-out-of-work-00632593",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F15%2Ff6%2F57983ee34be58100fd2dc2e6c12c%2Fgovernment-shutdown-airport-delays-31739.jpg",
+        "publishedAt": "2025-11-01T01:39:41Z",
+        "content": "To maintain safe operations, the agency said it will reduce the flow of air traffic, which can result in flight delays or cancellations. \r\nAfter 9 p.m. Eastern time, the FAA was reporting staffing-re\u2026 [+1164 chars]"
     },
     {
         "source": {
@@ -183,19 +222,6 @@
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Mariana Alfaro, Jacob Bogage",
-        "title": "Trump administration must release billions in SNAP funds, judge says - The Washington Post",
-        "description": "Officials must act \u201cas soon as possible,\u201d a federal judge in Rhode Island said. A Massachusetts judge also told the administration to consider contingency funds.",
-        "url": "https://www.washingtonpost.com/politics/2025/10/31/government-shutdown-food-assistance/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2KFOEBIRK4A3NOEOPH5AKKYXOU_size-normalized.jpg&w=1440",
-        "publishedAt": "2025-11-01T00:35:21Z",
-        "content": "States could get partial payments for the nations largest anti-hunger program a few days late, after two federal judges ruled Friday that the Trump administration should use backup funds to keep food\u2026 [+52 chars]"
-    },
-    {
-        "source": {
             "id": "cbs-news",
             "name": "CBS News"
         },
@@ -209,54 +235,15 @@
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": "Josephine Walker",
-        "title": "Trump wants to shatter the filibuster, another Senate norm. Republicans are pushing back. - Axios",
-        "description": "Scrapping the rule could open the door to sweeping legislative changes.",
-        "url": "https://www.axios.com/2025/10/31/trump-shutdown-filibuster-backfire",
-        "urlToImage": "https://images.axios.com/ELUqJ_oBqHoJMDhTfVU8KR2l99I=/1366x768/smart/2024/02/28/234314-1709163794125.jpg",
-        "publishedAt": "2025-10-31T23:57:40Z",
-        "content": "Context: Ending the filibuster would allow a simple majority of senators or the vice president in the case of a tie to pass bills, instead of the 60 votes most legislation currently requires.\r\n<ul><l\u2026 [+3340 chars]"
-    },
-    {
-        "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "ABC News",
-        "title": "Trump faces critical point in government shutdown, SNAP cutoff - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/Politics/trump-faces-critical-point-government-shutdown-snap-cutoff/story?id\\\\u003d127059168",
-        "urlToImage": null,
-        "publishedAt": "2025-10-31T22:41:15Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "US retailers are running out of pennies - BBC",
-        "description": "Find a penny, pick it up, then what? Now the US has stopped making pennies,  a shortage has emerged and created confusion.",
-        "url": "https://www.bbc.com/news/articles/c20556ly45eo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d95e/live/8b1c99c0-b67d-11f0-b027-61021c9d4006.jpg",
-        "publishedAt": "2025-10-31T21:54:31Z",
-        "content": "US businesses are literally going penniless.\r\nSince the Trump administration ended minting the one-cent coins earlier this year, those still in circulation are becoming harder to find. Many stores ar\u2026 [+3430 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Live Science"
-        },
-        "author": "Patrick Pester",
-        "title": "Comet 3I/ATLAS has been transformed by billions of years of space radiation, James Webb Space Telescope observations reveal - Live Science",
-        "description": "The interstellar comet 3I/ATLAS has a thick irradiated crust that no longer resembles its home star system, simulations and James Webb Space Telescope observations have found.",
-        "url": "https://www.livescience.com/space/comets/comet-3i-atlas-has-been-transformed-by-billions-of-years-of-space-radiation-james-webb-space-telescope-observations-reveal",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/xkmAJAaj24k73omqaCPNuR-1920-80.jpg",
-        "publishedAt": "2025-10-31T20:54:04Z",
-        "content": "Comet 3I/ATLAS\r\n is extremely irradiated from billions of years of cosmic ray bombardments, new research using observations from the James Webb Space Telescope (JWST) has revealed.\r\nThe comet has soa\u2026 [+5098 chars]"
+        "author": "Seung Min Kim",
+        "title": "What\u2019s the filibuster and why does Trump want to get rid of it during the shutdown? - AP News",
+        "description": "President Donald Trump wants Republicans in the Senate to kill a longstanding rule called the filibuster. The rule effectively requires that at least 60 senators out of the chamber\u2019s 100 members agree for most bills to move forward. Right now, there are only \u2026",
+        "url": "https://apnews.com/article/trump-filibuster-shutdown-congress-2b46e610460d1c2448c3c7c816454de6",
+        "urlToImage": "https://dims.apnews.com/dims4/default/44527a1/2147483647/strip/true/crop/5028x2828+0+262/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F86%2F22%2F36809ee299ce7c4c65704cf950b7%2Ffa51697e1abb42589f2d3c8a905cd78b",
+        "publishedAt": "2025-10-31T23:06:00Z",
+        "content": "WASHINGTON (AP) Seemingly frustrated by the government shutdown and Democrats unwillingness to accept a Republican funding bill, President Donald Trump is once again demanding that the Senate elimina\u2026 [+6475 chars]"
     }
 ]
