@@ -1,16 +1,29 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "OPB News"
+            "id": "politico",
+            "name": "Politico"
         },
-        "author": "Conrad  Wilson | Michelle Wiley",
-        "title": "Federal judge permanently blocks Trump from deploying National Guard to Portland - Oregon Public Broadcasting - OPB",
-        "description": "In her ruling, U.S. District Court Judge Karin Immergut found President Trump \u201cdid not have a lawful basis to federalize the National Guard.\u201d",
-        "url": "https://www.opb.org/article/2025/11/07/portland-oregon-national-guard-trump-politics-karin-immergut/",
-        "urlToImage": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/CEKGQZEFJJDWBGNI2W36JCRHME.jpg?auth=7e3ef525030b5932ad99a2a5ba30a43217adfd2320b83448fd6d25b7b94e08ab&width=1200&height=675&smart=true",
-        "publishedAt": "2025-11-08T06:32:37Z",
-        "content": "President Donald Trump was permanently blocked from sending the National Guard to Portland by U.S. District Court Judge Karin Immergut, who delivered her final order in the case Friday.\r\nThe case has\u2026 [+9053 chars]"
+        "author": "Jessica Piper",
+        "title": "Poll: Here\u2019s how much Trump voters would pay in taxes to back his policies - Politico",
+        "description": "The POLITICO Poll measured how much economic pain voters will tolerate \u2014 if it aligns with their partisan views.",
+        "url": "https://www.politico.com/news/2025/11/08/poll-trump-taxes-inflation-prices-00643212",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ffd%2Ff8%2F3ed750fd4378afbb3e25146c1172%2Ftrump-cost.png",
+        "publishedAt": "2025-11-08T12:00:00Z",
+        "content": "The findings demonstrate the role of partisanship in shaping public opinion about policy, and they reveal a dynamic that observers have long noted: The loyalty of Trumps base, and the dedication of h\u2026 [+4922 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Live Science"
+        },
+        "author": "Victoria Atkinson",
+        "title": "Why does boiling water have bubbles, except in a microwave? - Live Science",
+        "description": "Bubbles are usually the first sign that water\u2019s coming to the boil, but heating it in a microwave seems to skip this important step. Here\u2019s what\u2019s going on.",
+        "url": "https://www.livescience.com/chemistry/why-does-boiling-water-have-bubbles-except-in-a-microwave",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/xziTuvHMdxKZKLq5e56BWL-1920-80.jpg",
+        "publishedAt": "2025-11-08T10:00:00Z",
+        "content": "When you're waiting for a pot of water to heat up on the stove, tiny bubbles are the first sign it's getting ready to boil. As the water gets hotter, the bubbles get bigger, until a rolling boil sign\u2026 [+4263 chars]"
     },
     {
         "source": {
@@ -40,6 +53,19 @@
     },
     {
         "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "abcnews.go.com",
+        "title": "Judge permanently blocks deployment of National Guard to Portland, saying Trump exceeded his authority - abcnews.go.com",
+        "description": null,
+        "url": "https://abcnews.go.com/US/judge-permanently-blocks-deployment-national-guard-portland-trump/story?id\\\\u003d127325048",
+        "urlToImage": null,
+        "publishedAt": "2025-11-08T05:26:15Z",
+        "content": null
+    },
+    {
+        "source": {
             "id": "associated-press",
             "name": "Associated Press"
         },
@@ -50,6 +76,45 @@
         "urlToImage": "https://dims.apnews.com/dims4/default/b03a368/2147483647/strip/true/crop/5780x3251+0+301/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd9%2F76%2Fe98319c41d8dabe6e539e8871594%2Fd8734073ed774ed181cc85bd646c2907",
         "publishedAt": "2025-11-08T05:23:00Z",
         "content": "JERUSALEM (AP) The election of Zohran Mamdani as New York Citys next mayor has sent a chill across Israel as people come to terms with the victory of a politician propelled by an outspoken pro-Palest\u2026 [+6205 chars]"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "David D. Lee",
+        "title": "N Korea threatens \u2018offensive action\u2019 as US aircraft carrier visits S Korea - Al Jazeera",
+        "description": "North Korea issues warning as Washington and Seoul agree on strengthening military ties.",
+        "url": "https://www.aljazeera.com/news/2025/11/8/n-korea-threatens-offensive-action-as-us-aircraft-carrier-visits-s-korea",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/11/AFP__20190423__1FV1XZ__v3__HighRes__RussiaNkoreaDefenceDiplomacy-1-1762574654_216ce5-1762574768.jpg?resize=1200%2C630&quality=80",
+        "publishedAt": "2025-11-08T04:43:06Z",
+        "content": "North Koreas defence minister, No Kwang Chol, has condemned the arrival of a United States aircraft carrier at a port in South Korea and warned that Pyongyang will take more offensive action against \u2026 [+3579 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Mark Berman",
+        "title": "Supreme Court temporarily blocks order on releasing SNAP benefits - The Washington Post",
+        "description": "The order pauses, for now, a lower court ruling directing the Trump administration to release November benefits in full on Friday.",
+        "url": "https://www.washingtonpost.com/politics/2025/11/07/snap-food-court-order-trump-administration/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OCUL5ZUDSX5TXBRLWBTV2ZMWQI_size-normalized.jpg&w=1440",
+        "publishedAt": "2025-11-08T04:39:54Z",
+        "content": "The order pauses, for now, a lower court ruling directing the Trump administration to release November benefits in full on Friday.\r\nUpdated November 7, 2025 at 10:27 p.m. ESTjust now"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Nebraskapublicmedia.org"
+        },
+        "author": null,
+        "title": "Biden tells Omaha Democrats: 'Tuesday night was a good start' - Nebraska Public Media",
+        "description": "Former President Joe Biden spoke at the Nebraska Democrats\u2019 annual Ben Nelson Gala along with Kentucky Gov. Andy Beshear and U.S. Capitol Police Officer Harry Dunn.",
+        "url": "https://nebraskapublicmedia.org/en/news/news-articles/former-president-biden-to-headline-nebraska-dems-event-in-omaha/",
+        "urlToImage": "https://nebraskapublicmedia.org/assets/images/biden_screenshot.2e16d0ba.fill-1200x630.png",
+        "publishedAt": "2025-11-08T04:27:29Z",
+        "content": "Former President Joe Biden told a crowd of Omaha Democrats Friday evening that, \"Tuesday was a good start.\"\r\nBiden, who spoke as part of the Nebraska Democratic Partys annual Ben Nelson Gala, was ref\u2026 [+3323 chars]"
     },
     {
         "source": {
@@ -66,42 +131,16 @@
     },
     {
         "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Jacob  Rosen, Joe  Walsh",
-        "title": "Grand jury subpoenas former CIA chief Brennan and 2 ex-FBI officials linked to Trump-Russia probe, source says - CBS News",
-        "description": "Subpoenas went out to former CIA Director John Brennan, former FBI counterintelligence official Peter Strzok and former FBI attorney Lisa Page, according to a source.",
-        "url": "https://www.cbsnews.com/news/grand-jury-cia-john-brennan-fbi-officials-trump-russia-probe-subpoena/",
-        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2020/10/07/e3a90222-2526-4ebf-a1e5-437e274f1189/thumbnail/1200x630g2/3242deb2442fd375bcab2ad00db6968c/gettyimages-540677318.jpg",
-        "publishedAt": "2025-11-08T02:58:00Z",
-        "content": "A federal grand jury has subpoenaed three former CIA and FBI officials who were involved in the federal government's investigations into alleged Russian meddling to assist President Trump's 2016 camp\u2026 [+3072 chars]"
-    },
-    {
-        "source": {
             "id": null,
-            "name": "Variety"
+            "name": "TheWrap"
         },
-        "author": "Adam B. Vary",
-        "title": "How the \u2018Stranger Things\u2019 Premiere Also Worked as Damage Control for Star David Harbour - Variety",
-        "description": "At the \u2018Stranger Things\u2019 Season 5 premiere, stars David Harbour and Millie Bobby Brown engaged in what appeared to be successful damage control.",
-        "url": "https://variety.com/2025/tv/news/stranger-things-david-harbour-millie-bobby-brown-premiere-1236572958/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2025/11/GettyImages-2244909553-e1762564729455.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2025-11-08T02:33:00Z",
-        "content": "David Harbour is not having a good month. But attendees at the Los Angeles premiere event on Nov. 6 for the fifth and final season of Netflix\u2019s \u201cStranger Things\u201d might not have noticed.\r\nHarbour was \u2026 [+4870 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Isabel DeBre, Mauricio Savarese",
-        "title": "Climate summit hears from countries suffering from harms, destruction linked to global warming - AP News",
-        "description": "Officials from countries most vulnerable to global warming offered vivid dispatches of life on the front line of the climate crisis Friday as world leaders gathered on the edge of the imperiled Amazon rainforest. Haitian diplomat Smith Augustin said his count\u2026",
-        "url": "https://apnews.com/article/brazil-cop30-forests-finland-amazon-1c03ba4012acf7b0da457b8453688786",
-        "urlToImage": "https://dims.apnews.com/dims4/default/c7e13c9/2147483647/strip/true/crop/4384x2466+0+229/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F45%2F79%2F770e0b34c512d77e5a4d7a27c3ce%2Fd6a9a936318644eeb4b27a47263132ff",
-        "publishedAt": "2025-11-08T02:28:00Z",
-        "content": "BELEM, Brazil (AP) Officials from countries most vulnerable to global warming offered searing dispatches of life on the front line of a warming planet Friday, as world leaders gathered on the edge of\u2026 [+8475 chars]"
+        "author": "Alyssa Ray",
+        "title": "DHS Tells Olivia Rodrigo to Not Belittle Their Agents After Propaganda Comment - TheWrap",
+        "description": "DHS hit back at Olivia Rodrigo after the singer told them to stop using one of her songs in their \"racist, hateful propaganda.\"",
+        "url": "https://www.thewrap.com/dhs-responds-olivia-rodrigo-hateful-propaganda-comment/",
+        "urlToImage": "https://www.thewrap.com/wp-content/uploads/2024/10/olivia-rodrigo.jpg",
+        "publishedAt": "2025-11-08T03:19:08Z",
+        "content": "The United States Department of Homeland Security hit back at Olivia Rodrigo after the singer told them to stop using one of her songs in their \u201cracist, hateful propaganda.\u201d\r\nAmerica is grateful all \u2026 [+1476 chars]"
     },
     {
         "source": {
@@ -118,32 +157,6 @@
     },
     {
         "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Jordain Carney",
-        "title": "Senate Democrats propose 1-year Obamacare subsidies punt in new shutdown offer - Politico",
-        "description": "Senate Majority Leader Chuck Schumer made the offer in a Friday floor speech.",
-        "url": "https://www.politico.com/live-updates/2025/11/07/congress/obamacare-punt-democrats-shutdown-00642467",
-        "urlToImage": "https://www.politico.com/dims4/default/13f9c40/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fc1%2F47%2Ff4092dea49b6be7812dafd6a4481%2Fu-s-congress-81343.jpg",
-        "publishedAt": "2025-11-07T23:34:45Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Maggie Eastland, Shirin Ghaffary",
-        "title": "OpenAI Asks US to Expand Chips Act Tax Credit to AI Data Centers - Bloomberg.com",
-        "description": "OpenAI has asked the Trump administration to revamp a Chips Act tax credit to help lower the cost of artificial intelligence infrastructure, as the startup explores additional ways the US government can support an industrywide data center build-out for AI.",
-        "url": "https://www.bloomberg.com/news/articles/2025-11-07/openai-asks-us-to-expand-chips-act-tax-credit-to-ai-data-centers",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieTDovdRazgA/v1/1200x800.jpg",
-        "publishedAt": "2025-11-07T23:08:52Z",
-        "content": "OpenAI has asked the Trump administration to revamp a Chips Act tax credit to help lower the cost of artificial intelligence infrastructure, as the startup explores additional ways the US government \u2026 [+518 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Yahoo Entertainment"
         },
@@ -157,6 +170,19 @@
     },
     {
         "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Stephen Neukam, Stef W. Kight",
+        "title": "Democrats name their price on ending government shutdown - Axios",
+        "description": "Democrats could vote to end the shutdown in exchange for a one-year extension of expiring Obamacare tax credits.",
+        "url": "https://www.axios.com/2025/11/07/senate-democrats-proposal-end-government-shutdown",
+        "urlToImage": "https://images.axios.com/Q_QzVwiKVY3Ggxxgb-AFRAMy0Xw=/0x338:4000x2588/1366x768/2025/11/07/1762543303186.jpeg",
+        "publishedAt": "2025-11-07T22:45:45Z",
+        "content": "<ul><li>But Senate Majority Leader John Thune (R-S.D.) rejected the offer, calling it a \"non-starter.\"</li><li>\"I think it's an indication that they're feeling the heat, and they know that their last\u2026 [+1820 chars]"
+    },
+    {
+        "source": {
             "id": "associated-press",
             "name": "Associated Press"
         },
@@ -167,19 +193,6 @@
         "urlToImage": "https://dims.apnews.com/dims4/default/f3c9330/2147483647/strip/true/crop/5785x3254+0+301/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F89%2F52%2Ff163b1b93b8b9d670ef7f8bd6105%2F57fca08fcaa3423685511f50aa37c30f",
         "publishedAt": "2025-11-07T22:44:00Z",
         "content": "WASHINGTON (AP) Dont lose sleep over headlines linking melatonin to heart failure.\r\nThats the message after some scary-sounding reports about a preliminary study involving the sleep-related supplemen\u2026 [+2862 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NBCSports.com"
-        },
-        "author": "Charean Williams",
-        "title": "Mac Jones will start for 49ers, with Brock Purdy questionable to dress - NBC Sports",
-        "description": "Purdy has not played since Week 4 when he aggravated his turf toe.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mac-jones-will-start-for-49ers-with-brock-purdy-questionable-to-dress",
-        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/844dc12/2147483647/strip/true/crop/4000x2250+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5d%2Fe4%2Fd76dc69c4366bea395f1d47650c7%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2244656763",
-        "publishedAt": "2025-11-07T22:31:35Z",
-        "content": "The 49ers named Mac Jones as the starter for the sixth consecutive game and the eighth time this season. Starter Brock Purdy is questionable to serve as the backup as he grows closer to returning fro\u2026 [+728 chars]"
     },
     {
         "source": {
