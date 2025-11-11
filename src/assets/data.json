@@ -1,16 +1,120 @@
 [
     {
         "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "The Wall Street Journal",
+        "title": "Stock Market Today: S&P 500 Futures Rise on Progress to End Shutdown \u2014 Live Updates - The Wall Street Journal",
+        "description": null,
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-10-2025",
+        "urlToImage": null,
+        "publishedAt": "2025-11-10T11:18:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Mary Kay  Kleist, Darius  Johnson, Laura  Bannon, Kris  Habermehl, Albert  Ramon, Kylee  Miller",
+        "title": "Winter Storm Warning continues for Chicago area as heavy snow falls - CBS News",
+        "description": "Winter storm socks Chicago area: Live Radar",
+        "url": "https://www.cbsnews.com/chicago/news/winter-storm-warning-chicago-weather-forecast-snow/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/10/f7f0bb6a-f7ad-452f-b935-eab01409bec1/thumbnail/1200x630/13f7aef2eb261da1db4ce88872d48a17/eisenhower-overnight-snow.png",
+        "publishedAt": "2025-11-10T11:14:54Z",
+        "content": "A Winter Storm Warning remains in effect for most of the Chicago area and Northwest Indiana Monday morning for an unseasonable fall snowstorm that clobbered much of the area with\u00a0lake-effect snow.\r\nF\u2026 [+4500 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Jim Gomez",
+        "title": "Typhoon Fung-wong blows away from the Philippines, leaving 8 dead and 1.4 million displaced - AP News",
+        "description": "Typhoon Fung-wong has blown out of the northwestern Philippines after causing floods and landslides. The storm knocked out power to entire provinces, killed at least eight people, and displaced over 1.4 million. It was next forecast to head toward Taiwan. Fun\u2026",
+        "url": "https://apnews.com/article/typhoon-fungwong-philippines-kalmaegi-evacuations-taiwan-027a3a79f6f99d46b373b8712e2b2087",
+        "urlToImage": "https://dims.apnews.com/dims4/default/bcc6d59/2147483647/strip/true/crop/1440x810+0+75/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F96%2Fa9%2Fbbd6b27996a8cd145c364e762065%2F06eae87b3362490ba8662fee23acea5c",
+        "publishedAt": "2025-11-10T10:59:00Z",
+        "content": "MANILA, Philippines (AP) Typhoon Fung-wong blew out of the northwestern Philippines on Monday after setting off floods and landslides, knocking out power to entire provinces, killing at least eight p\u2026 [+3453 chars]"
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Robert King, Alice Miranda Ollstein",
+        "title": "Legal immigrants face loss of Obamacare help, threatening insurance markets - Politico",
+        "description": "The GOP megabill stripped subsidies from hundreds of thousands of green card holders and other legal migrants. Experts predict ripple effects for citizens.",
+        "url": "https://www.politico.com/news/2025/11/10/legal-immigrants-face-loss-of-obamacare-help-threatening-insurance-markets-00643210",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F09%2Fba%2Fcffa5af94e3197edc8bd9574b64b%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2223600329",
+        "publishedAt": "2025-11-10T10:55:00Z",
+        "content": "Democrats, who are preoccupied with getting an extension of the enhanced subsidies, say it will be hard to undo measures in the megabill. \r\nOnce we get the government open maybe we can get them to ne\u2026 [+6200 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Hans Nichols",
+        "title": "Democrats fold on biggest government shutdown demand - Axios",
+        "description": "\"It's been six weeks,\" one senator said.",
+        "url": "https://www.axios.com/2025/11/10/government-shutdown-aca-tax-credits-vote",
+        "urlToImage": "https://images.axios.com/xV697bZZHtY_CBTOt4MDHJYPiuI=/627x800:3574x2458/1366x768/2025/11/10/1762749443520.jpeg",
+        "publishedAt": "2025-11-10T10:22:25Z",
+        "content": "<ul><li>\"It wasn't working,\" Sen. Angus King (I-Maine), who caucuses with Senate Democrats, said of his effort to broker a compromise.</li><li>\"It's been six weeks. Republicans made it clear they wer\u2026 [+2417 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Leslie Josephs",
+        "title": "FAA prohibits most private jets at 12 major airports amid shutdown's air traffic staffing problems - CNBC",
+        "description": "The new restrictions come less than a week after the FAA ordered commercial airlines to cut flights due to air traffic controller staffing shortfalls.",
+        "url": "https://www.cnbc.com/2025/11/10/government-shutdown-private-jets.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108020336-1723645951005-gettyimages-2157473807-20240612-202513.jpeg?v=1723810431&w=1920&h=1080",
+        "publishedAt": "2025-11-10T10:10:20Z",
+        "content": "The Federal Aviation Administration on Monday will \"effectively prohibit business aviation\" at a dozen major U.S. airports, adding to flight restrictions for commercial airlines as air traffic contro\u2026 [+1979 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "abcnews.go.com",
+        "title": "Ghislaine Maxwell's alleged prison perks spark Raskin probe into Trump administration - abcnews.go.com",
+        "description": null,
+        "url": "https://abcnews.go.com/US/ghislaine-maxwells-alleged-prison-perks-spark-raskin-probe/story?id\\\\u003d127368629",
+        "urlToImage": null,
+        "publishedAt": "2025-11-10T10:07:27Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "PhoneArena"
+        },
+        "author": "Adrian Diaconescu",
+        "title": "Latest Samsung Galaxy S26 series report brings all good news on two different fronts - PhoneArena",
+        "description": "Samsung's next ultra-high-end handset family is now expected to come out earlier than previously rumored, with the Ultra model likely to pack the processor you all want.",
+        "url": "https://www.phonearena.com/news/samsung-galaxy-s26-series-report-february-launch-ultra-model-snapdragon_id175577",
+        "urlToImage": "https://m-cdn.phonearena.com/images/article/175577-wide-two_1200/Latest-Samsung-Galaxy-S26-series-report-brings-all-good-news-on-two-different-fronts.jpg",
+        "publishedAt": "2025-11-10T08:01:19Z",
+        "content": "A discussion is a place, where people can voice their opinion, no matter if it\r\n is positive, neutral or negative. However, when posting, one must stay true to the topic, and not just share some\r\n ra\u2026 [+1082 chars]"
+    },
+    {
+        "source": {
             "id": "bloomberg",
             "name": "Bloomberg"
         },
-        "author": "Andre Janse Van Vuuren, Kwaku Gyasi",
-        "title": "Asian Traders Cautious on Tech, Shutdown Concerns: Markets Wrap - Bloomberg.com",
-        "description": "Stocks rallied and bonds fell as optimism that US lawmakers are moving closer to a deal to end the longest government shutdown in history spurred demand for risky assets.",
-        "url": "https://www.bloomberg.com/news/articles/2025-11-09/asian-traders-cautious-on-tech-shutdown-concerns-markets-wrap",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipxGaneFFsJA/v0/1200x675.png",
-        "publishedAt": "2025-11-10T09:47:24Z",
-        "content": "Stocks rallied and bonds fell as optimism that US lawmakers are moving closer to a deal to end the longest government shutdown in history spurred demand for risky assets. \r\nS&amp;P 500 futures rose 1\u2026 [+328 chars]"
+        "author": "Debby Wu",
+        "title": "TSMC Monthly Sales Growth Slows as AI Demand Moderates - Bloomberg.com",
+        "description": "Taiwan Semiconductor Manufacturing Co. reported slowing growth in monthly revenue, highlighting uncertainty over the sustainability of the AI boom even as industry behemoths including Nvidia Corp. chase more chip supplies.",
+        "url": "https://www.bloomberg.com/news/articles/2025-11-10/tsmc-monthly-sales-growth-slows-as-ai-demand-moderates",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwDxMGhLX1VA/v0/1200x800.jpg",
+        "publishedAt": "2025-11-10T07:26:00Z",
+        "content": "Taiwan Semiconductor Manufacturing Co. reported slowing growth in monthly revenue, highlighting uncertainty over the sustainability of the AI boom even as industry behemoths including Nvidia Corp. ch\u2026 [+276 chars]"
     },
     {
         "source": {
@@ -28,6 +132,32 @@
     {
         "source": {
             "id": null,
+            "name": "DW (English)"
+        },
+        "author": "Nik Martin",
+        "title": "BBC bosses resign amid fury over Trump documentary edit - DW",
+        "description": "The director general and the UK broadcaster's top news executive quit in a row over the editing of a speech Donald Trump made before protesters attacked the US Capitol in Washington.",
+        "url": "https://www.dw.com/en/bbc-bosses-resign-amid-fury-over-trump-documentary-edit/a-74680557",
+        "urlToImage": "https://static.dw.com/image/64971438_6.jpg",
+        "publishedAt": "2025-11-10T07:06:04Z",
+        "content": "BBC Director General Tim Davie and head of news Deborah Turness resigned on Sunday after criticism of the way the United Kingdom's public broadcaster\u00a0edited a speech by US\u00a0President Donald Trump.\r\nTh\u2026 [+3580 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": null,
+        "title": "Trump says he'll issue $2,000 tariff dividend to all except 'high-income people' - abcnews.go.com",
+        "description": null,
+        "url": "https://abcnews.go.com/Politics/trump-hell-issue-2000-tariff-dividend-except-high/story?id\\\\u003d127356839",
+        "urlToImage": null,
+        "publishedAt": "2025-11-10T06:58:18Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
             "name": "CNBC"
         },
         "author": "Dan Mangan",
@@ -37,19 +167,6 @@
         "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208145-1759759414060-gettyimages-2239554828-_s019583_gxxduqro.jpeg?v=1762756802&w=1920&h=1080",
         "publishedAt": "2025-11-10T06:49:57Z",
         "content": "A federal appeals court in Boston, for a second time, late Sunday flatly rejected a request by the Trump administration to block a lower court judge's order that it pay 42 million Americans their ful\u2026 [+3759 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Privatejetcardcomparisons.com"
-        },
-        "author": "Doug Gollan",
-        "title": "FAA halts nearly all private jet flights at 12 major airports - Private Jet Card Comparisons",
-        "description": "A dozen of the busiest U.S. airports are effectively banning private jet flights effective at midnight tonight per FAA orders",
-        "url": "https://privatejetcardcomparisons.com/2025/11/09/faa-halts-nearly-all-private-jet-flights-at-12-major-airports/",
-        "urlToImage": "https://cdn.privatejetcardcomparisons.com/uploads/shutterstock_2619432787.jpg?w=1200&h=628&fit=crop",
-        "publishedAt": "2025-11-10T06:33:45Z",
-        "content": "Effective at midnight tonight, Nov. 9, 2025, all private jet operations at 12 major airports are being effectively stopped.\r\nAccording to an email from NBAA, the exceptions are limited to based aircr\u2026 [+2758 chars]"
     },
     {
         "source": {
@@ -79,16 +196,16 @@
     },
     {
         "source": {
-            "id": "abc-news",
-            "name": "ABC News"
+            "id": null,
+            "name": "BBC News"
         },
-        "author": "abcnews.go.com",
-        "title": "Trump pardons Rudy Giuliani, other key figures allegedly involved in efforts to overturn the 2020 election - abcnews.go.com",
-        "description": null,
-        "url": "https://abcnews.go.com/Politics/trump-pardons-rudy-giuliani-key-figures-involved-efforts/story?id\\\\u003d127367541",
-        "urlToImage": null,
-        "publishedAt": "2025-11-10T05:48:45Z",
-        "content": null
+        "author": null,
+        "title": "Seven dead after migrant boat sinks near Thai-Malaysia border - BBC",
+        "description": "Hundreds of Rohingyas, who fled Myanmar in hopes of a better life in Malaysia, remain missing.",
+        "url": "https://www.bbc.com/news/articles/cd7rp5zj484o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/caaa/live/8716e810-bd64-11f0-abab-df46b9caffa5.jpg",
+        "publishedAt": "2025-11-10T04:13:19Z",
+        "content": "At least seven people have died after a boat carrying undocumented migrants sank near the border between Thailand and Malaysia.\r\nThirteen people have been rescued but hundreds are missing - they were\u2026 [+1735 chars]"
     },
     {
         "source": {
@@ -105,132 +222,15 @@
     },
     {
         "source": {
-            "id": "abc-news",
-            "name": "ABC News"
+            "id": "the-times-of-india",
+            "name": "The Times of India"
         },
-        "author": "abcnews.go.com",
-        "title": "Acetaminophen use during pregnancy not clearly linked to autism, ADHD: Review - abcnews.go.com",
-        "description": null,
-        "url": "https://abcnews.go.com/Health/acetaminophen-pregnancy-linked-autism-adhd-review/story?id\\\\u003d127303300",
-        "urlToImage": null,
-        "publishedAt": "2025-11-10T03:58:05Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Nintendo Life"
-        },
-        "author": "Ollie Reynolds",
-        "title": "Images Of Yoshi From 'The Super Mario Galaxy Movie' Have Leaked Online - Nintendo Life",
-        "description": "Mlem!",
-        "url": "https://www.nintendolife.com/news/2025/11/images-of-yoshi-from-the-super-mario-galaxy-movie-have-leaked-online",
-        "urlToImage": "https://images.nintendolife.com/ff15af76a3a5b/large.jpg",
-        "publishedAt": "2025-11-10T02:59:39Z",
-        "content": "Image: Nintendo\r\nThe Super Mario Galaxy Movie officially launches on 3rd April 2026, and Nintendo will be keen to ensure its marketing is on top form for the upcoming sequel. This will no doubt inclu\u2026 [+1805 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "New York Post"
-        },
-        "author": "Mark Cannizzaro",
-        "title": "Giants\u2019 latest debacle should mark the unofficial end for Brian Daboll - New York Post",
-        "description": "This Giants loss to the Bears on Sunday likely marked the unofficial end for current Big Blue head coach Brian Daboll.",
-        "url": "https://nypost.com/2025/11/09/sports/giants-latest-debacle-should-mark-the-unofficial-end-for-brian-daboll/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/11/head-coach-brian-daboll-new-115118878_ad896a.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2025-11-10T02:50:00Z",
-        "content": "CHICAGO Four years ago, in a dimly lit room in the bowels of Soldier Field, following a hideous, lifeless 29-3 Giants loss to the Bears, the end unofficially arrived for their head coach at the time,\u2026 [+610 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Rebecca Falconer",
-        "title": "BBC leaders quit after backlash over edit of Trump's Jan. 6 speech in documentary - Axios",
-        "description": "Trump celebrated the resignations over criticism of its handling of matters including what he said was his \"very good (PERFECT!) speech.\"",
-        "url": "https://www.axios.com/2025/11/09/bbc-trump-speech-documentary-leaders-resign",
-        "urlToImage": "https://images.axios.com/61oVy-idRWRbY4D0KN5UF00UGGg=/0x0:1920x1080/1366x768/2025/11/09/1762727731899.jpeg",
-        "publishedAt": "2025-11-10T02:27:35Z",
-        "content": "<ul><li>Trump and Leavitt both welcomed Sunday's resignations of BBC director-general Tim Davie and news chief Deborah Turness after it emerged former BBC adviser Michael Prescott accused the outlet \u2026 [+4209 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "TMZ"
-        },
-        "author": "TMZ Staff",
-        "title": "Rachel Lynn Matthews Dresses Up As Katy Perry, Cozies Up to Orlando Bloom - TMZ",
-        "description": "Orlando Bloom and Rachel Lynn Matthews have no chill ... the \"Batwoman\" star dressed up as Orlando's ex-fianc\u00e9e, Katy Perry, in a recently shared Halloween pic.",
-        "url": "https://www.tmz.com/2025/11/09/rachel-lynn-matthews-poses-with-orlando-bloom-wears-katy-perry-costume/",
-        "urlToImage": "https://imagez.tmz.com/image/a3/16by9/2025/11/09/a33658680f6f4953bc70fd70466c8326_xl.jpg",
-        "publishedAt": "2025-11-10T00:39:52Z",
-        "content": "Orlando Bloom and Rachel Lynn Matthews have no chill ... the \"Batwoman\" star dressed up as Orlando's ex-fianc\u00e9e, Katy Perry, in a recently shared Halloween pic.\r\nSee for yourself ... Rachel donned a \u2026 [+869 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "China exempts Nexperia chips from export controls - BBC",
-        "description": "The block on exports of the company's chips had raised fears that European car production would be hit.",
-        "url": "https://www.bbc.com/news/articles/c0rp2514g4qo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7af5/live/be7b5b50-b6d5-11f0-b2a1-6f537f66f9aa.jpg",
-        "publishedAt": "2025-11-10T00:03:04Z",
-        "content": "Nick Edser,Business reporter and \r\nPeter Hoskins,Business reporter\r\nChina has lifted export controls on computer chips vital to car production, the country's commerce ministry said on Sunday.\r\nExempt\u2026 [+3056 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Lim Hui Jie",
-        "title": "Asia-Pacific markets mostly rise after AI-fueled rout last week - CNBC",
-        "description": "Investors in Asia are also assessing October inflation data out from China over the weekend, which came in above expectations.",
-        "url": "https://www.cnbc.com/2025/11/10/asia-markets-live-china-inflation-data.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223408-1762746947074-gettyimages-949983300-sunrise-busan-panorama.jpeg?v=1762746955&w=1920&h=1080",
-        "publishedAt": "2025-11-09T23:58:58Z",
-        "content": "Asia-Pacific markets traded higher Monday, after artificial intelligence valuation concerns fueled declines in markets across the region last week.\r\nInvestors in Asia are also parsing October inflati\u2026 [+2390 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NPR"
-        },
-        "author": "Chandelis Duster",
-        "title": "Some UPS and FedEx planes are grounded. What does that mean for holiday shipping? - NPR",
-        "description": "UPS and FedEx's fleets of MD-11 planes are grounded, which can each carry thousands of packages. Logistics experts say some cargo could shift to passenger planes, trains and trucks.",
-        "url": "https://www.npr.org/2025/11/09/nx-s1-5602930/ups-fedex-md11-aircraft-holiday-shipping",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4775x2686+0+311/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fac%2F82%2F31345483489d8a1c87b6e21ea7eb%2Fap23324505576282.jpg",
-        "publishedAt": "2025-11-09T22:31:41Z",
-        "content": "The Federal Aviation Administration has ordered all McDonnell Douglas MD-11 aircraft grounded pending further inspection, following UPS and FedEx each deciding to ground the planes that make up part \u2026 [+4164 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Space.com"
-        },
-        "author": "Tariq Malik",
-        "title": "Blue Origin delays launch of New Glenn rocket carrying NASA Mars probes, may seek exemption from FAA order for next try - Space",
-        "description": "NASA's first Mars launch in more than five years will wait a little longer to get off the ground.",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-delays-launch-of-new-glenn-rocket-carrying-nasa-mars-probes-may-seek-exemption-from-faa-order-for-next-try",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/AKmRg2u2Zh3HEcrZccQD44-1617-80.jpg",
-        "publishedAt": "2025-11-09T22:02:33Z",
-        "content": "CAPE CANAVERAL, Fla. \u2014 Blue Origin called off the launch of its giant New Glenn rocket carrying twin NASA Mars probes on Sunday (Nov. 9) due to bad weather at its Florida pad, one day before new fede\u2026 [+4945 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Block Club Chicago"
-        },
-        "author": "Charles Thrush",
-        "title": "'Ferocious' Winter Storm Could Drop 8 Inches Of Snow Overnight Sunday, Weather Service Says - Block Club Chicago",
-        "description": "An intense band of lake effect snow is expected overnight Sunday, making for a potentially miserable Monday morning commute, according to the National Weather Service.",
-        "url": "https://blockclubchicago.org/2025/11/09/ferocious-winter-storm-could-drop-8-inches-of-snow-on-chicago-overnight-sunday-weather-service-says/",
-        "urlToImage": "https://bcc-newspack.s3.amazonaws.com/uploads/2022/12/122222-Winter-Storm-Snow-Wicker-Park-Colin-Boyle-5548.jpg",
-        "publishedAt": "2025-11-09T21:05:08Z",
-        "content": "CHICAGO The city\u2019s first snow of the season will be a significant winter storm that could dump eight inches of snow on the city, wrecking Monday morning commutes, according to the National Weather Se\u2026 [+2615 chars]"
+        "author": "ET Online",
+        "title": "Comet 3I/ATLAS surrounded by mysterious jet structure? Scientists stunned as second interstellar object C/ - The Economic Times",
+        "description": "New images reveal interstellar comet 3I/ATLAS sporting complex jet structures, fueling speculation about its artificial origin. While some suggest thrusters, others point to ice pockets. Another object, C/2025 V1, is unlikely to be connected.  3I/ATLAS is set\u2026",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-comet-3i/atlas-surrounded-by-mysterious-jet-structure-scientists-stunned-as-second-interstellar-object-c/2025-v1-appears/articleshow/125213769.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-125213806,width-1200,height-630,imgsize-1612269,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2025-11-10T03:55:35Z",
+        "content": "The interstellar comet 3I/ATLAS is surrounded by \"complex jet structure\", new images have shown and it has sparked fresh speculation that the Manhattan-sized interstellar object could be an artificia\u2026 [+4071 chars]"
     }
 ]
