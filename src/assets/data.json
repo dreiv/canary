@@ -1,6 +1,19 @@
 [
     {
         "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Courtenay Brown, Ben Berkowitz",
+        "title": "Trump drops tariffs on dozens of food items, from beef to bananas - Axios",
+        "description": "The growing affordability crisis has become a political liability for the administration.",
+        "url": "https://www.axios.com/2025/11/14/trump-tariffs-food-groceries",
+        "urlToImage": "https://images.axios.com/Pctm2_h_BNKRs52XkomxksrXLdg=/0x0:3800x2138/1366x768/2025/11/14/1763157822881.jpeg",
+        "publishedAt": "2025-11-15T09:22:00Z",
+        "content": "Driving the news: The White House issued a statement Friday evening saying a list of foods would no longer be subject to the sweeping tariffs implemented earlier this year: \r\n<ul><li>Coffee and tea;<\u2026 [+2717 chars]"
+    },
+    {
+        "source": {
             "id": "espn",
             "name": "ESPN"
         },
@@ -17,26 +30,39 @@
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
-        "author": "Tobi Raji",
-        "title": "Ethiopia reports first outbreak of Marburg, Ebola cousin with no vaccine - The Washington Post",
-        "description": "At least nine cases of the rare viral hemorrhagic fever have been confirmed, the World Health Organization said Friday.",
-        "url": "https://www.washingtonpost.com/world/2025/11/14/marburg-virus-ethiopia/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ONBEHXV4DAI6RASD6OXJZGLFRI_size-normalized.jpg&w=1440",
-        "publishedAt": "2025-11-15T06:31:38Z",
-        "content": "At least nine people in southern Ethiopia have been infected with the deadly Marburg virus, a clinically similar cousin to Ebola, in the East African countrys first outbreak of the highly contagious \u2026 [+105 chars]"
+        "author": "Lena H. Sun",
+        "title": "First U.S. case of human bird flu in 9 months confirmed in Washington state - The Washington Post",
+        "description": "The U.S. has reported its first human case of bird flu since February, with a confirmed infection in Washington state",
+        "url": "https://www.washingtonpost.com/health/2025/11/14/human-bird-flu-washington-state/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BJ4VJWZPMQ4W7SFSKK7KYQRSGI.jpg&w=1440",
+        "publishedAt": "2025-11-15T07:39:16Z",
+        "content": "Health officials in Washington state said Friday they have confirmed the first U.S. human case of bird flu since February, with a strain that has previously been reported in animals but never before \u2026 [+9 chars]"
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": null,
+            "name": "Suntimes.com"
         },
-        "author": "Alec Dent, David J. Lynch",
-        "title": "Trump repeals tariffs on some foods as Americans face high grocery prices - The Washington Post",
-        "description": "President rolls back import levies on beef, tomatoes, coffee and a host of other agricultural goods after administration officials signaled coming changes aimed at addressing consumer complaints about high food costs.",
-        "url": "https://www.washingtonpost.com/politics/2025/11/14/trump-repeals-food-tariffs-grocery-prices/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CPF5W4JESD2MHQMEJO3PIFJTMA.JPG&w=1440",
-        "publishedAt": "2025-11-15T06:18:17Z",
-        "content": "President Donald Trump issued an executive order Friday rolling back tariffs on certain agricultural products, including beef, tomatoes and coffee.\r\nMany of the announced trade deals and ongoing nego\u2026 [+237 chars]"
+        "author": "Georgia Nicols",
+        "title": "Horoscope for Saturday, November 15, 2025 - Chicago Sun-Times",
+        "description": null,
+        "url": "https://chicago.suntimes.com/horoscopes/2025/11/15/horoscopes-today-saturday-november-15-2025",
+        "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+        "publishedAt": "2025-11-15T06:01:00Z",
+        "content": "Moon Alert\r\nAvoid shopping (except food and gas) or important decisions from 3 a.m. to 4 a.m. After this, the moon moves from Virgo into Libra.\r\nAries (March 21-April 19)\r\n You can get a lot done tod\u2026 [+3871 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Rolling Stone"
+        },
+        "author": "Charisma Madarang",
+        "title": "Jimmy Kimmel Launches Fundraisers in Honor of Friend and Bandleader Cleto Escobedo III - Rolling Stone",
+        "description": "Jimmy Kimmel launched two fundraisers in memory of Cleto Escobedo III, his childhood friend and the longtime bandleader of\u00a0'Jimmy Kimmel Live!'",
+        "url": "http://www.rollingstone.com/music/music-news/jimmy-kimmel-cleto-escobedo-iii-fundraisers-1235465692/",
+        "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/11/jimmy-kimmel-Cleto-Escobedo-III.jpg?w=1600&h=900&crop=1",
+        "publishedAt": "2025-11-15T05:12:05Z",
+        "content": "Jimmy Kimmel\u00a0has launched two fundraisers in memory of Cleto Escobedo III, his childhood friend and the longtime bandleader of\u00a0Jimmy Kimmel Live! Escobedo died on Tuesday at the age of 59.\r\n\u201cCleto wa\u2026 [+1935 chars]"
     },
     {
         "source": {
@@ -69,32 +95,6 @@
             "id": "axios",
             "name": "Axios"
         },
-        "author": "Jason Lalljee",
-        "title": "Why Trump targeted JPMorgan in call for Justice Department Epstein probe - Axios",
-        "description": "Trump said he will direct the Justice Department to investigate Epstein's connections to former President Clinton and others.",
-        "url": "https://www.axios.com/2025/11/14/jp-morgan-bill-clinton-trump-epstein",
-        "urlToImage": "https://images.axios.com/bCIJmZDM9mXwcvHKpP8P0t-1JGM=/0x376:5616x3535/1366x768/2025/11/14/1763150116975.jpeg",
-        "publishedAt": "2025-11-15T05:00:16Z",
-        "content": "<ul><li>In 2023, JPMorgan settled a case with the U.S. Virgin Islands over allegations the bank assisted and benefited from Epstein's sex trafficking. </li><li>The bank also settled a case with one o\u2026 [+4181 chars]"
-    },
-    {
-        "source": {
-            "id": "espn",
-            "name": "ESPN"
-        },
-        "author": "ESPN",
-        "title": "Michigan 67-63 TCU (Nov 14, 2025) Game Recap - ESPN",
-        "description": null,
-        "url": "https://www.espn.com/mens-college-basketball/recap?gameId\\\\u003d401812252",
-        "urlToImage": null,
-        "publishedAt": "2025-11-15T04:54:20Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
         "author": "Arika Herron",
         "title": "Indiana lawmakers defy Trump, won't join redistricting war - Axios",
         "description": "Senate leadership announced Friday they wouldn't move forward with a planned session.",
@@ -102,19 +102,6 @@
         "urlToImage": "https://images.axios.com/KBGQdfkzS8Zeomwuvo0MKSXMPWc=/1366x768/smart/2022/12/06/191649-1670354209693.jpg",
         "publishedAt": "2025-11-15T04:13:41Z",
         "content": "Driving the news: Despite the national pressure and call from Gov. Mike Braun to hold a special session to pass a new map, the Republican supermajority doesn't have the votes, Senate President Pro Te\u2026 [+1945 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Deadline"
-        },
-        "author": "Glenn Garner",
-        "title": "Millie Bobby Brown Claps Back At \u2018Stranger Things\u2019 Red Carpet Photographer: \u201c You Smile!\u201d - Deadline",
-        "description": "As Millie Bobby Brown has come a long way from the 12-year-old who broke out on Season 1 of 'Stranger Things' in 2016.",
-        "url": "http://deadline.com/2025/11/millie-bobby-brown-claps-back-stranger-things-photographer-1236618310/",
-        "urlToImage": "https://deadline.com/wp-content/uploads/2025/11/P10325W6-e1763178168992.jpg?w=1024",
-        "publishedAt": "2025-11-15T04:05:00Z",
-        "content": "As Millie Bobby Brown says goodbye to Stranger Things, she\u2019s come a long way from the 12-year-old who broke out on Season 1 of the Netflix show in 2016.\r\nThe 2x Emmy nominee snapped back at a red car\u2026 [+1821 chars]"
     },
     {
         "source": {
@@ -132,15 +119,15 @@
     {
         "source": {
             "id": null,
-            "name": "Rolling Stone"
+            "name": "OregonLive"
         },
-        "author": "Charisma Madarang",
-        "title": "\u2018Jimmy Kimmel Live!\u2019 Bandleader Cleto Escobedo III\u2019s Cause of Death Revealed - Rolling Stone",
-        "description": "The cause of death of Cleto Escobedo III,\u00a0longtime bandleader of\u00a0'Jimmy Kimmel Live,' has been revealed.",
-        "url": "http://www.rollingstone.com/music/music-news/cleto-escobedo-iii-cause-of-death-revealed-1235465652/",
-        "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/11/cleo-Escobedo-cause-of-death.jpg?w=1600&h=900&crop=1",
-        "publishedAt": "2025-11-15T02:49:29Z",
-        "content": "The cause of death of Cleto Escobedo III,\u00a0longtime bandleader of\u00a0Jimmy Kimmel Live!, has been revealed.\r\nAccording to the musician\u2019s death certificate, obtained by\u00a0TMZ, cardiogenic shock was listed a\u2026 [+2102 chars]"
+        "author": "The Associated Press",
+        "title": "\u2018World\u2019s largest spider web\u2019 with 110,000 arachnids discovered in cave - OregonLive.com",
+        "description": "Scientists were stunned to find two different spider species peacefully cohabiting in massive 1,140-square-foot web.",
+        "url": "https://www.oregonlive.com/environment/2025/11/worlds-largest-spider-web-dense-like-a-blanket-houses-over-100k-arachnids.html",
+        "urlToImage": "https://www.oregonlive.com/resizer/v2/NSGUSAVFBJF23CKHYCMYBEQTXU.jpg?auth=73abc179136ae9735b8fe0ff4e3b6643f2e743357d306bd4844e4d8144ff5a0c&width=1280&smart=true&quality=90",
+        "publishedAt": "2025-11-15T03:00:00Z",
+        "content": "What is thought to be the worlds largest-known spiders web, housing tens of thousands of arachnids, has been discovered in a cave on the Albanian-Greek border.\r\nAfter researchers published their find\u2026 [+6660 chars]"
     },
     {
         "source": {
@@ -157,16 +144,42 @@
     },
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Foster Wong, Jacob Gu",
-        "title": "China Warns Citizens to Avoid Traveling to Japan Amid Taiwan Row - Bloomberg.com",
-        "description": "China urged its citizens to avoid traveling to Japan in the near term, escalating a conflict over comments from Prime Minister Sanae Takaichi suggesting potential intervention in the event of a military conflict over Taiwan.",
-        "url": "https://www.bloomberg.com/news/articles/2025-11-14/china-warns-citizen-to-avoid-traveling-to-japan-amid-taiwan-row",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5uex639LhQ0/v0/1200x800.jpg",
-        "publishedAt": "2025-11-15T01:10:00Z",
-        "content": "China urged its citizens to avoid traveling to Japan in the near term, escalating a conflict over comments from Prime Minister Sanae Takaichi suggesting potential intervention in the event of a milit\u2026 [+328 chars]"
+        "author": "Jennifer  Jacobs, Margaret  Brennan",
+        "title": "Trump says he's \"sort of\" made up his mind on Venezuela after top officials spent 3rd day mulling options - CBS News",
+        "description": "The president told reporters Friday evening he's \"sort of\" made up his mind about his next steps in Venezuela, which his administration blames for narco trafficking.",
+        "url": "https://www.cbsnews.com/news/trump-venezuela-sort-of-made-up-mind-after-top-officials-spent-3rd-day/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/15/57fdd049-9552-49a1-b063-624444fcf671/thumbnail/1200x630/bed01b93e12df7b24aef0801ba01d003/gettyimages-2246750684.jpg",
+        "publishedAt": "2025-11-15T01:46:25Z",
+        "content": "President Trump said Friday he's \"sort of\" decided how to proceed on Venezuela, as top officials weigh potential military operations in the Latin American country.\r\n\"I sort of have made up my mind\" a\u2026 [+2573 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Nintendo Life"
+        },
+        "author": "Ollie Reynolds",
+        "title": "Nintendo Quietly Reveals A New Suit For Metroid Prime 4: Beyond - Nintendo Life",
+        "description": "Proceed with caution!",
+        "url": "https://www.nintendolife.com/news/2025/11/nintendo-quietly-reveals-a-new-suit-for-metroid-prime-4-beyond",
+        "urlToImage": "https://images.nintendolife.com/49376390559e4/large.jpg",
+        "publishedAt": "2025-11-15T01:03:38Z",
+        "content": "Image: Nintendo Life\r\nNintendo has finally announced a whole bunch of new information for Metroid Prime 4: Beyond ahead of its launch on 4th December 2025.\r\nOne thing that's quietly slipped by, howev\u2026 [+1022 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "KQED"
+        },
+        "author": "Nisa Khan",
+        "title": "Oakland Laney College Coach John Beam Dies After Campus Shooting - KQED",
+        "description": "The Oakland Police Department said Friday morning that Beam, who was featured on the Last Chance U docuseries, died after being shot Thursday. A suspect has been arrested.",
+        "url": "https://www.kqed.org/news/12064112/suspect-arrested-in-shooting-of-oakland-laney-college-coach-john-beam",
+        "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2025/11/LaneyCollegeGetty2.jpg",
+        "publishedAt": "2025-11-15T00:33:33Z",
+        "content": "Beam was shot in the Laney Field House on Thursday afternoon, leaving the campus on lockdown as police secured the scene and investigated. As news of the shooting spread, many of his former players g\u2026 [+3080 chars]"
     },
     {
         "source": {
@@ -180,19 +193,6 @@
         "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F11%2F5d%2F344e18bd47ce879b7734098065f7%2Fcalifornia-political-aide-indicted-53161.jpg",
         "publishedAt": "2025-11-14T23:54:33Z",
         "content": "They really dont, Williamson replied. Its bad for them.\r\nFew people in California politics have accumulated as much influence or as many detractors as Williamson did while serving multiple governors \u2026 [+8152 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Mike Stobbe",
-        "title": "Washington resident is infected with a different type of bird flu - AP News",
-        "description": "Health officials in Washington state report a resident has contracted bird flu, marking the first U.S. human case since February. The person, an older adult with underlying health conditions, remains hospitalized. Officials confirm the infection is from the H\u2026",
-        "url": "https://apnews.com/article/bird-flu-infection-washington-h5n5-b8921d13aa7d96330654a960f80453c3",
-        "urlToImage": "https://dims.apnews.com/dims4/default/53d0039/2147483647/strip/true/crop/2958x1664+0+154/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0a%2F07%2Fa482baa4f832c6b4dd50c899dc67%2F0af64809080c451daf546871e8ca45de",
-        "publishedAt": "2025-11-14T23:31:00Z",
-        "content": "NEW YORK (AP) A Washington state resident has bird flu, and its a different type than what was seen in previous infections, state health officials said Friday.\r\nIt is the nations first human case of \u2026 [+2137 chars]"
     },
     {
         "source": {
@@ -232,18 +232,5 @@
         "urlToImage": "https://dims.apnews.com/dims4/default/f78e6b5/2147483647/strip/true/crop/6142x3455+0+320/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F15%2Ff0%2Fe38c129e9a4fc2eb32fb7ac872a8%2F875a98a77e0a446d9b4be9dd4ac61270",
         "publishedAt": "2025-11-14T22:44:00Z",
         "content": "NEW YORK (AP) Walmart CEO Doug McMillon, who turned Americas largest retailer into a tech-powered giant and spearheaded a period of robust sales growth since becoming chief executive in 2014, plans t\u2026 [+6240 chars]"
-    },
-    {
-        "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "abcnews.go.com",
-        "title": "Millions under flood watches, evacuation orders in place as Southern California burn scar areas brace for storm - abcnews.go.com",
-        "description": null,
-        "url": "https://abcnews.go.com/US/millions-flood-watches-evacuation-orders-place-southern-california/story?id\\\\u003d127523533",
-        "urlToImage": null,
-        "publishedAt": "2025-11-14T22:30:00Z",
-        "content": null
     }
 ]
