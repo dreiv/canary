@@ -1,29 +1,68 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
         "author": null,
-        "title": "UFC 322 results: Islam Makhachev easily dominates Jack Della Maddalena to win second UFC title - Yahoo Sports",
-        "description": null,
-        "url": "https://sports.yahoo.com/mma/breaking-news/live/ufc-322-live-results-jack-della-maddalena-vs-islam-makhachev-updates-and-round-by-round-analysis-070023724.html",
-        "urlToImage": null,
-        "publishedAt": "2025-11-16T06:02:44Z",
-        "content": null
+        "title": "Chinese Ships Enter Disputed Japanese Waters Amid Strained Ties - Bloomberg.com",
+        "description": "China warned students planning to study in Japan of heightened risks for Chinese citizens in the country as a diplomatic spat sparked by Japanese Prime Minister Sanae Takaichi\u2019s comments on Taiwan shows no sign of easing.",
+        "url": "https://www.bloomberg.com/news/articles/2025-11-16/chinese-ships-enter-disputed-japanese-waters-amid-strained-ties",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwVcM8Zg41rU/v1/1200x800.jpg",
+        "publishedAt": "2025-11-16T07:31:00Z",
+        "content": "China warned students planning to study in Japan of heightened risks for Chinese citizens in the country as a diplomatic spat sparked by Japanese Prime Minister Sanae Takaichis comments on Taiwan sho\u2026 [+509 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Daily Beast"
+        },
+        "author": "Catherine Bouris",
+        "title": "\u2018SNL\u2019 Humiliates Karoline Leavitt With Savage New Impression - The Daily Beast",
+        "description": "Ashley Padilla transformed into the White House press secretary on Saturday night\u2019s show.",
+        "url": "https://www.thedailybeast.com/snl-humiliates-karoline-leavitt-with-savage-new-impression/",
+        "urlToImage": "https://www.thedailybeast.com/resizer/v2/VM7QQFLH75F5DELZPALT56CVGE.png?smart=true&auth=8a3fbc7d08dd883d3fd9e860fbcc30e1e6f2fcbc16dacc83062ae1a3dbf07259&width=1200&height=630",
+        "publishedAt": "2025-11-16T05:44:00Z",
+        "content": "Karoline Leavitt finally received the Saturday Night Live treatment this weekend, with Ashley Padilla debuting her new impression of Trumps press secretary in the cold open.\r\nThe episode opened with \u2026 [+3203 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CBS Sports"
         },
-        "author": "David Cobb",
-        "title": "Georgia dominates Texas: Bulldogs run away from Longhorns in complete performance - CBS Sports",
-        "description": "Georgia controlled all three phases of the game -- including a surprise onside kick that helped break the game open -- in a complete win over the Longhorns",
-        "url": "https://www.cbssports.com/college-football/news/georgia-texas-live-updates-score-results-analysis/live/",
-        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/11/16/6514e37c-6592-470d-a144-bb128de022f5/thumbnail/1200x675/1cc34809fc5c7ad35df74ec499661699/uga-texas-win-1.jpg",
-        "publishedAt": "2025-11-16T04:28:25Z",
-        "content": "Georgia continued its recent bullying of Texas in emphatic fashion Saturday night, as the No. 5 Bulldogs crushed the No. 10 Longhorns 35-10 to improve to 3-0 in the series since the programs became S\u2026 [+1328 chars]"
+        "author": "Brian Campbell",
+        "title": "UFC 322 results: Islam Makhachev earns second division title in dominant showing - CBS Sports",
+        "description": "Makhachev has now earned titles at lightweight and welterweight after his win in New York on Saturday",
+        "url": "https://www.cbssports.com/ufc/news/ufc-322-live-updates-results-jack-della-maddalena-islam-makhachev-scorecard-analysis-highlights/live/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/11/16/cac6dc26-f416-4149-b053-2718c0d0a506/thumbnail/1200x675/2df6419320597ec8d61c603c865c5f98/islam-makhachev-two-belts-322.jpg",
+        "publishedAt": "2025-11-16T05:26:58Z",
+        "content": "NEW YORK Islam Makhachev's path to MMA immortality ran through Madison Square Garden on Saturday, which turned out to be exactly what he did to welterweight champion Jack Della Maddalena.\r\nMakhachev \u2026 [+3514 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Variety"
+        },
+        "author": "Joe Otterson",
+        "title": "Glen Powell Brings His UPS Driver to Crash \u2018SNL\u2019 Monologue: \u2018He Thought It Was a Scam, But He Still Came\u2019 - Variety",
+        "description": "Glen Powell brought his UPS driver to \"Saturday Night Live.\"",
+        "url": "https://variety.com/2025/tv/news/glen-powell-ups-driver-snl-monologue-1236582943/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2025/11/Glen-Powell-SNL.png?w=1000&h=563&crop=1",
+        "publishedAt": "2025-11-16T05:00:00Z",
+        "content": "Glen Powell had a special guest in the audience when he hosted \u201cSaturday Night Live.\u201d \r\nDuring his opening monologue, \u201cThe Running Man\u201d star revealed that he was originally supposed to host \u201cSNL\u201d fou\u2026 [+1560 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CBS Sports"
+        },
+        "author": null,
+        "title": "Texas Longhorns vs. Georgia Bulldogs Live Score and Stats - November 15, 2025 Gametracker - CBS Sports",
+        "description": "Live COLLEGEFOOTBALL scores at CBSSports.com. Check out the COLLEGEFOOTBALL scoreboard, box scores, expert picks and game recaps.",
+        "url": "https://www.cbssports.com/college-football/gametracker/recap/NCAAF_20251115_TEXAS@UGA/",
+        "urlToImage": "https://sportsfly.cbsistatic.com/fly-335/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
+        "publishedAt": "2025-11-16T04:22:55Z",
+        "content": "ATHENS, Ga. (AP) Georgia Bulldogs owned the fourth quarter and beat Texas Longhorns - again.\r\nGunner Stockton threw four touchdown passes - two to Noah Thomas - and ran for a score to outplay Arch Ma\u2026 [+5254 chars]"
     },
     {
         "source": {
@@ -37,19 +76,6 @@
         "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/11/16/40fe73ac-20cb-4fae-99db-b3a29e245986/thumbnail/1200x630/1d7500c0f7bd024cf6a0af872d7536e4/gettyimages-2232923947.jpg",
         "publishedAt": "2025-11-16T03:28:27Z",
         "content": "Republican Rep. Marjorie Taylor Greene of Georgia on Saturday said she is receiving threats, one day after President Trump announced he is ending his support for his former longtime ally. \r\nGreene ha\u2026 [+4037 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Angie Orellana Hernandez, Erica Werner",
-        "title": "Alice Wong, disability rights advocate and wordsmith, dies at 51 - The Washington Post",
-        "description": "Alice Wong, a transformational leader for disability rights and justice, who founded the Disability Visibility project to magnify disabled culture, died Nov. 14.",
-        "url": "https://www.washingtonpost.com/obituaries/2025/11/15/disability-activist-alice-wong/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ENK7HEXWQZRMP6SBYXA6Q63QD4.jpg&w=1440",
-        "publishedAt": "2025-11-16T03:06:00Z",
-        "content": "Alice Wong, a transformational leader for disability rights and justice, who founded the Disability Visibility project to magnify disabled culture, died Nov. 14 at a San Francisco hospital. She was 5\u2026 [+1 chars]"
     },
     {
         "source": {
@@ -80,15 +106,15 @@
     {
         "source": {
             "id": null,
-            "name": "Dhs.gov"
+            "name": "UPI.com"
         },
-        "author": null,
-        "title": "DHS Launches Operation Charlotte\u2019s Web to Target Criminal Illegal Aliens Terrorizing Americans in Charlotte, North Carolina - Homeland Security (.gov)",
-        "description": "The Department of Homeland Security (DHS) announced DHS law enforcement is surging resources for Operation Charlotte\u2019s Web in North Carolina.",
-        "url": "https://www.dhs.gov/news/2025/11/15/dhs-launches-operation-charlottes-web-target-criminal-illegal-aliens-terrorizing",
-        "urlToImage": "https://www.dhs.gov/sites/default/files/2024-02/24_0206_opa_og-image-dhs.jpg",
-        "publishedAt": "2025-11-16T01:10:16Z",
-        "content": "Sanctuary policies prevented nearly 1,400 detainers from being honored, putting criminal illegal aliens back on Charlottes streets\u00a0\r\nWASHINGTON Today, the Department of Homeland Security (DHS) announ\u2026 [+2949 chars]"
+        "author": "Mike Heuer",
+        "title": "Scientists extract viable RNA from woolly mammoth remains - Yahoo News Canada",
+        "description": "The well-preserved remains of a woolly mammoth found in Siberia enabled scientists to extract RNA for the first time and learn more about the animal.",
+        "url": "https://www.upi.com",
+        "urlToImage": "https://cdnph.upi.com/sv/ph/og/i/6641763255038/2025/1/17632556193653/v1.5/Scientists-extract-viable-RNA-from-woolly-mammoth-remains.jpg",
+        "publishedAt": "2025-11-16T01:19:00Z",
+        "content": "Nov. 15 (UPI) -- The well-preserved remains of a woolly mammoth found in Siberia enabled scientists to extract RNA for the first time and learn more about the animal.\r\nThe woolly mammoth died about 4\u2026 [+1993 chars]"
     },
     {
         "source": {
@@ -102,32 +128,6 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2241012669.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2025-11-16T01:00:00Z",
         "content": "Sen. John Fetterman is back home from the hospital, the Pennsylvania Democrat announced on social media Saturday, after receiving care at a Pittsburgh hospital for a fall he suffered this week.\r\n20 s\u2026 [+2305 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": "Jonty Colman",
-        "title": "'Call it a day' - Frampton & Bellew react to Eubank's loss - BBC",
-        "description": "Former boxer Carl Frampton calls for Chris Eubank Jr to retire while Tony Bellew heaps praise on Conor Benn.",
-        "url": "https://www.bbc.com/sport/boxing/articles/c20pv0zr2kro",
-        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b484/live/5a7b5010-c292-11f0-8456-eff94716b162.jpg",
-        "publishedAt": "2025-11-16T00:47:28Z",
-        "content": "Chris Eubank Jr's rematch defeat to Conor Benn may be the time to retire, according to former boxers Carl Frampton and Barry Jones.\r\nEubank, 36, was beaten unanimously by Benn at Tottenham Hotspur St\u2026 [+1660 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "TMZ"
-        },
-        "author": "TMZ Staff",
-        "title": "Joshua Allen's Girlfriend Shares Her Side of Viral Funeral Fight - TMZ",
-        "description": "\"So You Think You Can Dance\" star Joshua Allen's girlfriend is speaking out after she was involved in a physical altercation at his funeral.",
-        "url": "https://www.tmz.com/2025/11/15/joshua-allen-girlfriend-clears-up-funeral-fight/",
-        "urlToImage": "https://imagez.tmz.com/image/df/16by9/2025/11/15/dffdf1ceaac64b45b00c443c6468d1c0_xl.jpg",
-        "publishedAt": "2025-11-16T00:29:18Z",
-        "content": "\"So You Think You Can Dance\" star Joshua Allen's girlfriend is sharing her side of the fight that broke out at his funeral last weekend ... telling TMZ she was invited by family before his aunt alleg\u2026 [+3131 chars]"
     },
     {
         "source": {
@@ -154,6 +154,32 @@
         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9953/live/b71a51d0-c26b-11f0-8669-5560f5c90fbe.jpg",
         "publishedAt": "2025-11-15T23:56:10Z",
         "content": "People granted asylum in the UK will have to wait 20 years before they can apply to settle permanently, under plans due to be announced by Home Secretary Shabana Mahmood on Monday.\r\nThe major shake-u\u2026 [+2073 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "Jonty Colman",
+        "title": "Eubank vs Benn 2: What next for Chris Eubank Jr and Conor Benn & will there be trilogy fight? - BBC",
+        "description": "BBC Sport looks at what the future holds for Chris Eubank Jr and Conor Benn following their rematch at Tottenham Hotspur Stadium.",
+        "url": "https://www.bbc.com/sport/boxing/articles/c5ylenzwx9eo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/df52/live/6ddef6a0-c27b-11f0-8c0a-9f34d394360c.jpg",
+        "publishedAt": "2025-11-15T23:54:05Z",
+        "content": "Following his victory, Benn reiterated his intention to drop down to welterweight and take on the division's world champions.\r\nBefore the rematch he called out Rolando Romero, Mario Barrios and Brian\u2026 [+524 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Reuters",
+        "title": "Trump buys at least $82 million in bonds since late August, financial disclosures show - CNBC",
+        "description": "Trump bought at least $82 million in corporate and municipal bonds from late August to early October, financial disclosures made public on Saturday showed.",
+        "url": "https://www.cnbc.com/2025/11/15/trump-buys-82-million-in-bonds-since-late-august.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223895-17628084902025-11-10t205657z_338028802_rc2wthazruuw_rtrmadp_0_usa-trump.jpeg?v=1762808524&w=1920&h=1080",
+        "publishedAt": "2025-11-15T22:31:06Z",
+        "content": "U.S. President Donald Trump bought at least $82 million in corporate and municipal bonds from late August to early October including new investments in sectors benefiting from his policies, financial\u2026 [+2778 chars]"
     },
     {
         "source": {
@@ -206,19 +232,6 @@
         "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ff2%2F0b%2F40429a0c4962b5bc92b091f94ca1%2Fgovernment-shutdown-57043.jpg",
         "publishedAt": "2025-11-15T21:00:00Z",
         "content": "The Supplemental Nutrition Assistance Program provides an average of $6 per day for nearly 42 million people, roughly 40 percent of whom are children. Under the new law, parents and older Americans w\u2026 [+5147 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Jason Ma",
-        "title": "Tariffs lower inflation by slamming employment and economic activity, Fed researchers say - Fortune",
-        "description": "\"Instead, tariff shocks appear to act as aggregate demand shocks\u2014moving inflation and unemployment in the same directions.\"",
-        "url": "https://fortune.com/2025/11/15/tariffs-inflation-demand-shock-unemployment-economic-activity/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2207646165-e1763232608501.jpg?resize=1200,600",
-        "publishedAt": "2025-11-15T20:54:00Z",
-        "content": "A new study that examined 150 years of tariffs in the U.S. and abroad found they disrupt the economy and financial markets so much that the result is lower inflation.The conclusion goes against the c\u2026 [+3521 chars]"
     },
     {
         "source": {
