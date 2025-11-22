@@ -1,16 +1,42 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Investor's Business Daily"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": null,
-        "title": "Market Reverses At Critical Levels; What To Do Now - Investor's Business Daily",
-        "description": "Nvidia once again popped on earnings and then fell back.",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ugly-market-reversal-nvidia-fizzles-bitcoin-dives/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2022/01/Stock-beardestroying-01-adobe.jpg",
-        "publishedAt": "2025-11-21T04:03:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+        "author": "Paul Schwartzman, Joe Heim, Dana Munro",
+        "title": "Cheney\u2019s funeral draws Bush, mix of Democrats and Republicans. Not Trump. - The Washington Post",
+        "description": "The former vice president, who served in the George W. Bush administration, was honored Thursday at Washington National Cathedral.",
+        "url": "https://www.washingtonpost.com/dc-md-va/2025/11/20/dick-cheney-funeral/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XU6AQPLUGVTQMTS7FQWNTHIHVI_size-normalized.jpg&w=1440",
+        "publishedAt": "2025-11-21T05:45:35Z",
+        "content": "Dick Cheney, the former vice president and a consummate Washington insider across four decades, was remembered at his funeral Thursday as a shrewd and steady tactician whom three Republican president\u2026 [+143 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "Trump administration's 28-point Ukraine-Russia peace plan presented to Zelenskyy - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/International/trump-administrations-28-point-ukraine-russia-peace-plan/story?id\\\\u003d127735249",
+        "urlToImage": null,
+        "publishedAt": "2025-11-21T04:07:30Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Kelsey Vlamis",
+        "title": "Gap CEO says its viral denim campaign wasn't just a hit online \u2014 it drove double-digit growth in sales, fueled by Gen Z - Business Insider",
+        "description": "Gap CEO Richard Dickson said its viral campaign during the summer's denim ad wars drove double-digit growth in sales, fueled by Gen Z.",
+        "url": "https://www.businessinsider.com/gap-ceo-viral-denim-campaign-sales-growth-gen-z-2025-11",
+        "urlToImage": "https://i.insider.com/691fd2dce1a9cbb014deae81?width=1091&format=jpeg",
+        "publishedAt": "2025-11-21T03:04:00Z",
+        "content": "Gap is taking a victory lap after the success of its viral denim ad campaign over the summer.\r\nRichard Dickson, CEO of Gap Inc., said the brand's \"Better in Denim\" ad campaign, in addition to being a\u2026 [+2100 chars]"
     },
     {
         "source": {
@@ -40,42 +66,42 @@
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": "cnn",
+            "name": "CNN"
         },
-        "author": "Barak Ravid",
-        "title": "Scoop: Trump peace plan for Ukraine includes NATO-style security guarantee - Axios",
-        "description": "Trump would be committing the U.S. to defend Ukraine if Russia attacks again.",
-        "url": "https://www.axios.com/2025/11/21/ukraine-security-guarantee-nato-article-5-trump",
-        "urlToImage": "https://images.axios.com/ByT6NzJD_5g6B89-gVVpQdCEoyM=/1366x768/smart/2025/05/21/165830-1747846710066.jpg",
-        "publishedAt": "2025-11-21T02:12:53Z",
-        "content": "President Trump's peace plan for Ukraine includes a security guarantee modeled on NATO's Article 5, which would commit the U.S. and European allies to treat an attack on Ukraine as an attack on the e\u2026 [+5074 chars]"
+        "author": "Kaanita Iyer",
+        "title": "Bipartisan push to reform censure process emerges in Congress after flurry of complaints brought against lawmakers - CNN",
+        "description": "Lawmakers on both sides of the aisle are now calling to make the censure process more difficult after the House weighed in on three separate complaints against sitting members this week.",
+        "url": "https://www.cnn.com/2025/11/20/politics/censure-process-congress-bipartisan-reform",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20251120-johnson-jeffries.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-11-21T02:04:00Z",
+        "content": "Lawmakers on both sides of the aisle are now pushing to make the censure process more difficult after the House weighed three separate complaints against sitting members this week.\r\nHouse Speaker Mik\u2026 [+2842 chars]"
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": null,
+            "name": "BBC News"
         },
-        "author": "Maegan Vazquez, Dan Lamothe, Jeremy Roebuck",
-        "title": "Trump: Democrats \u2018traitors\u2019 for telling military not to follow unlawful orders - The Washington Post",
-        "description": "The president said lawmakers who appeared in a video committed \u201cseditious behavior\u201d and should be arrested and put on trial for treason.",
-        "url": "https://www.washingtonpost.com/politics/2025/11/20/trump-democrats-seditious-behavior/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VQD3MAWGSRCEILT7WDVOUOOAXA.jpg&w=1440",
-        "publishedAt": "2025-11-21T02:11:16Z",
-        "content": "President Donald Trump on Thursday called for the arrest of Democratic lawmakers who publicly exhorted members of the U.S. military and intelligence communities to disobey any orders they perceive to\u2026 [+94 chars]"
+        "author": null,
+        "title": "Trump: Democrats' message to troops seditious behavior, punishable by death - BBC",
+        "description": "Trump's comments came after a group of Democrats urged US service members to refuse unlawful commands.",
+        "url": "https://www.bbc.com/news/articles/cx2p2dz9zk2o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e730/live/5e8af550-c64a-11f0-af50-5d6972195d70.jpg",
+        "publishedAt": "2025-11-21T01:19:09Z",
+        "content": "President Donald Trump accused six Democratic lawmakers of \"seditious behaviour, punishable by death\", after they released a video urging US service members to refuse unlawful commands.\r\n\"This is rea\u2026 [+5020 chars]"
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
-        "author": "Tara Copp, Michelle Boorstein",
-        "title": "U.S. Coast Guard will no longer classify swastikas, nooses as hate symbols - The Washington Post",
-        "description": "The military service, which falls under the Department of Homeland Security, has drafted a new policy that classifies such items \u201cpotentially divisive.\u201d",
-        "url": "https://www.washingtonpost.com/national-security/2025/11/20/coast-guard-swastika-noose/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/76WJJGSLRZTRKTEBL75ZNILTXY_size-normalized.jpg&w=1440",
-        "publishedAt": "2025-11-21T01:41:43Z",
-        "content": "The U.S. Coast Guard will no longer classify the swastika an emblem of fascism and white supremacy inextricably linked to the murder of millions of Jews and the deaths of more than 400,000 U.S. troop\u2026 [+108 chars]"
+        "author": "Debby Wu, Seth Fiegerman",
+        "title": "OpenAI Teams With Foxconn to Design AI Data Center Hardware - Bloomberg.com",
+        "description": "OpenAI is partnering with Hon Hai Precision Industry Co. to design and manufacture hardware for data centers, the latest move by the ChatGPT-maker to meet its surging need for infrastructure to support artificial intelligence systems.",
+        "url": "https://www.bloomberg.com/news/articles/2025-11-20/openai-partners-with-foxconn-to-design-hardware-for-data-centers",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQOcwPkaIi1A/v1/1200x800.jpg",
+        "publishedAt": "2025-11-21T01:12:00Z",
+        "content": "OpenAI is partnering with Hon Hai Precision Industry Co. to design and manufacture hardware for data centers, the latest move by the ChatGPT-maker to meet its surging need for infrastructure to suppo\u2026 [+412 chars]"
     },
     {
         "source": {
@@ -105,29 +131,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "wired",
+            "name": "Wired"
         },
-        "author": "Lim Hui Jie",
-        "title": "Japan October exports massively beat estimates on robust growth in shipments to Asia and Europe - CNBC",
-        "description": "Exports grew 3.6% year on year compared with expectations of a 1.1% growth by economists polled by Reuters.",
-        "url": "https://www.cnbc.com/2025/11/21/japan-october-exports-massively-beat-estimates-on-robust-growth-in-shipments-to-asia-and-europe-.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108160754-1750204881326-gettyimages-2214757832-SK_14052025_IMG_1012.jpeg?v=1763685392&w=1920&h=1080",
-        "publishedAt": "2025-11-21T00:05:00Z",
-        "content": "Japan's exports in October massively beat expectations, government data on Friday showed, as shipments to Europe and Asia saw robust growth. \r\nExports rose 3.6% year on year compared with Reuters-pol\u2026 [+2050 chars]"
-    },
-    {
-        "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "ABC News",
-        "title": "Judge dismisses charges against 2 people accused of ramming vehicle of federal agents conducting Chicago immigration sweeps - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/US/doj-drops-charges-2-people-accused-ramming-vehicles/story?id\\\\u003d127714651",
-        "urlToImage": null,
-        "publishedAt": "2025-11-20T23:03:45Z",
-        "content": null
+        "author": "Reece Rogers",
+        "title": "Hands On With Google's Nano Banana Pro Image Generator - wired.com",
+        "description": "Google\u2019s latest AI image model is vastly better than the previous release at generating text in images. You can expect companies to go buck wild with this update.",
+        "url": "https://www.wired.com/story/google-nano-banana-pro-hands-on/",
+        "urlToImage": "https://media.wired.com/photos/691f6ea63bb1803753c1bf2e/191:100/w_1280,c_limit/GEMINI%20-%20Fun%20creatures%20-%20TA.jpg",
+        "publishedAt": "2025-11-21T00:21:00Z",
+        "content": "Corporate AI slop feels inescapable in 2025. From website banner ads to outdoor billboards, images generated by businesses using AI tools surround me. Hell, even the bar down the street posts happy h\u2026 [+1701 chars]"
     },
     {
         "source": {
@@ -157,19 +170,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Spaceflight Now"
-        },
-        "author": null,
-        "title": "Live coverage: Falcon 9 Starlink mission marks 100th launch of the year from Florida\u2019s Space Coast - Spaceflight Now",
-        "description": null,
-        "url": "https://spaceflightnow.com/2025/11/20/live-coverage-falcon-9-starlink-mission-marks-100th-launch-of-the-year-from-floridas-space-coast/",
-        "urlToImage": null,
-        "publishedAt": "2025-11-20T22:43:30Z",
-        "content": "A Falcon 9 rocket rises from a fog bank on Nov.20, 2025, making the 100th launch of the year from Florida\u2019s Space Coast. Image: John Pisani/Spaceflight Now.\r\nA Falcon 9 rocket lifted off from the Ken\u2026 [+2046 chars]"
-    },
-    {
-        "source": {
             "id": "bloomberg",
             "name": "Bloomberg"
         },
@@ -180,19 +180,6 @@
         "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ix9iH8m_72Rg/v0/1200x800.jpg",
         "publishedAt": "2025-11-20T22:43:10Z",
         "content": "Alphabet Inc.s Google said it has developed a way for its latest Pixel smartphones to exchange images and other files with iPhones using Apple Inc.s AirDrop protocol, a bold attempt to undermine the \u2026 [+281 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "David Bauder",
-        "title": "Trump steps up attacks on ABC and Jimmy Kimmel, says network should 'get the bum off the air' - AP News",
-        "description": "ABC is in President Donald Trump's crosshairs this week. He attacked the network's late-night host Jimmy Kimmel in a post-midnight social media post, saying ABC should \u201cget the bum off the air.\u201d It came about an hour after a blistering monologue on Kimmel's s\u2026",
-        "url": "https://apnews.com/article/trump-abc-jimmy-kimmel-mary-bruce-fa73b610c66dec5b1b947164d59bf2c6",
-        "urlToImage": "https://dims.apnews.com/dims4/default/22920aa/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F17%2F56%2F5d9d388e01786fc5a53bee91f650%2F863a0040e4bb42b2bb94ac3a1e3b10c4",
-        "publishedAt": "2025-11-20T22:32:00Z",
-        "content": "NEW YORK (AP) President Donald Trump stepped up his attacks against ABC and late-night host Jimmy Kimmel on Thursday, urging the network to get the bum off the air in a social media post sent shortly\u2026 [+3177 chars]"
     },
     {
         "source": {
@@ -209,28 +196,15 @@
     },
     {
         "source": {
-            "id": "fox-news",
-            "name": "Fox News"
+            "id": null,
+            "name": "NPR"
         },
-        "author": null,
-        "title": "Doctors reveal troubling signs in early flu trends, warn of \u2018unusually bad\u2019 season - AOL.com",
-        "description": "Health experts warn this flu season could be unusually severe, with early spread and concerning H3N2 strain activity across the U.S. following Australia's worst flu season.",
-        "url": "https://www.foxnews.com/health/doctors-reveal-troubling-signs-early-flu-trends-warn-unusually-bad-season",
-        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/man-throat-exam.jpg",
-        "publishedAt": "2025-11-20T22:03:07Z",
-        "content": "This years flu season is already raising alarms among public health officials and infectious disease experts.\r\nAccording to the BBC, the U.K.s National Health Service (NHS) has issued an \"SOS\" warnin\u2026 [+3916 chars]"
-    },
-    {
-        "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Samuel Benson",
-        "title": "Decades after their feud, Cornel West sees poetic justice for Larry Summers - Politico",
-        "description": "After his public feud with the former Harvard president, West sees irony in Summers\u2019 downfall.",
-        "url": "https://www.politico.com/news/2025/11/20/larry-summers-cornel-west-harvard-scandal-00663517",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F41%2F77%2F7c0e6306422495d6ba1fc7a70d27%2Fcornel-west-20212.jpg",
-        "publishedAt": "2025-11-20T21:59:50Z",
-        "content": "Two decades ago, Summers chastised West for engaging in behavior that could be deemed embarrassing to the university or could interfere with his teaching, such as engaging in politics and recording a\u2026 [+4123 chars]"
+        "author": "",
+        "title": "Judge orders an end to Trump's troop deployment in D.C., calling it 'unlawful' - NPR",
+        "description": "U.S. District Judge Jia Cobb put a pause on her order until Dec. 11 to allow the Trump administration time to appeal.",
+        "url": "https://www.npr.org/2025/11/20/nx-s1-5615399/dc-troops-deployment-blocked-trump",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5063x2848+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa6%2F3b%2F72c948d044c0ae4bb6d8324c44e5%2Fgettyimages-2246012131.jpg",
+        "publishedAt": "2025-11-20T22:12:46Z",
+        "content": "A federal judge on Thursday ordered an end to the monthslong National Guard deployment in Washington, D.C. to tackle crime, declaring that the use of troops was \"unlawful.\"\r\nIt's the latest legal res\u2026 [+2056 chars]"
     }
 ]
