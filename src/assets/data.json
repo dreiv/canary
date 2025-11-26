@@ -1,16 +1,16 @@
 [
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
-        "author": "Alec Dent",
-        "title": "Trump designates chapters of Muslim Brotherhood \u2018foreign terrorist organizations\u2019 - The Washington Post",
-        "description": "The White House said the designation will help combat the group\u2019s transnational network, which it said fuels terrorism and destabilization campaigns against U.S. interests and allies in the Middle East.",
-        "url": "https://www.washingtonpost.com/politics/2025/11/24/muslim-brotherhood-trump-foreign-terrorist/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QPZZOBYJ4OOP7TOKMJWJ2U2A3I_size-normalized.JPG&w=1440",
-        "publishedAt": "2025-11-25T04:30:28Z",
-        "content": "The White House said the designation will help combat the groups transnational network, which it said fuels terrorism and destabilization campaigns against U.S. interests and allies in the Middle Eas\u2026 [+51 chars]"
+        "author": "Cindy Wang, Yian Lee",
+        "title": "Taiwan Pleased Trump Didn\u2019t Mention Island in Readout of Xi Call - Bloomberg.com",
+        "description": "Taiwan welcomed President Donald Trump\u2019s decision not to publicly reference the island after his call with Chinese leader Xi Jinping, describing it as the \u201cbest result\u201d for Taipei.",
+        "url": "https://www.bloomberg.com/news/articles/2025-11-25/taiwan-pleased-trump-didn-t-mention-island-in-readout-of-xi-call",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iogx4sj07Fs4/v0/1200x800.jpg",
+        "publishedAt": "2025-11-25T04:36:00Z",
+        "content": "Taiwan welcomed President Donald Trumps decision not to publicly reference the island after his call with Chinese leader Xi Jinping, describing it as the best result for Taipei.\r\nDeputy Foreign Minis\u2026 [+235 chars]"
     },
     {
         "source": {
@@ -27,29 +27,68 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Sports Illustrated"
+            "id": "the-times-of-india",
+            "name": "The Times of India"
         },
-        "author": null,
-        "title": "It\u2019s Time for the Panthers to Move on From Bryce Young - Sports Illustrated",
-        "description": null,
-        "url": "https://www.si.com/nfl/time-for-panthers-to-move-on-from-bryce-young",
-        "urlToImage": null,
-        "publishedAt": "2025-11-25T04:12:38Z",
+        "author": "TOI World Desk",
+        "title": "Lindsey Halligan disqualified: Why federal judge threw out former Miss Colorado finalist's attempt to pro - Times of India",
+        "description": "US News: Federal law is clear: the attorney general may appoint only one interim US attorney before the role must be filled through Senate confirmation. The ad",
+        "url": "https://timesofindia.indiatimes.com/world/us/lindsey-halligan-disqualified-why-federal-judge-threw-out-former-miss-colorado-finalists-attempt-to-prosecute-former-fbi-chief-james-comey/articleshow/125555229.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-125555281,width-1070,height-580,imgsize-38342,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+        "publishedAt": "2025-11-25T04:23:00Z",
         "content": null
     },
     {
         "source": {
             "id": null,
-            "name": "Investor's Business Daily"
+            "name": "Sports Illustrated"
         },
-        "author": null,
-        "title": "Dow Jones Futures: What To Do As Stock Market Roars To Key Level; Tesla, Palantir, Broadcom Jump - Investor's Business Daily",
-        "description": "Tesla, Palantir and Broadcom jumped Monday, but only one is a buy. Alibaba looms.",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-key-level-tesla-palantir-broadcom-alibaba/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2017/10/stock-climbingHill-03-adobe.jpg",
-        "publishedAt": "2025-11-25T04:02:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+        "author": "Matt Verderame",
+        "title": "It\u2019s Time for the Panthers to Move on From Bryce Young - Sports Illustrated",
+        "description": "Carolina has clearly improved, sitting at .500 after Week 12. But the third-year quarterback is holding this team back.",
+        "url": "https://www.si.com/nfl/time-for-panthers-to-move-on-from-bryce-young",
+        "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2676,h_1505,x_2,y_67/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01kawk4dm4gk554df3h5.jpg",
+        "publishedAt": "2025-11-25T04:12:38Z",
+        "content": "The Panthers are vastly improved. Bryce Young, despite his one-off performance in Week 11, is decidedly not.\u00a0\r\nWith a decision on Youngs fifth-year option coming after this season, Carolina has to ma\u2026 [+3653 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Rolling Stone"
+        },
+        "author": "Nancy Dillon",
+        "title": "LAPD Says Dead Teen Found in D4vd\u2019s Tesla an \u2018Investigation Into Murder\u2019: Report - Rolling Stone",
+        "description": "Police classified Celeste Rivas's death as a murder probe as they sought a court order halting the release of her autopsy, the LA Times reported.",
+        "url": "http://www.rollingstone.com/music/music-news/celeste-rivas-hernandez-d4vd-tesla-murder-investigation-1235472356/",
+        "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/11/Celeste-Rivas-Hernandez-tesla.jpg?w=1600&h=900&crop=1",
+        "publishedAt": "2025-11-25T03:54:56Z",
+        "content": "A Los Angeles homicide detective reportedly revealed in a new court filing that the investigation into how 14-year-old Celeste Rivas Hernandez ended up dead in the trunk of singer D4vd\u2019s Tesla is a f\u2026 [+5163 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ABC10.com KXTV"
+        },
+        "author": "Megan Divers",
+        "title": "Rising Latin musician killed in California ambush shooting: Reports - ABC10",
+        "description": "The up-and-coming artist, who performed under the stage name DELAROSA, had released her first song in August, \"No Me Llames.\"",
+        "url": "https://www.abc10.com/article/news/nation-world/delarosa-rising-latin-musician-killed-in-california-ambush-shooting/507-c727c3c9-ff60-4262-98b5-3249e1545cca",
+        "urlToImage": "https://media.abc10.com/assets/CCT/images/c5890d1f-3afd-4129-93c3-8771cbc5d0bc/c5890d1f-3afd-4129-93c3-8771cbc5d0bc_1140x641.jpg",
+        "publishedAt": "2025-11-25T03:30:00Z",
+        "content": "LOS ANGELES A 22-year-old Latin musician was fatally shot in what authorities described as an ambush-style attack early Saturday morning in the San Fernando Valley, leaving two others critically woun\u2026 [+1360 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MarketWatch"
+        },
+        "author": "Emily Bary",
+        "title": "Alphabet\u2019s stock rises as possible Meta chip deal highlights new twist in the AI trade - MarketWatch",
+        "description": "Meta reportedly is considering using Alphabet\u2019s custom chips for its data centers. Nvidia and AMD shares fall on the prospect of more formidable semiconductor competition.",
+        "url": "https://www.marketwatch.com/story/alphabets-stock-rises-as-possible-meta-chip-deal-highlights-new-twist-in-the-ai-trade-e697d12f",
+        "urlToImage": "https://images.mktw.net/im-46290178/social",
+        "publishedAt": "2025-11-25T03:23:00Z",
+        "content": "Meta Platforms investors may not know how to feel about the Facebook parent companys stepped-up artificial-intelligence investments lately, but Alphabet investors seem to be liking the sound of them.\u2026 [+251 chars]"
     },
     {
         "source": {
@@ -66,16 +105,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
+            "id": "axios",
+            "name": "Axios"
         },
-        "author": "Nick Turner",
-        "title": "Nvidia Shares Drop on Report of Google Challenge in AI Chips - Yahoo Finance",
-        "description": "Meta is in discussions to use the Google chips \u2014 known as tensor processing units, or TPUs \u2014 in data centers in 2027, The Information reported, citing an...",
-        "url": "https://finance.yahoo.com/news/nvidia-shares-dip-google-appears-014603931.html",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8h6yF5EElDlcmTt1_OlHXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/36dae82fb94fa44063186c1c8747020e",
-        "publishedAt": "2025-11-25T01:46:00Z",
-        "content": "(Bloomberg) -- Nvidia Corp. shares fell on a report that Meta Platforms Inc. is in talks to spend billions on Googles AI chips, suggesting the internet search leader is making headway in efforts to r\u2026 [+3849 chars]"
+        "author": "Maria Curi, Ben Geman",
+        "title": "Trump unveils new AI 'Genesis Mission.' Here's what to know - Axios",
+        "description": "It seeks to encourage government data sharing with industry, academia and other scientific institutions.",
+        "url": "https://www.axios.com/2025/11/24/trump-ai-genesis-mission-doe-chris-wright",
+        "urlToImage": "https://images.axios.com/tDjrfepAhHfwpxiKF2mhbIfzcSQ=/0x0:1920x1080/1366x768/2025/11/24/1764010714472.jpg",
+        "publishedAt": "2025-11-25T02:25:09Z",
+        "content": "<ul><li>At the same time, administration officials are eager to address consumer complaints that are mounting over energy bills, job displacement and other economic worries.</li></ul>Driving the news\u2026 [+2359 chars]"
     },
     {
         "source": {
@@ -157,19 +196,6 @@
     },
     {
         "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Felicia Schwartz",
-        "title": "Rubio changes the tack of Trump\u2019s Ukraine negotiations after week of chaos - Politico",
-        "description": "The administration\u2019s shifting messaging on Ukraine underscores Trump\u2019s preference for non-traditional policy coordination",
-        "url": "https://www.politico.com/news/2025/11/24/rubio-trump-ukraine-negotiations-00667882",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F66%2Fd6%2Ff15f23344595af8d7e00da25d3e5%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2247568885",
-        "publishedAt": "2025-11-24T23:59:37Z",
-        "content": "We believe that Marco Rubios engagement in the continuation of talks is important, according to a fifth person, an official from a NATO country. The person said Monday that Rubios impact is seen in t\u2026 [+5960 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "The Dallas Morning News"
         },
@@ -180,31 +206,5 @@
         "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/WMIAGVPQOBBHFM7PMXLVSPQXRY.jpg?auth=47cdde2264899cde4fbcd91813f76549f60c13943e69bb86cc4672c8a8252d0e&quality=80&width=1200&height=630&focal=3722,789",
         "publishedAt": "2025-11-24T23:58:45Z",
         "content": "Brandon Nimmo figured his number might find its way into the Citi Field rafters if he stuck with the New York Mets long enough.\r\nHed at least have a shot to pass legendary third baseman David Wright \u2026 [+7695 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Deadline"
-        },
-        "author": "Anthony D'Alessandro",
-        "title": "\u2018Wicked: For Good\u2019 $330M Promo Push 2nd Highest For Hollywood Tentpole; Sequel Eyes Best Non-Holiday Monday B.O. YTD With $14M+ - Deadline",
-        "description": "'Wicked: For Good' Promotional Partners stand at $330M in media value, second best for any studio movie behind 'Wicked's $350M. Monday box office is best non-holiday for 2025 at $14M+.",
-        "url": "http://deadline.com/2025/11/wicked-for-good-merchandise-1236627543/",
-        "urlToImage": "https://deadline.com/wp-content/uploads/2025/11/use-this-one-e1764024438548.jpg?w=1024",
-        "publishedAt": "2025-11-24T23:28:00Z",
-        "content": "When it comes to the magic of propelling Wicked: For Goodto the second highest opening domestically YTD ($147M) and fourth highest global Hollywood debut of 2025 ($223M), Universal did so with the he\u2026 [+7052 chars]"
-    },
-    {
-        "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "ABC News",
-        "title": "Ozone hole ranked as 5th smallest in more than 30 years, according to new research - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/US/ozone-hole-ranked-5th-smallest-30-years-new/story?id\\\\u003d127840875",
-        "urlToImage": null,
-        "publishedAt": "2025-11-24T22:51:22Z",
-        "content": null
     }
 ]
