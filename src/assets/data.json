@@ -15,6 +15,32 @@
     {
         "source": {
             "id": null,
+            "name": "NBCSports.com"
+        },
+        "author": "Mike Florio",
+        "title": "Jauan Jennings, Tre\u2019Von Moehrig face discipline for late-game scuffle - NBC Sports",
+        "description": "Things got a little spicy and the end of a largely blah game, and it raises the prospect of discipline for those involved.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jauan-jennings-trevon-moehrig-face-discipline-for-late-game-scuffle",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/19f69e4/2147483647/strip/true/crop/5763x3242+0+300/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1f%2F0f%2Fe56a61ce40d69cad348c998cf6cc%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2248303854",
+        "publishedAt": "2025-11-25T04:27:20Z",
+        "content": "Things got a little spicy and the end of a largely blah game, and it raises the prospect of discipline for those involved.\r\nAfter the clock ran out on the 49ers 20-9 win over the Panthers, San Franci\u2026 [+745 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Sports Illustrated"
+        },
+        "author": null,
+        "title": "It\u2019s Time for the Panthers to Move on From Bryce Young - Sports Illustrated",
+        "description": null,
+        "url": "https://www.si.com/nfl/time-for-panthers-to-move-on-from-bryce-young",
+        "urlToImage": null,
+        "publishedAt": "2025-11-25T04:12:38Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Investor's Business Daily"
         },
         "author": null,
@@ -41,28 +67,28 @@
     {
         "source": {
             "id": null,
-            "name": "CBS Sports"
+            "name": "Yahoo Entertainment"
         },
-        "author": "Tyler Sullivan",
-        "title": "49ers vs. Panthers live updates: Latest score, highlights & reaction on MNF - CBS Sports",
-        "description": "San Francisco and Carolina look to remain in the hunt for an NFC playoff spot",
-        "url": "https://www.cbssports.com/nfl/news/49ers-vs-panthers-live-updates-score-highlights-mnf/live/",
-        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/11/25/d8e5eb89-9427-41a6-ae2c-d76c7edefed3/thumbnail/1200x675/358e05655d511d468a1099d8f4b3038f/brock-purdty.jpg",
-        "publishedAt": "2025-11-25T02:26:15Z",
-        "content": "You like turnovers? Well, we've got the game for you! The first half of this \"Monday Night Football\" matchup between the Carolina Panthers and San Francisco 49ers was headlined by both defenses being\u2026 [+1508 chars]"
+        "author": "Nick Turner",
+        "title": "Nvidia Shares Drop on Report of Google Challenge in AI Chips - Yahoo Finance",
+        "description": "Meta is in discussions to use the Google chips \u2014 known as tensor processing units, or TPUs \u2014 in data centers in 2027, The Information reported, citing an...",
+        "url": "https://finance.yahoo.com/news/nvidia-shares-dip-google-appears-014603931.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8h6yF5EElDlcmTt1_OlHXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/36dae82fb94fa44063186c1c8747020e",
+        "publishedAt": "2025-11-25T01:46:00Z",
+        "content": "(Bloomberg) -- Nvidia Corp. shares fell on a report that Meta Platforms Inc. is in talks to spend billions on Googles AI chips, suggesting the internet search leader is making headway in efforts to r\u2026 [+3849 chars]"
     },
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
+            "id": null,
+            "name": "BBC News"
         },
-        "author": "Nick Turner",
-        "title": "Alphabet Gains on Report Meta to Use Its AI Chips; Nvidia Falls - Bloomberg.com",
-        "description": "Nvidia Corp.\u2019s stock slid after the Information reported that Meta Platforms Inc. was in talks to spend billions on Google\u2019s AI chips, suggesting the internet search leader is making headway in efforts to create a rival to the industry\u2019s bestselling AI accele\u2026",
-        "url": "https://www.bloomberg.com/news/articles/2025-11-25/alphabet-gains-on-report-that-meta-will-use-its-ai-chips",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOgY4eoKHYkM/v0/1200x800.jpg",
-        "publishedAt": "2025-11-25T01:46:00Z",
-        "content": "Nvidia Corp.s stock slid after the Information reported that Meta Platforms Inc. was in talks to spend billions on Googles AI chips, suggesting the internet search leader is making headway in efforts\u2026 [+366 chars]"
+        "author": null,
+        "title": "What happens next for Marjorie Taylor Greene after exit from Congress? - BBC",
+        "description": "The former Trump ally has decided to end her time in Congress early after a public fallout with the president.",
+        "url": "https://www.bbc.com/news/articles/cj4qvx08450o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a83d/live/1fa66260-c9ca-11f0-8c1f-e1fe6e7ce046.jpg",
+        "publishedAt": "2025-11-25T01:38:33Z",
+        "content": "Marjorie Taylor Greene's five years in Congress will come to an early end on 5 January after she unexpectedly announced her resignation following a bitter rift with President Donald Trump.\r\nThe surpr\u2026 [+5615 chars]"
     },
     {
         "source": {
@@ -134,13 +160,26 @@
             "id": "politico",
             "name": "Politico"
         },
-        "author": "Aaron Pellish",
-        "title": "Marjorie Taylor Greene is staying out of the election to replace her - Politico",
-        "description": "The Georgia Republican said she won\u2019t endorse in next year\u2019s special election, avoiding a proxy war with Trump.",
-        "url": "https://www.politico.com/news/2025/11/24/marjorie-taylor-greene-election-replacement-00667787",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F43%2F7c%2Fbdf82ab248118cdcbe355509ef36%2Fcongress-epstein-88278.jpg",
-        "publishedAt": "2025-11-24T23:44:36Z",
-        "content": "Her neutrality paves the way for Trumps allies to elevate a candidate of their choosing in a heavily-Republican district that Greene won in 2024 by 28 points.\r\nIn announcing her sudden decision to le\u2026 [+576 chars]"
+        "author": "Felicia Schwartz",
+        "title": "Rubio changes the tack of Trump\u2019s Ukraine negotiations after week of chaos - Politico",
+        "description": "The administration\u2019s shifting messaging on Ukraine underscores Trump\u2019s preference for non-traditional policy coordination",
+        "url": "https://www.politico.com/news/2025/11/24/rubio-trump-ukraine-negotiations-00667882",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F66%2Fd6%2Ff15f23344595af8d7e00da25d3e5%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2247568885",
+        "publishedAt": "2025-11-24T23:59:37Z",
+        "content": "We believe that Marco Rubios engagement in the continuation of talks is important, according to a fifth person, an official from a NATO country. The person said Monday that Rubios impact is seen in t\u2026 [+5960 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Dallas Morning News"
+        },
+        "author": "Shawn McFarland",
+        "title": "Brandon Nimmo waived no-trade clause to allow deal to Rangers. Here\u2019s what won him over - Dallas News",
+        "description": "Nimmo, a lifelong Met, was traded to Texas for Marcus Semien on Sunday.",
+        "url": "https://www.dallasnews.com/sports/rangers/2025/11/24/texas-rangers-brandon-nimmo-marcus-semien-trade-outfield/",
+        "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/WMIAGVPQOBBHFM7PMXLVSPQXRY.jpg?auth=47cdde2264899cde4fbcd91813f76549f60c13943e69bb86cc4672c8a8252d0e&quality=80&width=1200&height=630&focal=3722,789",
+        "publishedAt": "2025-11-24T23:58:45Z",
+        "content": "Brandon Nimmo figured his number might find its way into the Citi Field rafters if he stuck with the New York Mets long enough.\r\nHed at least have a shot to pass legendary third baseman David Wright \u2026 [+7695 chars]"
     },
     {
         "source": {
@@ -157,45 +196,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Billboard"
-        },
-        "author": "Hannah Dailey",
-        "title": "Jason Kelce Says This Is the \u2018Coolest\u2019 Thing About His Brother Being in a Relationship With Taylor Swift - Yahoo",
-        "description": "Podcast guests Erin Andrews and Charissa Thompson also raved about the pop star's impact on the NFL.",
-        "url": "https://www.billboard.com/music/music-news/jason-kelce-coolest-thing-taylor-swift-travis-kelce-1236121908/",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/HkRJ3fxlp_Ku9yV76wZzXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/billboard_547/a7ec7e3af548936ce0b7b502d9707021",
-        "publishedAt": "2025-11-24T23:10:11Z",
-        "content": "Jason Kelce has had a front-row seat to brother Travis Kelces love story with Taylor Swift, and in his opinion, one of the coolest facets of their romance has been how its impacted families all over \u2026 [+1793 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Prideofdetroit.com"
-        },
-        "author": "Max Gerber",
-        "title": "2 Lions game balls vs. Giants: Big players clutch up at critical moments - Pride Of Detroit",
-        "description": "Handing out two game balls for Detroit\u2019s Week 12 win over the Giants.",
-        "url": "https://www.prideofdetroit.com/detroit-lions-analysis/150308/2-detroit-lions-game-balls-vs-giants-big-players-clutch-up-at-critical-moments",
-        "urlToImage": "https://platform.prideofdetroit.com/wp-content/uploads/sites/127/2025/11/gettyimages-2248117780.jpg?quality=90&strip=all&crop=0%2C10.72954434438%2C100%2C78.54091131124&w=1200",
-        "publishedAt": "2025-11-24T23:00:00Z",
-        "content": "The Detroit Lions came out with a win in a close overtime matchup against the New York Giants. The Giants, who have an interim head coach and a backup quarterback, put up much more of a fight than mo\u2026 [+3156 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Sports Illustrated"
-        },
-        "author": "James Parks",
-        "title": "Lane Kiffin makes final decision on finishing the season at Ole Miss - Sports Illustrated",
-        "description": "Lane Kiffin makes final decision on finishing the season at Ole Miss",
-        "url": "https://www.si.com/fannation/college/cfb-hq/news/lane-kiffin-ole-miss-final-decision-2025-season",
-        "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3415,h_1920,x_900,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/college_football_hq/01kaw0rpy8wmec405nzx.jpg",
-        "publishedAt": "2025-11-24T22:53:53Z",
-        "content": "Ole Miss is effectively one game away from clinching its first appearance in the College Football Playoff, but instead of focusing solely on that historic achievement, the talk around the school inst\u2026 [+2420 chars]"
-    },
-    {
-        "source": {
             "id": "abc-news",
             "name": "ABC News"
         },
@@ -206,31 +206,5 @@
         "urlToImage": null,
         "publishedAt": "2025-11-24T22:51:22Z",
         "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Deadline"
-        },
-        "author": "The Deadline Team",
-        "title": "Black Friday Streaming Deals Offered By Hulu, Disney+, HBO Max, Peacock & More - Deadline",
-        "description": "With streaming starting to heat up during the holiday season, several major providers are rolling out Black Friday deals in an effort to entice subscribers.",
-        "url": "http://deadline.com/2025/11/black-friday-streaming-service-deals-1236627347/",
-        "urlToImage": "https://deadline.com/wp-content/uploads/2021/03/Vizio-living-room.jpg?w=1024",
-        "publishedAt": "2025-11-24T22:33:00Z",
-        "content": "With streaming starting its annual holiday season warm-up, several major providers are rolling out Black Friday deals in an effort to entice subscribers.\r\nDisney is offering a bundle of Disney+ and H\u2026 [+1503 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Todd Richmond, Kathy Mccormack",
-        "title": "Wisconsin woman in 2014 Slender Man stabbing is found a day after walking away from group home - AP News",
-        "description": "Authorities say a Wisconsin woman who admitted to nearly stabbing a classmate to death in 2014 to please the horror character Slender Man has been found in Illinois after she cut off an electronic monitoring device and left a group home. Madison police issued\u2026",
-        "url": "https://apnews.com/article/slender-man-stabbing-missing-woman-found-193ba2ceb6ef77a17b3d499e54e095ff",
-        "urlToImage": "https://dims.apnews.com/dims4/default/fa637bb/2147483647/strip/true/crop/7798x4386+0+406/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F28%2Fe4%2F103d15da71a11bf911a1215c89a7%2F27e185d5fe8c48b9bd8add2a658536b2",
-        "publishedAt": "2025-11-24T21:49:00Z",
-        "content": "MADISON, Wis. (AP) The search for a missing Wisconsin woman who almost killed her sixth-grade classmate more than a decade ago to please horror character Slender Man ended Sunday night when police di\u2026 [+6167 chars]"
     }
 ]
