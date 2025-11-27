@@ -1,6 +1,19 @@
 [
     {
         "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Julianna Bragg",
+        "title": "Brazil's Bolsonaro ordered to serve 27-year prison sentence over coup plot - Axios",
+        "description": "Supreme Court Justice Alexandre de Moraes requested the order to be finalized, preventing Bolsonaro from filing any further appeals.",
+        "url": "https://www.axios.com/2025/11/26/jail-brazil-president-prison-bolsanaro-coup",
+        "urlToImage": "https://images.axios.com/XLvcJ-pDyy7nIZP8_Oe463wlhLw=/0x0:7692x4327/1366x768/2025/11/26/1764120248002.jpeg",
+        "publishedAt": "2025-11-26T02:30:06Z",
+        "content": "Yes, but: Bolsonaro's attorney, Paulo Cunha Bueno said on X that Bolsonaro will still plan to file an appeal, arguing that the court's own rules allow for a final challenge because the Supreme Court \u2026 [+787 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Collegefootballplayoff.com"
         },
@@ -11,6 +24,19 @@
         "urlToImage": "https://images.sidearmdev.com/fit?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2fcollegefootballplayoff.sidearmsports.com%2fimages%2f2025%2f11%2f25%2f16x9.png&height=450&width=800&type=jpeg",
         "publishedAt": "2025-11-26T01:01:44Z",
         "content": "Thanks for visiting !\r\nThe use of software that blocks ads hinders our ability to serve you the content you came here to enjoy.\r\nWe ask that you consider turning off your ad blocker so we can deliver\u2026 [+81 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hollywood Reporter"
+        },
+        "author": "McKinley Franklin",
+        "title": "\u2018Dancing With the Stars\u2019 Ends Season 34 With Star-Studded Finale as a New Winner Is Crowned: See the Scores, Who Won (Updating Live) - The Hollywood Reporter",
+        "description": "The Hollywood Reporter is inside the ballroom for finale night, where couples performed three new numbers, including their coveted freestyle routines.",
+        "url": "http://www.hollywoodreporter.com/tv/tv-news/dwts-finale-season-34-episode-11-winner-scores-freestyle-1236435551/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/11/DWTS-Finalists.jpg?w=1296&h=730&crop=1",
+        "publishedAt": "2025-11-26T00:59:34Z",
+        "content": "[This story contains major spoilers from episode 11 of Dancing With the Stars season 34.]\r\nDancing With the Stars is gearing up to crown a new winner. But first, it\u2019s time to celebrate the massive su\u2026 [+3459 chars]"
     },
     {
         "source": {
@@ -40,19 +66,6 @@
     },
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": null,
-        "title": "Xi Puts Biggest US-China Flashpoint Back on Agenda in Trump Call - Bloomberg.com",
-        "description": "When Xi Jinping and Donald Trump sat down in South Korea last month to discuss a pause in their trade war, Taiwan surprisingly didn\u2019t come up. Now the biggest flashpoint between the US and China is firmly back on the agenda.",
-        "url": "https://www.bloomberg.com/news/articles/2025-11-25/xi-puts-biggest-us-china-flashpoint-back-on-agenda-in-trump-call",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igzzuNkBswjI/v0/1200x801.jpg",
-        "publishedAt": "2025-11-25T23:40:08Z",
-        "content": "When Xi Jinping and Donald Trump sat down in South Korea last month to discuss a pause in their trade war, Taiwan surprisingly didnt come up. Now the biggest flashpoint between the US and China is fi\u2026 [+444 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "WAMU 88.5"
         },
@@ -63,6 +76,19 @@
         "urlToImage": "https://wamu.org/wp-content/uploads/2025/11/230731_Storm_Damage_Bowser_08.jpg",
         "publishedAt": "2025-11-25T23:38:34Z",
         "content": "Privacy OverviewThis website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising yo\u2026 [+134 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Berkeley Lovelace Jr.",
+        "title": "Medicare announces price cuts for 15 prescription drugs, including Ozempic - NBC News",
+        "description": "The Centers for Medicare and Medicaid Services on Tuesday announced lower prices on 15 costly prescription drugs under Medicare, including Ozempic and Wegovy.",
+        "url": "https://www.nbcnews.com/health/health-news/medicare-announces-price-cuts-15-prescription-drugs-ozempic-rcna240466",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241023-ozempic-vl-1233p-6ebfba.jpg",
+        "publishedAt": "2025-11-25T23:33:55Z",
+        "content": "The Centers for Medicare and Medicaid Services on Tuesday announced lower prices on 15 costly prescription drugs under Medicare, including Ozempic and Wegovy. \r\nThe price cuts come through the Medica\u2026 [+4281 chars]"
     },
     {
         "source": {
@@ -79,6 +105,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Arrowhead Pride"
+        },
+        "author": "Caleb James",
+        "title": "Chiefs-Cowboys: 5 things to watch on Thanksgiving Day - Arrowhead Pride",
+        "description": "Here are five things to watch for the Kansas City Chiefs against the Dallas Cowboys on Thanksgiving Day.",
+        "url": "https://www.arrowheadpride.com/kansas-city-chiefs-analysis/187678/chiefs-cowboys-5-things-to-watch-week-13",
+        "urlToImage": "https://platform.arrowheadpride.com/wp-content/uploads/sites/12/2025/11/gettyimages-1236720326.jpg?quality=90&strip=all&crop=0%2C5.1219591209254%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-11-25T23:15:31Z",
+        "content": "The (6-5) Kansas City Chiefs will take on the (5-5-1) Dallas Cowboys on Thanksgiving Day for the 11th time the franchise has played on Turkey Day. The game will kick off at 3:30 p.m. Arrowhead time f\u2026 [+4623 chars]"
+    },
+    {
+        "source": {
             "id": "nbc-news",
             "name": "NBC News"
         },
@@ -89,6 +128,32 @@
         "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251124-nasa-milky-way-ew-215p-26da79.jpg",
         "publishedAt": "2025-11-25T23:00:42Z",
         "content": "Few things in the universe are as perplexing as dark matter the invisible and exotic stuff that is thought to make up most of the matter in galaxies. \r\nThe theory goes like this: To reconcile our cur\u2026 [+6118 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Lauren Forristal",
+        "title": "YouTube is working on a feature that will fix the messy home feed - TechCrunch",
+        "description": "YouTube is experimenting with a new feature that allows users to customize their home feed.",
+        "url": "https://techcrunch.com/2025/11/25/youtube-is-working-on-a-feature-that-will-fix-the-messy-home-feed/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/youtube-ios-app.webp?w=1024",
+        "publishedAt": "2025-11-25T22:31:48Z",
+        "content": "Finding a YouTube video that truly matches our interests can sometimes be a challenge. The video-sharing platform appears to have recognized this issue and is taking steps to address it with its new \u2026 [+1505 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Mark Bergen, Newley Purnell, Bloomberg",
+        "title": "Google, the sleeping giant in global AI race, now \u2018fully awake\u2019 - Fortune",
+        "description": "\u201cGoogle has arguably always been the dark horse\u00a0in this AI race,\u201d said Neil Shah, analyst and cofounder at Counterpoint Research.",
+        "url": "https://fortune.com/2025/11/25/google-sleeping-giant-dark-horse-ai-race-gemini/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2233040179-e1764108637569.jpg?resize=1200,600",
+        "publishedAt": "2025-11-25T22:11:00Z",
+        "content": "Since the launch of ChatGPT three years ago, analysts and technologists \u00a0even\u00a0a Google engineer\u00a0and the companys\u00a0former chief executive\u00a0\u00a0have declared Google behind in the high-stakes race to develop\u2026 [+8238 chars]"
     },
     {
         "source": {
@@ -118,19 +183,6 @@
     },
     {
         "source": {
-            "id": "espn",
-            "name": "ESPN"
-        },
-        "author": null,
-        "title": "Missing HS coach wanted on criminal charges - ESPN",
-        "description": "Travis L. Turner, who disappeared days before his undefeated team's playoff game, faces charges of possessing child sexual abuse material and using a computer to solicit a minor, Virginia State Police said.",
-        "url": "https://www.espn.com/espn/story/_/id/47099778/missing-high-school-football-coach-wanted-criminal-charges",
-        "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F0917%2Fr126977_1296x729_16%2D9.jpg",
-        "publishedAt": "2025-11-25T21:37:00Z",
-        "content": "Nov 25, 2025, 04:37 PM ET\r\nBIG STONE GAP, Va. -- A Virginia high school football coach who disappeared days before his undefeated team's playoff game is being sought on charges of possessing child se\u2026 [+2653 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "CNBC"
         },
@@ -144,6 +196,32 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "",
+        "title": "Sen. Mark Kelly: Trump and Hegseth don't 'understand the Constitution' - NPR",
+        "description": "Sen. Mark Kelly, D-Ariz., and other congressional Democrats released a video last week letting service members know they can refuse illegal orders. Kelly is now being investigated for misconduct.",
+        "url": "https://www.npr.org/2025/11/25/nx-s1-5620772/sen-mark-kelly-responds-to-pentagon-investigation",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7747x4356+0+107/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2c%2F21%2F5976ab8749ffa62aa361a583ddf0%2F111825-mark-kellyand-john-curtis-30.jpg",
+        "publishedAt": "2025-11-25T21:10:08Z",
+        "content": "Sen. Mark Kelly, D-Ariz., told NPR \"it just doesn't make any sense\" for him to face a military court-martial after he and other Democratic lawmakers released a video reminding active-duty troops that\u2026 [+685 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Deadline"
+        },
+        "author": "Dominic Patten",
+        "title": "CAA Slams Range\u2019s \u201cLast Ditch Effort\u201d Countersuit In Poaching War; Parallel Arbitration Ruling Expected Next Year - Deadline",
+        "description": "CAA didn't quite call Range Media Partners' poaching battle countersuit BS today, but they got pretty close",
+        "url": "http://deadline.com/2025/11/caa-range-poaching-countersuit-reaction-1236628692/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2025/11/Hollywood-Sign.jpg?w=1024",
+        "publishedAt": "2025-11-25T20:53:00Z",
+        "content": "CAA hasn\u2019t quite come out and called BS on Range Media Partners\u2018 noncompete-focused counter-complaint in the companies\u2019 yearlong poaching legal battle, but they got pretty close.\r\n\u201cThe facts are clea\u2026 [+3195 chars]"
+    },
+    {
+        "source": {
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
@@ -154,70 +232,5 @@
         "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KBWVNTCDJKF74KXYBBQZJCRDBY_size-normalized.jpg&w=1440",
         "publishedAt": "2025-11-25T20:43:26Z",
         "content": "Paris prosecutors on Tuesday detained four more people as part of their sprawling investigation into last months jewelry heist at the Louvre Museum, as the fate of the stolen treasures remains a myst\u2026 [+59 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Scarlet and Game"
-        },
-        "author": "Andrew Hughes",
-        "title": "CBS Sports sends ominous weather message for Ohio State in The Game against Michigan - Scarlet and Game",
-        "description": "The Ohio State Buckeyes may suffer from the snow against the Michigan Wolverines on Saturday at \"The Big House.\"",
-        "url": "https://scarletandgame.com/cbs-sports-sends-ominous-message-on-the-snow-for-ohio-state-in-the-game-against-michigan",
-        "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_211,w_2500,h_1406/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/151/01kawby4ncq84c3fvrc6.jpg",
-        "publishedAt": "2025-11-25T20:20:54Z",
-        "content": "The Ohio State Buckeyes traverse 200 miles north to Ann Arbor this Saturday for \"The Game\" against TTUN. This year, there could be a massive twist in college football's flagship rivalry in the north \u2026 [+2385 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Dan Driscoll: Who is Trump's 'drone guy' taking central role in Ukraine peace talks? - BBC",
-        "description": "The youngest-ever US army secretary has been thrust into the spotlight as the face of renewed efforts to end the years-long war.",
-        "url": "https://www.bbc.com/news/articles/c17x0x2qrejo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/181d/live/154bdb00-ca07-11f0-9fb5-5f3a3703a365.jpg",
-        "publishedAt": "2025-11-25T20:11:12Z",
-        "content": "Ukrainian President Volodymyr Zelensky shakes hands with Dan Driscoll in Kyiv\r\nWhen talks to end the Russia-Ukraine war took an unexpected turn last week, with the leak of a peace plan said to come f\u2026 [+5512 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Sarah Perez",
-        "title": "ChatGPT\u2019s voice mode is no longer a separate interface - TechCrunch",
-        "description": "ChatGPT now lets you use voice and text in the same screen, making conversations feel more natural as responses and visuals appear in real time.",
-        "url": "https://techcrunch.com/2025/11/25/chatgpts-voice-mode-is-no-longer-a-separate-interface/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-        "publishedAt": "2025-11-25T20:04:52Z",
-        "content": "ChatGPT\u2019s voice mode is getting more usable. OpenAI announced on Tuesday it is updating the user interface to its popular AI chatbot so users can access ChatGPT Voice right inside their chat, instead\u2026 [+1808 chars]"
-    },
-    {
-        "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Marcia Brown",
-        "title": "Trump touts drop in turkey prices as he pardons Gobble, Waddle - Politico",
-        "description": "Although retail turkey prices are down, the cost of food remains elevated \u2014 and a major voter concern.",
-        "url": "https://www.politico.com/news/2025/11/25/trump-turkey-pardon-food-prices-affordability-00668393",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F87%2Fd6%2Fee843bb3423b95372cc33d744713%2Ftrump-turkey-pardon-15201.jpg",
-        "publishedAt": "2025-11-25T18:54:29Z",
-        "content": "Trumps comments on affordability come as his party struggles to win over voters amid rising costs of living a mirror image of the dilemma former President Joe Biden faced in 2024. Key voters who swun\u2026 [+2614 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Duarte  Dias",
-        "title": "Australian Senator Pauline Hanson banned from parliament for 7 days for wearing burqa to demand they be banned - CBS News",
-        "description": "Senator Pauline Hanson banned from parliament for 7 days for wearing burqa in the chamber to demand they be banned nationally.",
-        "url": "https://www.cbsnews.com/news/australia-senator-pauline-hanson-banned-from-parliament-burqa-protest/",
-        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/24/0f31baf9-7381-477b-920b-9dff643f76e7/thumbnail/1200x630g2/b9e89efa43054f89e52857377e732dcb/pauline-hanson-australia-burqa.jpg",
-        "publishedAt": "2025-11-25T17:12:00Z",
-        "content": "An Australian senator who has long campaigned for the Islamic women's garment known as the burqa to be banned in the country has been suspended from parliament for a week for her protest on Monday in\u2026 [+2013 chars]"
     }
 ]
