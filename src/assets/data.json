@@ -1,29 +1,81 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Sports Illustrated"
-        },
-        "author": "Will Ragatz",
-        "title": "Kevin O'Connell on J.J. McCarthy, benching Thielen, 4th and 1 call, more - Sports Illustrated",
-        "description": "KOC had some updates in his press conference after the Vikings' shutout loss to the Seahawks.",
-        "url": "https://www.si.com/nfl/vikings/onsi/news/kevin-oconnell-on-jj-mccarthy-benching-thielen-4th-and-1-call-more",
-        "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_159,w_6000,h_3375/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/inside_the_vikings/01kbbtw0pkhmh7mhdmcm.jpg",
-        "publishedAt": "2025-12-01T03:07:40Z",
-        "content": "Vikings head coach Kevin O'Connell did not have a lot of positive things to discuss in his postgame press conference after his team's 26-0 loss to the Seahawks on Sunday. In the last six quarters of \u2026 [+4582 chars]"
-    },
-    {
-        "source": {
             "id": "espn",
             "name": "ESPN"
         },
-        "author": "Doug Greenberg, David Purdum",
-        "title": "Lane Kiffin, Thanksgiving and CFB conference champs: A busy weekend at the sportsbooks - ESPN",
-        "description": "How sportsbooks are evaluating Ole Miss and the College Football Playoff race, and more on NFL underdogs winning big on Thanksgiving.",
-        "url": "https://www.espn.com/espn/betting/story/_/id/47157648/nfl-betting-week-13-super-bowl-favorites-odds-lane-kiffin-cfb",
-        "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1201%2Fr1583107_1296x729_16%2D9.jpg",
-        "publishedAt": "2025-12-01T03:04:00Z",
-        "content": "Nov 30, 2025, 10:04 PM ET\r\nLane Kiffin's exit from Ole Miss on Sunday triggered a guessing game at sportsbooks, with oddsmakers trying to figure out how much to downgrade the Rebels without the mercu\u2026 [+5964 chars]"
+        "author": "ESPN",
+        "title": "Broncos 27-26 Commanders (Nov 30, 2025) Game Recap - ESPN",
+        "description": null,
+        "url": "https://www.espn.com/nfl/recap?gameId\\\\u003d401772931",
+        "urlToImage": null,
+        "publishedAt": "2025-12-01T06:22:30Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Barak Ravid",
+        "title": "Post-war borders dominated \"intense\" U.S.-Ukraine talks - Axios",
+        "description": "Next up, Witkoff meets Putin on Tuesday.",
+        "url": "https://www.axios.com/2025/12/01/ukraine-us-meeting-russia-border-peace-deal",
+        "urlToImage": "https://images.axios.com/ZoTjMuPH0wu2ns74ozHQomeWzj8=/0x562:8081x5107/1366x768/2025/12/01/1764560168860.jpeg",
+        "publishedAt": "2025-12-01T03:59:18Z",
+        "content": "Behind the scenes: The U.S. side arrived at Sunday's meeting at U.S. envoy Steve Witkoff's exclusive Shell Bay golf club near Miami hoping to make progress on the territory issue, which Witkoff could\u2026 [+2393 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "US lawmakers demand answers over Hegseth Venezuela boat strike reports - BBC",
+        "description": "Concern over media reports that the US military carried out a second strike killing survivors on a suspected drug boat prompts a bipartisan inquiry.",
+        "url": "https://www.bbc.com/news/articles/cp8zyp988zvo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1a58/live/a6d2b9f0-ce57-11f0-9949-ed0c445d6e3e.jpg",
+        "publishedAt": "2025-12-01T03:08:46Z",
+        "content": "Brajesh UpadhyayWashington\r\nUS lawmakers are pressing the Trump administration for answers about military strikes on suspected Venezuelan drug boats, following reports that a follow-up strike was ord\u2026 [+4373 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "San Francisco Chronicle"
+        },
+        "author": "Zara Irshad",
+        "title": "NFL announces historic first for Bad Bunny\u2019s Super Bowl Halftime Show - San Francisco Chronicle",
+        "description": "Charlie Puth, Brandi Carlile and Coco Jones are among the Super Bowl LX pregame performers that are set to hit the Levi\u2019s Stadium field on Feb. 8.",
+        "url": "https://www.sfchronicle.com/entertainment/article/super-bowl-lx-pregame-charlie-puth-brandi-carlile-21215240.php",
+        "urlToImage": "https://s.hdnux.com/photos/01/55/31/67/28679625/3/rawImage.jpg",
+        "publishedAt": "2025-12-01T03:04:59Z",
+        "content": "Charlie Puth is schedled to perform the National Anthem at Super Bowl LX next year.\u00a0\r\nTHIAGO GOMES/AFP via Getty Images\r\nThe NFL is leveling up its Super Bowl LX entertainment with a stacked cast of \u2026 [+2752 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "The Wall Street Journal",
+        "title": "How Venezuelan Gangs and African Jihadists Are Flooding Europe With Cocaine - The Wall Street Journal",
+        "description": null,
+        "url": "https://www.wsj.com/world/americas/how-venezuelan-gangs-and-african-jihadists-are-flooding-europe-with-cocaine-656f023f",
+        "urlToImage": null,
+        "publishedAt": "2025-12-01T03:00:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Madeleine  May, Kiki  Intarasuwan",
+        "title": "D.C. National Guard shooting suspect spent \"weeks on end\" in isolation, struggled with mental health, 2024 emails say - CBS News",
+        "description": "According to 2024 emails obtained by CBS News, Rahmanullah Lakanwal had been struggling to hold a job and had not been doing well mentally for more than a year.",
+        "url": "https://www.cbsnews.com/news/rahmanullah-lakanwal-mental-health-case-worker-emails/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/11/28/95c1d415-2ec9-4ec9-879c-0682ecdf8f85/thumbnail/1200x630/b3f669fa8db04fc9a8835b8dc162a499/gettyimages-2248184785.jpg",
+        "publishedAt": "2025-12-01T02:59:00Z",
+        "content": "The suspect accused of shooting two West Virginia National Guard members in Washington, D.C., had been struggling with his mental health \u2014 often isolating himself in a dark room \u2014 in the years after \u2026 [+4353 chars]"
     },
     {
         "source": {
@@ -37,45 +89,6 @@
         "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/DSC06844.jpg?quality=90&strip=all&crop=0%2C10.806933475316%2C100%2C78.386133049368&w=1200",
         "publishedAt": "2025-12-01T02:53:00Z",
         "content": "<ul><li></li><li></li><li></li></ul>\r\nFrom Apple TV to AirPods, there are steep discounts available across almost all of Apples products and services.\r\nFrom Apple TV to AirPods, there are steep disco\u2026 [+9755 chars]"
-    },
-    {
-        "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "The Associated Press",
-        "title": "Trump says he'll release MRI results and that he doesn't know what part of his body was scanned - NBC News",
-        "description": "President Donald Trump said Sunday that he would release the results of his MRI test that he received in October.",
-        "url": "https://www.nbcnews.com/politics/donald-trump/trump-says-release-mri-results-doesnt-know-part-body-was-scanned-rcna246694",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251130-donald-trump-rc-939p-2a483f.jpg",
-        "publishedAt": "2025-12-01T02:45:00Z",
-        "content": "WASHINGTON President Donald Trump said Sunday that he would release the results of his MRI test that he received in October.\r\n\"If you want to have it released, I'll release it,\" the president said du\u2026 [+728 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Mohamad El Chamaa, Suzan Haidamous, Anthony Faiola",
-        "title": "As Pope Leo visits Lebanon, Christians are fleeing the Middle East - The Washington Post",
-        "description": "Christians are still the largest religious minority in the Middle East, the region where Jesus was born, lived and died, but the community is shrinking.",
-        "url": "https://www.washingtonpost.com/world/2025/11/30/pope-leo-lebanon-christians-middle-east/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5GZLJFJHNR2Z3EM74ZWZ6SZ27Y_size-normalized.jpg&w=1440",
-        "publishedAt": "2025-12-01T02:38:22Z",
-        "content": "BEIRUT The Rev. Issam Ibrahim remembers when citrus orchards surrounded the Mar Youssef Maronite church in the southern suburbs of this city, where generations of Catholic families celebrated baptism\u2026 [+49 chars]"
-    },
-    {
-        "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Associated Press",
-        "title": "Vote count under way in Honduras to elect new president in a close race after Trump\u2019s intervention - Politico",
-        "description": "Voters were also casting ballots for a new Congress and hundreds of local positions.",
-        "url": "https://www.politico.com/news/2025/11/30/honduras-election-vote-count-trump-00671201",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F7e%2Fb0%2Fe786975946e5b8c725816af8a3bb%2Fhonduras-election-01617.jpg",
-        "publishedAt": "2025-12-01T02:18:37Z",
-        "content": "Three main candidates are in a close race\r\nAmong the five presidential candidates on the ballot, polls indicated three had a chance to win and were finishing in close competition. They are:\r\n1. Rixi \u2026 [+4184 chars]"
     },
     {
         "source": {
@@ -118,29 +131,29 @@
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": null,
+            "name": "syracuse.com"
         },
-        "author": "Barak Ravid",
-        "title": "U.S. and Ukraine \"made additional progress\" on Trump's peace plan, Rubio says - Axios",
-        "description": "Witkoff and Kushner want an agreement they can present to Putin.",
-        "url": "https://www.axios.com/2025/11/30/ukraine-us-talks-miami-witkoff-kushner-plan",
-        "urlToImage": "https://images.axios.com/KkkQHju-SXJvZ1_u6UDDelrieds=/0x49:5317x3040/1366x768/2025/11/30/1764506113678.jpeg",
-        "publishedAt": "2025-12-01T00:44:19Z",
-        "content": "The latest: After five hours of talks Rubio and Umerov gave a short statement to the press without taking questions. \r\n<ul><li>\"We had a very productive session. We don't want to only end the war but\u2026 [+2991 chars]"
+        "author": "Ryan Talbot | rtalbot@nyup.com",
+        "title": "How two backup tackles helped Buffalo Bills achieve something no team has ever done in Pittsburgh - Syracuse.com",
+        "description": "Buffalo's 249 rushing yards led by James Cook's 140+ yard performance helped overcome a first-half deficit as the defense held Pittsburgh to just 166 total yards.",
+        "url": "https://www.syracuse.com/buffalo-bills/2025/12/how-two-backup-tackles-helped-buffalo-bills-achieve-something-no-team-has-ever-done-in-pittsburgh.html",
+        "urlToImage": "https://www.syracuse.com/resizer/v2/Q2I6QD3CK5DVNKQ2MDUES6L64Q.jpg?auth=cfe5794f5e82ac006dd0b49e307c3966c93464f6ecca5290f8f898ebc512ae9f&width=1280&smart=true&quality=90",
+        "publishedAt": "2025-12-01T00:40:00Z",
+        "content": "Joey Bosa, Christian Benford and the rest of the defense saved the Buffalo Bills season at Acrisure Stadium.\r\nThe Bills found themselves trailing 7-3 at halftime. Buffalos offense was able to move th\u2026 [+4039 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "Nur Hikmah Md Ali",
-        "title": "Asia markets open December on the back foot as China factory activity weakens unexpectedly - CNBC",
-        "description": "Traders are increasingly expecting a rate cut in the upcoming U.S. Fed meeting on Dec. 10.",
-        "url": "https://www.cnbc.com/2025/12/01/asia-pacific-markets-today-monday-china-pmi-ratingdog-data-fed-rate-cut.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/106965576-1635230287335-gettyimages-1278807926-vcg111301485879.jpeg?v=1764545921&w=1920&h=1080",
-        "publishedAt": "2025-12-01T00:07:00Z",
-        "content": "Asia-Pacific markets opened December mixed Monday as traders parsed fresh manufacturing data from China and rising expectations of a U.S. Federal Reserve rate cut this month.\r\nTraders are pricing in \u2026 [+2309 chars]"
+        "author": "Jason Ma",
+        "title": "The S&P 500 could hit 7,000 this week, while Trump hints at a Fed chair pick and Washington eyes this special election - Fortune",
+        "description": "\"The S&P 500 would need to rise by just 2.2% to reach 7,000. That could happen this coming week, in our view.\"",
+        "url": "https://fortune.com/2025/11/30/stock-market-outlook-sp500-7000-trump-fed-chair-pick-hassett-tennessee-special-election/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2247311091-e1764544765727.jpg?resize=1200,600",
+        "publishedAt": "2025-12-01T00:06:00Z",
+        "content": "Meanwhile, the coming week could see President Donald Trump nominate a successor to Federal Reserve Chairman Jerome Powell, and a special election in Tennessee could further narrow the GOPs House maj\u2026 [+2433 chars]"
     },
     {
         "source": {
@@ -183,16 +196,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Hollywood Reporter"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": "Georg Szalai, Lily Ford",
-        "title": "\u2018Pillion\u2019 Dominates BIFA Awards, \u2018Sentimental Value\u2019 Wins Best International Film - The Hollywood Reporter",
-        "description": "Harry Lighton\u2019s sub/dom romance and \u2018Warfare\u2019 win four each, Myrid Carten\u2019s doc \u2018A Want in Her\u2019  three, Akinola Davies Jr. is named best director for  'My Father's Shadow,' while the top acting honor goes to \u2018I Swear\u2019 star Robert Aramayo.",
-        "url": "http://www.hollywoodreporter.com/movies/movie-news/bifa-awards-2025-winners-list-pillion-sentimental-value-1236437853/",
-        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/11/FotoJet-2025-11-03T110335.660.jpg?w=1440&h=810&crop=1",
-        "publishedAt": "2025-11-30T22:55:31Z",
-        "content": "Writer-director Harry Lighton\u2018s feature debut Pillion, a sub/dom romance starring Alexander Skarsg\u00e5rd as a leather-clad biker and\u00a0Harry Melling\u00a0as a suburban Londoner who starts a relationship with h\u2026 [+6708 chars]"
+        "author": "Ishaan Tharoor",
+        "title": "Column | In embrace of \u2018remigration,\u2019 Trump echoes Europe\u2019s far right - The Washington Post",
+        "description": "The term \u201cremigration\u201d probably entered President Donald Trump\u2019s orbit via the politics of ascendant far-right parties in Germany and Austria.",
+        "url": "https://www.washingtonpost.com/world/2025/11/30/remigration-trump-far-right-europe/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XPVZTF2YVJSBO35P4625BA56LQ_size-normalized.jpg&w=1440",
+        "publishedAt": "2025-11-30T22:33:48Z",
+        "content": "In President Donald Trumps first term, we got used to hearing dog whistles. Trumps populist nationalism was riven through by messaging that implicitly demonized minorities and migrants. Undocumented \u2026 [+358 chars]"
     },
     {
         "source": {
@@ -209,28 +222,15 @@
     },
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
+            "id": "abc-news",
+            "name": "ABC News"
         },
-        "author": "Josh Wingrove",
-        "title": "Trump Downplays Venezuelan Airspace Threat as US Mulls New Steps - Bloomberg.com",
-        "description": "President Donald Trump said Sunday that people shouldn\u2019t read much into a social media post where he said Venezuelan airspace should be considered closed.",
-        "url": "https://www.bloomberg.com/news/articles/2025-11-30/trump-downplays-venezuelan-airspace-threat-as-us-mulls-new-steps",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i28shHQM51YE/v1/1200x799.jpg",
-        "publishedAt": "2025-11-30T22:18:18Z",
-        "content": "President Donald Trump said Sunday that people shouldnt read much into a social media post where he said Venezuelan airspace should be considered closed.\r\nHis post from Saturday morning, addressed to\u2026 [+108 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Outkick.com"
-        },
-        "author": "Sean Joseph",
-        "title": "Sydney Sweeney Bounces Back From A Box Office Flop With A Friendsgiving Week Sexy Dragon Costume For The Ages - OutKick",
-        "description": "Sydney Sweeney's \"friendsgiving week\" post on Instagram to help wrap up the Thanksgiving Day weekend won't soon be forgotten. It's one for the ages.",
-        "url": "https://www.outkick.com/culture/sydney-sweeney-bounces-back-from-box-office-flop-friendsgiving-week-sexy-dragon-costume-ages",
-        "urlToImage": "https://static.outkick.com/www.outkick.com/content/uploads/2025/11/sydney-sweeney-friendsgiving-sexy-dragon-shreks-giving.jpg",
-        "publishedAt": "2025-11-30T21:30:30Z",
-        "content": "Sydney Sweeney's \"friendsgiving week\" post on Instagram to wrap up the Thanksgiving Day weekend won't soon be forgotten. It's one for the ages.\r\nYes, it's an absolute masterclass in content. That goe\u2026 [+1874 chars]"
+        "author": "ABC News",
+        "title": "Death toll climbs to 146 in Hong Kong high-rise fire, officials say - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/International/death-toll-climbs-146-hong-kong-high-rise/story?id\\\\u003d127977217",
+        "urlToImage": null,
+        "publishedAt": "2025-11-30T21:50:01Z",
+        "content": null
     }
 ]
