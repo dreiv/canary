@@ -1,6 +1,19 @@
 [
     {
         "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Samantha Schmidt",
+        "title": "Conservatives in the lead in Honduras election, early results show - The Washington Post",
+        "description": "Two conservative candidates are in the lead after Trump\u2019s endorsement of one of them injected the United States into a tight, potentially volatile presidential election.",
+        "url": "https://www.washingtonpost.com/world/2025/11/30/trump-honduras-election-asfura-hernndez/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UOLVOGHD44YZQ6XONIGWZADQL4.JPG&w=1440",
+        "publishedAt": "2025-12-01T08:15:29Z",
+        "content": "Two conservative candidates were vying for the lead in the presidential election in Honduras, according to preliminary and partial results released late Sunday night, as President Donald Trumps endor\u2026 [+80 chars]"
+    },
+    {
+        "source": {
             "id": "espn",
             "name": "ESPN"
         },
@@ -14,16 +27,29 @@
     },
     {
         "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Shikhar Balwani, Andre Janse Van Vuuren",
+        "title": "Asia Set for Cautious Open Ahead of Busy Data Week: Markets Wrap - Bloomberg.com",
+        "description": "Global stocks and bonds started December under pressure as a renewed selloff in cryptocurrencies and hawkish comments from the Bank of Japan weighed on sentiment.",
+        "url": "https://www.bloomberg.com/news/articles/2025-11-30/asia-set-for-cautious-open-ahead-of-busy-data-week-markets-wrap",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqT3DtcwF9Nw/v0/1200x675.png",
+        "publishedAt": "2025-12-01T05:19:00Z",
+        "content": "Global stocks and bonds started December under pressure as a renewed selloff in cryptocurrencies and hawkish comments from the Bank of Japan weighed on sentiment.\r\nS&amp;P 500 futures fell 0.5%, whil\u2026 [+181 chars]"
+    },
+    {
+        "source": {
             "id": "axios",
             "name": "Axios"
         },
-        "author": "Barak Ravid",
-        "title": "Post-war borders dominated \"intense\" U.S.-Ukraine talks - Axios",
-        "description": "Next up, Witkoff meets Putin on Tuesday.",
-        "url": "https://www.axios.com/2025/12/01/ukraine-us-meeting-russia-border-peace-deal",
-        "urlToImage": "https://images.axios.com/ZoTjMuPH0wu2ns74ozHQomeWzj8=/0x562:8081x5107/1366x768/2025/12/01/1764560168860.jpeg",
-        "publishedAt": "2025-12-01T03:59:18Z",
-        "content": "Behind the scenes: The U.S. side arrived at Sunday's meeting at U.S. envoy Steve Witkoff's exclusive Shell Bay golf club near Miami hoping to make progress on the territory issue, which Witkoff could\u2026 [+2393 chars]"
+        "author": "Andrew Childers",
+        "title": "Trump allies dismiss Washington Post report on killing Venezuela boat strike survivors - Axios",
+        "description": "\"I don't know if I believe that at all,\" Sen. Markwayne Mullin said of the reports.",
+        "url": "https://www.axios.com/2025/11/30/venezuela-boat-strikes-survivors-washington-post",
+        "urlToImage": "https://images.axios.com/VS6ZODDlO79ZWhlCGxRbfVTDipU=/0x54:5134x2942/1366x768/2025/11/30/1764514913872.jpeg",
+        "publishedAt": "2025-12-01T04:10:06Z",
+        "content": "Catch up quick: The Washington Post reported Friday that Hegseth in September ordered a second strike to kill any survivors of a boat hit off the coast of Venezuela.\r\n<ul><li>Hegseth on X dismissed t\u2026 [+3197 chars]"
     },
     {
         "source": {
@@ -31,37 +57,37 @@
             "name": "BBC News"
         },
         "author": null,
-        "title": "US lawmakers demand answers over Hegseth Venezuela boat strike reports - BBC",
-        "description": "Concern over media reports that the US military carried out a second strike killing survivors on a suspected drug boat prompts a bipartisan inquiry.",
-        "url": "https://www.bbc.com/news/articles/cp8zyp988zvo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1a58/live/a6d2b9f0-ce57-11f0-9949-ed0c445d6e3e.jpg",
-        "publishedAt": "2025-12-01T03:08:46Z",
-        "content": "Brajesh UpadhyayWashington\r\nUS lawmakers are pressing the Trump administration for answers about military strikes on suspected Venezuelan drug boats, following reports that a follow-up strike was ord\u2026 [+4373 chars]"
+        "title": "South Korea: Online retail giant Coupang hit by massive data leak - BBC",
+        "description": "Retail giant Coupang is often described as South Korea's equivalent of Amazon.com.",
+        "url": "https://www.bbc.com/news/articles/c36zwywll02o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/97f7/live/4c7a5960-ce69-11f0-a1b3-e3b55c523216.jpg",
+        "publishedAt": "2025-12-01T04:08:47Z",
+        "content": "Osmond ChiaBusiness reporter\r\nE-commerce giant Coupang is often described as South Korea's equivalent of Amazon.com\r\nSouth Korea's largest online retailer, Coupang, has apologised for a massive data \u2026 [+3374 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "San Francisco Chronicle"
+            "id": "wired",
+            "name": "Wired"
         },
-        "author": "Zara Irshad",
-        "title": "NFL announces historic first for Bad Bunny\u2019s Super Bowl Halftime Show - San Francisco Chronicle",
-        "description": "Charlie Puth, Brandi Carlile and Coco Jones are among the Super Bowl LX pregame performers that are set to hit the Levi\u2019s Stadium field on Feb. 8.",
-        "url": "https://www.sfchronicle.com/entertainment/article/super-bowl-lx-pregame-charlie-puth-brandi-carlile-21215240.php",
-        "urlToImage": "https://s.hdnux.com/photos/01/55/31/67/28679625/3/rawImage.jpg",
-        "publishedAt": "2025-12-01T03:04:59Z",
-        "content": "Charlie Puth is schedled to perform the National Anthem at Super Bowl LX next year.\u00a0\r\nTHIAGO GOMES/AFP via Getty Images\r\nThe NFL is leveling up its Super Bowl LX entertainment with a stacked cast of \u2026 [+2752 chars]"
+        "author": "Parker Hall",
+        "title": "These Are The Best TV Deals This Black Friday Weekend - WIRED",
+        "description": "Here are the best deals on screens from Hisense, TCL, Samsung, Sony, and more this shopping holiday.",
+        "url": "https://www.wired.com/story/cyber-monday-tv-deals-2025/",
+        "urlToImage": "https://media.wired.com/photos/6923e421c68e1875e6bc3d18/191:100/w_1280,c_limit/Best%20Black%20Friday%20TV%20Deals.png",
+        "publishedAt": "2025-12-01T04:08:00Z",
+        "content": "Looking for a new screen this holiday season? Every TV has been released for the year, which makes now a good time to upgrade yours to whatever has been tickling your fancy (now that you've read our \u2026 [+7203 chars]"
     },
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
+            "id": "nfl-news",
+            "name": "NFL News"
         },
-        "author": "The Wall Street Journal",
-        "title": "How Venezuelan Gangs and African Jihadists Are Flooding Europe With Cocaine - The Wall Street Journal",
-        "description": null,
-        "url": "https://www.wsj.com/world/americas/how-venezuelan-gangs-and-african-jihadists-are-flooding-europe-with-cocaine-656f023f",
-        "urlToImage": null,
-        "publishedAt": "2025-12-01T03:00:00Z",
+        "author": null,
+        "title": "Charlie Puth, Brandi Carlile, Coco Jones to perform ahead of Super Bowl LX kickoff - NFL.com",
+        "description": "The NFL announced the pregame entertainment for Super Bowl LX, which will take place at Levi\u2019s Stadium in Santa Clara on Sunday, Feb. 8, 2026, and air live on NBC, Telemundo and Peacock. The star-studded lineup features multi-award winning, Grammy-nominat",
+        "url": "https://www.nfl.com/news/charlie-puth-brandi-carlile-coco-jones-to-perform-ahead-of-super-bowl-lx-kickoff",
+        "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/omrct5d8yiwbzuqb2awb",
+        "publishedAt": "2025-12-01T03:11:00Z",
         "content": null
     },
     {
@@ -89,6 +115,19 @@
         "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/DSC06844.jpg?quality=90&strip=all&crop=0%2C10.806933475316%2C100%2C78.386133049368&w=1200",
         "publishedAt": "2025-12-01T02:53:00Z",
         "content": "<ul><li></li><li></li><li></li></ul>\r\nFrom Apple TV to AirPods, there are steep discounts available across almost all of Apples products and services.\r\nFrom Apple TV to AirPods, there are steep disco\u2026 [+9755 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Daily Beast"
+        },
+        "author": "Erkki Forster",
+        "title": "Trump Vows to Step Up Unprecedented Assault on Immigrants - The Daily Beast",
+        "description": "The president, whose own mother was a naturalized citizen, doubled down on his vow to strip some Americans of their citizenship.",
+        "url": "https://www.thedailybeast.com/trump-says-hed-absolutely-denaturalize-americans/",
+        "urlToImage": "https://www.thedailybeast.com/resizer/v2/33NRISV3LZHSJIVGFOLPKB3KSE.jpg?smart=true&auth=63b8037340b6c621c55d7631b14a5e0fac352c6f5cf1c18b6c4b00f1ef8c911d&width=1200&height=630",
+        "publishedAt": "2025-12-01T02:25:00Z",
+        "content": "President Donald Trump has doubled down on his push to revoke some Americans citizenship. \r\nIn the wake of Wednesdays shooting of two National Guard members in D.C. by an Afghan national, Trump decla\u2026 [+3158 chars]"
     },
     {
         "source": {
@@ -144,19 +183,6 @@
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Jason Ma",
-        "title": "The S&P 500 could hit 7,000 this week, while Trump hints at a Fed chair pick and Washington eyes this special election - Fortune",
-        "description": "\"The S&P 500 would need to rise by just 2.2% to reach 7,000. That could happen this coming week, in our view.\"",
-        "url": "https://fortune.com/2025/11/30/stock-market-outlook-sp500-7000-trump-fed-chair-pick-hassett-tennessee-special-election/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2247311091-e1764544765727.jpg?resize=1200,600",
-        "publishedAt": "2025-12-01T00:06:00Z",
-        "content": "Meanwhile, the coming week could see President Donald Trump nominate a successor to Federal Reserve Chairman Jerome Powell, and a special election in Tennessee could further narrow the GOPs House maj\u2026 [+2433 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Huskers.com"
         },
@@ -193,44 +219,5 @@
         "urlToImage": "https://i.abcnewsfe.com/a/84e75491-2146-448d-b2af-9174c34c15b2/wirestory_5735e7bde6a7cf75f1998381011fa9e1_16x9.jpg?w=1600",
         "publishedAt": "2025-11-30T23:03:40Z",
         "content": "Zootopia 2 had a roaring, record-setting opening at the box office. \r\nThe animal city sequel from the Walt Disney Company brought in $96 million in North America over the weekend, earned $156 million\u2026 [+1501 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Ishaan Tharoor",
-        "title": "Column | In embrace of \u2018remigration,\u2019 Trump echoes Europe\u2019s far right - The Washington Post",
-        "description": "The term \u201cremigration\u201d probably entered President Donald Trump\u2019s orbit via the politics of ascendant far-right parties in Germany and Austria.",
-        "url": "https://www.washingtonpost.com/world/2025/11/30/remigration-trump-far-right-europe/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XPVZTF2YVJSBO35P4625BA56LQ_size-normalized.jpg&w=1440",
-        "publishedAt": "2025-11-30T22:33:48Z",
-        "content": "In President Donald Trumps first term, we got used to hearing dog whistles. Trumps populist nationalism was riven through by messaging that implicitly demonized minorities and migrants. Undocumented \u2026 [+358 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NASASpaceflight.com"
-        },
-        "author": "P. Katin",
-        "title": "Russia left without access to ISS following structure collapse at Baikonur launch site - NASASpaceFlight.com -",
-        "description": "On Nov. 27, after the launch of the Soyuz 2.1a rocket with the Soyuz MS-28\u2026",
-        "url": "https://www.nasaspaceflight.com/2025/11/site-31-accident/",
-        "urlToImage": "https://www.nasaspaceflight.com/wp-content/uploads/2025/11/IMG_4542-467x350.jpeg",
-        "publishedAt": "2025-11-30T22:18:25Z",
-        "content": "1On Nov. 27, after the launch of the Soyuz 2.1a rocket with the Soyuz MS-28 crew and spacecraft, an accident occurred on the launch pad at Site 31/6 at the Baikonur Cosmodrome. The launch itself was \u2026 [+8179 chars]"
-    },
-    {
-        "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "ABC News",
-        "title": "Death toll climbs to 146 in Hong Kong high-rise fire, officials say - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/International/death-toll-climbs-146-hong-kong-high-rise/story?id\\\\u003d127977217",
-        "urlToImage": null,
-        "publishedAt": "2025-11-30T21:50:01Z",
-        "content": null
     }
 ]
