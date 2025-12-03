@@ -1,29 +1,42 @@
 [
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": "espn",
+            "name": "ESPN"
         },
-        "author": "Mikhail Klimentov",
-        "title": "Unsafe netting used at Hong Kong fire site, officials say, as toll rises to 151 - The Washington Post",
-        "description": "Anti-corruption investigators said contractors working on the buildings had concealed their use of netting that didn\u2019t meet fire safety standards.",
-        "url": "https://www.washingtonpost.com/world/2025/12/01/hong-kong-fire-cause-netting-construction-arrests/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NXKQS4SZA6J6MNHFHXNYQYPSME.JPG&w=1440",
-        "publishedAt": "2025-12-02T06:09:45Z",
-        "content": "Construction netting found at the site of a massive blaze that engulfed multiple high rises in Hong Kong did not meet fire safety standards, local anti-corruption officials said Monday. Those officia\u2026 [+216 chars]"
+        "author": "Dave McMenamin",
+        "title": "Luka takes blame: 'No way I can have 9 turnovers' - ESPN",
+        "description": "Luka Doncic said his nine turnovers were to blame for the Lakers' seven-game win streak coming to a halt Monday night against the Suns.",
+        "url": "https://www.espn.com/nba/story/_/id/47174335/luka-doncic-takes-blame-lakers-loss-suns-cites-9-turnovers",
+        "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1202%2Fr1583627_1296x729_16%2D9.jpg",
+        "publishedAt": "2025-12-02T07:19:00Z",
+        "content": "LOS ANGELES -- The Lakers' seven-game win streak ended Monday with a 125-108 loss to the Phoenix Suns, and Luka Doncic said his nine turnovers were to blame.\r\n\"That was my fault,\" Doncic said. \"No wa\u2026 [+2818 chars]"
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": null,
+            "name": "Variety"
         },
-        "author": "Rebecca Falconer",
-        "title": "Noem reveals sweeping travel ban plan after meeting with Trump - Axios",
-        "description": "She's recommending that Trump's ban on 19 nations \"widens and covers more countries,\" White House press secretary told Fox News.",
-        "url": "https://www.axios.com/2025/12/02/trump-travel-ban-more-countries-noem-dhs-plan",
-        "urlToImage": "https://images.axios.com/c4a8GTv1jNK7byu8CRBbOgbeqPI=/0x466:5403x3505/1366x768/2025/12/02/1764636198556.jpeg",
-        "publishedAt": "2025-12-02T05:16:58Z",
-        "content": "Zoom in: \"I am recommending a full travel ban on every damn country that's been flooding our nation with killers, leeches, and entitlement junkies,\" Noem said on X, without specifying which countries\u2026 [+1883 chars]"
+        "author": "Zack Sharf",
+        "title": "'Avatar: Fire and Ash' First Reactions Praise James Cameron Sequel - Variety",
+        "description": "The first reactions for James Cameron's 'Avatar: Fire and Ash' are here and praise the latest trip to Pandora.",
+        "url": "https://variety.com/2025/film/news/avatar-fire-and-ash-first-reactions-james-cameron-1236596177/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2025/09/avatar-4.jpg?crop=0px%2C45px%2C1000px%2C562px&resize=1000%2C563",
+        "publishedAt": "2025-12-02T07:11:00Z",
+        "content": "James Cameron\u2018s \u201cAvatar: Fire and Ash\u201d has finally been unveiled to members of the film press ahead of its theatrical rollout later this month, and journalists are calling the third trip to Pandora a\u2026 [+6079 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "Keach Hagey",
+        "title": "OpenAI Completed Its Conversion. A New Ballot Initiative Seeks to Reverse It. - The Wall Street Journal",
+        "description": "The coalition backing the effort has appealed to Elon Musk for help funding the measure",
+        "url": "https://www.wsj.com/tech/ai/openai-completed-its-conversion-a-new-ballot-initiative-seeks-to-reverse-it-ab04c339",
+        "urlToImage": "https://images.wsj.net/im-97205840/social",
+        "publishedAt": "2025-12-02T05:36:00Z",
+        "content": "A coalition that tried and failed to block OpenAIs conversion earlier this year is back with a new tactic: a California ballot initiative aimed at reining in the startups power.\r\nThe planned initiati\u2026 [+481 chars]"
     },
     {
         "source": {
@@ -50,6 +63,19 @@
         "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/f536055/2147483647/strip/true/crop/5731x3224+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F74%2Fe8%2F7a9fac6b4f2dbe9f74af01014dcb%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2249468355",
         "publishedAt": "2025-12-02T04:11:20Z",
         "content": "The Patriots won a 10th consecutive game in dominating fashion, moving their NFL-best record to 11-2.\r\nNew England beat up on the Giants 33-15 on Monday Night Football.\r\nThe Patriots outgained the Gi\u2026 [+1810 chars]"
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Josh Gerstein, Kyle Cheney",
+        "title": "DOJ deciding whether to seek new Comey, James indictments - Politico",
+        "description": "The department could forgo an appeal of Lindsey Halligan\u2019s disqualification and instead seek to bring new charges against James Comey and Letitia James.",
+        "url": "https://www.politico.com/news/2025/12/01/james-comey-letitia-james-cases-next-00672339",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fa6%2Ffb%2F70de83ed4976810d46826a8688f7%2Funlimitedusage-03-31-2025-oval-006.jpg",
+        "publishedAt": "2025-12-02T03:54:48Z",
+        "content": "The ruling from U.S. District Judge Cameron Currie last week was a particularly pointed snub of Trump because it rejected his gambit to install one of his former criminal defense lawyers, Lindsey Hal\u2026 [+5943 chars]"
     },
     {
         "source": {
@@ -118,32 +144,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Financial Times"
-        },
-        "author": "Veena Venugopal",
-        "title": "Vladimir Putin\u2019s visit ties India in knots - Financial Times",
-        "description": "Also in this newsletter: Apple challenges competition regulator, and Vidit Aatrey\u2019s mantra",
-        "url": "https://www.ft.com/content/c9b6df5a-61f5-42f0-8552-417fe822d6f1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F28c5559e-502c-43a2-8b92-8298e1c1e6ec.jpg?source=next-barrier-page",
-        "publishedAt": "2025-12-02T01:30:20Z",
-        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Chargers.com"
-        },
-        "author": null,
-        "title": "5 Takeaways: Justin Herbert Undergoes Successful Surgery on Left Hand - Chargers.com",
-        "description": "The Chargers quarterback is considered day-to-day ahead of Monday's primetime game against the Eagles",
-        "url": "https://www.chargers.com/news/justin-herbert-injury-update-hand-surgery-2025",
-        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/chargers/hi1esvz46nab8huvwcjo",
-        "publishedAt": "2025-12-02T01:25:25Z",
-        "content": null
-    },
-    {
-        "source": {
             "id": "cbs-news",
             "name": "CBS News"
         },
@@ -170,6 +170,19 @@
     },
     {
         "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "Putin says Russia has taken control of 2 Ukrainian cities. Ukraine denies claims - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/International/putin-russia-control-2-ukrainian-cities-ukraine-denies/story?id\\\\u003d128018937",
+        "urlToImage": null,
+        "publishedAt": "2025-12-02T00:25:18Z",
+        "content": null
+    },
+    {
+        "source": {
             "id": null,
             "name": "San Francisco Chronicle"
         },
@@ -180,19 +193,6 @@
         "urlToImage": "https://s.hdnux.com/photos/01/55/32/32/28681896/3/rawImage.jpg",
         "publishedAt": "2025-12-02T00:20:56Z",
         "content": "Names of people who have\u00a0died from AIDS are written in chalk on Castro Street in San Francisco on World Aids Day on Dec. 1, 2023. Observed since 1988, the day is dedicated to raising awareness of the\u2026 [+8141 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Jennifer Peltz",
-        "title": "Starbucks to pay $35M to NYC workers in settlement as ongoing strike draws pols to picket line - AP News",
-        "description": "New York City officials say Starbucks will pay about $35 million to more than 15,000 New York City workers to settle claims it denied them stable schedules and arbitrarily cut their hours. The settlement agreement was announced Monday. Hours later, Mayor-elec\u2026",
-        "url": "https://apnews.com/article/starbucks-settlement-labor-law-wages-nyc-dfe280b1505fde8b23a847a342757155",
-        "urlToImage": "https://dims.apnews.com/dims4/default/c149379/2147483647/strip/true/crop/3562x2004+0+186/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F58%2Fdf%2Fd5d693102f7441d13d44315d5f7f%2F73518f22ca9845f29414239491528308",
-        "publishedAt": "2025-12-02T00:09:00Z",
-        "content": "NEW YORK (AP) Starbucks will pay about $35 million to more than 15,000 New York City workers to settle claims it denied them stable schedules and arbitrarily cut their hours, city officials announced\u2026 [+4248 chars]"
     },
     {
         "source": {
@@ -222,15 +222,15 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
+            "id": "the-verge",
+            "name": "The Verge"
         },
-        "author": "Elizabeth Wagmeister",
-        "title": "Sean \u2018Diddy\u2019 Combs\u2019 lawyers send cease-and-desist to Netflix, claim docuseries produced by 50 Cent uses \u2018stolen\u2019 footage - CNN",
-        "description": "On the eve of Netflix releasing a highly anticipated docuseries about Sean \u201cDiddy\u201d Combs \u2014 produced by his longtime foe Curtis \u201c50 Cent\u201d Jackson \u2014 the embattled mogul\u2019s lawyers have sent a cease-and-desist letter to the streaming giant, demanding it not relea\u2026",
-        "url": "https://www.cnn.com/2025/12/01/entertainment/sean-diddy-combs-netflix-50-cent-documentary",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25322175647684.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-12-01T23:58:19Z",
-        "content": "On the eve of Netflix releasing a highly anticipated docuseries about Sean Diddy Combs produced by his longtime foe Curtis 50 Cent Jackson the embattled moguls lawyers have sent a cease-and-desist le\u2026 [+4154 chars]"
+        "author": "Antonio G. Di Benedetto",
+        "title": "Here are 25 great laptop deals you can still grab before Cyber Monday ends - The Verge",
+        "description": "Cyber Monday is almost over, and it\u2019s likely your last chance of the year to save big on MacBooks, Windows laptops, and gaming machines \u2014 including Asus models.",
+        "url": "https://www.theverge.com/gadgets/835403/cyber-monday-laptop-deals-macbook-chromebook-surface-2025",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257655_Razer_Blade_16_laptop_2025_5090_ADiBenedetto_0024.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-12-01T22:56:00Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nWere unlikely to see prices this good on laptops from Apple, Microsoft, and others until the newer models arrive next year.\r\nWere unlikely to see prices this goo\u2026 [+14122 chars]"
     }
 ]
