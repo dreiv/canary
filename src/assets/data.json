@@ -1,16 +1,16 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Financial Times"
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
-        "author": "Adrienne Klasa, Joe Leahy, Leo Lewis",
-        "title": "Emmanuel Macron warns of \u2018disintegration\u2019 risk to world order in Xi Jinping meeting - Financial Times",
-        "description": "Two leaders stress need for multilateralism amid rising trade tensions",
-        "url": "https://www.ft.com/content/06644ede-7690-479e-8bc9-fb469325ba78",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F419dc3c7-cd5e-401c-804f-243f51afc9a3.jpg?source=next-barrier-page",
-        "publishedAt": "2025-12-04T06:11:15Z",
-        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+        "author": "Andre Janse Van Vuuren",
+        "title": "Japanese Stocks Rally, Bond Sale Sees Solid Demand: Markets Wrap - Bloomberg.com",
+        "description": "Stocks in Europe and Asia set the pace on Thursday, while US futures held gains as traders bet that Federal Reserve rate cuts will help drive a global rally into year-end.",
+        "url": "https://www.bloomberg.com/news/articles/2025-12-03/stock-market-today-dow-s-p-live-updates",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iq7Whm3dJ1oQ/v0/1200x675.png",
+        "publishedAt": "2025-12-04T07:12:00Z",
+        "content": "Stocks in Europe and Asia set the pace on Thursday, while US futures held gains as traders bet that Federal Reserve rate cuts will help drive a global rally into year-end.\r\nEuropes Stoxx 600 rose as \u2026 [+269 chars]"
     },
     {
         "source": {
@@ -24,6 +24,32 @@
         "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1204%2Fr1584634_2_1296x729_16%2D9.jpg",
         "publishedAt": "2025-12-04T05:42:00Z",
         "content": "ATLANTA -- LA Clippers stars Kawhi Leonard and James Harden were both \"shocked\" when they found out Wednesday morning that Chris Paul would no longer be their teammate.\r\nThe Clippers made the stunnin\u2026 [+3411 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "KOMO News"
+        },
+        "author": "MICHELLE L. PRICE Associated Press",
+        "title": "Trump grants full pardon to Tim Leiweke, key figure in Climate Pledge Arena development - KOMO",
+        "description": "Cuellar has said he and his wife are innocent. The couple\u2019s trial had been set to begin next April.",
+        "url": "https://komonews.com/news/nation-world/trump-grants-full-pardon-to-tim-leiweke-key-figure-in-climate-pledge-arena-development-president-donald-trump-seattle-kraken",
+        "urlToImage": "https://komonews.com/resources/media/c4cf518c-9eb3-48a9-95eb-33a29adca550-jumbo16x9_181002_ap_nhl_seattle_AP18275623654264.jpg?1538518675096",
+        "publishedAt": "2025-12-04T05:34:08Z",
+        "content": "WASHINGTON President Donald Trump pardoned Texas Democratic Rep. Henry Cuellar and his wife in a federal bribery and conspiracy case on Wednesday, citing what he called a weaponized justice system.\r\n\u2026 [+6089 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Israel receives coffin that Hamas says contains Gaza hostage's body - BBC",
+        "description": "The remains, which Hamas and Palestinian Islamic Jihad say were found in northern Gaza, will be taken to Tel Aviv for forensic tests.",
+        "url": "https://www.bbc.com/news/articles/cd6x2j4g3z7o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ac3f/live/daf7fe70-d0e1-11f0-8c06-f5d460985095.jpg",
+        "publishedAt": "2025-12-04T05:25:21Z",
+        "content": "Israel has identified the body it received via the Red Cross on Wednesday as 43-year-old Thai agricultural worker, Suthisak Rintalak, according to the prime minister's office.\r\nRintalak was one of th\u2026 [+2469 chars]"
     },
     {
         "source": {
@@ -53,6 +79,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "NBCSports.com"
+        },
+        "author": "Mike Florio",
+        "title": "Sean Payton is \"hopeful\" Bill Belichick returns to the NFL - NBC Sports",
+        "description": "Bill Belichick is a finalist for the Pro Football Hall of Fame.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-is-hopeful-bill-belichick-returns-to-the-nfl",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/8023d5b/2147483647/strip/true/crop/2525x1420+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbc%2Fd8%2Fb3d28b2f42e5851602fe2aed9024%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D8760863",
+        "publishedAt": "2025-12-04T03:48:22Z",
+        "content": "Bill Belichick is a finalist for the Pro Football Hall of Fame. Another coach whos laying the foundation for a bronze bust of his own hopes Belichick will return to pro football.\r\nIll be honest with \u2026 [+1699 chars]"
+    },
+    {
+        "source": {
             "id": "cbs-news",
             "name": "CBS News"
         },
@@ -79,29 +118,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "POLITICO.eu"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Tim Ross, Gregorio Sorgi, Hans von der Burchard, Nicholas Vinocur",
-        "title": "How Belgium became Russia\u2019s most valuable asset - politico.eu",
-        "description": "Belgian Prime Minister Bart De Wever is unmoved in his opposition to a raid on Moscow\u2019s funds held in a Brussels bank to support a loan to Ukraine.",
-        "url": "https://www.politico.eu/article/belgium-russia-bart-de-wever-moscow-funds-brussels-bank-ukraine-war/",
-        "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/12/02/WhatsApp-Image-2025-12-02-at-5.06.42-PM.jpeg",
-        "publishedAt": "2025-12-04T03:00:00Z",
-        "content": "According to several of those close to the discussions, the reparations loan proposal started to hit trouble when tension began to build between De Wever and his neighbor, the new German chancellor, \u2026 [+1736 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Avery Lotz",
-        "title": "Trump's lawmaker pardon list stretches beyond Henry Cuellar - Axios",
-        "description": "A dozen members of Congress \u2014 a vast majority of whom are former lawmakers \u2014 have received pardons.",
-        "url": "https://www.axios.com/2025/12/03/trump-pardons-lawmakers-henry-cuellar",
-        "urlToImage": "https://images.axios.com/C6VyujyOIvaNz-gvgOEeDX7QWo0=/0x0:5517x3103/1366x768/2025/12/03/1764795296278.jpg",
-        "publishedAt": "2025-12-04T02:30:25Z",
-        "content": "Context: As Trump has accused hisprominent political foes of crimes, he's let members of both parties off the hook for the ones they allegedly committed, as highlighted by Capitol Hill reporter Jamie\u2026 [+5831 chars]"
+        "author": "Joe  Ruch",
+        "title": "See how much snow fell in Colorado and parts of the Denver area during Wednesday's storm - CBS News",
+        "description": "The largest snowstorm so far this season on Colorado's Front Range came to an end on Wednesday night, and some impressive snow total results have come in from many different areas. In the hardest hit areas, snowfall numbers reached near a foot.",
+        "url": "https://www.cbsnews.com/colorado/news/snow-totals-colorado-denver-wednesday-storm/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/12/04/4a4a405c-5a8c-4895-b7cd-16381453fb23/thumbnail/1200x630/b6e22e60c3ac69da1400680e77a9977e/gettyimages-2249112104.jpg",
+        "publishedAt": "2025-12-04T03:09:23Z",
+        "content": "The largest snowstorm so far this season on Colorado's Front Range came to an end on Wednesday night, and some impressive snow total results have come in from many different areas. In the hardest hit\u2026 [+1507 chars]"
     },
     {
         "source": {
@@ -158,6 +184,32 @@
     {
         "source": {
             "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "India-Russia: Why Putin and Modi are meeting in Delhi - BBC",
+        "description": "BBC editors explain what is at stake as Russian President Vladimir Putin starts a two-day visit to India.",
+        "url": "https://www.bbc.com/news/articles/cj4q2vpggr9o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e780/live/1fdb29b0-d03b-11f0-a892-01d657345866.jpg",
+        "publishedAt": "2025-12-04T00:07:17Z",
+        "content": "Steve Rosenberg,Russia editor, in Delhiand\r\nVikas Pandey,India editor\r\nModi and Putin share a warm relationship\r\nRussian President Vladimir Putin is starting a two-day visit to India, where he will m\u2026 [+8812 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Live Science"
+        },
+        "author": "Joanna Thompson",
+        "title": "Giant rotating string of 14 galaxies is 'probably the largest spinning object' in the known universe - Live Science",
+        "description": "A giant rotating filament of the cosmic web may be the largest spinning structure ever seen, and could help reveal how galaxies form.",
+        "url": "https://www.livescience.com/space/astronomy/giant-rotating-string-of-14-galaxies-is-probably-the-largest-spinning-object-in-the-known-universe",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/JBWtG6KETCPEcbB8TuwPbc-2295-80.jpg",
+        "publishedAt": "2025-12-04T00:02:14Z",
+        "content": "Astronomers have spotted what is likely the \"largest spinning object\" ever discovered, and its rotation could hold important clues about how galaxies develop.\r\nThe whirling structure, located 140 mil\u2026 [+2858 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "NPR"
         },
         "author": "Joe Hernandez",
@@ -170,67 +222,15 @@
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": "Barak Ravid",
-        "title": "Trump says Witkoff and Kushner had \"a very good\" meeting with Putin - Axios",
-        "description": "Trump said their impression was that Putin wants \"to see the war ended,\" but it wasn't clear what progress had been made in the talks.",
-        "url": "https://www.axios.com/2025/12/03/trump-russia-ukraine-peace-talks-kushner-witkoff-moscow",
-        "urlToImage": "https://images.axios.com/507Pk60MgeOcopnyUXe-c2xQNHs=/0x179:8256x4823/1366x768/2025/12/03/1764800876386.jpeg",
-        "publishedAt": "2025-12-03T23:43:51Z",
-        "content": "<ul><li>It was not immediately clear what progress, if any, had been made. Putin's aides claimed no compromise has been reached on the main sticking point around Russia's territorial demands.</li></u\u2026 [+1242 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Amanda Silberling",
-        "title": "Meta poaches Apple design exec Alan Dye to lead new creative studio in Reality Labs - TechCrunch",
-        "description": "Dye led Apple's user interface team for the last decade.",
-        "url": "https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye-to-lead-new-creative-studio-in-reality-labs/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/AppleEvent.SEP07Keynote.Alan_.Dye_.jpg?resize=1200,675",
-        "publishedAt": "2025-12-03T23:37:26Z",
-        "content": "Alan Dye, the design executive who led Apple\u2019s user interface team for the last decade, is leaving the company to join Meta, according to a report from Bloomberg\u2019s Mark Gurman.\r\nThis is a significant\u2026 [+1875 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Maggie Eastland, Oma Seddiq, Emily Birnbaum",
-        "title": "Nvidia\u2019s Huang Unsure Whether China Would Accept H200 Chips - Bloomberg.com",
-        "description": "Nvidia Corp. Chief Executive Officer Jensen Huang said he\u2019s unsure whether China would accept the company\u2019s H200 artificial intelligence chips should the US relax restrictions on sales of the processors, following a meeting Wednesday with President Donald Tru\u2026",
-        "url": "https://www.bloomberg.com/news/articles/2025-12-03/nvidia-s-huang-unsure-whether-china-would-accept-its-h200-chips",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iECrVF14ciak/v1/1200x800.jpg",
-        "publishedAt": "2025-12-03T23:26:23Z",
-        "content": "Nvidia Corp. Chief Executive Officer Jensen Huang said hes unsure whether China would accept the companys H200 artificial intelligence chips should the US relax restrictions on sales of the processor\u2026 [+445 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Miley Cyrus confirms engagement to musician Maxx Morando - BBC",
-        "description": "The Grammy winner says she was \"so surprised\" after her partner of four years proposed on a trip.",
-        "url": "https://www.bbc.com/news/articles/cwypwxprjd4o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c591/live/d6a49660-d07f-11f0-92b0-9b1b6ce7fb6f.jpg",
-        "publishedAt": "2025-12-03T23:24:33Z",
-        "content": "Miley Cyrus has confirmed her engagement to her partner of four years, musician Maxx Morando. \r\nThe three-time Grammy winner was seen wearing a gold and diamond ring on her engagement finger at the p\u2026 [+1532 chars]"
-    },
-    {
-        "source": {
-            "id": "ars-technica",
-            "name": "Ars Technica"
-        },
-        "author": "Dan Goodin",
-        "title": "Admins and defenders gird themselves against maximum-severity server vuln - Ars Technica",
-        "description": "Open source React executes malicious code with malformed HTML\u2014no authentication needed.",
-        "url": "https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/",
-        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg",
-        "publishedAt": "2025-12-03T23:16:03Z",
-        "content": null
+        "author": "Monica Hesse",
+        "title": "Column | This can\u2019t be the future Meghan Markle envisioned - The Washington Post",
+        "description": "The Duchess of Sussex\u2019s Christmas special features cheese puffs, wreath-making and celebrity guests. But columnist Monica Hesse keeps thinking about Wallis Simpson.",
+        "url": "https://www.washingtonpost.com/style/2025/12/03/meghan-markle-christmas-special-netflix/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4OSZZ6BVXLELIDYCKZPU5FF5EU.jpg&w=1440",
+        "publishedAt": "2025-12-03T23:49:55Z",
+        "content": "Wallis Simpson seems like an entirely shady person, but from time to time I find myself thinking about the strange contours of her life, which changed the course of British royal history nearly a cen\u2026 [+8 chars]"
     }
 ]
