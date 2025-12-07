@@ -14,29 +14,55 @@
     },
     {
         "source": {
-            "id": "espn",
-            "name": "ESPN"
+            "id": null,
+            "name": "A Sea Of Blue"
         },
-        "author": null,
-        "title": "'No heart': Ex-star Cousins rips UK after ugly loss - ESPN",
-        "description": "Former Kentucky star DeMarcus Cousins didn't hold back on his opinion on the Wildcats after their 35-point loss to No. 11 Gonzaga on Friday night, saying the team \"has no heart.\"",
-        "url": "https://www.espn.com/mens-college-basketball/story/_/id/47217580/kentucky-ugly-loss-gonzaga-draws-wrath-ex-star-cousins",
-        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1206%2Fr1585548_1296x729_16%2D9.jpg",
-        "publishedAt": "2025-12-06T03:21:00Z",
-        "content": "NASHVILLE, Tenn. -- The 18th-ranked Kentucky Wildcats have lost consecutive games and three of their past five. Worse, they are struggling to shoot.\r\nPanic is bubbling up in the Bluegrass State.\r\nFan\u2026 [+2779 chars]"
+        "author": "Zac Oakes",
+        "title": "Kentucky dominated by Gonzaga: 5 things to know and postgame mourning - A Sea Of Blue",
+        "description": "A brutal showing for Kentucky.",
+        "url": "https://www.aseaofblue.com/kentucky-wildcats-basketball/155945/uk-gonzaga-bulldogs-final-score-recap-5-takeaways",
+        "urlToImage": "https://platform.aseaofblue.com/wp-content/uploads/sites/13/2025/12/imagn-27749198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-12-06T02:14:00Z",
+        "content": "Kentucky started horribly and never recovered, as Gonzaga defeated Kentucky 94-59 in dominating fashion.\r\nKentucky was never in this game, as Gonzaga started the game on a 21-5 run, and although the \u2026 [+2825 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "TMZ"
         },
-        "author": null,
-        "title": "Apple Watch, Samsung Galaxy Watch: Am I addicted to my smartwatch? - BBC",
-        "description": "Do they do what they say they do, or are they just making us more stressed?",
-        "url": "https://www.bbc.com/news/articles/c8xdgwrrd0vo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/782a/live/fd350930-d20b-11f0-a892-01d657345866.jpg",
-        "publishedAt": "2025-12-06T00:03:59Z",
-        "content": "Ruth CleggHealth and wellbeing reporter\r\nRuth Clegg can't help but check her smartwatch countless times during a race\r\nThere's a feeling of anticipation. I can see the cold breath coming from my comp\u2026 [+7950 chars]"
+        "author": "TMZ Staff",
+        "title": "Marciano Brunette Sues Demi Engemann For Defamation Over Sexual Assault Claims - TMZ",
+        "description": "\"Vanderpump Villa\" star Marciano Brunette is suing \"Secret Lives of Mormon Lives\" star Demi Engemann for defamation ... he says her sexual assault allegations against him are a bunch of baloney.",
+        "url": "https://www.tmz.com/2025/12/05/marciano-brunette-sues-demi-engemann-defamation/",
+        "urlToImage": "https://imagez.tmz.com/image/57/16by9/2025/12/06/577ad570bdab4fb6ac9cd0002ce78bdd_xl.jpg",
+        "publishedAt": "2025-12-06T01:43:25Z",
+        "content": "\"Vanderpump Villa\" star Marciano Brunette is suing \"Secret Lives of Mormon Lives\" star Demi Engemann for defamation ... he says her sexual assault allegations against him are a bunch of baloney.\r\nIn \u2026 [+1996 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Deadline"
+        },
+        "author": "Glenn Garner",
+        "title": "Jane Fonda, CFA Decry \u201cCatastrophic\u201d Netflix-Warner Bros Deal: \u201cWe Are Watching Closely\u201d - Deadline",
+        "description": "As Hollywood reels from the industry-shaking $82.7B Netflix-Warner Bros. deal, Jane Fonda is urging the Department of Justice not to bow to pressure.",
+        "url": "http://deadline.com/2025/12/jane-fonda-cfa-decry-netflix-warner-bros-deal-1236638236/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2025/12/P102ZJTT-e1764982843569.jpg?w=1024",
+        "publishedAt": "2025-12-06T01:21:00Z",
+        "content": "As Hollywood reels from the historical, industry-shaking $82.7B Netflix-Warner Bros. deal, Jane Fonda is urging the Department of Justice not to bow to pressure.\r\nOn Friday, the 2x Oscar winner, who \u2026 [+2274 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The-independent.com"
+        },
+        "author": "Holly Evans",
+        "title": "Meghan \u2018reaches out\u2019 to estranged father after his surgery - The Independent",
+        "description": "The Duchess of Sussex has been estranged from Thomas Markle since 2018",
+        "url": "https://www.the-independent.com/life-style/royal-family/news/meghan-markle-father-thomas-amputation-surgery-hospital-b2879158.html",
+        "urlToImage": "https://static.the-independent.com/2025/10/01/16/17/Meghan-Markle.jpeg?trim=82,0,82,0&width=1200&height=800&crop=1200:800",
+        "publishedAt": "2025-12-06T00:59:00Z",
+        "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+2494 chars]"
     },
     {
         "source": {
@@ -53,16 +79,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Centre Daily Times"
+            "id": "nbc-news",
+            "name": "NBC News"
         },
-        "author": "Jon Sauber",
-        "title": "Penn State set to hire Iowa State head coach Matt Campbell, per source - Centre Daily Times",
-        "description": "Penn State set to hire Iowa State football coach Matt Campbell after an extended search. Campbell spent 10 seasons with the Cyclones, will now lead Nittany Lions.",
-        "url": "https://www.centredaily.com/sports/college/penn-state-university/psu-football/article313406704.html",
-        "urlToImage": "https://www.centredaily.com/public/latest-news/o1tqd9/picture313408140/alternates/LANDSCAPE_1140/Campbell2.JPG",
-        "publishedAt": "2025-12-05T23:53:00Z",
-        "content": "Penn State Football\r\nPenn State has found its next head coach.\r\nAfter a process that lasted 54 days, the Nittany Lions are set to hire Iowa State head coach Matt Campbell, according to a source.\r\nHis\u2026 [+1168 chars]"
+        "author": "Zo\u00eb Richards",
+        "title": "Rep. Adelita Grijalva says she was 'sprayed in the face' during ICE confrontation - NBC News",
+        "description": "Democratic Rep. Adelita Grijalva of Arizona said she was pepper-sprayed and \"pushed around\" by Immigration and Customs Enforcement agents during a raid at a Tucson restaurant on Friday",
+        "url": "https://www.nbcnews.com/politics/congress/rep-adelita-grijalva-says-was-sprayed-face-ice-confrontation-rcna247677",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251121-Adelita-Grijalva-aa-1135-5fe644.jpg",
+        "publishedAt": "2025-12-05T23:51:30Z",
+        "content": "Democratic Rep. Adelita Grijalva of Arizona said she was pepper-sprayed and \"pushed around\" by Immigration and Customs Enforcement agents during a raid at a Tucson restaurant on Friday.\r\nIn a video s\u2026 [+3083 chars]"
     },
     {
         "source": {
@@ -79,19 +105,6 @@
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Justin Jouvenal",
-        "title": "Supreme Court will hear case on Trump\u2019s ban on birthright citizenship - The Washington Post",
-        "description": "The Trump administration asked the justices to take up the case on an expedited basis in September after lower courts found the policy unconstitutional and blocked it.",
-        "url": "https://www.washingtonpost.com/politics/2025/12/05/supreme-court-birthright-citizenship-trump/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F7EYHYUNG54AYB4HW3HOOLAOI4_size-normalized.JPG&w=1440",
-        "publishedAt": "2025-12-05T23:35:09Z",
-        "content": "The Supreme Court said Friday that it will hear a case examining the legality of President Donald Trumps ban on birthright citizenship, a high-stakes test of the controversial policy that could redef\u2026 [+33 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Yahoo Entertainment"
         },
@@ -105,16 +118,29 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Variety"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": "Matt Donnelly",
-        "title": "Oscars TV Rights Auction Heats Up: Netflix Out and NBCUniversal Is Ahead as ABC Holds the Line (EXCLUSIVE) - Variety",
-        "description": "NBCUniversal is in the lead to nab TV rights to the Oscars starting in 2029 as the Motion Picture Academy shops around for a new deal.",
-        "url": "https://variety.com/2025/film/news/oscars-tv-rights-nbcuniversal-abc-netflix-academy-1236601800/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2022/03/Oscars-Oscar-Academy-Awards-Statue-Placeholder.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2025-12-05T23:28:00Z",
-        "content": "There are eight weeks left on the holy Hollywood awards calendar until Oscar nominations are announced, and it\u2019s not just artists and craftspeople hunting for trophies. Momentum has been building in \u2026 [+5921 chars]"
+        "author": "David Bauder, Hillel Italie",
+        "title": "Vanity Fair parts ways with Olivia Nuzzi amid Robert F. Kennedy Jr. controversy - AP News",
+        "description": "Vanity Fair is parting ways with West Coast editor Olivia Nuzzi amid controversy over her past coverage of Robert F. Kennedy Jr. A statement Friday from Nuzzi and the magazine says they have mutually agreed to let her contract expire at the end of the year. N\u2026",
+        "url": "https://apnews.com/article/olivia-nuzzi-vanity-fair-departure-77d91e3e729bdd48e9abf16a3a966d5f",
+        "urlToImage": "https://dims.apnews.com/dims4/default/7ac4387/2147483647/strip/true/crop/2591x1457+0+135/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4d%2Fde%2F1c98a54dbde9a4c0cd4545e77115%2Fd8545ed3df424e03a3612eeef67485f3",
+        "publishedAt": "2025-12-05T23:27:00Z",
+        "content": "NEW YORK (AP) Vanity Fair is parting ways with West Coast editor Olivia Nuzzi amid ongoing controversy over her relationship with profile subject Robert F. Kennedy Jr. while she was the Washington co\u2026 [+1925 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Stef W. Kight, Kate Santaliz, Hans Nichols",
+        "title": "Republicans have a mess on their hands over health care subsidies - Axios",
+        "description": "It looks increasingly likely that the health care fight will continue into next year.",
+        "url": "https://www.axios.com/2025/12/05/republicans-aca-health-care-subsidies",
+        "urlToImage": "https://images.axios.com/KxQkQhqXBoTPO8v8DphxepcoImQ=/2554x443:7812x3401/1366x768/2025/12/05/1764974624332.jpeg",
+        "publishedAt": "2025-12-05T22:50:37Z",
+        "content": "<ul><li>Johnson (R-La.) has said he hopes to reveal a House GOP health care package early next week, though some sources are skeptical that will happen.</li><li>Thune (R-S.D.) has promised Democrats \u2026 [+3214 chars]"
     },
     {
         "source": {
@@ -144,16 +170,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Variety"
+            "id": "nbc-news",
+            "name": "NBC News"
         },
-        "author": "Brent Lang",
-        "title": "Theater Owners Worry Netflix Buying Warner Bros. Will Cripple Their Business: \u2018Hopefully the Deal Gets Killed\u2019 - Variety",
-        "description": "Theater owners and filmmakers worry the sale of Warner Bros. to Netflix will cripple their business and leave them with fewer films to show.",
-        "url": "https://variety.com/2025/film/news/theater-owners-netflix-buying-warner-bros-fewer-movies-ted-sarandos-1236601447/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2023/07/Netflix-LA-Headquarters.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2025-12-05T22:29:00Z",
-        "content": "Movie theater operators are reeling after Netflix, long viewed as public enemy No. 1, announced that it has a deal in place to buy Warner Bros. for $82.7 million. The sale, which still needs regulato\u2026 [+5347 chars]"
+        "author": "The Associated Press",
+        "title": "Bolsonaro's eldest son says he'll run for Brazil presidency in 2026 - NBC News",
+        "description": "SAO PAULO \u2014 Brazilian Sen.",
+        "url": "https://www.nbcnews.com/world/brazil/bolsonaros-eldest-son-says-ll-run-brazil-presidency-2026-rcna247686",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251205-Flvio-Bolsonaro-ew-504p-91fd61.jpg",
+        "publishedAt": "2025-12-05T22:21:13Z",
+        "content": "SAO PAULO Brazilian Sen. Fl\u00e1vio Bolsonaro, the eldest son of former President Jair Bolsonaro, said Friday that his father decided he should represent their political group and run for president in 20\u2026 [+1782 chars]"
     },
     {
         "source": {
@@ -187,12 +213,12 @@
             "name": "BBC News"
         },
         "author": null,
-        "title": "Meghan reaches out to estranged father after amputation reports, spokesman says - BBC",
-        "description": "Thomas Markle is reported to be seriously ill in hospital in the Philippines.",
-        "url": "https://www.bbc.com/news/articles/c0je4v8j0vzo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4f01/live/36e37940-d21c-11f0-be90-7bfb24e8b1c8.jpg",
-        "publishedAt": "2025-12-05T21:29:42Z",
-        "content": "The Duchess of Sussex has attempted to contact her estranged father, Thomas Markle, who is reported to be seriously ill in hospital in the Philippines.\r\nA spokesman for Meghan said: \"I can confirm sh\u2026 [+1344 chars]"
+        "title": "US Supreme Court agrees to hear case challenging birthright citizenship - BBC",
+        "description": "Donald Trump's controversial executive order to end birthright citizenship had been rejected by lower courts.",
+        "url": "https://www.bbc.com/news/articles/c208j0wrzrvo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12a7/live/f7be8d50-c937-11f0-8c06-f5d460985095.jpg",
+        "publishedAt": "2025-12-05T21:54:01Z",
+        "content": "Brandon Drenon,Washington DC and\r\nThe US Supreme Court has agreed to hear a case on whether some children born in the US have a constitutional right to citizenship.\r\nOn his first day in office in Jan\u2026 [+3640 chars]"
     },
     {
         "source": {
@@ -209,19 +235,6 @@
     },
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "The Wall Street Journal",
-        "title": "Vanity Fair, Olivia Nuzzi Agree to Part Ways - The Wall Street Journal",
-        "description": null,
-        "url": "https://www.wsj.com/business/media/vanity-fair-to-part-ways-with-journalist-olivia-nuzzi-f1f1ac6f",
-        "urlToImage": null,
-        "publishedAt": "2025-12-05T20:18:00Z",
-        "content": null
-    },
-    {
-        "source": {
             "id": "abc-news",
             "name": "ABC News"
         },
@@ -232,18 +245,5 @@
         "urlToImage": null,
         "publishedAt": "2025-12-05T20:01:03Z",
         "content": null
-    },
-    {
-        "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Gregory Svirnovskiy, Adam Wren, Kyle Cheney",
-        "title": "The Supreme Court gave Trump a big redistricting win. But the fight is just getting started. - Politico",
-        "description": "Trump and his allies are heaping pressure on holdout Republicans in Indiana, while Democrats eye gains elsewhere.",
-        "url": "https://www.politico.com/news/2025/12/05/trump-redistricting-fight-indiana-pressure-00678789",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F41%2F35%2F0025345a40909bb562df0ad29593%2Fimg-1399.jpg",
-        "publishedAt": "2025-12-05T19:21:18Z",
-        "content": "In the state Capitol, as members of the state House debated final passage of a map supporters argue would all but guarantee an entirely Republican congressional delegation from the current 7-2 split \u2026 [+5316 chars]"
     }
 ]
