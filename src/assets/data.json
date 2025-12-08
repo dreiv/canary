@@ -1,16 +1,16 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "MMA Fighting"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": "Damon Martin",
-        "title": "Alexandre Pantoja releases statement after gruesome injury ends title reign at UFC 323 - MMA Fighting",
-        "description": "Alexandre Pantoja lost his flyweight title after suffering a nasty arm injury in his fight with Joshua Van",
-        "url": "https://www.mmafighting.com/ufc/460366/alexandre-pantoja-releases-statement-after-gruesome-injury-ends-title-reign-at-ufc-323",
-        "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/12/gettyimages-2250450671.jpg?quality=90&strip=all&crop=0%2C3.2649157916994%2C100%2C78.539197786313&w=1200",
-        "publishedAt": "2025-12-07T06:45:00Z",
-        "content": "Alexandre Pantoja is understandably disappointed but still in good spirits after his flyweight title reign came to a shocking end after he suffered a gruesome injury in his fight against Joshua Van a\u2026 [+1989 chars]"
+        "author": "Virgile Ahissou, Ope Adetayo",
+        "title": "Soldiers announce apparent military coup in Benin - AP News",
+        "description": "A group of soldiers has appeared on Benin\u2019s state TV to announce the dissolution of the government in an apparent coup. The group, calling itself the Military Committee for Refoundation, announced the removal of the president and all state institutions. Lt. C\u2026",
+        "url": "https://apnews.com/article/benin-coup-soldiers-66ac8edf0e5acf6ebfa37c46131713c8",
+        "urlToImage": "https://dims.apnews.com/dims4/default/f204264/2147483647/strip/true/crop/5616x3159+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe4%2F65%2F7fa10e5eb47595fbf7676969c4ba%2F13d4b9ff7e3042fbbeba960db6309106",
+        "publishedAt": "2025-12-07T08:43:00Z",
+        "content": "COTONOU, Benin (AP) A group of soldiers appeared on Benin s state TV Sunday to announce the dissolution of the government in an apparent coup, the latest of many in West Africa.\r\nThe group, which cal\u2026 [+1717 chars]"
     },
     {
         "source": {
@@ -24,6 +24,19 @@
         "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/12/07/d7492f3a-7d75-427a-bfb6-978ac6adf9cc/thumbnail/1200x675/b972dffc8aab00c70e5c4b8e0cfd299b/petr-yan-point-winner-323.jpg",
         "publishedAt": "2025-12-07T06:22:30Z",
         "content": "History almost forgot about Petr Yan. Much of the excitement surrounding UFC 323 was fueled by Merab Dvalishvili's campaign to be the first fighter to make four successful UFC title defenses in one c\u2026 [+2967 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Suntimes.com"
+        },
+        "author": "Georgia Nicols",
+        "title": "Horoscope for Sunday, December 07, 2025 - Chicago Sun-Times",
+        "description": null,
+        "url": "https://chicago.suntimes.com/horoscopes/2025/12/07/horoscopes-today-sunday-december-07-2025",
+        "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+        "publishedAt": "2025-12-07T06:01:00Z",
+        "content": "Moon Alert\r\nAvoid shopping (except food and gas) and important decisions from 7:30 p.m. to 9 p.m. After that, the moon moves from Cancer into Leo.\r\nAries (March 21-April 19)\r\n Unexpected events relat\u2026 [+3818 chars]"
     },
     {
         "source": {
@@ -118,19 +131,6 @@
     },
     {
         "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Colin Sheeley, Marlene Lenthang, Matt Lavietes",
-        "title": "Video shows masked Border Patrol agent chasing woman back to her Louisiana home - Yahoo",
-        "description": "Masked immigration authorities were recorded on video this week following a woman back to her Louisiana home during what the Department of Homeland Security is calling a \u201ctargeted immigration enforcement operation.\u201dJacelynn Guzman, 23, was walking home Thursd\u2026",
-        "url": "https://www.nbcnews.com/news/us-news/video-shows-masked-border-patrol-agent-chasing-woman-louisiana-marrero-rcna247756",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251206-Louisiana-border-patrol-ch-1436-e3862b.jpg",
-        "publishedAt": "2025-12-07T01:31:00Z",
-        "content": "Masked immigration authorities were recorded on video this week following a woman back to her Louisiana home during what the Department of Homeland Security is calling a targeted immigration enforcem\u2026 [+3307 chars]"
-    },
-    {
-        "source": {
             "id": "buzzfeed",
             "name": "Buzzfeed"
         },
@@ -154,6 +154,19 @@
         "urlToImage": null,
         "publishedAt": "2025-12-07T00:33:29Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": null,
+        "title": "Hegseth won't commit to releasing video of second strike on alleged drug boat: \"We are reviewing it right now\" - CBS News",
+        "description": "\"We're reviewing the process, and we'll see,\" Defense Secretary Pete Hegseth said. \"Whatever we were to decide to release, we'd have to be very responsible about reviewing that right now.\"",
+        "url": "https://www.cbsnews.com/news/hegseth-wont-commit-to-releasing-video-second-strike-alleged-drug-boat/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/07/4d36e3f6-0b74-4dfc-b759-332bd9bf6145/thumbnail/1200x630/ea6b5025a0ac9c8173bcd4b086ffd3cc/gettyimages-2249782596.jpg",
+        "publishedAt": "2025-12-07T00:31:00Z",
+        "content": "Defense Secretary Pete Hegseth on Saturday refused to say whether the Pentagon would release video of the early September operation that targeted survivors of a strike on an alleged drug-smuggling bo\u2026 [+4071 chars]"
     },
     {
         "source": {
@@ -193,18 +206,5 @@
         "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/12/2025-12-05T161623Z_204238654_RC2EAIATD6WH_RTRMADP_3_HEALTH-USA-VACCINES-1024x683.jpg",
         "publishedAt": "2025-12-06T23:53:18Z",
         "content": "This article originally appeared on PolitiFact.\r\nSince roughly 1991, the U.S. Centers for Disease Control and Prevention has recommended all babies get a dose of the hepatitis B vaccine at birth. The\u2026 [+5612 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "New York Post"
-        },
-        "author": "Andrew Battifarano",
-        "title": "Texans\u2019 Braxton Berrios, influencer Alix Earle break up after two years - New York Post",
-        "description": "One of the NFL\u2019s celebrity couples is reportedly no more.",
-        "url": "https://nypost.com/2025/12/06/sports/texans-braxton-berrios-alix-earle-break-up-after-two-years/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/12/newspress-collage-khodvmck3-1765062886789.jpg?quality=75&strip=all&1765044958&w=1200",
-        "publishedAt": "2025-12-06T23:33:00Z",
-        "content": "One of the NFL\u2019s celebrity couples is reportedly no more. \r\nTexans wide receiver Braxton Berrios and social media star Alix Earle have broken up after two years together, People and Us Weekly reporte\u2026 [+1780 chars]"
     }
 ]
