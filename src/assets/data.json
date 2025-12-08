@@ -1,6 +1,45 @@
 [
     {
         "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Avery Lotz",
+        "title": "Trump pardoned him days ago. Now he's furious the Democrat is running for reelection. - Axios",
+        "description": "In pardoning Cuellar, Trump claimed the congressman was unfairly prosecuted.",
+        "url": "https://www.axios.com/2025/12/07/trump-cuellar-pardon-loyalty-reelection-democrat",
+        "urlToImage": "https://images.axios.com/TZM8HG4j8bKXlMJNF1taaXhuGyk=/0x0:8220x4624/1366x768/2025/12/07/1765125498515.jpg",
+        "publishedAt": "2025-12-07T17:45:51Z",
+        "content": "Driving the news: Trumpraged Sunday on Truth Social over Cuellar running for reelection asa Democrat, hours before Cuellar told Maria Bartiromo on Fox News he's still a Democrat.\r\n<ul><li>\"Such a lac\u2026 [+2156 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Eddie Pells",
+        "title": "Bama, Miami in, Notre Dame out and Indiana No. 1 in College Football Playoff rankings - AP News",
+        "description": "Alabama and Miami are in, Notre Dame is out and Indiana is No. 1 in the College Football Playoff\u2019s 12-team bracket. The undefeated Hoosiers vaulted to the top spot based on their history-making win in the Big Ten title game against Ohio State, which fell one \u2026",
+        "url": "https://apnews.com/article/college-football-playoff-bracket-7ea3841a2f3309d0f4eb0b5dbc835ee5",
+        "urlToImage": "https://dims.apnews.com/dims4/default/c0c9fa9/2147483647/strip/true/crop/7066x3975+0+368/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F57%2Ffc%2F2966a07fcf8c2ec701707f8f3de3%2Ff3cb9332384c4ac5bbfef69668d35c90",
+        "publishedAt": "2025-12-07T17:45:00Z",
+        "content": "Nobody paying attention for the past 24 months would be surprised to see Indiana yes, Indiana leading the way into this years College Football Playoff.\r\nBut anyone paying attention over the last 24 h\u2026 [+4229 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "Top Armed Services Dem says Sept. 2 strike video would show Republicans\u2019 description \u2018completely false\u2019 - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/Politics/top-armed-services-dem-sept-2-strike-video/story?id\\\\u003d128185897",
+        "urlToImage": null,
+        "publishedAt": "2025-12-07T16:41:15Z",
+        "content": null
+    },
+    {
+        "source": {
             "id": "politico",
             "name": "Politico"
         },
@@ -27,16 +66,42 @@
     },
     {
         "source": {
-            "id": "espn",
-            "name": "ESPN"
+            "id": null,
+            "name": "TheStreet"
         },
-        "author": "ESPN",
-        "title": "2025 Abu Dhabi Grand Prix as it happened: Norris wins epic 1st F1 title - ESPN",
-        "description": "Catch up lap-by-lap on the Abu Dhabi Grand Prix as Lando Norris wins his first F1 title in a thrilling season finale.",
-        "url": "https://www.espn.com/f1/story/_/id/47189488/f1-abu-dhabi-gp-yas-marina-2025-live-follow-latest-updates",
-        "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1207%2Fr1586197_1296x729_16%2D9.jpg",
-        "publishedAt": "2025-12-07T15:11:00Z",
-        "content": "Lando Norris won his first Formula 1 world title in a thrilling season finale at the Abu Dhabi Grand Prix.\r\nMax Verstappen won the race with Oscar Piastri second; Norris finished third which was enou\u2026 [+860 chars]"
+        "author": "Niall Ridgley, Celine Provini",
+        "title": "Netflix quietly drops Warner Bros. Discovery cable channels in sale - TheStreet",
+        "description": "Customers will have to shift to a new service to watch their cable favorites.",
+        "url": "https://www.thestreet.com/latest-news/netflix-quietly-drops-warner-bros-discovery-cable-channels-in-sale-discovery-disney-paramount-amazon-sports",
+        "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyNzkyMjg0/gettyimages-2224157341.jpg",
+        "publishedAt": "2025-12-07T15:17:00Z",
+        "content": "Key Points\r\n<ul><li>Warner Bros. Discovery will split off a new channel before the Netflix acquisition.</li><li>That spinoff will hold major cable channels and broadcast rights for a key type of prog\u2026 [+7172 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "New US Security Strategy aligns with Russia's vision, Moscow says - BBC",
+        "description": "The Kremlin welcomes the starkly worded document, which does not cast Russia as a threat to the US.",
+        "url": "https://www.bbc.com/news/articles/cpvd01g2kwwo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/188a/live/be3986b0-d379-11f0-a07d-73b3b022f974.png",
+        "publishedAt": "2025-12-07T15:04:46Z",
+        "content": "Russia has welcomed Donald Trump's new US National Security Strategy, calling it \"largely consistent\" with Moscow's vision. \r\nThe 33-page document, unveiled by the US administration last week, sugges\u2026 [+3656 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Windows Central"
+        },
+        "author": "Adam Hales",
+        "title": "Microsoft\u2019s Xbox bombed so badly that it got beat by a no\u2011name console - Windows Central",
+        "description": "As the Switch 2 leads Black Friday and the NEX Playground secures a spot in the top three, Xbox falls short and does not make the cut.",
+        "url": "https://www.windowscentral.com/gaming/xbox/xbox-did-so-badly-on-us-black-friday-sales-it-was-beaten-by-a-console-youve-never-heard-of",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/RjucbbXZaRyinz5p6rtSZ7-1305-80.jpg",
+        "publishedAt": "2025-12-07T15:00:21Z",
+        "content": "Black Friday has just wrapped up, and we now have a look at the top three best-selling consoles in the US, thanks to Circana. There is a bit of a surprise here, and it manages to beat out both PlaySt\u2026 [+2349 chars]"
     },
     {
         "source": {
@@ -53,6 +118,32 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Zachary Folk",
+        "title": "Powerball Jackpot Climbs To $875 Million\u2014But A Winner Would Get Much Less After Taxes - Forbes",
+        "description": "The next Powerball drawing will take place on Monday night.",
+        "url": "https://www.forbes.com/sites/zacharyfolk/2025/12/07/powerball-jackpot-climbs-to-875-million-but-a-winner-would-get-much-less-after-taxes/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68bd8815aa3dc186a7d17029/0x0.jpg?format=jpg&crop=3436,1934,x0,y355,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-12-07T14:58:55Z",
+        "content": "No tickets were sold matching all six numbers drawn on Saturday (13, 14, 26, 28, 44 and Powerball number 7), meaning the jackpot is growing again before the next drawing scheduled for Monday night.\r\n\u2026 [+1069 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Rolling Stone"
+        },
+        "author": "David Fear",
+        "title": "The 17 Best Movie Performances of 2025 - Rolling Stone",
+        "description": "From the return of Daniel Day-Lewis to not one but two great turns from Michael B. Jordan \u2014 these were the actors that made our year.",
+        "url": "http://www.rollingstone.com/tv-movies/tv-movie-lists/best-movie-performances-2025-1235473596/",
+        "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/12/Year-In-Review_MOVIE_Performance_NEW.jpg?w=1600&h=900&crop=1",
+        "publishedAt": "2025-12-07T14:00:40Z",
+        "content": "A mother grieving an unfathomable loss. Another mother who loses her mind. An angel who loses his wings. A small-town gumshoe trying to crack a murder case in clickity-clack heels. An unwelcome visit\u2026 [+16005 chars]"
+    },
+    {
+        "source": {
             "id": "bloomberg",
             "name": "Bloomberg"
         },
@@ -66,6 +157,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "BaltimoreRavens.com"
+        },
+        "author": null,
+        "title": "Who Ravens Fans Should Root for in Week 14 - Ravens Home | Baltimore Ravens \u2013 baltimoreravens.com",
+        "description": "Here\u2019s who to root for as the AFC North race heats up.",
+        "url": "https://www.baltimoreravens.com/news/ravens-fans-root-for-afc-north-playoff-race-steelers-bengals-pitcture",
+        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/ravens/wm4y2xncggmcn61mq39h",
+        "publishedAt": "2025-12-07T13:37:20Z",
+        "content": null
+    },
+    {
+        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
@@ -76,6 +180,19 @@
         "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1246498449.jpg?resize=1200,600",
         "publishedAt": "2025-12-07T13:00:00Z",
         "content": "We spend a lot of time on the road meeting with LPs, fellow investors, and founders. No matter where the conversation starts whether its in Singapore, Abu Dhabi, London, or anywhere else it often dri\u2026 [+4427 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Bloody Elbow"
+        },
+        "author": null,
+        "title": "Alexandre Pantoja counters Dana White's comments in first statement after shocking UFC 323 loss - Bloody Elbow",
+        "description": null,
+        "url": "https://bloodyelbow.com/2025/12/07/alexandre-pantoja-counters-dana-whites-comments-in-first-statement-after-shocking-ufc-323-loss/",
+        "urlToImage": null,
+        "publishedAt": "2025-12-07T13:00:00Z",
+        "content": "{\"en\":{\"access_disabled\":\"Internet access has been disabled on this device\",\"code\":\"Code\",\"custom_block_list\":\"it is on a custom block list\",\"email\":\"Email\",\"file_ext_blocked\":\"the file extension is \u2026 [+6792 chars]"
     },
     {
         "source": {
@@ -105,19 +222,6 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Tami Luhby",
-        "title": "Insurance coverage of hepatitis B vaccine won\u2019t change, industry and officials say - CNN",
-        "description": "Parents will still be able to get the hepatitis B vaccine for their children at no cost even though the US Centers for Disease and Control Prevention\u2019s vaccine advisers recommended a major change to the immunization practice.",
-        "url": "https://www.cnn.com/2025/12/07/health/hepatitis-b-vaccine-insurance-coverage",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1321548897-20251205205430606.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-12-07T12:00:59Z",
-        "content": "Parents will still be able to get the hepatitis B vaccine for their children at no cost even though the US Centers for Disease and Control Preventions vaccine advisers recommended a major change to t\u2026 [+3349 chars]"
-    },
-    {
-        "source": {
             "id": "politico",
             "name": "Politico"
         },
@@ -128,96 +232,5 @@
         "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F87%2F34%2Fe0d1dd554d5a84e0d55127b5ec33%2Frussia-ukraine-war-key-players-18496.jpg",
         "publishedAt": "2025-12-07T12:00:00Z",
         "content": "It was Witkoff who petitioned Jared Kushner, the presidents son-in-law, to help negotiate an Israel-Hamas peace deal in part because of his role in shaping the Abraham Accords during Trumps first ter\u2026 [+6946 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Travis M. Andrews, Janay Kingsberry",
-        "title": "Donald Trump\u2019s Kennedy Center is showier, emptier and more political - The Washington Post",
-        "description": "In 10 months, President Donald Trump has transformed the Kennedy Center. Now comes his biggest night yet: the Kennedy Center Honors.",
-        "url": "https://www.washingtonpost.com/entertainment/2025/12/07/trump-kennedy-center/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z2LA4SBSGX4SPQIYMTAUK5HDFU_size-normalized.jpg&w=1440",
-        "publishedAt": "2025-12-07T11:31:58Z",
-        "content": "On the day in February that President Donald Trump took over the John F. Kennedy Center for the Performing Arts, his new board ousted Deborah Rutter, the longtime president of the institution. She ga\u2026 [+107 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Live Science"
-        },
-        "author": "Jamie Carter",
-        "title": "'Heavenly rains': Ethereal structure in the sky rivals famous 'Pillars of Creation' \u2014 Space photo of the week - Live Science",
-        "description": "The twin telescopes of the Gemini Observatory mark 25 years of discovery as students name distant nebula Ua \u02bb\u014chi\u02bba Lan.",
-        "url": "https://www.livescience.com/space/astronomy/ethereal-structure-in-the-sky-rivals-pillars-of-creation-space-photo-of-the-week",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/EAj7mzKoWzraXrQm2rBjbS-1280-80.jpg",
-        "publishedAt": "2025-12-07T11:00:00Z",
-        "content": "What it is: Emission nebula NGC 6820 and open star cluster NGC 6823\r\nWhere it is: 6,000 light-years away in the constellation Vulpecula\r\nWhen it was shared: Nov. 19, 2025\r\nThis spectacular image of a\u2026 [+2826 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Associated Press",
-        "title": "Only 12 Pearl Harbor survivors remain. On the 84th anniversary, none can attend this year\u2019s remembrance - CNN",
-        "description": "Survivors of the 1941 Japanese bombing of Pearl Harbor have long been the center of a remembrance ceremony held each year on the military base\u2019s waterfront.",
-        "url": "https://www.cnn.com/2025/12/07/us/pearl-harbour-bombing-anniversary-hnk",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap23341631577849.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-12-07T10:36:51Z",
-        "content": "Survivors of the 1941 Japanese bombing of Pearl Harbor have long been the center of a remembrance ceremony held each year on the military bases waterfront.\r\nBut today only 12 are still alive all cent\u2026 [+5396 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Eric Bradner",
-        "title": "Why Indiana GOP voters want their senators to defy Trump\u2019s threats - CNN",
-        "description": "Republicans in the Indiana state Senate could give President Donald Trump a major political black eye this week \u2014 and the conservative voters who elected them say they don\u2019t mind.",
-        "url": "https://www.cnn.com/2025/12/07/politics/indiana-redistricting-republican-voters",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2242784414.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-12-07T10:00:58Z",
-        "content": "Republicans in the Indiana state Senate could give President Donald Trump a major political black eye this week and the conservative voters who elected them say they dont mind.\r\nThe state Senate is s\u2026 [+8587 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNET"
-        },
-        "author": "See full bio",
-        "title": "We Found the Truth: The Real Reason Your LED Lights Keep Dropping Dead - CNET",
-        "description": "Tired of constantly changing expensive LED bulbs? We asked experts why they fail.",
-        "url": "https://www.cnet.com/home/smart-home/we-found-the-truth-the-real-reason-your-led-lights-keep-dropping-dead/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/30e4c336bef0bd5f232a2571e74b40a3a997b62f/hub/2025/11/19/ece34f01-6620-45ff-b25b-0b9499fad7e0/gettyimages-2049505272.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2025-12-07T10:00:00Z",
-        "content": "LED bulbs come with big promises: Save lots of money on energy bills, get more customization over lighting and your lights will last for years without needing to be replaced. Most of those are true, \u2026 [+6509 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Emily Stewart",
-        "title": "America's economy is getting swallowed up by middlemen \u2014 and it's driving people crazy - Business Insider",
-        "description": "The real winners in today's economy are the middlemen \u2014 rich intermediary companies like Walmart, Airbnb, and Lyft that connect buyers and sellers.",
-        "url": "https://www.businessinsider.com/middlemen-supply-chains-america-economy-prices-amazon-uber-2025-12",
-        "urlToImage": "https://i.insider.com/69332c8571107c9f34577190?width=1200&format=jpeg",
-        "publishedAt": "2025-12-07T09:28:00Z",
-        "content": "Bill Gates has been right about a lot of things over the years Microsoft, mosquito nets, the risk of pandemics. One thing he was not so right about: the idea that the internet would cut out the econo\u2026 [+10180 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NPR"
-        },
-        "author": "The Associated Press",
-        "title": "A fire at a popular nightclub in India's Goa state kills at least 25, officials say - NPR",
-        "description": "At least 25 people, including tourists, were killed in a fire at a popular nightclub in India's Goa state, the state's chief minister said Sunday.",
-        "url": "https://www.npr.org/2025/12/07/nx-s1-5636547/fire-nightclub-india-goa",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8000x4500+0+417/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2Faf%2F64081053481b92f24e77705775d3%2Fap25341249180197.jpg",
-        "publishedAt": "2025-12-07T07:51:59Z",
-        "content": "NEW DELHI At least 25 people, including tourists, were killed in a fire at a popular nightclub in India's Goa state, the state's chief minister said Sunday.\r\nThe blaze occurred just past midnight in \u2026 [+1946 chars]"
     }
 ]
