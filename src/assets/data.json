@@ -4,13 +4,52 @@
             "id": "bloomberg",
             "name": "Bloomberg"
         },
-        "author": "Toby Alder, Winnie Hsu",
-        "title": "Asian Stocks Look Muted as Traders Await Fed Clues: Markets Wrap - Bloomberg.com",
-        "description": "Asian stocks were mixed as investors awaited clues about the Federal Reserve\u2019s policy path in its final interest-rate decision of the year.",
-        "url": "https://www.bloomberg.com/news/articles/2025-12-09/asian-stocks-look-muted-as-traders-await-fed-clues-markets-wrap",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiFUiH6H73Dg/v0/1200x675.png",
-        "publishedAt": "2025-12-10T04:06:00Z",
-        "content": "Asian stocks were mixed as investors awaited clues about the Federal Reserves policy path in its final interest-rate decision of the year.\r\nChinese property stocks ralliedBloomberg Terminal\r\non optim\u2026 [+286 chars]"
+        "author": "Ruth Carson, Matthew Burgess",
+        "title": "Global Bond Yields Hit 16-Year High on Fading Rate-Cut Bets - Bloomberg.com",
+        "description": "Global bond yields have risen to highs last seen in 2009 ahead of a key Federal Reserve policy meeting, signaling concerns that interest-rate cutting cycles from the US to Australia may be ending soon.",
+        "url": "https://www.bloomberg.com/news/articles/2025-12-10/-disappointment-trade-propels-global-bond-yields-to-2009-levels",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ip0AmUUU.xZc/v0/1200x800.jpg",
+        "publishedAt": "2025-12-10T06:54:00Z",
+        "content": "Global bond yields have risen to highs last seen in 2009 ahead of a key Federal Reserve policy meeting, signaling concerns that interest-rate cutting cycles from the US to Australia may be ending soo\u2026 [+346 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "KSL.com"
+        },
+        "author": "Sean Walker, KSL",
+        "title": "Dybantsa, Wright rally No. 10 BYU from 22-point 2nd-half deficit to top Clemson in Jimmy V Classic - KSL.com",
+        "description": "Wright beat the buzzer with a 3-pointer to rally No. 10 BYU from a 22-point second-half deficit for a 67-64 win over Clemson in Game 1 of the Jimmy V Classic.",
+        "url": "https://www.ksl.com/article/51416988/dybantsa-wright-rally-no-10-byu-from-22-point-2nd-half-deficit-to-top-clemson-in-jimmy-v-classic",
+        "urlToImage": "https://img.ksl.com/slc/3122/312297/31229766.jpeg?filter=kslv2/responsive_story_lg",
+        "publishedAt": "2025-12-10T06:22:30Z",
+        "content": "PROVO From his poster in Times Square to the second half at Madison Square Garden, AJ Dybantsa took over basketball in the Big Apple to set up BYU's biggest second-half comeback in program history.\r\n\u2026 [+4117 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "On3.com"
+        },
+        "author": "Griffin McVeigh",
+        "title": "Big 12 commissioner slams Notre Dame AD over CFP, ACC tirades - On3",
+        "description": ".",
+        "url": "https://www.on3.com/news/brett-yormark-calls-out-pete-bevacqua-over-college-football-playoff-jim-phillips-criticisms-his-behavior-has-been-egregious/",
+        "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2023/07/25071056/Brett-Yormark-3.jpg",
+        "publishedAt": "2025-12-10T05:47:03Z",
+        "content": "Notre Dame athletic director Pete Bevacqua has been quite outspoken against the ACC in recent days. This stems from Bevacqua feeling as if the conference strongly campaigned against the Irish in the \u2026 [+2228 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Why has the price of silver hit a record high? - BBC",
+        "description": "The price of the precious metal has topped $60 an ounce for the first time ever.",
+        "url": "https://www.bbc.com/news/articles/c62vn22523xo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fbc2/live/49b12f40-d564-11f0-b37d-73b50db83de9.jpg",
+        "publishedAt": "2025-12-10T05:13:58Z",
+        "content": "The price of silver has hit a record high ahead of an expected US Federal Reserve interest rate cut and as demand from the technology industry for the precious metal remains high.\r\nSilver crossed $60\u2026 [+2930 chars]"
     },
     {
         "source": {
@@ -27,55 +66,42 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "BBC News"
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
         },
-        "author": null,
-        "title": "Brazil: Chaos breaks out in Congress during Jair Bolsonaro sentence vote - BBC",
-        "description": "Scuffles broke out during a vote linked to attempts to reduce the former president's jail term.",
-        "url": "https://www.bbc.com/news/articles/cvg8m5lj2lzo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/85af/live/df141700-d56e-11f0-9283-e15cd9a722d2.jpg",
-        "publishedAt": "2025-12-10T03:34:48Z",
-        "content": "Brazil's parliament descended into chaos on Tuesday as conservative lawmakers continued to push a law which would reduce the prison sentence of former president Jair Bolsonaro. \r\nOne left-wing lawmak\u2026 [+3361 chars]"
+        "author": "Elizabeth Melimopoulos",
+        "title": "Democrat Eileen Higgins wins Miami mayoral election, defeats Trump\u2019s pick - Al Jazeera",
+        "description": "Democrat Eileen Higgins won Miami\u2019s run-off, giving Democrats fresh momentum before the midterms.",
+        "url": "https://www.aljazeera.com/news/2025/12/10/democrat-favoured-to-win-miami-mayoral-election-against-trump-backed-rival",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/12/AP25344031920079-1765329325.jpg?resize=1920%2C1440",
+        "publishedAt": "2025-12-10T03:29:27Z",
+        "content": "Democrat Eileen Higgins has won the Miami mayors race, defeating a Republican endorsed by US President Donald Trump and ending her partys nearly three-decade losing streak to give Democrats a boost i\u2026 [+3112 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Deseret News"
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
-        "author": "Jackson Payne",
-        "title": "3 takeaways from BYU\u2019s comeback win over Clemson in the Jimmy V Classic - Deseret News",
-        "description": "",
-        "url": "https://www.deseret.com/sports/2025/12/09/byu-clemson-basketball-jimmy-v-classic-madison-square-garden-3-takeaways/",
-        "urlToImage": "https://www.deseret.com/resizer/v2/7VRJO7IML5AZZB5JXBAKN5TQDM.jpg?focal=0%2C0&auth=a811e8a77299630f3bb9e81f4617c2d82fbfb89b420ee5e08ef3196c146abbb5&width=630",
-        "publishedAt": "2025-12-10T02:49:00Z",
-        "content": "NEW YORK CITY Its an all-time win for the Cougars.\r\nBYU, who trailed by 21 points at halftime, rallied for yet another second half surge to stun Clemson 67-64 on Rob Wright IIIs game-winning, buzzer-\u2026 [+2728 chars]"
+        "author": "Christopher Palmeri",
+        "title": "Mario Gabelli \u2018Likely\u2019 to Tender Warner Bros. to Paramount - Bloomberg.com",
+        "description": "Money manager Mario Gabelli said it\u2019s \u201chighly likely\u201d he will tender his clients\u2019 Warner Bros. Discovery Inc. shares to Paramount Skydance Corp. in an effort to spark a bidding war for the film and TV company.",
+        "url": "https://www.bloomberg.com/news/articles/2025-12-09/mario-gabelli-likely-to-tender-warner-bros-stock-to-paramount",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ielHtLIKGX1A/v0/1200x800.jpg",
+        "publishedAt": "2025-12-10T03:14:00Z",
+        "content": "Money manager Mario Gabelli said its highly likely he will tender his clients Warner Bros. Discovery Inc. shares to Paramount Skydance Corp. in an effort to spark a bidding war for the film and TV co\u2026 [+292 chars]"
     },
     {
         "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
+            "id": "abc-news",
+            "name": "ABC News"
         },
-        "author": "Doug  Myers, Abby  Dodge, Chelsea  Jones",
-        "title": "Eileen Higgins wins Miami mayoral runoff, breaking 30-year Democratic drought - CBS News",
-        "description": "Higgins defeated former city manager Emilio Gonzalez with 59% of the vote, pledging to tackle housing affordability, climate resilience, and restore trust at City Hall.",
-        "url": "https://www.cbsnews.com/miami/news/eileen-higgins-wins-miami-mayoral-runoff-breaking-30-year-democratic-drought/",
-        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/10/41406ee0-a3cf-47f1-8d93-fd9b8359dcac/thumbnail/1200x630/65eaa1d2c34ab70b4a5bbc2eb3d45452/gettyimages-2250971557.jpg",
-        "publishedAt": "2025-12-10T02:29:00Z",
-        "content": "Former Miami-Dade County Commissioner\u00a0Eileen Higgins\u00a0won Miami's mayoral runoff election Tuesday, marking the first time in more than 30 years that the city has elected a Democrat as mayor.\u00a0\r\nHiggins\u2026 [+5877 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Financial Times"
-        },
-        "author": "Anna Nicolaou, Alan Livsey, James Fontanella-Khan",
-        "title": "David Ellison lobbies Warner Bros shareholders to desert Netflix - Financial Times",
-        "description": "Paramount chief executive met investors in New York to push his hostile bid for the Hollywood studio group",
-        "url": "https://www.ft.com/content/5b804eb9-6b90-4f60-8bdf-7e4de51e1ad7",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9b418ebb-5092-4c5a-bc73-30e206c92906.jpg?source=next-barrier-page",
-        "publishedAt": "2025-12-10T02:10:45Z",
-        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+        "author": "ABC News",
+        "title": "Republicans unveil health care plan to counter Democratic effort to extend ACA subsidies - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/Politics/republicans-unveil-health-care-plan-counter-democratic-effort/story?id\\\\u003d128214708",
+        "urlToImage": null,
+        "publishedAt": "2025-12-10T02:57:22Z",
+        "content": null
     },
     {
         "source": {
@@ -170,19 +196,6 @@
     },
     {
         "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "ABC News",
-        "title": "Pennsylvania Gov. Josh Shapiro faces subpoena over private home security upgrades after firebombing - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/Politics/pennsylvania-gov-josh-shapiro-faces-subpoena-private-home/story?id\\\\u003d128255380",
-        "urlToImage": null,
-        "publishedAt": "2025-12-10T00:25:06Z",
-        "content": null
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -196,28 +209,15 @@
     },
     {
         "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Connor O'Brien",
-        "title": "\u2018It\u2019s done\u2019 \u2014 House Armed Services chair sees no need to further probe boat strike - Politico",
-        "description": null,
-        "url": "https://www.politico.com/live-updates/2025/12/09/congress/its-done-house-armed-services-chair-says-of-his-boat-strike-probe-00684108",
-        "urlToImage": "https://www.politico.com/dims4/default/ffab858/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fef%2F50%2Fcb2d3b5a4c89b1b3378d8f668c76%2Fcongress-defense-spending-86551.jpg",
-        "publishedAt": "2025-12-09T23:20:47Z",
-        "content": null
-    },
-    {
-        "source": {
             "id": null,
-            "name": "Rolling Stone"
+            "name": "Krebs on Security"
         },
-        "author": "Jon Blistein",
-        "title": "Trisha Yearwood, Chris Isaak Honor Raul Malo: \u2018One of the Finest Voices of Our Generation\u2019 - Rolling Stone",
-        "description": "Trisha Yearwood and Chris Isaak are among the artists who paid tribute to Raul Malo after the singular frontman for the Mavericks died on Dec. 8.",
-        "url": "http://www.rollingstone.com/music/music-country/raul-malo-mavericks-tributes-trisha-yearwood-chris-isaak-1235481262/",
-        "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/12/GettyImages-1341986131.jpg?w=1600&h=900&crop=1",
-        "publishedAt": "2025-12-09T23:04:29Z",
-        "content": "Trisha Yearwood remembered Raul Malo as \u201cone of the finest voices of our generation\u201d in a tribute to the frontman for the Mavericks, who died Monday (Dec. 8) at the age of 60. \u00a0\r\n\u201cI don\u2019t have words \u2026 [+2989 chars]"
+        "author": null,
+        "title": "Microsoft Patch Tuesday, December 2025 Edition - Krebs on Security",
+        "description": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed\u2026",
+        "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+        "urlToImage": "https://krebsonsecurity.com/wp-content/uploads/2022/07/winupdatedate.png",
+        "publishedAt": "2025-12-09T23:21:45Z",
+        "content": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already bei\u2026 [+3654 chars]"
     }
 ]
