@@ -1,6 +1,71 @@
 [
     {
         "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Erica Orden",
+        "title": "Trump seems to wave the white flag on his US attorneys gambit - Politico",
+        "description": "The president is pushing for an end to the so-called \u201cblue slip\u201d to solve for the disqualification of a handful of unconfirmed U.S. attorneys.",
+        "url": "https://www.politico.com/news/2025/12/13/donald-trump-us-attorneys-senate-confirmation-00689692",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F23%2F0e%2F7aff57534eee8ff13dce3ff26285%2Ftrump-22183.jpg",
+        "publishedAt": "2025-12-13T12:00:00Z",
+        "content": "The administrations tactics with U.S. attorneys bypassing the Senate or sidestepping federal judges to keep unvetted prosecutors in place are a crucial component of Trumps effort to deploy the Justic\u2026 [+5466 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Dana O\u2019Neil",
+        "title": "Sherrone Moore\u2019s firing and its shocking aftermath raises tough questions about the culture of Michigan\u2019s athletic department - CNN",
+        "description": "A series of scandals over the last several years begs a simple, yet critical question: Is what happened with Sherrone Moore a serious, but isolated, incident or a symbol of a broader, cultural problem within the walls of Michigan athletics?",
+        "url": "https://www.cnn.com/2025/12/13/sport/ncaa-college-football-sherrone-moore-university-of-michigan",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2249104700.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-12-13T10:00:58Z",
+        "content": "In the past three years, the University of Michigan athletic department:\r\n<ul><li>\r\n Chose not to renew the contract of its mens ice hockey coach, Mel Pearson, after an investigation found that the p\u2026 [+10760 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "TMZ"
+        },
+        "author": "TMZ Staff",
+        "title": "Stars Getting Into The Holiday Spirit 2025 - TMZ",
+        "description": "Hollywood's ringing in the 2025 holiday season the only way they know how: glam, glitter, and just a touch of chaos \ud83d\ude18!",
+        "url": "https://www.tmz.com/2025/12/13/stars-holiday-spirit-2025/",
+        "urlToImage": "https://imagez.tmz.com/image/ab/16by9/2025/12/09/aba259f2f21e4cf5b50bdfe60a3ba245_xl.jpg",
+        "publishedAt": "2025-12-13T08:45:29Z",
+        "content": "Hollywood's ringing in the 2025 holiday season the only way they know how: glam, glitter, and just a touch of chaos !\r\nFestive stars like Kylie Jenner proved even Christmas cant compete with her 'cuz\u2026 [+659 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Chris Isidore",
+        "title": "Powerball might have Mega Millions to thank for its latest $1 billion jackpot - CNN",
+        "description": "Whether or not anyone wins the billion-dollar Powerball jackpot on Saturday, at least one of the losers might already be known: Mega Millions.",
+        "url": "https://www.cnn.com/2025/12/13/business/powerball-billion-dollar-jackpot-mega-millions",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2248882976-20251212211922129.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-12-13T08:00:59Z",
+        "content": "Whether or not anyone wins the billion-dollar Powerball jackpot on Saturday, at least one of the losers might already be known: Mega Millions.\r\nPowerball tickets, priced at $2 apiece, are selling bri\u2026 [+3704 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "April Rubin",
+        "title": "Trump's White House ballroom construction draws lawsuit from preservationists - Axios",
+        "description": "\"No president is legally allowed to tear down portions of the White House without any review whatsoever,\" the lawsuit says.",
+        "url": "https://www.axios.com/2025/12/12/trump-ballroom-white-house-lawsuit",
+        "urlToImage": "https://images.axios.com/1uhLAH_AZTGiFGc2_Kji_7-rJeA=/0x57:4000x2307/1366x768/2025/12/12/1765559280318.jpeg",
+        "publishedAt": "2025-12-13T06:00:40Z",
+        "content": "<ul><li>Carol Quillen, the organization's president and CEO, said the National Trust was compelled to file the lawsuit because of its mandate of \"protecting places where our history happened.\"</li></\u2026 [+961 chars]"
+    },
+    {
+        "source": {
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
@@ -53,19 +118,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "The Seattle Times"
-        },
-        "author": "Greg Kim",
-        "title": "How Skagit Valley endured a record flood but escaped dire predictions - The Seattle Times",
-        "description": "The most dire predictions warned the Skagit River could rise 40 feet, overtopping a city floodwall.",
-        "url": "https://www.seattletimes.com/seattle-news/weather/how-skagit-valley-endured-a-record-flood-but-escaped-dire-predictions/",
-        "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/12/12122025_skagitflood_183525.jpg?d=1200x630",
-        "publishedAt": "2025-12-13T03:45:50Z",
-        "content": "SKAGIT COUNTY The sun set Thursday over the soggy and worried people of Western Washington while the fast-running Skagit River, full of sediment and debris, swelled.\r\nMore than 78,000 people througho\u2026 [+8020 chars]"
-    },
-    {
-        "source": {
             "id": "associated-press",
             "name": "Associated Press"
         },
@@ -105,6 +157,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "cleveland.com"
+        },
+        "author": "Chris Fedor, cleveland.com",
+        "title": "Donovan Mitchell rescues Cavs from rock bottom, sparks fourth-quarter turnaround in 130-126 win - Cleveland.com",
+        "description": "Donovan Mitchell\u2019s heroics saved Cleveland from its latest morale-zapping loss, as it rallied in the fourth quarter for a 130-126 victory.",
+        "url": "https://www.cleveland.com/cavs/2025/12/donovan-mitchell-rescues-cavs-from-embarrassing-loss-sparks-fourth-quarter-turnaround-in-130-126-win.html",
+        "urlToImage": "https://www.cleveland.com/resizer/v2/NJM3TPIMK5ANHF2WOQJZ4JFIMA.jpg?auth=14fbd2da9d94c6a732eaac7cf3b61d96da748fd3db7473e66acc183c6a812bb8&width=1280&smart=true&quality=90",
+        "publishedAt": "2025-12-13T02:55:00Z",
+        "content": "WASHINGTON Where would the Cavs be without Donovan Mitchell? \r\nIts a question Cavs coach Kenny Atkinson has asked rhetorically numerous times this season. \r\nThe answer on Friday night: rock bottom. \r\u2026 [+5488 chars]"
+    },
+    {
+        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
         },
@@ -115,19 +180,6 @@
         "urlToImage": "https://images.wsj.net/im-26232681/social",
         "publishedAt": "2025-12-13T02:24:00Z",
         "content": "SpaceX told employees it is preparing for a possible public offering next year, confirming a potential listing for a company that has built formidable rocket and satellite businesses since \r\nElon Mus\u2026 [+344 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Variety"
-        },
-        "author": "Michaela Zee",
-        "title": "LaKeith Stanfield to Star in Dennis Rodman \u201948 Hours in Vegas\u2019 Movie - Variety",
-        "description": "LaKeith Stanfield is taking over the role after Jonathan Majors was dropped from the film following his assault conviction.",
-        "url": "https://variety.com/2025/film/news/lakeith-stanfield-star-dennis-rodman-48-hours-in-vegas-movie-1236608033/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2025/12/stanfield-rodman-split.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2025-12-13T02:21:00Z",
-        "content": "LaKeith Stanfield is set to play NBA legend Dennis Rodman in Lionsgate\u2019s \u201c48 Hours in Vegas,\u201d taking over the role after Jonathan Majors was dropped from the film following his 2023 assault convictio\u2026 [+2298 chars]"
     },
     {
         "source": {
@@ -157,55 +209,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Justice.gov"
+            "id": "ars-technica",
+            "name": "Ars Technica"
         },
-        "author": null,
-        "title": "District of Columbia | U.S. Unseals Warrant for Tanker Seized by Coast Guard Off the Coast of Venezuela - Department of Justice (.gov)",
-        "description": "The United States Attorney\u2019s Office for the District of Columbia today obtained an order unsealing its seizure warrant for the M/T Skipper (IMO #9304667), announced U.S. Attorney Jeanine Ferris Pirro and FBI Director Kash Patel. \u00a0 \u00a0 \u00a0 \u00a0 \u00a0The seizure warrant w\u2026",
-        "url": "https://www.justice.gov/usao-dc/pr/us-unseals-warrant-tanker-seized-coast-guard-coast-venezuela",
-        "urlToImage": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--press-release.png",
-        "publishedAt": "2025-12-13T01:06:34Z",
-        "content": "WASHINGTON The United States Attorneys Office for the District of Columbia today obtained an order unsealing its seizure warrant for the M/T Skipper (IMO #9304667), announced U.S. Attorney Jeanine Fe\u2026 [+2617 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Steve  Hartman",
-        "title": "A man ate at the same Florida restaurant every day for a decade. When he stopped showing up, the chef went looking for him. - CBS News",
-        "description": "Charlie Hicks ate his lunch and dinner at the Shrimp Basket in Pensacola, Florida, every day for 10 years. When he suddenly stopped showing up, the chef went looking for him, and ultimately saved his life.",
-        "url": "https://www.cbsnews.com/news/shrimp-basket-pensacola-florida-restaurant-regular-rescued-chef/",
-        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/13/0bb39307-67ab-402e-b533-695830387037/thumbnail/1200x630/9f8f2ada6a37dc638fb95b3bc02ae194/1765587085020.png",
-        "publishedAt": "2025-12-13T00:55:08Z",
-        "content": "Pensacola, Florida \u2014 At the Shrimp Basket restaurant in Pensacola, Florida, one customer has been a constant presence. For lunch, he always orders a cup of gumbo, light on the rice, and asks to hold \u2026 [+2046 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NBCSports.com"
-        },
-        "author": "Josh Alper",
-        "title": "Jim Harbaugh \u201cstill processing\u201d Sherrone Moore\u2019s firing at Michigan - NBC Sports",
-        "description": "Sherrone Moore's dismissal as the University of Michigan's head coach and his ensuing arrest were major stories around the football world this week.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-harbaugh-still-processing-sherrone-moores-firing-at-michigan",
-        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/8f47975/2147483647/strip/true/crop/4534x2550+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2F6b%2Fbdcb10dc4f0b8b6f3514f7ba417a%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D17447587",
-        "publishedAt": "2025-12-13T00:26:27Z",
-        "content": "Sherrone Moores dismissal as the University of Michigans head coach and his ensuing arrest were major stories around the football world this week. \r\nMoores former boss in Ann Arbor weighed in on the \u2026 [+865 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "April Rubin",
-        "title": "Trump's White House ballroom construction draws lawsuit from preservationists - Axios",
-        "description": "\"No president is legally allowed to tear down portions of the White House without any review whatsoever,\" the lawsuit says.",
-        "url": "https://www.axios.com/2025/12/12/trump-ballroom-white-house-lawsuit",
-        "urlToImage": "https://images.axios.com/1uhLAH_AZTGiFGc2_Kji_7-rJeA=/0x57:4000x2307/1366x768/2025/12/12/1765559280318.jpeg",
-        "publishedAt": "2025-12-12T23:58:56Z",
-        "content": "<ul><li>Carol Quillen, the organization's president and CEO, said the National Trust was compelled to file the lawsuit because of its mandate of \"protecting places where our history happened.\"</li></\u2026 [+961 chars]"
+        "author": "Benj Edwards",
+        "title": "How OpenAI is using GPT-5 Codex to improve the AI tool itself - Ars Technica",
+        "description": "\u201cThe vast majority of Codex is built by Codex,\u201d OpenAI told us about its new AI coding agent.",
+        "url": "https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/AI_codehead_header-1152x648.jpg",
+        "publishedAt": "2025-12-13T00:33:52Z",
+        "content": null
     },
     {
         "source": {
@@ -222,28 +235,15 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Brian Todd",
-        "title": "Guardsman wounded in shooting can now breathe on his own as doctors hail \u2018miraculous\u2019 recovery - CNN",
-        "description": "More than two weeks after being shot in the head in Washington, DC, National Guard Staff Sargent Andrew Wolfe, 24, is breathing on his own and can stand with assistance, according to MedStar Washington Hospital Center.",
-        "url": "https://www.cnn.com/2025/12/12/politics/andrew-wolfe-national-guard-shooting-recovery-condition",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/picture1-20251127160137139.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-12-12T22:17:04Z",
-        "content": "More than two weeks after being shot in the head in Washington, DC, National Guard Staff Sargent Andrew Wolfe, 24, is breathing on his own and can stand with assistance, according to MedStar Washingt\u2026 [+2595 chars]"
-    },
-    {
-        "source": {
             "id": null,
-            "name": "CNET"
+            "name": "Live Science"
         },
-        "author": "See full bio",
-        "title": "Google Turns Ordinary Headphones Into Instant Language Interpreters - CNET",
-        "description": "Google is rolling out a beta version of the Translate app with support for more than 70 languages.",
-        "url": "https://www.cnet.com/tech/mobile/google-turns-ordinary-headphones-into-instant-language-interpreters/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/01aca5156ad8a5d6b5fe244096615355de8fe2c5/hub/2025/12/12/e798cf5f-5e98-4fa3-b815-97f10550642f/translate.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2025-12-12T21:40:00Z",
-        "content": "Google is taking on Apple's Live Translation feature with its own live speech-to-speech translations, and Google's version doesn't require a specific set of headphones. \r\nThe new Translate app, curre\u2026 [+990 chars]"
+        "author": "Brandon Specktor",
+        "title": "Comet 3I/ATLAS is getting greener and brighter as it approaches Earth, new images reveal - Live Science",
+        "description": "New images taken with the Gemini North telescope in Hawaii confirm that the interstellar comet 3I/ATLAS has gotten brighter and greener since its close flyby of the sun in October.",
+        "url": "https://www.livescience.com/space/comets/comet-3i-atlas-is-getting-greener-and-brighter-as-it-approaches-earth-new-images-reveal",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZNkz6R7Fw8jLZ8gi2pfmpJ-1920-80.jpg",
+        "publishedAt": "2025-12-12T22:05:40Z",
+        "content": "New telescope images of the interstellar comet 3I/ATLAS\r\n confirm that the mysterious object has gotten brighter and greener since its close approach to the sun in late October. This increase in acti\u2026 [+4210 chars]"
     }
 ]
