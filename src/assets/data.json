@@ -1,16 +1,55 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "BBC News"
+            "id": "cnn",
+            "name": "CNN"
         },
-        "author": null,
-        "title": "Trump urges Xi to free Hong Kong's Jimmy Lai - BBC",
-        "description": "Trump says he has asked China's Xi to \"consider\" releasing the Hong Kong pro-democracy tycoon.",
-        "url": "https://www.bbc.com/news/articles/cgr1z48rvxro",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0554/live/2897fda0-da25-11f0-9ca5-b38165a349c5.jpg",
-        "publishedAt": "2025-12-16T02:12:36Z",
-        "content": "US President Donald Trump says he has asked Chinese leader Xi Jinping to \"consider\" releasing Jimmy Lai, the Hong Kong pro-democracy tycoon who was earlier this week found guilty under the city's con\u2026 [+2338 chars]"
+        "author": "Piper Hudspeth Blackburn",
+        "title": "US military strikes 3 more boats in the Pacific Ocean, killing 8 - CNN",
+        "description": "The US military conducted strikes against three alleged drug-trafficking boats in the eastern Pacific Ocean on Monday, killing 8 people, according to US Southern Command.",
+        "url": "https://www.cnn.com/2025/12/15/politics/us-military-strikes-three-boats-pacific",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-22203463-35211-52-still.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-12-16T03:02:00Z",
+        "content": "The US military conducted strikes against three alleged drug-trafficking boats in the eastern Pacific Ocean on Monday, killing 8 people, according to US Southern Command.\r\nOn Dec. 15, at the directio\u2026 [+2391 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "Why does Bermuda appear to float? Scientists' discovery may be the answer - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/International/bermuda-float-scientists-discovery-answer/story?id\\\\u003d128418433",
+        "urlToImage": null,
+        "publishedAt": "2025-12-16T02:57:28Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NBCSports.com"
+        },
+        "author": "Mike Florio",
+        "title": "Tom Brady has advice for Patrick Mahomes, as he faces ACL surgery - NBC Sports",
+        "description": "Brady had same injury in 2008.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tom-brady-has-advice-for-patrick-mahomes-as-he-faces-acl-surgery",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/db73c8c/2147483647/strip/true/crop/5213x2932+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F81%2Faf%2F860771834f3c88b7e617838ad2f5%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1429871525",
+        "publishedAt": "2025-12-16T02:05:57Z",
+        "content": "In the first game of 2008, Tom Bradys ninth NFL season and eighth as a starter, he suffered a torn ACL. On Sunday, Patrick Mahomes had the same injury in his ninth NFL season and eighth as a starter.\u2026 [+1872 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Nintendo Life"
+        },
+        "author": "Liam Doolan",
+        "title": "Hollow Knight: Silksong Expansion Coming 2026, Hollow Knight: Switch 2 Edition Also Announced - Nintendo Life",
+        "description": "Free update and free upgrade confirmed",
+        "url": "https://www.nintendolife.com/news/2025/12/hollow-knight-silksong-expansion-coming-2026-hollow-knight-switch-2-edition-also-announced",
+        "urlToImage": "https://images.nintendolife.com/03662dec839a3/large.jpg",
+        "publishedAt": "2025-12-16T01:30:00Z",
+        "content": "Before the talented developer Team Cherry signs off for 2025, it's got some exciting news to share. The \"first big\" Hollow Knight: Silksong expansion is already in the works and is scheduled to arriv\u2026 [+1401 chars]"
     },
     {
         "source": {
@@ -41,19 +80,6 @@
     {
         "source": {
             "id": null,
-            "name": "Nintendoeverything.com"
-        },
-        "author": "Brian",
-        "title": "Holow Knight: Silksong \u2013 Sea of Sorrow DLC revealed - Nintendo Everything",
-        "description": "Holow Knight: Silksong has just revealed brand new DLC, which is known as Sea of Sorrow. Team Cherry is prepping it for a 2026 debut. Sea of Sorrow will feature new areas, bosses, tools, and more. Team Cherry teases: \u201cHornet\u2019s adventures continue in our nauti\u2026",
-        "url": "https://nintendoeverything.com/holow-knight-silksong-sea-of-sorrow-dlc-revealed/",
-        "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Holow-Knight-Silksong-Sea-of-Sorrow-DLC.jpg",
-        "publishedAt": "2025-12-16T01:01:51Z",
-        "content": "Holow Knight: Silksong has just revealed brand new DLC, which is known as Sea of Sorrow. Team Cherry is prepping it for a 2026 debut.\r\nSea of Sorrow will feature new areas, bosses, tools, and more. T\u2026 [+505 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "CBS Sports"
         },
         "author": "Tyler Sullivan",
@@ -66,29 +92,16 @@
     },
     {
         "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Maxwell Zeff",
-        "title": "OpenAI\u2019s Chief Communications Officer Is Leaving the Company - WIRED",
-        "description": "Hannah Wong told staff she is moving on to her \u201cnext chapter.\u201d The company will be running an executive search to find a replacement, according to a memo.",
-        "url": "https://www.wired.com/story/openai-chief-communications-officer-hannah-wong-leaves/",
-        "urlToImage": "https://media.wired.com/photos/69409cfc0b71868f273ffce7/191:100/w_1280,c_limit/OpenAI-Loses-Chief-Communications-Officer-Business-2218358100.jpg",
-        "publishedAt": "2025-12-16T00:10:00Z",
-        "content": "OpenAIs chief communications officer, Hannah Wong, announced internally on Monday that she is leaving the company in January, WIRED has learned. In a statement to WIRED, OpenAI spokesperson Kayla Woo\u2026 [+1695 chars]"
-    },
-    {
-        "source": {
             "id": null,
-            "name": "New Atlas"
+            "name": "CNBC"
         },
-        "author": "https://newatlas.com/author/bronwyn-thompson/",
-        "title": "Tanning beds mutate nearly your entire skin and triple melanoma risk - New Atlas",
-        "description": "For the first time, scientists have demonstrated how tanning beds cause fundamental DNA damage across almost the skin'se entire surface that results in a threefold risk of developing melanoma. It puts beyond doubt the dangers associated with using these devic\u2026",
-        "url": "https://newatlas.com/cancer/tanning-beds-skin-cells-cancer/",
-        "urlToImage": "https://assets.newatlas.com/dims4/default/0f94dcd/2147483647/strip/true/crop/1024x538+0+72/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff8%2Fa3%2F553361424c4c98c4226565a21e5f%2F1024px-tanning-bed-in-use.jpg&na.image_optimisation=0",
-        "publishedAt": "2025-12-16T00:06:20Z",
-        "content": "For the first time, scientists have demonstrated how tanning beds cause fundamental DNA damage across almost the skin'se entire surface that results in a threefold risk of developing melanoma. It put\u2026 [+5768 chars]"
+        "author": "Dan Mangan",
+        "title": "Trump sues BBC for $10 billion, claims defamation from Panorama documentary - CNBC",
+        "description": "The lawsuit by President Trump against the BBC accuses the British broadcaster of trying to influence the outcome of his 2024 election against Kamala Harris.",
+        "url": "https://www.cnbc.com/2025/12/16/trump-bbc-panorama-election-defamation-lawsuit.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108224302-17628789742025-11-11t081914z_739548775_rc27uhapu612_rtrmadp_0_britain-bbc.jpeg?v=1762878987&w=1920&h=1080",
+        "publishedAt": "2025-12-16T00:22:00Z",
+        "content": "President Donald Trump filed a defamation lawsuit against the BBC in Miami federal court on Monday night, seeking $10 billion in damages.\r\nThe civil complaint accuses the British Broadcasting Corpora\u2026 [+7195 chars]"
     },
     {
         "source": {
@@ -105,29 +118,29 @@
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": null,
+            "name": "Financial Times"
         },
-        "author": "Andrew Solender, Kate Santaliz",
-        "title": "Republican lawmakers slam Trump's \"inappropriate\" posts on Rob Reiner - Axios",
-        "description": "\"Most Americans want more and better from our president,\" said one House Republican.",
-        "url": "https://www.axios.com/2025/12/15/trump-rob-reiner-death-son-wife-post-republicans",
-        "urlToImage": "https://images.axios.com/QS5k7R7jRDEwsIcZJGjrCWHaf4M=/0x185:5000x2997/1366x768/2025/12/15/1765822531102.jpeg",
-        "publishedAt": "2025-12-15T22:59:06Z",
-        "content": "<ul><li>Trump said in a post on Truth Social that the Reiners died \"reportedly due to the anger he caused others through his massive, unyielding and incurable affliction ... known as TRUMP DERANGEMEN\u2026 [+1804 chars]"
+        "author": "Akila Quinio",
+        "title": "PayPal applies for US banking licence - Financial Times",
+        "description": "Fintech seeks to capitalise on Trump administration\u2019s looser regulatory environment in financial industry",
+        "url": "https://www.ft.com/content/420e25da-d8a3-4da1-8852-c4786c4c04f4",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffe2d24d5-84cd-4930-811d-737c30de5b5c.jpg?source=next-barrier-page",
+        "publishedAt": "2025-12-15T23:29:02Z",
+        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "abc-news",
+            "name": "ABC News"
         },
-        "author": "Zachary Folk",
-        "title": "Brown University Shooting: FBI Offering $50,000 Reward As Photos Of Suspect Released (Live Updates) - Forbes",
-        "description": "The FBI is now offering a $50,000 reward as it seeks a suspect in the Brown University mass shooting.",
-        "url": "https://www.forbes.com/sites/zacharyfolk/2025/12/15/brown-university-shooting-fbi-offering-50000-reward-as-photos-of-suspect-released-live-updates/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/693ed20b964e906eea8af713/0x0.jpg?format=jpg&crop=2093,1177,x0,y218,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2025-12-15T22:57:00Z",
-        "content": "The FBI is offering a reward of up to $50,000 for information leading to the arrest and conviction of the person who carried out the deadly mass shooting at Brown University, as authorities seek a su\u2026 [+1145 chars]"
+        "author": "ABC News",
+        "title": "Flash flood warning, evacuation notice in Seattle suburbs after levee breach - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/US/flash-flood-warning-evacuation-notice-seattle-suburb-after/story?id\\\\u003d128431193",
+        "urlToImage": null,
+        "publishedAt": "2025-12-15T22:58:38Z",
+        "content": null
     },
     {
         "source": {
@@ -141,19 +154,6 @@
         "urlToImage": "https://miro.medium.com/v2/resize:fit:779/1*X5oQsHtNchJOdD4YqWiY7w.png",
         "publishedAt": "2025-12-15T22:46:11Z",
         "content": "The top panel shows an image of 3I/ATLAS, taken on December 15, 2025 at 02:28:12 UTC on a 0.25-meter telescope in Calabria, Italy. The bottom panel includes the brightness map from a Larson-Sekanina \u2026 [+5735 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Financial Times"
-        },
-        "author": "Madeleine Speed",
-        "title": "Magnum moves to oust chair of Ben & Jerry\u2019s - Financial Times",
-        "description": "Anuradha Mittal told she is no longer eligible to serve on the ice cream maker\u2019s board",
-        "url": "https://www.ft.com/content/7513da03-ac49-4d2e-9718-2af2b7fd8188",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F503d7bc1-4079-4bb0-b76b-fca5202603f4.jpg?source=next-barrier-page",
-        "publishedAt": "2025-12-15T22:40:35Z",
-        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
     },
     {
         "source": {
@@ -209,41 +209,15 @@
     },
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
+            "id": "abc-news",
+            "name": "ABC News"
         },
-        "author": "Matthew Perrone",
-        "title": "FDA OKs libido-boosting pill for older women who have gone through menopause - AP News",
-        "description": "U.S. health officials have expanded approval of a drug that boosts libido in women who report stress due to a low sex drive. The Sprout Pharmaceuticals drug, Addyi, is now approved for women up to age 65 who've gone through menopause. Previously, the once-a-d\u2026",
-        "url": "https://apnews.com/article/women-libido-addyi-pill-fda-sexual-health-a6b34c5c94cb31f5908b200097f983da",
-        "urlToImage": "https://dims.apnews.com/dims4/default/037935d/2147483647/strip/true/crop/3648x2052+0+342/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcc%2F36%2F43bc60b19584a2ae27558b22ef9b%2Fbd91fdfb3dc841ac9b068ed2642e0cd6",
-        "publishedAt": "2025-12-15T21:31:00Z",
-        "content": "WASHINGTON (AP) U.S. health officials have expanded approval of a much-debated drug aimed at boosting female libido, saying the once-a-day pill can now be taken by postmenopausal women up to 65 years\u2026 [+2987 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Whitehouse.gov"
-        },
-        "author": null,
-        "title": "DESIGNATING FENTANYL AS A WEAPON OF MASS DESTRUCTION - The White House (.gov)",
-        "description": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1.\u00a0 Purpose and",
-        "url": "https://www.whitehouse.gov/presidential-actions/2025/12/designating-fentanyl-as-a-weapon-of-mass-destruction/",
-        "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg",
-        "publishedAt": "2025-12-15T20:50:21Z",
-        "content": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:\r\nSection1.\u00a0 Purpose and Policy.\u00a0 Illicit fentanyl is closer to a che\u2026 [+4532 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Lauren Forristal",
-        "title": "Google\u2019s \u2018dark web report\u2019 feature will no longer be available starting in February - TechCrunch",
-        "description": "Launched initially about a year and a half ago, this tool aimed to help users monitor their personal information on the dark web.",
-        "url": "https://techcrunch.com/2025/12/15/googles-dark-web-report-feature-will-no-longer-be-available-starting-in-february/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/Screenshot-2023-03-07-at-4.03.05-PM.png?resize=1171,1200",
-        "publishedAt": "2025-12-15T19:19:18Z",
-        "content": "Google has revealed that its dark web report feature will be discontinued starting February 16, 2026. Launched initially about a year and a half ago, this tool aimed to help users monitor their perso\u2026 [+2047 chars]"
+        "author": "MATTHEW PERRONE AP health writer",
+        "title": "FDA OKs libido-boosting pill for women who have gone through menopause - ABC News",
+        "description": "U.S. health officials have expanded approval of a drug that boosts libido in women who report stress due to a low sex drive",
+        "url": "https://abcnews.go.com/Health/wireStory/fda-oks-libido-boosting-pill-women-menopause-128425145",
+        "urlToImage": "https://i.abcnewsfe.com/a/165d5b23-638f-419a-a2db-a0533df25057/wirestory_a6b34c5c94cb31f5908b200097f983da_16x9.jpg?w=1600",
+        "publishedAt": "2025-12-15T21:02:54Z",
+        "content": "WASHINGTON -- U.S. health officials have expanded approval of a much-debated drug aimed at boosting female libido, saying the once-a-day pill can now be taken by women older than 65. \r\nThe announceme\u2026 [+2666 chars]"
     }
 ]
