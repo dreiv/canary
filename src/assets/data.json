@@ -2,6 +2,58 @@
     {
         "source": {
             "id": null,
+            "name": "CNBC"
+        },
+        "author": "Yun Li",
+        "title": "Tricolor executives charged with 'systematic fraud' after subprime auto lender roiled banking sector - CNBC",
+        "description": "Prosecutors allege senior managers orchestrated schemes that allowed Tricolor to obtain billions of dollars from lenders by misrepresenting collateral.",
+        "url": "https://www.cnbc.com/2025/12/17/tricolor-execs-charged-with-systematic-fraud-after-subprime-auto-lender-roiled-banking-sector.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108242888-1765977039968-gettyimages-2236768776-TRICOLOR_LENDER.jpeg?v=1765977098&w=1920&h=1080",
+        "publishedAt": "2025-12-17T13:07:21Z",
+        "content": "U.S. prosecutors charged top executives of bankrupt subprime auto lender Tricolor Holdings with what they described as a years-long, \"systematic fraud\" scheme that sent shockwaves through the banking\u2026 [+1768 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Starmer calls doctors' strike 'dangerous' as five-day walkout begins - BBC",
+        "description": "The doctors' union, the British Medical Association, said it was time the government came up with \"a genuinely long-term plan\" on pay and jobs.",
+        "url": "https://www.bbc.com/news/articles/c98nqz29vg2o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4fc2/live/f5dcd320-db4d-11f0-aae2-2191c0e48a3b.jpg",
+        "publishedAt": "2025-12-17T12:40:29Z",
+        "content": "Nick Triggle,Health correspondent,\r\nJim Reed,Health reporterand\r\nPhilippa Roxby,Health reporter\r\nPrime Minister Keir Starmer has said the latest five-day strike by doctors in England is \"dangerous an\u2026 [+6575 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "PRNewswire"
+        },
+        "author": null,
+        "title": "Warner Bros. Discovery Board of Directors Unanimously Recommends Shareholders Reject Paramount Tender Offer - PR Newswire",
+        "description": "Reiterates Recommendation in Support of Netflix Combination, Which Represents Superior, More Certain Value for Shareholders Paramount Offer Reflects Inadequate...",
+        "url": "https://www.prnewswire.com/news-releases/warner-bros-discovery-board-of-directors-unanimously-recommends-shareholders-reject-paramount-tender-offer-302644592.html",
+        "urlToImage": null,
+        "publishedAt": "2025-12-17T12:00:00Z",
+        "content": "Reiterates Recommendation in Support of Netflix Combination, Which Represents Superior, More Certain Value for Shareholders \r\nParamount Offer Reflects Inadequate Value and Imposes Numerous, Significa\u2026 [+22321 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Samantha Schmidt, Karen DeYoung, Dan Lamothe",
+        "title": "Trump announces \u2018complete blockade\u2019 of sanctioned oil tankers to Venezuela - The Washington Post",
+        "description": "In a Truth Social post, President Donald Trump also declared the government of President Nicol\u00e1s Maduro a foreign terrorist organization.",
+        "url": "https://www.washingtonpost.com/world/2025/12/16/trump-venezuela-oil-tanker-blockade/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CKBPEMQQ6XZOXQQLAAKZMA6CMA.JPG&w=1440",
+        "publishedAt": "2025-12-17T11:13:53Z",
+        "content": "President Donald Trump on Tuesday ordered a total and complete blockade of all sanctioned oil tankers entering or leaving Venezuela, a dramatic escalation in his months-long pressure campaign against\u2026 [+43 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "NPR"
         },
         "author": "",
@@ -24,6 +76,19 @@
         "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F72%2F00%2F209ffad748b9bbe4d54f0aa40d7d%2Fbesttvmovies2025-2b.jpg",
         "publishedAt": "2025-12-17T11:00:00Z",
         "content": "Whether you plan to head out to the theater or binge from the couch, our critics have gathered together their favorite films and TV shows of 2025. You can search by genre and where you can see it. Ha\u2026 [+21 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "Scott Neuman",
+        "title": "Recent attacks have been 'inspired' by Islamic State. What does that mean? - NPR",
+        "description": "A decade ago, the self-proclaimed Islamic State group held vast swaths of territory across Iraq and Syria, but President Trump declared it destroyed in 2019.",
+        "url": "https://www.npr.org/2025/12/17/nx-s1-5645825/isis-islamic-australia-syria",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3808x2142+0+220/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2F98%2Fe3e174d2464db413218dd1729fa4%2Fgettyimages-646639778.jpg",
+        "publishedAt": "2025-12-17T10:01:00Z",
+        "content": "Just over a decade ago, the self-proclaimed Islamic State (ISIS) held vast swaths of territory across Iraq and Syria, carried out attacks that shocked the world, and regularly flooded social media wi\u2026 [+5380 chars]"
     },
     {
         "source": {
@@ -54,19 +119,6 @@
     {
         "source": {
             "id": null,
-            "name": "CNBC"
-        },
-        "author": "Yeo Boon Ping",
-        "title": "CNBC Daily Open: Beauty is in the eye of the U.S. jobs report beholder - CNBC",
-        "description": "Whether you're a bull or a bear, Tuesday's tea leaves will show you what you want to see \u2014 but beware confirmation bias.",
-        "url": "https://www.cnbc.com/2025/12/17/cnbc-daily-open-beauty-is-in-the-eye-of-the-us-jobs-report-beholder.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108240301-1765407166557-gettyimages-2251250913-anotherday160738026_3esduifh.jpeg?v=1765407298&w=1920&h=1080",
-        "publishedAt": "2025-12-17T07:30:02Z",
-        "content": "The U.S. November jobs report has something for everybody. \r\nThose convinced of weakness will highlight the higher-than-expected unemployment rate as well as the number of jobs shrinking in October. \u2026 [+2431 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Heat.com"
         },
         "author": "Steve Aschburner",
@@ -93,6 +145,19 @@
     {
         "source": {
             "id": null,
+            "name": "Goheels.com"
+        },
+        "author": null,
+        "title": "Lucas: Position Of Influence - University of North Carolina Athletics - University of North Carolina Athletics",
+        "description": "Tuesday's win highlighted off the court efforts by the program.",
+        "url": "https://goheels.com/news/2025/12/17/mens-basketball-lucas-position-of-influence",
+        "urlToImage": "https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Func.sidearmsports.com%2Fimages%2F2025%2F12%2F16%2FVeesaar_Henri.ETSU.mbb.1458.jpg&width=1600&type=jpeg",
+        "publishedAt": "2025-12-17T06:23:02Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
             "name": "WPVI-TV"
         },
         "author": "6abc Digital Staff",
@@ -115,6 +180,19 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-2025-12-15t200012z-163948740-rc26hiaoat3e-rtrmadp-3-hongkong-security-lai-daughter.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2025-12-17T04:32:00Z",
         "content": "The guilty verdict handed down this week to Hong Kong media tycoon and democracy advocate Jimmy Lai was expected but is still devastating, his daughter Claire Lai told CNNs Jim Sciutto, blaming what \u2026 [+6496 chars]"
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Sophia Cai",
+        "title": "British prime minister pressures FIFA to cut World Cup ticket prices - Politico",
+        "description": "He and Zohran Mamdani joined fan groups in pushing FIFA to make the 2026 World Cup more affordable, as outrage grows over dynamic pricing.",
+        "url": "https://www.politico.com/news/2025/12/16/british-prime-minister-pressures-fifa-to-cut-world-cup-ticket-prices-00694582",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F9e%2Fb7%2Fb327aae24de3a2a7ef4bd1a8bf2b%2Fbritain-politics-66139.jpg",
+        "publishedAt": "2025-12-17T04:27:59Z",
+        "content": "Across the Atlantic, New York City Mayor-elect Zohran Mamdani has also seized on the issue, pledging to appoint a World Cup czar to push FIFA to lower prices ahead of the 2026 tournament, which will \u2026 [+2120 chars]"
     },
     {
         "source": {
@@ -145,32 +223,6 @@
     {
         "source": {
             "id": null,
-            "name": "Financial Times"
-        },
-        "author": "Lauren Fedor",
-        "title": "JD Vance touts Donald Trump\u2019s economy to shift message on cost of living - Financial Times",
-        "description": "Vice-president urges patience on affordability after Trump veers off script on affordability crisis",
-        "url": "https://www.ft.com/content/a03d9bb4-16c3-4343-a667-5ef5dbdc6b64",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdc5a25dc-ef4a-4609-8bfe-4da6f9470bf0.jpg?source=next-barrier-page",
-        "publishedAt": "2025-12-17T02:54:59Z",
-        "content": "Complete digital access to quality analysis and expert insights, complemented with our award-winning Weekend Print edition.\r\n<ul><li></li>Everything in Print<li></li>Weekday Print Edition<li></li>FT \u2026 [+231 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "On3.com"
-        },
-        "author": "Clayton Sayfie",
-        "title": "Jim Harbaugh discusses texts to Sherrone Moore after firing, Michigan coaching search - On3",
-        "description": "Former Michigan Wolverines football head coach Jim Harbaugh shares his message to the fired and disgraced Sherrone Moore.",
-        "url": "https://www.on3.com/teams/michigan-wolverines/news/michigan-wolverines-football-jim-harbaugh-on-texts-with-sherrone-moore/",
-        "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2024/09/08215918/Jim-Harbaugh-2.jpg",
-        "publishedAt": "2025-12-17T01:26:21Z",
-        "content": "Legendary former Michigan Wolverines football head coach Jim Harbaugh has led the Los Angeles Chargers to a 10-4 start and likely playoff spot in his second season on the job. He joined the Dan Patri\u2026 [+1902 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "PBS"
         },
         "author": null,
@@ -196,28 +248,15 @@
     },
     {
         "source": {
-            "id": "the-verge",
-            "name": "The Verge"
+            "id": null,
+            "name": "Gizmodo.com"
         },
-        "author": "John Higgins",
-        "title": "Samsung\u2019s 2026 Micro RGB LED TVs can actually fit in your living room - The Verge",
-        "description": "The new TVs will range in size from 55 to 100 inches, but pricing details are yet to be released.",
-        "url": "https://www.theverge.com/news/845760/samsung-micro-rgb-led-ces-2026",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/R95H_PERS.jpg?quality=90&strip=all&crop=0%2C8.248787127266%2C100%2C83.502425745468&w=1200",
-        "publishedAt": "2025-12-16T23:00:00Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new Micro RGB TVs range in size from 100 inches down to 55 inches and join the 115-inch MR95F released in the fall.\r\nThe new Micro RGB TVs range in size from\u2026 [+2894 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": null,
-        "title": "Measles outbreaks worsen in South Carolina, Arizona and Utah - CBS News",
-        "description": "Nationally, the measles case count is nearing 2,000 for a disease that has been considered eliminated in the U.S. since 2000, a result of routine childhood vaccinations.",
-        "url": "https://www.cbsnews.com/news/measles-outbreaks-worsen-south-carolina-arizona-utah/",
-        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/12/16/8e4d8e80-d92f-4578-a70f-32927a97724f/thumbnail/1200x630/7dcce29c52a79b25a5f3bc8aac3c5333/gettyimages-2242752228.jpg",
-        "publishedAt": "2025-12-16T22:46:00Z",
-        "content": "Measles outbreaks are growing along the Utah-Arizona border and in South Carolina, where hundreds are in quarantine.\u00a0\r\nBetween Friday and Tuesday, South Carolina health officials confirmed 27 new mea\u2026 [+3897 chars]"
+        "author": "Ed Cara",
+        "title": "Fossilized Bee Nests Inside Skeletons Are Unlike Anything We\u2019ve Seen Before - Gizmodo",
+        "description": "In a first, burrowing bees have been discovered nesting inside the fossil remains of other mammals.",
+        "url": "https://gizmodo.com/fossilized-bee-nests-inside-skeletons-are-unlike-anything-weve-seen-before-2000700261",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/12/ancient-bees-1200x675.jpg",
+        "publishedAt": "2025-12-17T00:05:11Z",
+        "content": "Scientists studying a Caribbean island cave have unearthed something unexpected: ancient bees very much unlike the hive-dwelling insects we\u2019re most familiar with.\r\nFor the first time ever, paleontolo\u2026 [+4372 chars]"
     }
 ]
