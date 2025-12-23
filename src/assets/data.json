@@ -1,16 +1,81 @@
 [
     {
         "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "Moscow car bomb kills Russian general - Al Jazeera",
+        "description": "Investigators say the possibility that the attack is linked to Ukrainian special forces is one line of inquiry.",
+        "url": "https://www.aljazeera.com/news/2025/12/22/moscow-car-bomb-kills-russian-general",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-22T073751Z_1627215563_RC2JLIAIO2FX_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-BOMB-1766389315.jpg?resize=1920%2C1440",
+        "publishedAt": "2025-12-22T07:39:18Z",
+        "content": "A car bomb in southern Moscow has killed a senior Russian general, investigators have said in a statement.\r\nRussias Investigative Committee reported on Monday that it had opened an investigation into\u2026 [+953 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Rod McGuirk",
+        "title": "Bondi Beach shooting suspect conducted firearms training with his father, Australian police say - AP News",
+        "description": "A man accused of killing 15 people at Sydney\u2019s Bondi Beach allegedly conducted firearms training with his father. A police statement of facts was made public on Monday after Naveed Akram's video court appearance from a Sydney hospital. Officers wounded Akram \u2026",
+        "url": "https://apnews.com/article/australia-bondi-shooting-jewish-video-court-4dd61a4343aa3f5e3220906b17fa3154",
+        "urlToImage": "https://dims.apnews.com/dims4/default/7e0cdb7/2147483647/strip/true/crop/8211x4619+0+428/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcb%2F13%2F934cd15a0c23344c1472c81c51d0%2Fd7086618b79c4271815a6d127d7e7f63",
+        "publishedAt": "2025-12-22T07:32:00Z",
+        "content": "MELBOURNE, Australia (AP) A man accused of killing 15 people at Sydneys Bondi Beach conducted firearms training in an area of New South Wales state outside of Sydney with his father, Australian polic\u2026 [+3108 chars]"
+    },
+    {
+        "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "Hollywood Reporter"
+        },
+        "author": "Carly Thomas, Abid Rahman",
+        "title": "James Ransone, \u2018The Wire\u2019 and \u2018It: Chapter Two\u2019 Actor, Dies at 46 - The Hollywood Reporter",
+        "description": "He also appeared in 'Tangerine,' 'The Black Phone,' 'Sinister' and 'Generation Kill.'",
+        "url": "http://www.hollywoodreporter.com/movies/movie-news/james-ransone-dead-the-wire-it-chapter-two-actor-1236456278/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/12/James-Ransone-obit-temp-getty-H-2025.png?w=1296&h=730&crop=1",
+        "publishedAt": "2025-12-22T07:07:30Z",
+        "content": "James Ransone, the versatile character actor best known for his roles in The Wire, Tangerine, Generation Kill, It: Chapter Two and The Black Phone, died on Dec. 19. He was 46.\r\nRansone died by suicid\u2026 [+3280 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "",
+        "title": "CBS News chief Bari Weiss pulls '60 Minutes' story, sparking outcry - NPR",
+        "description": "CBS News Editor-in-Chief Bari Weiss pulled a 60 Minutes segment on allegations of abuses at an El Salvador detention center where the Trump administration sent hundreds of Venezuelan migrants.",
+        "url": "https://www.npr.org/2025/12/22/g-s1-103282/cbs-chief-bari-weiss-pulls-60-minutes-story",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3f%2F68%2F8d02054c48bda6040cf3e049415e%2Fgettyimages-2194604196.jpg",
+        "publishedAt": "2025-12-22T06:31:28Z",
+        "content": "Just a day and a half before it was set to be broadcast, new CBS News Editor-in-Chief Bari Weiss pulled a planned 60 Minutes investigative segment centering on allegations of abuses at an El Salvador\u2026 [+5586 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Patriots.com"
         },
         "author": null,
-        "title": "South East Asian bloc to meet in bid to end Thailand-Cambodia conflict - BBC",
-        "description": "This was the first meeting between officials of Thailand and Cambodia since fighting resumed this month.",
-        "url": "https://www.bbc.com/news/articles/c5ydej888n9o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3704/live/f5160cc0-dee7-11f0-8fd8-a790711c1fce.jpg",
-        "publishedAt": "2025-12-22T04:27:38Z",
-        "content": "South East Asia's top diplomats met on Monday in Malaysia in a bid to end deadly border clashes between Thailand and Cambodia that have killed at least 41 people and displaced close to one million ot\u2026 [+2467 chars]"
+        "title": "Rapid Recap: Maye Powers Patriots Past Ravens, Secure Playoff Spot with 28-24 Week 16 Win on Sunday Night Football - Official website of the New England Patriots",
+        "description": "The New England Patriots and Baltimore Ravens battled back and forth during Week 16\u2019s Sunday Night Football game, with the Patriots pulling out the late victory.",
+        "url": "https://www.patriots.com/news/rapid-recap-maye-powers-patriots-past-ravens-secure-playoff-spot-with-28-24-week-16-win-on-sunday-night-football",
+        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/fm0zchkpjpmbdvpdszvk",
+        "publishedAt": "2025-12-22T04:37:24Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NBCSports.com"
+        },
+        "author": "Mike Florio",
+        "title": "New angle emerges of DK Metcalf fan interaction - NBC Sports",
+        "description": "In an NFL stadium, cameras are everywhere.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-angle-emerges-of-dk-metcalf-fan-interaction",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/c262956/2147483647/strip/true/crop/5100x2869+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8a%2F0f%2Fbf77725b47eba503cf03d03c8859%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2252474716",
+        "publishedAt": "2025-12-22T04:24:08Z",
+        "content": "In an NFL stadium, cameras are everywhere. The network has them. The league has them.\r\nThe fans have them.\r\nA new angle, as shot by someones cell phone device, has emerged of Steelers receiver DK Met\u2026 [+827 chars]"
     },
     {
         "source": {
@@ -40,19 +105,6 @@
     },
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "The Wall Street Journal",
-        "title": "CBS News Pulls \u201860 Minutes\u2019 Segment; Correspondent Calls Decision Political - The Wall Street Journal",
-        "description": null,
-        "url": "https://www.wsj.com/business/media/cbs-news-pulls-60-minutes-segment-correspondent-calls-decision-political-841ea812",
-        "urlToImage": null,
-        "publishedAt": "2025-12-22T02:57:00Z",
-        "content": null
-    },
-    {
-        "source": {
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
@@ -67,40 +119,40 @@
     {
         "source": {
             "id": null,
-            "name": "NBCSports.com"
+            "name": "KSL.com"
         },
-        "author": "Mike Florio",
-        "title": "Referee Carl Cheffers explains two OPI calls late in Steelers-Lions - NBC Sports",
-        "description": "The ending to Sunday's Steelers-Lions game included not one but two offensive pass interference calls that required further explanation from referee Carl Cheffers.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/referee-carl-cheffers-explains-two-opi-calls-late-in-steelers-lions",
-        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/be17bf3/2147483647/strip/true/crop/7655x4306+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F81%2F08%2Fe3baf7b249468a8b3157a5e91419%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2252470722",
-        "publishedAt": "2025-12-22T02:28:56Z",
-        "content": "The ending to Sundays Steelers-Lions game included not one but two offensive pass interference calls that required further explanation from referee Carl Cheffers.\r\nAfter Pittsburghs 29-24 win, Cheffe\u2026 [+1920 chars]"
+        "author": "Renju Jose, Reuters",
+        "title": "Australian state parliament reconvenes to push stricter gun laws after Bondi mass shooting - KSL.com",
+        "description": "Australia's New South Wales state parliament was recalled on Monday to vote on proposed new laws that would impose major curbs \u200bon firearm ownership.",
+        "url": "https://www.ksl.com/article/51422371/australian-state-parliament-reconvenes-to-push-stricter-gun-laws-after-bondi-mass-shooting",
+        "urlToImage": "https://img.ksl.com/slc/3124/312450/31245066.JPG?filter=kslv2/responsive_story_lg",
+        "publishedAt": "2025-12-22T01:52:20Z",
+        "content": "SYDNEY, Austrailia Australia's New South Wales state parliament was recalled on Sunday to vote on proposed new laws that would impose major curbs on firearm ownership, ban the display of terror symbo\u2026 [+3049 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "Dramatic video captures accused shoplifter allegedly pulling a gun on Ohio police officer - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/US/dramatic-video-captures-accused-shoplifter-allegedly-pulling-gun/story?id\\\\u003d128602763",
+        "urlToImage": null,
+        "publishedAt": "2025-12-22T01:48:03Z",
+        "content": null
     },
     {
         "source": {
             "id": null,
-            "name": "Nintendoeverything.com"
-        },
-        "author": "Brian",
-        "title": "Donkey Kong Bananza 3.0.0 update out now, patch notes - Nintendo Everything",
-        "description": "Donkey Kong Bananza has just received a new version 3.0.0 update from Nintendo, and here are the patch notes.",
-        "url": "https://nintendoeverything.com/donkey-kong-bananza-3-0-0-update-out-now-patch-notes/",
-        "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Donkey-Kong-Bananza-3.0.0-update.jpg",
-        "publishedAt": "2025-12-22T01:14:26Z",
-        "content": "Nintendo has just started distribution of a new update for Donkey Kong Bananza, which is version 3.0.0.\r\nThere are a couple of main additions. First, Thai is supported as an additional language. Also\u2026 [+605 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Patriots.com"
+            "name": "jaguars.com"
         },
         "author": null,
-        "title": "Expert Predictions: Week 16 Picks for Patriots at Ravens - Official website of the New England Patriots",
-        "description": "Experts share their picks for the Patriots Week 16 matchup against the Baltimore Ravens.",
-        "url": "https://www.patriots.com/news/expert-predictions-week-16-picks-for-patriots-at-ravens",
-        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/ovsvz2g5lgha8lpk2xcp",
-        "publishedAt": "2025-12-22T00:44:08Z",
+        "title": "Game Report, 2025 Week 16: Jaguars 34, Broncos 20 - Jaguars.com",
+        "description": "A quick look at the Jaguars\u2019 34-20 victory over the Denver Broncos in a 2025 Week 16 game at Empower Field at Mile High in Denver, Colo., Sunday",
+        "url": "https://www.jaguars.com/news/k000495-game-report-2025-week-16-jaguars-broncos",
+        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jaguars/hbyqasb1pq6k9vaxmupb",
+        "publishedAt": "2025-12-22T00:32:12Z",
         "content": null
     },
     {
@@ -119,19 +171,6 @@
     {
         "source": {
             "id": null,
-            "name": "NBCSports.com"
-        },
-        "author": "Mike Florio",
-        "title": "NFL will take closer look at DK Metcalf fan contact on Monday - NBC Sports",
-        "description": "Precedent, we're told, points to a fine. The league will study the Metcalf incident tomorrow.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-will-take-closer-look-at-dk-metcalf-fan-contact-on-monday",
-        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/54a069d/2147483647/strip/true/crop/3905x2197+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F89%2F04%2F1a60b88746879a0fb0db4bd05465%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2253049286",
-        "publishedAt": "2025-12-21T23:59:05Z",
-        "content": "Sundays Steelers-Lions game has given the league office a little extra work to do on Monday.\r\nPer a league source, the NFL will turn its attention tomorrow to the contact in which receiver DK Metcalf\u2026 [+1048 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "cleveland.com"
         },
         "author": "Tim Bielik, cleveland.com",
@@ -141,6 +180,19 @@
         "urlToImage": "https://www.cleveland.com/resizer/v2/E7XQLIZ5JNBFLLHDCKVIAHZI7I.JPG?auth=b89165d0bdfaf5843a1eddd9872ebdc0cd0c9325791a6aa792e894050c31b2f6&width=1280&smart=true&quality=90",
         "publishedAt": "2025-12-21T23:03:00Z",
         "content": "CLEVELAND, Ohio Despite showing fight and having a chance to win late, the Browns came up short at home in a 23-20 loss to the Bills on Sunday.\r\nQuarterback Shedeur Sanders threw for 157 yards, a tou\u2026 [+3275 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Billboard"
+        },
+        "author": "Mitchell Peters",
+        "title": "Spotify Music Library Scraped by Pirate Activist Group - billboard.com",
+        "description": "A pirate activist group has reportedly scraped and released metadata from Spotify, and intends to release 86 million audio files.",
+        "url": "http://www.billboard.com/business/streaming/spotify-music-library-leak-1236143970/",
+        "urlToImage": "https://www.billboard.com/wp-content/uploads/2025/09/spotify-app-phone-billboard-1800.jpg?w=1024",
+        "publishedAt": "2025-12-21T22:52:30Z",
+        "content": "A pirate activist group has scraped and released metadata from Spotify, according to a blog post on open source search engine Anna\u2019s Archive.\r\nThe report alleges the scrape includes 256 million rows \u2026 [+1641 chars]"
     },
     {
         "source": {
@@ -167,19 +219,6 @@
         "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5120x2880+0+267/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2F73%2F5bcd2fac4fabb1f0640ad3ee1ce1%2F976ec270-33c9-4e16-9fd3-7a98ba99d0b0.JPG",
         "publishedAt": "2025-12-21T22:23:52Z",
         "content": "Scientists believe they have discovered at least 20 new species in a deep part of the Pacific Ocean.\r\nThe discoveries were found after researchers from the California Academy of Sciences retrieved 13\u2026 [+2627 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "KABC-TV"
-        },
-        "author": null,
-        "title": "Video shows moment shoplifting suspect in Ohio pulls out gun, attempts to shoot officer - ABC7 Los Angeles",
-        "description": "A man in Ohio is facing attempted murder charges after he pulled out a gun and attempted to shoot a police officer - and it was all caught on video.",
-        "url": "https://abc7.com/post/video-shows-moment-shoplifting-suspect-ohio-pulls-gun-attempts-shoot-officer/18304908/",
-        "urlToImage": "https://cdn.abcotvs.com/dip/images/18305004_ohio-suspect-gun-video-clean-TN-img.jpg?w=1600",
-        "publishedAt": "2025-12-21T21:35:22Z",
-        "content": "CANTON, Ohio (KABC) -- A man in Ohio is facing attempted murder charges after he pulled out a gun and attempted to shoot a police officer - and it was all caught on video.\r\nThe incident happened Thur\u2026 [+942 chars]"
     },
     {
         "source": {
