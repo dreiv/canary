@@ -1,6 +1,45 @@
 [
     {
         "source": {
+            "id": "espn",
+            "name": "ESPN"
+        },
+        "author": "ESPN",
+        "title": "Spurs 130-110 Thunder (Dec 23, 2025) Game Recap - ESPN",
+        "description": null,
+        "url": "https://www.espn.com/nba/recap?gameId\\\\u003d401810272",
+        "urlToImage": null,
+        "publishedAt": "2025-12-24T04:16:04Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NBCSports.com"
+        },
+        "author": "Charean Williams",
+        "title": "NFL won\u2019t punish fan involved in altercation with DK Metcalf - NBC Sports",
+        "description": "Neither the NFL nor the Lions will punish the fan involved in the altercation with Steelers wide receiver DK Metcalf on Sunday.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-wont-punish-fan-involved-in-altercation-with-dk-metcalf",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/7f7a231/2147483647/strip/true/crop/5127x2884+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff5%2F64%2F86ce94bc45e5a2cc0a3dc33d5028%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2253168681",
+        "publishedAt": "2025-12-24T03:34:20Z",
+        "content": "Neither the NFL nor the Lions will punish the fan involved in the altercation with Steelers wide receiver DK Metcalf on Sunday.\r\nTom Pelissero of NFL Media reports that the league found no violation \u2026 [+712 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "The Wall Street Journal",
+        "title": "Exclusive | BP Nears Sale of Majority of Castrol Lubricants Unit to Stonepeak - The Wall Street Journal",
+        "description": null,
+        "url": "https://www.wsj.com/business/energy-oil/bp-is-near-deal-to-sell-majority-stake-in-castrol-to-stonepeak-in-10-billion-deal-9b75efc6",
+        "urlToImage": null,
+        "publishedAt": "2025-12-24T03:27:00Z",
+        "content": null
+    },
+    {
+        "source": {
             "id": null,
             "name": "KABC-TV"
         },
@@ -14,16 +53,29 @@
     },
     {
         "source": {
-            "id": "abc-news",
-            "name": "ABC News"
+            "id": null,
+            "name": "Vatican News"
         },
-        "author": "EDITH M. LEDERER Associated Press",
-        "title": "Iran and US reaffirm commitment to diplomacy at UN, but gap on a nuclear deal remains wide - ABC News",
-        "description": "Iran and the United States have reaffirmed their commitments to diplomacy at a contentious meeting of the U.N. Security Council",
-        "url": "https://abcnews.go.com/US/wireStory/iran-us-reaffirm-commitment-diplomacy-gap-nuclear-deal-128666369",
-        "urlToImage": "https://i.abcnewsfe.com/a/bd489d0e-4cdd-4fb8-8105-b19cfacd82c4/wirestory_ade8ace5b5b2c121329a6b903af0dcff_16x9.jpg?w=1600",
-        "publishedAt": "2025-12-24T01:17:04Z",
-        "content": "UNITED NATIONS -- Iran and the United States reaffirmed their commitments to diplomacy at a contentious meeting of the U.N. Security Council on Tuesday, but the gap between the Trump administration a\u2026 [+3345 chars]"
+        "author": "Vatican News",
+        "title": "Cardinal Pizzaballa: We will do everything possible for Gaza - Vatican News",
+        "description": "Following his second visit in six months to the Gaza Strip\u2014the first since the ceasefire\u2014the Latin Patriarch of Jerusalem speaks of a strong desire to return to normal life.",
+        "url": "https://www.vaticannews.va/en/church/news/2025-12/cardinal-pizzaballa-gaza-jerusalem-solidarity-support.html",
+        "urlToImage": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2025/dicembre/22/WhatsApp-Image-2025-12-22-at-13.48.45.jpeg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
+        "publishedAt": "2025-12-24T01:36:01Z",
+        "content": "By Jean-Charles Putzolu Jerusalem\r\nCardinal Pierbattista Pizzaballa met with the press the day after he visited the Gaza Strip, where he went to offer his supportand through him, that of the entire C\u2026 [+3783 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "How the new order of the Murdoch dynasty is playing out - BBC",
+        "description": "Family feuds and strategic change are redefining who holds power inside the Murdoch empire.",
+        "url": "https://www.bbc.com/news/articles/clyd12d38jgo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bece/live/04dfd140-d9cf-11f0-a8dc-93c15fe68710.jpg",
+        "publishedAt": "2025-12-24T01:25:13Z",
+        "content": "Listen to this article\r\nChristmas is a time when families get together if they can - and, until this year, the Murdochs were no different. With members of the media dynasty spread across the globe, f\u2026 [+12667 chars]"
     },
     {
         "source": {
@@ -79,42 +131,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "BBC News"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": null,
-        "title": "Email by 'A' from 'Balmoral' asked Ghislaine Maxwell for 'inappropriate friends', Epstein files show - BBC",
-        "description": "A newly released email sent to Ghislane Maxwell from \"A\" is among the latest set of Epstein files released by the US' House Committee on Oversight and Reform.",
-        "url": "https://www.bbc.com/news/articles/cm28g5exx09o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c65e/live/64d03910-e018-11f0-a378-fd9ff3d870e9.jpg",
-        "publishedAt": "2025-12-23T22:48:09Z",
-        "content": "An email sent from an individual named \"A\", saying they are at Balmoral and asking Ghislaine Maxwell for \"inappropriate friends\", is among the latest tranche of Epstein files released on Tuesday.\r\nTh\u2026 [+4542 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "The Seattle Times"
-        },
-        "author": "Sophia Vesely",
-        "title": "Videos surface showing DK Metcalf\u2019s physical confrontation with fan - The Seattle Times",
-        "description": "New videos have surfaced on social media, painting a better picture of what happened in the physical altercation between DK Metcalf and a Lions fan on Sunday.",
-        "url": "https://www.seattletimes.com/sports/seahawks/videos-surface-showing-dk-metcalfs-physical-confrontation-with-fan/",
-        "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/12/12232025_tzr_tzr_122158.jpg?d=1200x630",
-        "publishedAt": "2025-12-23T22:32:07Z",
-        "content": "New videos have surfaced on social media, painting a better picture of what happened in the physical altercation between former Seahawks receiver DK Metcalf and a Lions fan during the Steelers-Lions \u2026 [+3884 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Vikings.com"
-        },
-        "author": null,
-        "title": "J.J. McCarthy to Miss Vikings vs. Lions on Christmas; Max Brosmer to Start - Vikings.com",
-        "description": "",
-        "url": "https://www.vikings.com/news/jj-mccarthy-injury-max-brosmer-starting-quarterback-christmas-lions-",
-        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/vikings/yjsyht7zfepemnewdupe",
-        "publishedAt": "2025-12-23T22:13:12Z",
-        "content": null
+        "author": "Doug Ferguson",
+        "title": "Brooks Koepka is first player to defect from LIV. The next step is if PGA Tour will take him back - AP News",
+        "description": "Five-time major champion Brooks Koepka is done with LIV Golf. The Saudi-funded league has announced that Koepka no long will compete with LIV after the 2025 season. The CEO of LIV says he wants to make his family a priority and stay close to home in Florida. \u2026",
+        "url": "https://apnews.com/article/brooks-koepka-liv-golf-pga-tour-76bab294401f84aac0b53f518519f450",
+        "urlToImage": "https://dims.apnews.com/dims4/default/6ab4b77/2147483647/strip/true/crop/3223x1813+0+168/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff0%2F6d%2F566ae3ce22c67f9cdc7590bee5bb%2F71f642b7da574a5ca4d8134b42833486",
+        "publishedAt": "2025-12-23T23:36:00Z",
+        "content": "Five-time major champion Brooks Koepka became the first player to defect from LIV Golf, a significant blow to the Saudi-funded league that raises questions whether the PGA Tour will find a way for hi\u2026 [+4181 chars]"
     },
     {
         "source": {
@@ -145,19 +171,6 @@
     {
         "source": {
             "id": null,
-            "name": "Livgolf.com"
-        },
-        "author": "LIV Golf",
-        "title": "Statements on Talor Gooch taking over as Smash GC captain - LIV Golf",
-        "description": null,
-        "url": "https://www.livgolf.com/news/talor-gooch-taking-over-as-smash-gc-captain-2026",
-        "urlToImage": "https://images.livgolf.com/image/private/t_ratio16_9-size60-f_webp-c_fill/v1766521911/prd/ezoz7caeyyfs3nn1dkuf",
-        "publishedAt": "2025-12-23T21:38:12Z",
-        "content": "STATEMENT FROM LIV GOLF CEO SCOTT O'NEIL\u00a0\r\nWe have amicably and mutually agreed that Brooks Koepka will no longer compete in the LIV Golf League, following the 2025 season. Brooks is prioritizing the\u2026 [+2711 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Nebraskaexaminer.com"
         },
         "author": "Aaron Sanderford, Jay Waagmeester",
@@ -171,32 +184,6 @@
     {
         "source": {
             "id": null,
-            "name": "Slate Magazine"
-        },
-        "author": "Sam Adams",
-        "title": "Timoth\u00e9e Chalamet Is Great in Marty Supreme. But His Greatest Performance May Be What He\u2019s Doing Outside It. - Slate",
-        "description": "The star\u2019s wild marketing of his latest project is drawn straight from the movie itself.",
-        "url": "https://slate.com/culture/2025/12/marty-supreme-movie-timothee-chalamet-marketing-jacket-ping-pong-blimp-a24.html",
-        "urlToImage": "https://compote.slate.com/images/b7faad5d-7b39-42bf-9a85-ba19c2d6d84a.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-        "publishedAt": "2025-12-23T21:14:00Z",
-        "content": "I cant remember the precise moment, but somewhere between\u00a0Marty Supremes ecstatic surprise premiere at the New York Film Festival and the point where A24 sent a bright orange blimp to float over Los \u2026 [+7794 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Wa.gov"
-        },
-        "author": null,
-        "title": "Budget and Policy Highlights - Office of Financial Management - Office of Financial Management (.gov)",
-        "description": null,
-        "url": "https://ofm.wa.gov/budget/state-budget-2025-27/26-proposed-supplemental/budget-highlights/",
-        "urlToImage": null,
-        "publishedAt": "2025-12-23T20:49:27Z",
-        "content": "Keeping Washingtonians safe, connected, and mobile\r\nWashingtons transportation system is essential to daily life and the states economy, but it is under continued strain. Like many states, Washington\u2026 [+1396 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Pawschicago.org"
         },
         "author": null,
@@ -206,19 +193,6 @@
         "urlToImage": "https://www.pawschicago.org/fileadmin/media/Webpage_medical_Icons_2025-02.png",
         "publishedAt": "2025-12-23T20:29:33Z",
         "content": "PAWS Chicago is sharing information regarding a confirmed positive rabies case involving a dog that was returned to our care after several months in an adoptive home. We have taken proactive steps fo\u2026 [+3028 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Substack.com"
-        },
-        "author": "Joe Pompliano",
-        "title": "The Kansas City Chiefs Have Landed The Most Lopsided Stadium Deal In NFL History - Huddle Up | Joe Pompliano",
-        "description": "I wasn\u2019t planning on writing today, but the Kansas City Chiefs\u2019 new stadium deal is too big to pass up.",
-        "url": "https://huddleup.substack.com/p/the-kansas-city-chiefs-have-landed",
-        "urlToImage": "https://substackcdn.com/image/fetch/$s_!0mi_!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ec6a34e-d5ee-4b00-9c79-869beaac4794_1748x1240.png",
-        "publishedAt": "2025-12-23T20:13:02Z",
-        "content": "I wasnt planning on writing today, but the Kansas City Chiefs new stadium deal is too big to pass up. After Missouri taxpayers voted no on a proposal that would have provided the Chiefs with hundreds\u2026 [+2265 chars]"
     },
     {
         "source": {
@@ -245,5 +219,31 @@
         "urlToImage": null,
         "publishedAt": "2025-12-23T19:55:41Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "Chao Deng, Harriet Torry",
+        "title": "Consumers Power Strongest U.S. Economic Growth in Two Years - The Wall Street Journal",
+        "description": "A long-delayed government report shows third-quarter GDP grew at an annual 4.3% rate",
+        "url": "https://www.wsj.com/economy/us-gdp-q3-2025-2026-6cbd079e",
+        "urlToImage": "https://images.wsj.net/im-65377933/social",
+        "publishedAt": "2025-12-23T19:54:00Z",
+        "content": "Robust spending by U.S. consumers drove greater-than-expected economic expansion in the third quarter, and the strongest growth rate in two years.\r\nGross domestic product, the value of all goods and \u2026 [+266 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Josh Campbell, Michelle Watson",
+        "title": "Melodee Buzzard\u2019s mother arrested in connection with 9-year-old\u2019s killing after her body is found - CNN",
+        "description": "The mother of a missing 9-year-old California girl has been arrested on a charge of first-degree murder after her daughter\u2019s remains were found in a rural area of southern Utah, Santa Barbara County Sheriff-Coroner Bill Brown said Tuesday.",
+        "url": "https://www.cnn.com/2025/12/23/us/melodee-buzzard-found-dead",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/570166763-12220639345404748.JPG?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-12-23T19:53:15Z",
+        "content": "The multi-state hunt for Melodee Buzzard, a missing 9-year-old California girl, came to a close when her remains were discovered in a rural area of southern Utah, authorities announced Tuesday.\r\nMemb\u2026 [+4176 chars]"
     }
 ]
