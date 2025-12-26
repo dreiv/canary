@@ -2,19 +2,6 @@
     {
         "source": {
             "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Pat Finn, US actor in TV shows Friends and The Middle, dies at 60 - BBC",
-        "description": "Finn was also improvisation performer and appeared in various sitcoms throughout the 1990s and 2000s.",
-        "url": "https://www.bbc.com/news/articles/c4g5qy80m2vo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11ba/live/368d6660-e138-11f0-ba03-b3dff450825b.jpg",
-        "publishedAt": "2025-12-25T04:14:39Z",
-        "content": "Pat Finn starred in the popular TV show The Middle\r\nUS actor Pat Finn, who appeared in popular TV shows including Friends, Seinfeld and The Middle, has died aged 60.\r\nThe comedy and improvisation per\u2026 [+1795 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Hindustan Times"
         },
         "author": "Yash Nitish Bajaj",
@@ -24,6 +11,58 @@
         "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/12/25/1600x900/logo/AWS_down_1766634077321_1766634077491.JPG",
         "publishedAt": "2025-12-25T03:42:50Z",
         "content": "An Amazon Web Services (AWS) outage is disrupting multiple online gaming services, including ARC Raiders, Fortnite, Rocket League, and other Epic Games titles. According to Downdetector, a platform t\u2026 [+2415 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Brad Lendon, Gawon Bae",
+        "title": "North Korea reveals new images of its first \u2018nuclear-powered\u2019 submarine - CNN",
+        "description": "North Korea on Thursday released new images of what it claims is its first nuclear-powered submarine, a massive vessel equal in size to some of the United States Navy\u2019s attack subs.",
+        "url": "https://www.cnn.com/2025/12/24/asia/north-korea-nuclear-powered-submarine-intl-hnk-ml",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/f68a3f669e78c846c02aef1077e.JPG?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-12-25T03:22:00Z",
+        "content": "North Korea on Thursday released new images of what it claims is its first nuclear-powered submarine, a massive vessel equal in size to some of the United States Navys attack subs.\r\nThe pictures rele\u2026 [+4437 chars]"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": null,
+        "title": "Kennedy Center Christmas Eve jazz concert canceled after Trump name added to building - CBS News",
+        "description": "A planned Christmas Eve jazz concert at the Kennedy Center has been canceled.",
+        "url": "https://www.cbsnews.com/news/kennedy-center-christmas-eve-jazz-concert-canceled-after-trump-name-added-to-building/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/12/19/5074af9f-1b4a-4ace-a8bc-c76d4d631006/thumbnail/1200x630/eec279aa00c2513a2a1ff052868aec94/gettyimages-2252067054.jpg",
+        "publishedAt": "2025-12-25T03:00:52Z",
+        "content": "A planned Christmas Eve jazz concert at the Kennedy Center, a holiday tradition at the Washington, D.C., performing arts center dating back more than 20 years, has been canceled.\u00a0\r\nThe show's host, m\u2026 [+2256 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Rebecca Falconer",
+        "title": "Trump tells kid in Christmas call he wants to ensure \"bad Santa\" isn't \"infiltrating\" U.S. - Axios",
+        "description": "Another child told him she didn't want Santa to bring coal, to which Trump replied: \"You mean clean, beautiful coal.\"",
+        "url": "https://www.axios.com/2025/12/25/turmp-bad-santa-coal-christmas-calls-norad",
+        "urlToImage": "https://images.axios.com/kQlxE0CwyhdbNchbXWbJkKrmEHU=/0x203:5772x3450/1366x768/2025/12/25/1766625368733.jpeg",
+        "publishedAt": "2025-12-25T01:58:16Z",
+        "content": "President Trump discussed with kids Wednesday Santa Claus' Christmas Eve travels being followed through the North American Aerospace Defense Command's (NORAD) tracking program during calls that were \u2026 [+320 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Taylor Romine",
+        "title": "ICE agents shot an undocumented man in Maryland who they say attempted to ram them with his van - CNN",
+        "description": "A traffic stop outside of Baltimore Wednesday ended with an undocumented man shot and another injured after US Immigration and Customs Enforcement agents allege the driver of a van drove directly at officers, prompting them to open fire.",
+        "url": "https://www.cnn.com/2025/12/24/us/ice-undocumented-shooting-maryland",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/g89k7szwmaaw6lq.JPG?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-12-25T00:44:00Z",
+        "content": "A traffic stop outside of Baltimore Wednesday ended withanundocumented man shot and another injured after US Immigration and Customs Enforcement agents allegethe driver of a vandrove directly at offi\u2026 [+3701 chars]"
     },
     {
         "source": {
@@ -40,29 +79,16 @@
     },
     {
         "source": {
-            "id": "politico",
-            "name": "Politico"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": "Associated Press",
-        "title": "Kennedy Center Christmas Eve jazz concert canceled after Trump name added to building - Politico",
-        "description": "\u201cWhen I saw the name change on the Kennedy Center website and then hours later on the building, I chose to cancel our concert,\u201d Chuck Redd said.",
-        "url": "https://www.politico.com/news/2025/12/24/kennedy-center-christmas-eve-jazz-concert-canceled-after-trump-name-added-to-building-00706530",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fbc%2F1f%2Fb7601f03495e8ca58ab4af24e636%2Fkennedy-center-23466.jpg",
-        "publishedAt": "2025-12-24T23:09:36Z",
-        "content": "The Kennedy Center did not immediately respond to email seeking comment. The centers website lists the show as canceled.\r\nPresident Kennedy was assassinated in 1963, and Congress passed a law the fol\u2026 [+1158 chars]"
-    },
-    {
-        "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "JENNIFER SINCO KELLEHER Associated Press",
-        "title": "Federal judge upholds Hawaii's new climate change tax on cruise passengers - ABC News",
-        "description": "A federal judge's ruling allows Hawaii's new tourist tax, which includes a levy on cruise ship passengers, to take effect in 2026",
-        "url": "https://abcnews.go.com/Business/wireStory/federal-judge-upholds-hawaiis-new-climate-change-tax-128684092",
-        "urlToImage": "https://i.abcnewsfe.com/a/3d73b93b-95f1-406d-a425-1e767f5ba41a/wirestory_5e4b8333eccf915f8a0fb836c9ef3361_16x9.jpg?w=1600",
-        "publishedAt": "2025-12-24T22:53:56Z",
-        "content": "HONOLULU -- A federal judges ruling clears the way for Hawaii to include cruise ship passengers in a new tourist tax to help cope with climate change, a levy set to go into effect at the start of 202\u2026 [+2116 chars]"
+        "author": "Maegan Vazquez",
+        "title": "What we know (and what we don\u2019t) about the Epstein files\u2019 release - The Washington Post",
+        "description": "The tranche revealed wide-ranging references to President Donald Trump and detailed efforts to interview Prince Andrew in two investigations.",
+        "url": "https://www.washingtonpost.com/politics/2025/12/24/epstein-files-trump-justice-department-explained/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JOTBLXSLVKGBLPJRFEEH2HZPSA_size-normalized.JPG&w=1440",
+        "publishedAt": "2025-12-24T22:49:03Z",
+        "content": "The Justice Department released a second wave of files related to Jeffrey Epstein this week, providing a window into federal investigators examination of sexual abuse allegations lodged against the d\u2026 [+63 chars]"
     },
     {
         "source": {
@@ -118,19 +144,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Vikings.com"
-        },
-        "author": null,
-        "title": "How to Watch, Listen to & Stream Vikings vs. Lions in 2025 Week 17 Game - Vikings.com",
-        "description": "",
-        "url": "https://www.vikings.com/news/watch-listen-stream-lions-christmas-day-netflix-week-17-2025",
-        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/vikings/miiul94aubodwr75mv5d",
-        "publishedAt": "2025-12-24T21:25:25Z",
-        "content": null
-    },
-    {
-        "source": {
             "id": "nfl-news",
             "name": "NFL News"
         },
@@ -154,6 +167,19 @@
         "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F4b%2F36%2Fc187731b401bb9a2c6b1d68435d9%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2246416122",
         "publishedAt": "2025-12-24T21:00:00Z",
         "content": "Some are choosing plans with lower premiums and higher out-of-pocket costs or terminating coverage altogether at a faster rate than in prior years, according to several state-run Obamacare exchanges.\u2026 [+8514 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Vikings.com"
+        },
+        "author": null,
+        "title": "NFL Expert Picks: Vikings Hosting Lions on Rare Christmas Day Game - Vikings.com",
+        "description": "",
+        "url": "https://www.vikings.com/news/detroit-lions-nfl-expert-picks-2025-christmas-day-game",
+        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/vikings/ie6bllnkciklujsgeaju",
+        "publishedAt": "2025-12-24T20:12:45Z",
+        "content": null
     },
     {
         "source": {
@@ -193,44 +219,5 @@
         "urlToImage": "https://www.gov.ca.gov/wp-content/uploads/2025/12/state-of-emergency.png",
         "publishedAt": "2025-12-24T19:19:28Z",
         "content": "In anticipation of these impacts, Governor Newsom directed state agencies to pre-deploy emergency response resources across the state, including 55 fire engines, 10 swiftwater rescue teams, five hand\u2026 [+2160 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Live Science"
-        },
-        "author": "Elizabeth Howell",
-        "title": "'What the heck is this?' James Webb telescope spots inexplicable planet with diamonds and soot in its atmosphere - Live Science",
-        "description": "Scientists using the James Webb telescope observed a distant exoplanet with an atmosphere of soot and diamonds, challenging all explanations.",
-        "url": "https://www.livescience.com/space/astronomy/what-the-heck-is-this-james-webb-telescope-spots-inexplicable-planet-with-diamonds-and-soot-in-its-atmosphere",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/S2gSi5dt9rUC59G3AZvsaD-1600-80.png",
-        "publishedAt": "2025-12-24T18:05:00Z",
-        "content": "A distant exoplanet appears to sport a sooty atmosphere that is confusing the scientists who recently spotted it.\r\nThe Jupiter-size world, detected by the James Webb Space Telescope\r\n (JWST), doesn't\u2026 [+5227 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Variety"
-        },
-        "author": "Rebecca Rubin",
-        "title": "Box Office: \u2018Avatar: Fire and Ash\u2019 Crosses $450 Million Ahead of Christmas Holiday - Variety",
-        "description": "\"Avatar: Fire and Ash\" is leading the box office ahead of Christmas.",
-        "url": "https://variety.com/2025/film/box-office/avatar-fire-and-ash-box-office-holiday-1236617143/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2024/12/Avatar-Fire-and-Ash-Movie-2-2.jpg?w=900&h=563&crop=1",
-        "publishedAt": "2025-12-24T17:25:00Z",
-        "content": "\u201cAvatar: Fire and Ash\u201d has earned $450 million globally after a week of release, including $119 million at the domestic box office and $331 million overseas. \r\nOn Tuesday, James Cameron\u2019s third trip \u2026 [+1562 chars]"
-    },
-    {
-        "source": {
-            "id": "entertainment-weekly",
-            "name": "Entertainment Weekly"
-        },
-        "author": "https://www.facebook.com/entertainmentweekly",
-        "title": "Daniel Curtis Lee reunites with Ned's Declassified costar Tylor Chase amid his battle with homelessness - Entertainment Weekly",
-        "description": "Daniel Curtis Lee reunited with his 'Ned's Declassified' costar Tylor Chase, offering him aid amid his battle with homelessness: 'I believe in you.'",
-        "url": "https://ew.com/daniel-curtis-lee-reunites-with-neds-declassified-costar-tylor-chase-amid-homelessness-battle-11875884",
-        "urlToImage": "https://ew.com/thmb/TsdP6BBqKFE2tu4lgQ4rjiUkops=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Tylor-Chase-Daniel-Curtis-Lee-122425-ac7c8dfb6ff94b9698f3b151a36c7c47.jpg",
-        "publishedAt": "2025-12-24T17:10:40Z",
-        "content": "Daniel Curtis Lee is offering aid to his Ned's Declassified School Survival Guide\u00a0costar Tylor Chase after videos surfaced showing the 36-year-old former actor living on the streets of California.\r\n\"\u2026 [+4161 chars]"
     }
 ]
