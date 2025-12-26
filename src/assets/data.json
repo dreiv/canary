@@ -2,6 +2,19 @@
     {
         "source": {
             "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Front-runner to be Bangladesh PM returns after 17 years in exile - BBC",
+        "description": "Tarique Rahman, who has lived in London since 2008, arrives weeks before for pivotal elections are held.",
+        "url": "https://www.bbc.com/news/articles/crk733k1k1eo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/76fa/live/40b11f80-e16d-11f0-a0bc-9fe6b7032229.jpg",
+        "publishedAt": "2025-12-25T06:44:21Z",
+        "content": "Tarique Rahman, the front-runner to be the next prime minister of Bangladesh, has returned to the country after 17 years in exile ahead of landmark general elections.\r\nThe 60-year-old is the figurehe\u2026 [+1072 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Hindustan Times"
         },
         "author": "Yash Nitish Bajaj",
@@ -11,6 +24,19 @@
         "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/12/25/1600x900/logo/AWS_down_1766634077321_1766634077491.JPG",
         "publishedAt": "2025-12-25T03:42:50Z",
         "content": "An Amazon Web Services (AWS) outage is disrupting multiple online gaming services, including ARC Raiders, Fortnite, Rocket League, and other Epic Games titles. According to Downdetector, a platform t\u2026 [+2415 chars]"
+    },
+    {
+        "source": {
+            "id": "mashable",
+            "name": "Mashable"
+        },
+        "author": "Mashable Team",
+        "title": "NYT Connections hints and answers for December 25, Tips to solve 'Connections' #928. - Mashable",
+        "description": "Everything you need to solve 'Connections' #928.",
+        "url": "https://mashable.com/article/nyt-connections-hint-answer-today-december-25-2025",
+        "urlToImage": "https://helios-i.mashable.com/imagery/articles/01G7gx65JKlYCZteT6uyuju/hero-image.fill.size_1200x675.v1766419890.jpg",
+        "publishedAt": "2025-12-25T03:25:46Z",
+        "content": null
     },
     {
         "source": {
@@ -44,25 +70,25 @@
             "name": "Axios"
         },
         "author": "Rebecca Falconer",
+        "title": "Photos: Storm slamming Southern California with flooding rains triggers evacuations - Axios",
+        "description": "Over 40 million under flood watch in \"life-threatening\" atmospheric river that's set to linger beyond Christmas Day.",
+        "url": "https://www.axios.com/2025/12/25/california-storm-rain-flood-mudslides-christmas-photos",
+        "urlToImage": "https://images.axios.com/NQlwVTcV76vCAfPyUe42uXimQvE=/0x677:8256x5321/1366x768/2025/12/25/1766635683227.jpeg",
+        "publishedAt": "2025-12-25T02:36:11Z",
+        "content": "<ul><li>The extreme weather that the National Weather Service warned would last through Friday has shut roads across the region and triggered evacuations in San Bernardino County amid flash floods an\u2026 [+6193 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Rebecca Falconer",
         "title": "Trump tells kid in Christmas call he wants to ensure \"bad Santa\" isn't \"infiltrating\" U.S. - Axios",
         "description": "Another child told him she didn't want Santa to bring coal, to which Trump replied: \"You mean clean, beautiful coal.\"",
         "url": "https://www.axios.com/2025/12/25/turmp-bad-santa-coal-christmas-calls-norad",
         "urlToImage": "https://images.axios.com/kQlxE0CwyhdbNchbXWbJkKrmEHU=/0x203:5772x3450/1366x768/2025/12/25/1766625368733.jpeg",
         "publishedAt": "2025-12-25T01:58:16Z",
         "content": "President Trump discussed with kids Wednesday Santa Claus' Christmas Eve travels being followed through the North American Aerospace Defense Command's (NORAD) tracking program during calls that were \u2026 [+320 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Taylor Romine",
-        "title": "ICE agents shot an undocumented man in Maryland who they say attempted to ram them with his van - CNN",
-        "description": "A traffic stop outside of Baltimore Wednesday ended with an undocumented man shot and another injured after US Immigration and Customs Enforcement agents allege the driver of a van drove directly at officers, prompting them to open fire.",
-        "url": "https://www.cnn.com/2025/12/24/us/ice-undocumented-shooting-maryland",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/g89k7szwmaaw6lq.JPG?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-12-25T00:44:00Z",
-        "content": "A traffic stop outside of Baltimore Wednesday ended withanundocumented man shot and another injured after US Immigration and Customs Enforcement agents allegethe driver of a vandrove directly at offi\u2026 [+3701 chars]"
     },
     {
         "source": {
@@ -76,6 +102,32 @@
         "urlToImage": "https://img.ksl.com/slc/3124/312481/31248121.JPG?filter=kslv2/responsive_story_lg",
         "publishedAt": "2025-12-24T23:30:01Z",
         "content": "VATICAN CITY Pope Leo said in a Christmas Eve sermon on Wednesday that the story of Jesus being born in a stable because there was no room at an inn should remind Christians that refusing to help the\u2026 [+1673 chars]"
+    },
+    {
+        "source": {
+            "id": "nhl-news",
+            "name": "NHL News"
+        },
+        "author": null,
+        "title": "On Tap: Day 1 of 2026 World Junior Championship - NHL.com",
+        "description": "United States begins quest for 3-peat; projected No. 1 draft pick McKenna leads Canada against Czechia",
+        "url": "https://www.nhl.com/news/on-tap-world-junior-championship-news-and-notes-december-25-2025",
+        "urlToImage": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/gfy1xcjnvyjxhynoocxl.jpg",
+        "publishedAt": "2025-12-24T23:07:24Z",
+        "content": "Friday is the first day of the 2026 IIHF World Junior Championship, which is being held in Minneapolis and St. Paul, Minnesota.\r\nAll games on NHL Network in U.S., TSN in Canada\r\nSweden vs. Slovakia (\u2026 [+2512 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "JENNIFER SINCO KELLEHER Associated Press",
+        "title": "Federal judge upholds Hawaii's new climate change tax on cruise passengers - ABC News",
+        "description": "A federal judge's ruling allows Hawaii's new tourist tax, which includes a levy on cruise ship passengers, to take effect in 2026",
+        "url": "https://abcnews.go.com/Business/wireStory/federal-judge-upholds-hawaiis-new-climate-change-tax-128684092",
+        "urlToImage": "https://i.abcnewsfe.com/a/3d73b93b-95f1-406d-a425-1e767f5ba41a/wirestory_5e4b8333eccf915f8a0fb836c9ef3361_16x9.jpg?w=1600",
+        "publishedAt": "2025-12-24T22:53:56Z",
+        "content": "HONOLULU -- A federal judges ruling clears the way for Hawaii to include cruise ship passengers in a new tourist tax to help cope with climate change, a levy set to go into effect at the start of 202\u2026 [+2116 chars]"
     },
     {
         "source": {
@@ -157,32 +209,6 @@
     },
     {
         "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Robert King",
-        "title": "States see possible warning signs amid steady Obamacare sign-ups - Politico",
-        "description": "While sign-ups are above 2024, some states are concerned about higher terminations, fewer new enrollees and more consumer calls for help. If Congress fails again to extend enhanced subsidies in January, they say enrollment could drop.",
-        "url": "https://www.politico.com/news/2025/12/24/obamacare-sign-ups-are-steady-but-warning-signs-emerge-00705604",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F4b%2F36%2Fc187731b401bb9a2c6b1d68435d9%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2246416122",
-        "publishedAt": "2025-12-24T21:00:00Z",
-        "content": "Some are choosing plans with lower premiums and higher out-of-pocket costs or terminating coverage altogether at a faster rate than in prior years, according to several state-run Obamacare exchanges.\u2026 [+8514 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Vikings.com"
-        },
-        "author": null,
-        "title": "NFL Expert Picks: Vikings Hosting Lions on Rare Christmas Day Game - Vikings.com",
-        "description": "",
-        "url": "https://www.vikings.com/news/detroit-lions-nfl-expert-picks-2025-christmas-day-game",
-        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/vikings/ie6bllnkciklujsgeaju",
-        "publishedAt": "2025-12-24T20:12:45Z",
-        "content": null
-    },
-    {
-        "source": {
             "id": "abc-news",
             "name": "ABC News"
         },
@@ -199,25 +225,12 @@
             "id": "abc-news",
             "name": "ABC News"
         },
-        "author": "ABC News",
-        "title": "$1.7 billion Powerball jackpot up for grabs on Christmas Eve, 4th-largest in history - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/US/17-billion-powerball-jackpot-grabs-christmas-eve-4th/story?id\\\\u003d128675142",
-        "urlToImage": null,
-        "publishedAt": "2025-12-24T19:52:30Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Ca.gov"
-        },
-        "author": null,
-        "title": "Governor Newsom proclaims state of emergency to support response in multiple counties due to late December storms - California State Portal | CA.gov",
-        "description": null,
-        "url": "https://www.gov.ca.gov/2025/12/24/governor-newsom-proclaims-state-of-emergency-to-support-response-in-multiple-counties-due-to-late-december-storms/",
-        "urlToImage": "https://www.gov.ca.gov/wp-content/uploads/2025/12/state-of-emergency.png",
-        "publishedAt": "2025-12-24T19:19:28Z",
-        "content": "In anticipation of these impacts, Governor Newsom directed state agencies to pre-deploy emergency response resources across the state, including 55 fire engines, 10 swiftwater rescue teams, five hand\u2026 [+2160 chars]"
+        "author": "MATT OTT AP business writer",
+        "title": "Average US long-term mortgage rate ticks down to 6.18% this week - ABC News",
+        "description": "The average rate on a 30-year U.S. mortgage ticked down modestly this week, remaining in the same narrow range of the past two months",
+        "url": "https://abcnews.go.com/Business/wireStory/average-us-long-term-mortgage-rate-ticks-618-128681701",
+        "urlToImage": "https://i.abcnewsfe.com/a/66cf7950-f696-4632-ab85-5a7e7957706f/wirestory_9a2ba789736bec617709c1cd7debded4_16x9.jpg?w=1600",
+        "publishedAt": "2025-12-24T17:33:55Z",
+        "content": "WASHINGTON -- The average rate on a 30-year U.S. mortgage ticked down modestly this week, remaining in the same narrow range of the past two months.\r\nThe average long-term mortgage rate fell to 6.18%\u2026 [+2423 chars]"
     }
 ]
