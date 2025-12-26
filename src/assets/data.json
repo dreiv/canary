@@ -2,15 +2,28 @@
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "NPR"
         },
-        "author": null,
-        "title": "Front-runner to be Bangladesh PM returns after 17 years in exile - BBC",
-        "description": "Tarique Rahman, who has lived in London since 2008, arrives weeks before for pivotal elections are held.",
-        "url": "https://www.bbc.com/news/articles/crk733k1k1eo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/76fa/live/40b11f80-e16d-11f0-a0bc-9fe6b7032229.jpg",
-        "publishedAt": "2025-12-25T06:44:21Z",
-        "content": "Tarique Rahman, the front-runner to be the next prime minister of Bangladesh, has returned to the country after 17 years in exile ahead of landmark general elections.\r\nThe 60-year-old is the figurehe\u2026 [+1072 chars]"
+        "author": "The Associated Press",
+        "title": "A Powerball player in Arkansas has won a $1.817 billion lottery jackpot - NPR",
+        "description": "Wednesday's Christmas Eve drawing ended the lottery game's three-month stretch without a top-prize winner. Final ticket sales pushed the jackpot higher, making it the second-largest in U.S. history.",
+        "url": "https://www.npr.org/2025/12/25/g-s1-103683/powerball-player-arkansas-won-jackpot",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7355x4137+0+383/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff5%2F03%2F684af1964cf393f06cdcc146c0c2%2Fap25358753719150.jpg",
+        "publishedAt": "2025-12-25T06:59:43Z",
+        "content": "A Powerball player in Arkansas won a $1.817 billion jackpot in Wednesday's Christmas Eve drawing, ending the lottery game's three-month stretch without a top-prize winner.\r\nThe winning numbers were 0\u2026 [+1683 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "National Guardsmen shooting suspect's case moved to federal court, where death penalty can be weighed: Pirro - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/US/national-guardsmen-shooting-suspects-case-moved-federal-court/story?id\\\\u003d128686584",
+        "urlToImage": null,
+        "publishedAt": "2025-12-25T04:07:34Z",
+        "content": null
     },
     {
         "source": {
@@ -37,19 +50,6 @@
         "urlToImage": "https://helios-i.mashable.com/imagery/articles/01G7gx65JKlYCZteT6uyuju/hero-image.fill.size_1200x675.v1766419890.jpg",
         "publishedAt": "2025-12-25T03:25:46Z",
         "content": null
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Brad Lendon, Gawon Bae",
-        "title": "North Korea reveals new images of its first \u2018nuclear-powered\u2019 submarine - CNN",
-        "description": "North Korea on Thursday released new images of what it claims is its first nuclear-powered submarine, a massive vessel equal in size to some of the United States Navy\u2019s attack subs.",
-        "url": "https://www.cnn.com/2025/12/24/asia/north-korea-nuclear-powered-submarine-intl-hnk-ml",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/f68a3f669e78c846c02aef1077e.JPG?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-12-25T03:22:00Z",
-        "content": "North Korea on Thursday released new images of what it claims is its first nuclear-powered submarine, a massive vessel equal in size to some of the United States Navys attack subs.\r\nThe pictures rele\u2026 [+4437 chars]"
     },
     {
         "source": {
@@ -157,19 +157,6 @@
     },
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Melanie Lidman",
-        "title": "Faithful return to Bethlehem and Pope Leo XIV celebrates his first Christmas Eve Mass at St. Peter's - AP News",
-        "description": "On Christmas Eve, thousands of people flocked to Bethlehem's Manger Square and other Holy Land sites, after two years of subdued Christmas celebrations because of the war in Gaza. Scouts groups marched and played festive music on Wednesday in Bethlehem and Na\u2026",
-        "url": "https://apnews.com/article/christmas-bethlehem-christians-war-israel-gaza-tourism-ffa3e7842d1843899d580322d97a7e9c",
-        "urlToImage": "https://dims.apnews.com/dims4/default/4b35ed1/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1f%2Fe2%2F6e2be9f4618e4f17159517375a30%2F6d08dd8ae0094630a56c35562d68cf40",
-        "publishedAt": "2025-12-24T22:22:00Z",
-        "content": "BETHLEHEM, West Bank (AP) Thousands of people flocked to Bethlehems Manger Square on Christmas Eve as families there and at other sites across the Holy Land heralded a much-needed boost of holiday sp\u2026 [+6794 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Underdognetwork.com"
         },
@@ -180,19 +167,6 @@
         "urlToImage": "https://images.ctfassets.net/l8eoog2wur2i/2LnLtEGHhzIJfQA0D41syG/9bde46532c201e2f927b42cd5b86808d/USATSI_27083737_168415901_lowres.jpg",
         "publishedAt": "2025-12-24T22:20:51Z",
         "content": "I will update through Sunday morning, so come back then for final news reactions, and check out my content on YouTube, podcasts, and X. Big news for Underdog!!! We have sides and totals on top of all\u2026 [+45446 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Investor's Business Daily"
-        },
-        "author": null,
-        "title": "Dow Jones, S&P 500 Hit Record Highs Heading Into Christmas Holiday - Investor's Business Daily",
-        "description": "Palantir, Tesla, Nvidia and Google are holding in buy areas.",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-highs-christmas-holiday/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2025/12/Stock-Wallstreet-christmasLts-shut.jpg",
-        "publishedAt": "2025-12-24T21:38:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
     },
     {
         "source": {
@@ -213,11 +187,11 @@
             "name": "ABC News"
         },
         "author": "ABC News",
-        "title": "A dazzling display of northern lights could be visible on Christmas Eve in these states - ABC News",
+        "title": "1 nursing home resident, 1 employee killed in fire, explosion; cause under investigation - ABC News",
         "description": null,
-        "url": "https://abcnews.go.com/US/dazzling-display-northern-lights-visible-christmas-eve-states/story?id\\\\u003d128678035",
+        "url": "https://abcnews.go.com/US/1-nursing-home-resident-1-employee-killed-fire/story?id\\\\u003d128680113",
         "urlToImage": null,
-        "publishedAt": "2025-12-24T20:05:12Z",
+        "publishedAt": "2025-12-24T20:33:55Z",
         "content": null
     },
     {
@@ -225,12 +199,12 @@
             "id": "abc-news",
             "name": "ABC News"
         },
-        "author": "MATT OTT AP business writer",
-        "title": "Average US long-term mortgage rate ticks down to 6.18% this week - ABC News",
-        "description": "The average rate on a 30-year U.S. mortgage ticked down modestly this week, remaining in the same narrow range of the past two months",
-        "url": "https://abcnews.go.com/Business/wireStory/average-us-long-term-mortgage-rate-ticks-618-128681701",
-        "urlToImage": "https://i.abcnewsfe.com/a/66cf7950-f696-4632-ab85-5a7e7957706f/wirestory_9a2ba789736bec617709c1cd7debded4_16x9.jpg?w=1600",
-        "publishedAt": "2025-12-24T17:33:55Z",
-        "content": "WASHINGTON -- The average rate on a 30-year U.S. mortgage ticked down modestly this week, remaining in the same narrow range of the past two months.\r\nThe average long-term mortgage rate fell to 6.18%\u2026 [+2423 chars]"
+        "author": "ABC News",
+        "title": "A dazzling display of northern lights could be visible on Christmas Eve in these states - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/US/dazzling-display-northern-lights-visible-christmas-eve-states/story?id\\\\u003d128678035",
+        "urlToImage": null,
+        "publishedAt": "2025-12-24T20:05:12Z",
+        "content": null
     }
 ]
