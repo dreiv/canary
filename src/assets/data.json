@@ -2,41 +2,67 @@
     {
         "source": {
             "id": null,
-            "name": "PhiladelphiaEagles.com"
+            "name": "Packers.com"
         },
         "author": null,
-        "title": "Spadaro: A six-pack of storylines to follow at Bills - Philadelphia Eagles",
-        "description": "How will the Eagles contend with the NFL's reigning MVP? What insight do new Eagles who played Buffalo earlier this year offer? How will the weather factor into the game plan?",
-        "url": "https://www.philadelphiaeagles.com/news/eagles-bills-game-previews-dave-spadaro-week-17-storylines-nfl",
-        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/eagles/cxxvnl8bfxxvat11fztn",
-        "publishedAt": "2025-12-28T07:05:15Z",
+        "title": "Game recap: 5 takeaways from Packers\u2019 loss to Ravens - Green Bay Packers \u2013 packers.com",
+        "description": "Baltimore was in control the whole way",
+        "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-loss-to-ravens-week-17-2025",
+        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/orv0t7ujjasvm6uzlzk8",
+        "publishedAt": "2025-12-28T06:23:30Z",
         "content": null
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
+            "id": null,
+            "name": "Suntimes.com"
         },
-        "author": "Tal Shalev",
-        "title": "Why Netanyahu\u2019s visit to Mar-a-Lago is the opening act to Israeli Prime Minister\u2019s reelection bid - CNN",
-        "description": "When Israeli Prime Minister Benjamin Netanyahu meets US President Donald Trump at Mar-a-Lago this week, the encounter will mark more than a diplomatic reunion.",
-        "url": "https://www.cnn.com/2025/12/28/middleeast/netanyahu-visit-trump-reelection-intl",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2161659521.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2025-12-28T05:01:59Z",
-        "content": "When Israeli Prime Minister Benjamin Netanyahu meets US President Donald Trump at Mar-a-Lago this week, the encounter will mark more than a diplomatic reunion.\r\nFor Netanyahu, its the opening act of \u2026 [+8376 chars]"
-    },
-    {
-        "source": {
-            "id": "espn",
-            "name": "ESPN"
-        },
-        "author": "ESPN",
-        "title": "Bucks 112-103 Bulls (Dec 27, 2025) Game Recap - ESPN",
+        "author": "Georgia Nicols",
+        "title": "Horoscope for Sunday, December 28, 2025 - Chicago Sun-Times",
         "description": null,
-        "url": "https://www.espn.com/nba/recap?gameId\\\\u003d401810292",
+        "url": "https://chicago.suntimes.com/horoscopes/2025/12/28/horoscopes-today-sunday-december-28-2025",
+        "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+        "publishedAt": "2025-12-28T06:01:00Z",
+        "content": "Moon Alert\r\nAvoid shopping (except for food or gas) and big decisions after 8 p.m. The moon is in Aries.\r\nAries (March 21-April 19)\r\n You yearn to travel and do anything you can to seek adventure and\u2026 [+3902 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "DW (English)"
+        },
+        "author": "Nik Martin",
+        "title": "EU backs Somalia after Israel recognizes Somaliland - DW",
+        "description": "Israel\u2019s support for Somaliland has triggered sharp pushback across Africa, the Middle East and beyond, with the EU urging calm and Somalia vowing to defend its sovereignty.",
+        "url": "https://www.dw.com/en/eu-backs-somalia-after-israel-recognizes-somaliland/a-75318108",
+        "urlToImage": "https://static.dw.com/image/64796602_6.jpg",
+        "publishedAt": "2025-12-28T04:56:38Z",
+        "content": "The European Union on Saturday called for Somalias territorial integrity to be upheld after Israel became the first country to formally recognize the breakaway region of Somaliland as an independent \u2026 [+3049 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "Gas leak outside Los Angeles shuts down major highway, nearby residents told to shelter-in-place - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/US/gas-leak-los-angeles-shuts-major-highway-nearby/story?id\\\\u003d128727653",
         "urlToImage": null,
-        "publishedAt": "2025-12-28T03:43:37Z",
+        "publishedAt": "2025-12-28T04:39:26Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Fernando Cervantes Jr.",
+        "title": "Powerball winning numbers for Saturday, Dec. 27; $21.1 million jackpot - USA Today",
+        "description": "Saturday's Powerball jackpot was $21.1 million after a ticket holder in Arkansas won more than $1.8 billion on Christmas Eve.",
+        "url": "https://www.usatoday.com/story/money/lottery/2025/12/27/powerball-winning-numbers-saturday-december-27-2025/87928977007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/27/USAT/87929360007-getty-images-2252794571.jpg?crop=3999,2251,x0,y251&width=3200&height=1802&format=pjpg&auto=webp",
+        "publishedAt": "2025-12-28T04:06:00Z",
+        "content": "The Powerball\u00a0jackpot for\u00a0Saturdays drawing was $21.1 million with a $9.2 million cash value after a ticket sold in Arkansas won $1.8 billion on Christmas Eve - one of the richest lottery prizes in U\u2026 [+3432 chars]"
     },
     {
         "source": {
@@ -44,25 +70,12 @@
             "name": "Mashable"
         },
         "author": "Mashable Team",
-        "title": "Wordle today: The answer and hints for December 28, 2025 - Mashable",
-        "description": "Here are some tips and tricks to help you find the answer to \"Wordle\" #1652.",
-        "url": "https://mashable.com/article/wordle-today-answer-december-28-2025",
-        "urlToImage": "https://helios-i.mashable.com/imagery/articles/03gmGIhueT7dYyZT7sVBYmt/hero-image.fill.size_1200x675.v1766425291.jpg",
-        "publishedAt": "2025-12-28T03:19:57Z",
+        "title": "NYT Connections hints and answers for December 28, Tips to solve 'Connections' #931. - Mashable",
+        "description": "Everything you need to solve 'Connections' #931.",
+        "url": "https://mashable.com/article/nyt-connections-hint-answer-today-december-28-2025",
+        "urlToImage": "https://helios-i.mashable.com/imagery/articles/01lYJJ6O4JASUNam0rIwvAq/hero-image.fill.size_1200x675.v1766425774.jpg",
+        "publishedAt": "2025-12-28T03:20:04Z",
         "content": null
-    },
-    {
-        "source": {
-            "id": "espn",
-            "name": "ESPN"
-        },
-        "author": null,
-        "title": "ECHL, players reach tentative CBA deal, end strike - ESPN",
-        "description": "The ECHL and the Professional Hockey Players' Association have reached tentative approval on a new collective bargaining agreement to end a strike that lasted two days.",
-        "url": "https://www.espn.com/nhl/story/_/id/47430746/echl-players-tentatively-agree-new-cba-end-2-day-strike",
-        "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1226%2Fr1593877_1296x729_16%2D9.jpg",
-        "publishedAt": "2025-12-28T02:52:00Z",
-        "content": "Dec 27, 2025, 09:52 PM ET\r\nThe ECHL and the Professional Hockey Players' Association have reached tentative approval on a new collective bargaining agreement to end a strike that lasted two days.\r\nTh\u2026 [+516 chars]"
     },
     {
         "source": {
@@ -79,16 +92,29 @@
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": null,
+            "name": "NBCSports.com"
         },
-        "author": "Dan Primack",
-        "title": "Scoop: Nvidia deal a big win for Groq employees and investors - Axios",
-        "description": "Social media has been full of questions about what the unusual arrangement means for Groq employees.",
-        "url": "https://www.axios.com/2025/12/28/nvidia-groq-shareholders",
-        "urlToImage": "https://images.axios.com/IuuZHNJ-YNSHsXAi9obgpBydckU=/1366x768/smart/2025/01/07/185953-1736276393554.jpg",
-        "publishedAt": "2025-12-28T01:36:41Z",
-        "content": "Shareholders in Groq, a hot AI chipmaking startup, will receive handsome payouts from the company's $20 billion deal with Nvidia, even though no equity is changing hands, Axios has learned from sourc\u2026 [+2241 chars]"
+        "author": "Mike Florio",
+        "title": "Six of seven AFC playoff teams are set - NBC Sports",
+        "description": "Houston's win over the Chargers got the Texans into the playoffs.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/six-of-seven-afc-playoff-teams-are-set",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/5fbbf51/2147483647/strip/true/crop/7977x4487+0+417/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa4%2F3e%2F03fed53d4d76a19905dc43b78f26%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2243899067",
+        "publishedAt": "2025-12-28T01:46:33Z",
+        "content": "Houstons win over the Chargers got the Texans into the playoffs. And it leaves only one spot in the AFC unclaimed.\r\nSix teams are now in: Broncos, Patriots, Jaguars, Texans, Chargers, and Bills. \r\nTh\u2026 [+546 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Alessandra Freitas",
+        "title": "UK unveils paid armed forces \u2018gap year\u2019 for young people - CNN",
+        "description": "Young people in Britain will soon be offered the chance of a \u201cgap year\u201d through a new paid program in the armed forces, the government announced Saturday.",
+        "url": "https://www.cnn.com/2025/12/27/europe/uk-armed-forces-gap-year-for-youth-intl-latam",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2247196668.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-12-28T01:05:00Z",
+        "content": "Young people in Britain will soon be offered the chance of a gap year through a new paid program in the armed forces, the government announced Saturday.\r\nSet to launch in March 2026, the Armed Forces\u2026 [+2215 chars]"
     },
     {
         "source": {
@@ -106,19 +132,6 @@
     {
         "source": {
             "id": null,
-            "name": "TMZ"
-        },
-        "author": "TMZ Staff",
-        "title": "Ana De Armas Shows Off Ripped Abs in Tiny Workout Ensemble - TMZ",
-        "description": "Ana de Armas might not be a real \"Ballerina,\" but she's certainly got the physique of one ... just check out her slender frame in this form-fitting workout ensemble.",
-        "url": "https://www.tmz.com/2025/12/27/ana-de-armas-flaunts-stomach-workout-ensemble/",
-        "urlToImage": "https://imagez.tmz.com/image/87/16by9/2025/12/27/874728e256624530bc60d81608e31865_xl.jpg",
-        "publishedAt": "2025-12-28T00:52:42Z",
-        "content": "Ana de Armas might not be a real \"Ballerina,\" but she's certainly got the physique of one ... just check out her slender frame in this form-fitting workout ensemble.\r\nThe actress stepped out in Los A\u2026 [+795 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "BBC News"
         },
         "author": null,
@@ -132,15 +145,15 @@
     {
         "source": {
             "id": null,
-            "name": "Nintendo Life"
+            "name": "DenverBroncos.com"
         },
-        "author": "Liam Doolan",
-        "title": "Atlus Looks Forward To Persona's 30th Anniversary In 2026, Acknowledges Support For Persona 4 Revival - Nintendo Life",
-        "description": "It can\u2019t wait to make \u201canother announcement\u201d",
-        "url": "https://www.nintendolife.com/news/2025/12/atlus-looks-forward-to-personas-30th-anniversary-in-2026-acknowledges-support-for-persona-4-revival",
-        "urlToImage": "https://images.nintendolife.com/afe2b1d2b24b1/large.jpg",
-        "publishedAt": "2025-12-28T00:30:00Z",
-        "content": "Image: Atlus\r\nPersona 3 Reload only arrived on the Switch 2 in October, but theres plenty more to come...\r\nSpeaking to the Japanese website 4Gamer.net as part of its annual end-of-year developer inte\u2026 [+1845 chars]"
+        "author": null,
+        "title": "Broncos clinch 2025 AFC West division title - Denver Broncos",
+        "description": "Denver is back atop the AFC West, as the Broncos clinched their 16th AFC West division title in franchise history and their first since 2015.",
+        "url": "https://www.denverbroncos.com/news/broncos-clinch-2025-afc-west-division-title",
+        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/broncos/rjiprbnnfq4g2dueqcgy",
+        "publishedAt": "2025-12-28T00:40:39Z",
+        "content": null
     },
     {
         "source": {
@@ -157,6 +170,19 @@
     },
     {
         "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Leah Willingham, Julie Walker",
+        "title": "Winter storm snarls holiday travel across US Northeast, Great Lakes - AP News",
+        "description": "More than a thousand flights have been canceled or delayed across the Northeast and Great Lakes as a winter storm disrupted one of the busiest travel weekends of the year between Christmas and New Year\u2019s. As of Saturday morning, New York City had received aro\u2026",
+        "url": "https://apnews.com/article/holiday-travel-snow-light-cancellations-bd2cdb21ab373c6d21be046352ec5a9b",
+        "urlToImage": "https://dims.apnews.com/dims4/default/7425548/2147483647/strip/true/crop/3413x1920+0+178/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe5%2Fcb%2F6688e38804c40d5a9b7e726d6d33%2F32fb3dc1b0284a3a830338b92db85768",
+        "publishedAt": "2025-12-27T23:56:00Z",
+        "content": "BOSTON (AP) More than a thousand flights were canceled or delayed across the Northeast and Great Lakes regions due to snow as thousands took to roads and airports during the busy travel period betwee\u2026 [+4392 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "TMZ"
         },
@@ -167,6 +193,19 @@
         "urlToImage": "https://imagez.tmz.com/image/2c/16by9/2025/12/27/2c9f7221ef8e40c1bd4168bec4f22789_xl.jpg",
         "publishedAt": "2025-12-27T23:43:27Z",
         "content": "Tony McCollister -- the former A&amp;E personality arrested on charges of pandering obscenity involving a minor and sexual conduct with an animal in Ohio -- had his pets confiscated from him, TMZ has\u2026 [+907 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Acme Packing Company"
+        },
+        "author": "Justis Mosqueda",
+        "title": "Packers-Ravens Inactives: Lamar Jackson officially out vs. Green Bay - Acme Packing Company",
+        "description": "Three defensive linemen were healthy scratches for the Green Bay Packers on Sunday.",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/77231/packers-ravens-inactives-lamar-jackson-officially-out-vs-green-bay",
+        "urlToImage": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2025/12/gettyimages-2253269769.jpg?quality=90&strip=all&crop=0%2C10.730035654934%2C100%2C78.539928690132&w=1200",
+        "publishedAt": "2025-12-27T23:42:39Z",
+        "content": "The Green Bay Packers ruled out quarterback Jordan Love on Friday, but Baltimore Ravens fans had to wait until Saturday to get the bad news about Lamar Jackson. Jackson, who injured his back last wee\u2026 [+1224 chars]"
     },
     {
         "source": {
@@ -196,32 +235,6 @@
     },
     {
         "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Kate Reilly",
-        "title": "Oklahoma man charged in fatal shooting of neighbor while firing at target in his backyard - NBC News",
-        "description": "An Oklahoma man has been charged with first-degree manslaughter after allegedly shooting a woman a few blocks from his home while firing at a target in his backyard",
-        "url": "https://www.nbcnews.com/news/us-news/oklahoma-man-fatally-shooting-woman-target-practicing-backyard-rcna251138",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251227-Stephens-County-Sheriff-office-ch-1536-5e9782.jpg",
-        "publishedAt": "2025-12-27T22:28:03Z",
-        "content": "An Oklahoma man has been charged with first-degree manslaughter after allegedly shooting a woman a few blocks from his home while firing at a target in his backyard.\r\nThe woman, Sandra Phelps, was si\u2026 [+1835 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "San Francisco Chronicle"
-        },
-        "author": "Sara DiNatale",
-        "title": "PG&E outage: More than 6,000 S.F. customers without power for hours - San Francisco Chronicle",
-        "description": "More than 6,000 Pacific Gas and Electric\u00a0customers in the Richmond, Sunset and other SF neighborhoods regained power after a three-hour outage Saturday.",
-        "url": "https://www.sfchronicle.com/sf/article/pge-outage-21264014.php",
-        "urlToImage": "https://s.hdnux.com/photos/01/55/47/52/28736130/3/rawImage.jpg",
-        "publishedAt": "2025-12-27T22:22:20Z",
-        "content": "More than 6,000 Pacific Gas and Electric Co. customers were without power for hours Saturday in San Francisco, including in the Richmond District.\u00a0\r\nStephen Lam/S.F. Chronicle\r\nDemonstrators rally fo\u2026 [+2646 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Spaceflight Now"
         },
@@ -232,31 +245,5 @@
         "urlToImage": null,
         "publishedAt": "2025-12-27T22:16:38Z",
         "content": "The Cosmo-SkyMed Second Generation Flight Model 3 satellite undergoes testing ahead of its launch on a SpaceX Falcon 9 rocket. Image: Ministry of Defense\r\nUpdate Dec. 27, 5:56 p.m. EST (2256 UTC): Sp\u2026 [+3055 chars]"
-    },
-    {
-        "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "ABC News",
-        "title": "Stunning James Webb Space Telescope Images of 2025 - ABC News",
-        "description": "From dwarf galazies, dust shells, and star clusters to nebulas, galaxies, and supernovas, the James Webb Space Telescope (JWST) revealed amazing images of the universe in 2025.",
-        "url": "https://abcnews.go.com/International/photos/stunning-james-webb-space-telescope-images-2025-128724956",
-        "urlToImage": "https://i.abcnewsfe.com/a/3ca0aaef-5312-4f4d-92c9-92be7b6ec540/ss-1-cosmic-serpents-apep-ht-jt-251227_1766869606844_sl_21x16.jpg?w=1600",
-        "publishedAt": "2025-12-27T21:40:43Z",
-        "content": "JWST uncovered four coiled dust shells swirling around the chaotic triple star system Apep. These serpentine patterns, ejected over centuries by two massive Wolf-Rayet stars and shaped by a third com\u2026 [+300 chars]"
-    },
-    {
-        "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "ABC News",
-        "title": "Search ongoing for Texas teen missing since Christmas Eve - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/US/search-ongoing-texas-teen-missing-christmas-eve/story?id\\\\u003d128724275",
-        "urlToImage": null,
-        "publishedAt": "2025-12-27T21:35:58Z",
-        "content": null
     }
 ]
