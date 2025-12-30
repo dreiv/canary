@@ -1,6 +1,32 @@
 [
     {
         "source": {
+            "id": "the-globe-and-mail",
+            "name": "The Globe And Mail"
+        },
+        "author": "Sally Brompton",
+        "title": "Your daily horoscope: December 29, 2025 - The Globe and Mail",
+        "description": "Your daily horoscope for Monday, December 29, 2025",
+        "url": "https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-december-29-2025/",
+        "urlToImage": "https://www.theglobeandmail.com/resizer/v2/KORPAJ4Z5RDBJMBOJVYHC6O4IQ.png?auth=47bb3cc610e598dbafe4f0000cec183f04fb630dedd551357494920a18314ecb&width=1200&height=800&quality=80&smart=true",
+        "publishedAt": "2025-12-29T05:01:00Z",
+        "content": "Open this photo in gallery:CapricorniStockPhoto / Getty Images\r\nSome big challenges will come your way over the next 12 months but you wont shirk from tackling them head on. More than any other sign \u2026 [+2879 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Steelers.com"
+        },
+        "author": null,
+        "title": "Labriola on the loss to the Browns - Steelers.com",
+        "description": "Unlike the 3 previous games, they didn't make the plays to engineer a victory",
+        "url": "https://www.steelers.com/news/labriola-on-the-loss-to-the-browns-x1462",
+        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/steelers/bih62x5sviivs9oi7932",
+        "publishedAt": "2025-12-29T03:48:54Z",
+        "content": null
+    },
+    {
+        "source": {
             "id": null,
             "name": "BBC News"
         },
@@ -14,15 +40,28 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
+            "id": "mashable",
+            "name": "Mashable"
         },
-        "author": "CNN",
-        "title": "At least 13 dead after Mexico\u2019s Interoceanic Train derails - CNN",
-        "description": null,
-        "url": "https://www.cnn.com/2025/12/28/americas/mexico-train-interoceanic-intl-latam",
-        "urlToImage": null,
-        "publishedAt": "2025-12-29T01:35:00Z",
+        "author": "Mashable Team",
+        "title": "NYT Connections hints and answers for December 29, Tips to solve 'Connections' #932. - Mashable",
+        "description": "Everything you need to solve 'Connections' #932.",
+        "url": "https://mashable.com/article/nyt-connections-hint-answer-today-december-29-2025",
+        "urlToImage": "https://helios-i.mashable.com/imagery/articles/053zhFYpxmDA2OH01fvDRRw/hero-image.fill.size_1200x675.v1766427233.jpg",
+        "publishedAt": "2025-12-29T03:04:52Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "PhiladelphiaEagles.com"
+        },
+        "author": null,
+        "title": "10 takeaways from the Eagles\u2019 thrilling 13-12 win over the Bills | Spadaro - Philadelphia Eagles",
+        "description": "The Eagles' defense shined and came up clutch late as Philadelphia got a gutsy road victory.",
+        "url": "https://www.philadelphiaeagles.com/news/spadaro-10-takeaways-from-the-eagles-thrilling-13-12-win-over-the-bills",
+        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/eagles/zrib2wpmtqfg3c6ujy0y",
+        "publishedAt": "2025-12-29T02:12:36Z",
         "content": null
     },
     {
@@ -53,16 +92,16 @@
     },
     {
         "source": {
-            "id": "espn",
-            "name": "ESPN"
+            "id": null,
+            "name": "Seahawks.com"
         },
         "author": null,
-        "title": "Eagles hang on to beat Bills 13-12 when Josh Allen misses an open Khalil Shakir on 2-point try - 6abc Philadelphia",
-        "description": "Expert recap and game analysis of the Philadelphia Eagles vs. Buffalo Bills NFL game from December 28, 2025 on ESPN.",
-        "url": "https://www.espn.com/nfl/recap?gameId=401772917",
-        "urlToImage": "http://s.espncdn.com/stitcher/sports/football/nfl/events/401772917.png?templateId=espn.com.share.1",
-        "publishedAt": "2025-12-29T01:13:15Z",
-        "content": "ORCHARD PARK, N.Y. -- As Jalen Carter and his Philadelphia teammates celebrated in the end zone after making one last crucial stop, Buffalos Josh Allen removed his helmet and yelled out in frustratio\u2026 [+4518 chars]"
+        "title": "Seahawks Look To Week 18 Following Win Over Panthers: \u2018The Whole Team Is Fired Up\u2019 - Seattle Seahawks",
+        "description": "With Seattle\u2019s win against the Panthers and the 49ers win during Sunday Night Football, the Seahawks will be playing for the NFC West title and NFC No. 1 seed in Week 18.",
+        "url": "https://www.seahawks.com/news/seahawks-look-to-week-18-following-win-over-panthers-the-whole-team-is-fired-up",
+        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/seahawks/hisyvfwfompeqktzmch5",
+        "publishedAt": "2025-12-29T01:09:51Z",
+        "content": null
     },
     {
         "source": {
@@ -79,16 +118,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Steelers.com"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": null,
-        "title": "From the Press Room: Steelers at Browns - Steelers.com",
-        "description": "Coach Mike Tomlin, quarterback Aaron Rodgers and defensive tackle Cameron Heyward weigh in on the loss to the Browns",
-        "url": "https://www.steelers.com/news/from-the-press-room-steelers-at-browns-x6190",
-        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/steelers/z4nduwda1gsmqmvc9w0a",
-        "publishedAt": "2025-12-29T00:20:54Z",
-        "content": null
+        "author": "Christine Fernando, Mingson Lau",
+        "title": "Midair helicopter crash in New Jersey leaves 1 dead and another critically injured - AP News",
+        "description": "Officials say two helicopters have crashed midair in southern New Jersey on Sunday, killing one person and leaving another critically injured. Hammonton Police Chief Kevin Friel said rescuers responded to a report of an aviation crash at about 11:25 a.m. on S\u2026",
+        "url": "https://apnews.com/article/hammonton-new-jersey-helicopter-crash-68717ae773636de9142e03e8b5dbd6f1",
+        "urlToImage": "https://dims.apnews.com/dims4/default/f703cbc/2147483647/strip/true/crop/2974x1673+25+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F06%2F6b%2F0e311b2551ae2c9b9397594112b6%2F84fe2e0dd99d43f2a8fdd042c5c0c382",
+        "publishedAt": "2025-12-29T00:23:00Z",
+        "content": "HAMMONTON, N.J. (AP) Two helicopters crashed midair in New Jersey on Sunday, killing one person and critically injuring another, authorities say.\r\nHammonton Police Chief Kevin Friel said rescuers res\u2026 [+2570 chars]"
     },
     {
         "source": {
@@ -131,19 +170,6 @@
     },
     {
         "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Jacob Wendler",
-        "title": "Justice Department says Jan. 6 pipe bomb suspect believed election conspiracy theories - Politico",
-        "description": "The DOJ said in a new filing that the suspect was not \u201copenly political\u201d but believed the 2020 election had been tampered with.",
-        "url": "https://www.politico.com/news/2025/12/28/pipe-bomb-justice-department-jan-6-suspect-00707242",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F60%2Fe7%2F5aaa08584f14876a19b342eaaec4%2Ffbi-pipe-bomb-investigation-64768.jpg",
-        "publishedAt": "2025-12-28T23:08:58Z",
-        "content": "The new details came to light as the DOJ asked a judge to have Cole detained pending trial, arguing there is an intolerable risk that he will again resort to violence to express his frustration with \u2026 [+1587 chars]"
-    },
-    {
-        "source": {
             "id": "cbs-news",
             "name": "CBS News"
         },
@@ -154,45 +180,6 @@
         "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/12/28/da3c6943-99fa-42b5-99da-057f23361e71/thumbnail/1200x630g2/04ae507f36c1ae9a847e52a5d11c23ba/ahmed-al-ahmed.png",
         "publishedAt": "2025-12-28T22:57:00Z",
         "content": "Ahmed al Ahmed, the man hailed as a hero for tackling one of the gunmen behind an antisemitic attack on Australia's Bondi Beach earlier this month, is speaking out in the aftermath of the massacre.\u00a0\r\u2026 [+1910 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Patriots.com"
-        },
-        "author": null,
-        "title": "Game Observations: 8 Takeaways From the Patriots Dominant Win Over the Jets in Week 17 - Official website of the New England Patriots",
-        "description": "The Patriots completed a perfect regular-season road slate with a dominant 42-10 victory over the Jets on Sunday.",
-        "url": "https://www.patriots.com/news/game-observations-8-takeaways-from-the-patriots-dominant-win-over-the-jets-in-week-17",
-        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/q7lqh8h8qel3jvkhh90v",
-        "publishedAt": "2025-12-28T22:20:53Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Variety"
-        },
-        "author": "Rebecca Rubin",
-        "title": "\u2018Marty Supreme\u2019 Cements Timothee Chalamet as King of the Christmas Box Office - Variety",
-        "description": "Timoth\u00e9e Chalamet is officially the king of the Christmas box office.",
-        "url": "https://variety.com/2025/film/box-office/marty-supreme-timothee-chalamet-christmas-box-office-king-1236615317/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2025/12/GettyImages-2250852350-e1766937264131.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2025-12-28T22:16:00Z",
-        "content": "Timoth\u00e9e Chalamet is officially the king of the Christmas box office.\r\nIt\u2019s the third consecutive holiday season where the A-list star has dominated at the box office, a reign that began with 2023\u2019s \u2026 [+4829 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Hannah Levitt",
-        "title": "\u2018It\u2019s Revenge of the Banks\u2019 as Private Creditors Lose Their Edge - Bloomberg.com",
-        "description": "Deregulation is giving bankers new swagger in their rivalry with asset managers",
-        "url": "https://www.bloomberg.com/news/features/2025-12-28/citi-goldman-jpmorgan-lead-banks-revenge-on-private-equity",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imRiLqUVyt2Q/v1/1200x800.jpg",
-        "publishedAt": "2025-12-28T22:00:10Z",
-        "content": "The head of a giant Wall Street bank was dining with a buy-side rival when the investor casually called banks utilities. What stung most, the CEO thought: It wasnt meant as an insult.\r\nBut at the end\u2026 [+270 chars]"
     },
     {
         "source": {
@@ -209,19 +196,6 @@
     },
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": null,
-        "title": "The 11 Big Trades of 2025: Bubbles, Cockroaches and a 367% Jump - Bloomberg.com",
-        "description": "It was another year of high-conviction bets \u2014 and fast reversals.",
-        "url": "https://www.bloomberg.com/news/features/2025-12-28/ai-bubbles-jamie-dimon-cockroaches-gold-11-big-trades-of-2025",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3BxafIbb5RE/v3/1200x800.jpg",
-        "publishedAt": "2025-12-28T21:00:08Z",
-        "content": "It was another year of high-conviction bets and fast reversals.\r\nFrom bond desks in Tokyo and credit committees in New York to currency traders in Istanbul, markets delivered both windfalls and whipl\u2026 [+115 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "NPR"
         },
@@ -235,19 +209,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Newsnationnow.com"
-        },
-        "author": "Rob Taub",
-        "title": "\u2018Super flu\u2019 cases rising across US: What to know - NewsNation",
-        "description": "The \u201csuper flu\u201d is a variant of influenza A H3N2 called subclade K that doctors say is more severe and takes longer to recover from.",
-        "url": "https://www.newsnationnow.com/health/super-flu-cases-what-to-know/",
-        "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2025/03/GettyImages-1331685786-e1742591435254.jpg?w=1280",
-        "publishedAt": "2025-12-28T20:22:42Z",
-        "content": "(NewsNation) As the winter season fully kicks in, it\u2019s expected that people across the country will get sick. Except this time, a new illness has sounded the alarm \u2014 the \u201csuper flu.\u201d\r\nThe \u201csuper flu\u201d\u2026 [+3407 chars]"
-    },
-    {
-        "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
@@ -258,5 +219,18 @@
         "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Apple-Watch-SE-3-hero-250909_big.jpg.large_2x.jpg?resize=1200,800",
         "publishedAt": "2025-12-28T20:00:00Z",
         "content": "This year, Apple released three new Apple Watch models: the Apple Watch Series 11, Apple Watch SE 3, and Apple Watch Ultra 3. If you received an Apple gift card over the holidays and are exploring th\u2026 [+4922 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Suriname: Nine people, including five children, stabbed to death - BBC",
+        "description": "Police detained the male suspect after shooting him in the leg, while two others are seriously injured.",
+        "url": "https://www.bbc.com/news/articles/cp8966ew7y7o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cf27/live/8c983a20-e418-11f0-aae2-2191c0e48a3b.jpg",
+        "publishedAt": "2025-12-28T19:32:17Z",
+        "content": "Nine people including five children have been stabbed to death on the outskirts of Suriname's capital, Paramaribo, police have said.\r\nAnother adult and child were taken to hospital after sustaining s\u2026 [+1138 chars]"
     }
 ]
