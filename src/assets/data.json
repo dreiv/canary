@@ -1,6 +1,58 @@
 [
     {
         "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Jennifer Ouellette",
+        "title": "Leonardo\u2019s wood charring method predates Japanese practice - Ars Technica",
+        "description": "Yakisugi, a Japanese technique of burning wood surfaces, creates a protective carbonized layer...",
+        "url": "https://arstechnica.com/science/2025/12/did-one-line-in-a-leonardo-codex-anticipate-yakisugi/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/leonardo1CROP-1152x648-1767021942.jpg",
+        "publishedAt": "2025-12-29T19:30:47Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Somaliland: Why has Israel recognised the breakaway African state as independent? - BBC",
+        "description": "Somaliland wants international recognition - here's why, and what could have driven Israel to recognise it now.",
+        "url": "https://www.bbc.com/news/articles/c14v4kmg275o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/273f/live/6d4e4d90-e4e4-11f0-94b0-3564906c508d.jpg",
+        "publishedAt": "2025-12-29T18:55:22Z",
+        "content": "Ameyu Etana,BBC Afaan Oromooand\r\nResidents of Somaliland's capital city, Hargeisa, have been celebrating Israel's declaration\r\nIsrael has taken the controversial decision to recognise the breakaway s\u2026 [+7200 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "More than 75% of US adults may meet criteria for obesity under new definition: Study - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/Health/75-us-adults-meet-criteria-obesity-new-definition/story?id\\\\u003d128747616",
+        "urlToImage": null,
+        "publishedAt": "2025-12-29T18:29:11Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Deadline"
+        },
+        "author": "Jill Goldsmith",
+        "title": "Beyonc\u00e9 Becomes A Billionaire, Joins Husband Jay-Z On Forbes Elite List - Deadline",
+        "description": "Beyonc\u00e9 has joined her husband Jay-Z along with Taylor Swift, Bruce Springsteen and Rihanna as the fifth musician on Forbes' global billionaires list.",
+        "url": "http://deadline.com/2025/12/beyonce-joines-forbes-list-of-global-billionaires-1236657689/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2025/05/007_20250509_CCT_LA_Poole_WEB.jpg?w=1024",
+        "publishedAt": "2025-12-29T17:55:00Z",
+        "content": "Pop icon Beyonc\u00e9 has joined her husband Jay-Z along with Taylor Swift, Bruce Springsteen and Rihanna as the fifth musician on the Forbes list of global billionaires, the publication said today.\r\nHer \u2026 [+1974 chars]"
+    },
+    {
+        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -28,6 +80,32 @@
     {
         "source": {
             "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Ukraine denies drone attack on Putin's residence - BBC",
+        "description": "Russia has accused Ukraine of targeting a presidential residence, which President Zelensky called \"typical Russian lies\".",
+        "url": "https://www.bbc.com/news/articles/c4g4g5lgngvo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4d9e/live/8e2f52a0-e4cd-11f0-a8dc-93c15fe68710.jpg",
+        "publishedAt": "2025-12-29T17:02:50Z",
+        "content": "President Volodymyr Zelensky has denied allegations by Russia that Ukraine launched a drone attack on one of President Vladimir Putin's residences, and accused Moscow of trying to derail peace talks.\u2026 [+3092 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "British-Egyptian dissident apologises for tweets as Tories push for UK deportation - BBC",
+        "description": "Shabana Mahmood is facing growing calls to revoke the citizenship of Alaa Abdel Fattah after the emergence of social media posts.",
+        "url": "https://www.bbc.com/news/articles/c0l93lx1rx3o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d890/live/306b3840-e438-11f0-ba29-7da52e5ef3db.jpg",
+        "publishedAt": "2025-12-29T16:13:30Z",
+        "content": "British-Egyptian democracy activist Alaa Abd El Fattah has apologised for several of his old tweets that have resurfaced, as calls grow for him to be deported from the UK days after he arrived follow\u2026 [+8131 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "syracuse.com"
         },
         "author": "Geoff Herbert | gherbert@syracuse.com",
@@ -41,6 +119,19 @@
     {
         "source": {
             "id": null,
+            "name": "Rolling Stone"
+        },
+        "author": "Rolling Stone",
+        "title": "Best Music of 2025: Staff Picks - Rolling Stone",
+        "description": "Rolling Stone staffers pick their favorite albums of 2025, from Bad Bunny to Clipse to Rosalia to Taylor Swift to Wednesday to Geese to Lady Gaga",
+        "url": "http://www.rollingstone.com/music/music-features/best-music-2025-rolling-stone-staff-albums-1235487922/",
+        "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/12/staff-picks-illo-lead.jpg?w=1600&h=900&crop=1",
+        "publishedAt": "2025-12-29T15:44:47Z",
+        "content": "You never know what you\u2019ll find out if you ask someone who works at Rolling Stone what they\u2019ve been listening to lately. Our team enjoys music of all kinds, from the biggest blockbuster releases in p\u2026 [+51706 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "TribLIVE"
         },
         "author": null,
@@ -49,20 +140,20 @@
         "url": "https://triblive.com/sports/mark-madden-steelers-loss-at-cleveland-littered-with-ineptitude/",
         "urlToImage": null,
         "publishedAt": "2025-12-29T15:33:05Z",
-        "content": "Because you are coming from a location (Oregon) covered by a Privacy Law, many of the features of TribLIVE.com, like videos and social media elements are disabled. If you wish to proceed to the site \u2026 [+613 chars]"
+        "content": "Because you are coming from a location (Connecticut) covered by a Privacy Law, many of the features of TribLIVE.com, like videos and social media elements are disabled. If you wish to proceed to the \u2026 [+623 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "TMZ"
+            "id": "politico",
+            "name": "Politico"
         },
-        "author": "TMZ Staff",
-        "title": "Kim and Kanye Reunite for the Holidays, Make Peace for Their Kids - tmz.com",
-        "description": "Santa seems to have worked a miracle in Kardashian land ... because Kim and Kanye not only hung out together with their kids -- but they also got along!",
-        "url": "https://www.tmz.com/2025/12/29/kim-kanye-together-holidays-for-kids/",
-        "urlToImage": "https://imagez.tmz.com/image/7e/16by9/2025/12/29/7edfbb5ac78f45ec9bffcac1490b8953_xl.jpg",
-        "publishedAt": "2025-12-29T15:05:30Z",
-        "content": "Santa seems to have worked a miracle in Kardashian land ... because Kim and Kanye not only hung out together with their kids -- but they also got along!\r\nSources with direct knowledge tell TMZ ... Ki\u2026 [+1155 chars]"
+        "author": "Blake Jones",
+        "title": "Democrats' redistricting win sparks a new party war in California - Politico",
+        "description": "Zohran Mamdani\u2019s lead media strategist cut an ad for a progressive running in California\u2019s Central Valley.",
+        "url": "https://www.politico.com/news/2025/12/29/democrats-redistricting-win-sparks-a-new-party-war-in-california-00701623",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F2f%2Fbf%2F28f99e41447ab8426d0a746cae2f%2F8f0f5f383a90406089963c0927258199.jpeg",
+        "publishedAt": "2025-12-29T15:00:00Z",
+        "content": "The risk to the Democratic Party is when we run candidates who take corporate money, refuse to criticize the people rigging the economy and ruining the lives of working class people, said Morris Katz\u2026 [+6690 chars]"
     },
     {
         "source": {
@@ -95,19 +186,6 @@
             "id": "associated-press",
             "name": "Associated Press"
         },
-        "author": "Kanis Leung",
-        "title": "Top diplomats of China, Cambodia and Thailand meet as Beijing seeks a stronger role in dispute - AP News",
-        "description": "Foreign ministers from Cambodia and Thailand have convened with their Chinese counterpart to discuss the border dispute between the two Southeast Asian countries. The trilateral meeting Monday was held in a southwestern Chinese province north of the region wh\u2026",
-        "url": "https://apnews.com/article/china-thailand-cambodia-meeting-yunnan-border-dispute-730a88992ab3188a2f8effcf25ecb915",
-        "urlToImage": "https://dims.apnews.com/dims4/default/95c6045/2147483647/strip/true/crop/5000x2813+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F46%2F4c%2F03f2d19c8dd0d799051c1f5a4ab3%2Fec20e3bb0e7f438dbe25d23fd45fc357",
-        "publishedAt": "2025-12-29T14:30:00Z",
-        "content": "HONG KONG (AP) Foreign ministers from Cambodia and Thailand convened with their Chinese counterpart on Monday as the Beijing government, building on its expanding presence in global diplomacy, sought\u2026 [+4815 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
         "author": "Leah Willingham, Jeff Martin",
         "title": "Winter storm brings blizzard conditions and dangerous wind chills to US Upper Midwest - AP News",
         "description": "A powerful winter storm is moving northeast, bringing snow, ice, rain, and strong winds. The National Weather Service warns of blizzard conditions and treacherous travel. Snow and winds spread across the Upper Midwest with two feet of snow falling in at least\u2026",
@@ -115,6 +193,19 @@
         "urlToImage": "https://dims.apnews.com/dims4/default/02b5a97/2147483647/strip/true/crop/3600x2025+0+188/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fae%2F0b%2Fbfae7b479c822f30d59ac09907da%2F20f7f08183404a6493a37b025315a0e9",
         "publishedAt": "2025-12-29T14:12:00Z",
         "content": "A potent winter storm brought blizzard conditions, treacherous travel and power outages in parts of the Upper Midwest on Monday as other areas of the country experienced plunging temperatures, strong\u2026 [+4425 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Megan Lebowitz",
+        "title": "Trump says the U.S. took out a 'big facility' in Venezuela amid strikes on alleged drug boats - NBC News",
+        "description": "President Donald Trump said in an interview with WABC radio in New York that the U.S. \u201cknocked out\u201d a Venezuelan facility, a move that would mark a major escalation in U.S. military strikes to counter alleged drug-trafficking by the South American country.",
+        "url": "https://www.nbcnews.com/politics/national-security/trump-land-strike-venezuela-facility-drug-boats-rcna251329",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251229-trump-rs-e9320e.jpg",
+        "publishedAt": "2025-12-29T14:05:00Z",
+        "content": "WASHINGTON President Donald Trump said in an interview with WABC radio in New York that the U.S. had knocked out a Venezuelan facility, a move that would be a major escalation in U.S. military strike\u2026 [+3162 chars]"
     },
     {
         "source": {
@@ -154,44 +245,5 @@
         "urlToImage": "https://dims.apnews.com/dims4/default/2e49789/2147483647/strip/true/crop/5394x3034+0+281/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fda%2Fa1%2F41f63edd0411e7c06a0d66282273%2Ffb317ba80f584fb08955aa28a961980a",
         "publishedAt": "2025-12-29T13:38:00Z",
         "content": "The new year is a time when many try to start new good habits and commit to improving health and wellness.\r\nBut resolutions, lofty as they may be, can turn daunting quickly with all the advice and so\u2026 [+4109 chars]"
-    },
-    {
-        "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "ABC News",
-        "title": "Alleged Jan. 6 pipe bomber said he wasn't targeting Congress' certification of Biden's victory: DOJ - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/Politics/alleged-jan-6-pipe-bomber-targeting-congress-certification/story?id\\\\u003d128738143",
-        "urlToImage": null,
-        "publishedAt": "2025-12-29T13:29:34Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Variety"
-        },
-        "author": "Ellise Shafer",
-        "title": "\u2018Malcolm in the Middle\u2019 Revival Trailer: Frankie Muniz and Bryan Cranston Reunite After Nearly 20 Years; April Release Date Set - Variety",
-        "description": "Hulu and Disney+'s 'Malcolm in the Middle' revival revealed its first footage featuring Frankie Muniz, Bryan Cranston as well as a release date.",
-        "url": "https://variety.com/2025/tv/news/malcolm-in-the-middle-revival-trailer-april-release-date-1236618966/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2025/12/malcolm-in-the-middle.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2025-12-29T13:29:00Z",
-        "content": "Malcolm is officially back in the middle. \r\nHulu\u2019s revival of the hit early 2000s sitcom, titled \u201cMalcolm in the Middle: Life\u2019s Still Unfair,\u201d revealed its first trailer on Monday alongside an April \u2026 [+1422 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Michael Wayland",
-        "title": "GM's record stock performance beats Tesla, Ford and other automakers in 2025 - CNBC",
-        "description": "General Motors' stock is having its best year since the company's reemergence from bankruptcy in 2009.",
-        "url": "https://www.cnbc.com/2025/12/29/gm-stock-tesla-ford.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108169215-1752009312219-Screenshot_2025-07-08_at_30324_PM.png?v=1752077336&w=1920&h=1080",
-        "publishedAt": "2025-12-29T13:24:51Z",
-        "content": "Mary Barra, CEO of General Motors, attends the annual Allen and Co. Sun Valley Media and Technology Conference at the Sun Valley Resort in Sun Valley, Idaho, on July 8, 2025.\r\nDETROIT General Motors \u2026 [+4475 chars]"
     }
 ]
