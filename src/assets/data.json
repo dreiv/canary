@@ -1,29 +1,94 @@
 [
     {
         "source": {
-            "id": "espn",
-            "name": "ESPN"
+            "id": null,
+            "name": "49ers.com"
         },
         "author": null,
-        "title": "Amid boos, Baylor's Nnaji debuts in loss at TCU - ESPN",
-        "description": "James Nnaji, the 7-foot center and 2023 NBA draft pick whose signing drew criticism from coaches across college basketball last month, debuted Saturday, scoring five points with four fouls in Baylor's 69-63 loss to TCU in the Big 12 opener for both teams.",
-        "url": "https://www.espn.com/mens-college-basketball/story/_/id/47493605/james-nnaji-debuts-5-points-4-fouls-baylor-loss",
-        "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0103%2Fr1596188_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-01-03T22:03:00Z",
-        "content": "FORT WORTH, Texas -- James Nnaji, the 7-foot center and 2023 NBA draft pick whose signing drew criticism from coaches across college basketball last month, made his debut on Saturday, in Baylor's 69-\u2026 [+2183 chars]"
+        "title": "Trent Williams, Ricky Pearsall OUT, George Kittle Active vs. Seahawks; Inactives for Week 18 #SEAvsSF - 49ers.com",
+        "description": "Take a look at players who have been ruled out for the San Francisco 49ers Week 18 Saturday night matchup versus the Seattle Seahawks.",
+        "url": "https://www.49ers.com/news/trent-williams-ricky-pearsall-out-george-kittle-active-vs-seahawks-inactives-for-week-18-seavssf",
+        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/49ers/asdzyozrdlyv2ntmoavt",
+        "publishedAt": "2026-01-03T23:32:57Z",
+        "content": null
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Andrew Pantazi",
-        "title": "Trump's isolationism meets his Venezuela exception - Axios",
-        "description": "Trump built his brand on rejecting regime change and intervention.",
-        "url": "https://www.axios.com/2026/01/03/trump-venezuela-nation-building-isolationism",
-        "urlToImage": "https://images.axios.com/5De05i2ZLmiVms3Wzvg4jCzALJM=/0x123:8256x4767/1366x768/2026/01/03/1767473127321.jpeg",
-        "publishedAt": "2026-01-03T21:48:14Z",
-        "content": "<ul><li>But he's consistently carved out an exception for Venezuela because of its proximity and possession of the world's largest oil reserves.</li></ul>The big picture: \"We're going to run it, esse\u2026 [+3160 chars]"
+        "author": "Lucia I Suarez Sang, Kaia  Hubbard",
+        "title": "Watch live: Maduro and his wife arrive in New York to face narco-terrorism charges - CBS News",
+        "description": "Venezuelan President Nicolas Maduro and his wife, Cilia Flores, were captured overnight from their home in Caracas during a U.S. military operation.",
+        "url": "https://www.cbsnews.com/news/venezuela-nicolas-maduro-cilia-flores-new-york-narco-terrorism/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/01/03/b7fade01-cb73-49c8-86d1-5d816a5f6f3e/thumbnail/1200x630/70f875ff41e5131b08c2db1ae98bfdcd/maduroplane.jpg",
+        "publishedAt": "2026-01-03T21:35:00Z",
+        "content": "Ousted Venezuelan President Nicolas Maduro and his wife arrived at Stewart Air National Guard Base, just north of New York City, on Saturday afternoon, hours after their capture during a daring U.S. \u2026 [+3214 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Hayley Cuccinello, Spencer Kimball",
+        "title": "Maduro overthrow in oil-rich Venezuela unlikely to shake energy markets in the near term - CNBC",
+        "description": "While Venezuela has the world's largest oil reserves, its oil production is relatively small.",
+        "url": "https://www.cnbc.com/2026/01/03/trump-venezuela-attack-oil-markets.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108038249-1727178681692-gettyimages-1250764851-eg_JBU_03042023_91055JPG.jpeg?v=1767476008&w=1920&h=1080",
+        "publishedAt": "2026-01-03T21:20:27Z",
+        "content": "President Donald Trump's overthrow of President Nicolas Maduro in oil-rich Venezuela is unlikely to shock energy markets in the near term, analysts told CNBC on Saturday. \r\nWhile the scale of the U.S\u2026 [+4657 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Swiss open criminal case against owners of ski resort bar after deadly fire - BBC",
+        "description": "It comes after a preliminary investigation found the likely cause was sparklers on champagne bottles being carried too close to the ceiling.",
+        "url": "https://www.bbc.com/news/articles/cjdjl303zxlo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/eb88/live/796cc260-e894-11f0-b4b3-f5118369b77f.jpg",
+        "publishedAt": "2026-01-03T21:20:02Z",
+        "content": "The managers of a bar where a fire killed 40 people and injured another 119 have been placed under criminal investigation, Swiss prosecutors have said. \r\nThe French couple - named by the media as Jac\u2026 [+1718 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Action Network"
+        },
+        "author": "Sean Koerner",
+        "title": "NFL Prop Bets: Saturday Over/Under Predictions for SirVocea Dennis, Jalen Coker - Action Network",
+        "description": "NFL Week 18 gets going with the Carolina Panthers and Tampa Bay Buccaneers on Saturday afternoon, followed by the Seattle Seahawks and San Francisco 49ers in the nightcap. For more",
+        "url": "https://www.actionnetwork.com/nfl/nfl-prop-bets-saturday-over-under-predictions",
+        "urlToImage": "https://images.actionnetwork.com/blog/2026/01/sirvocea.jpg",
+        "publishedAt": "2026-01-03T20:12:00Z",
+        "content": "NFL Week 18 gets going with the Carolina Panthers and Tampa Bay Buccaneers on Saturday afternoon, followed by the Seattle Seahawks and San Francisco 49ers in the nightcap.\r\n<ul><li>For more coverage \u2026 [+2126 chars]"
+    },
+    {
+        "source": {
+            "id": "espn",
+            "name": "ESPN"
+        },
+        "author": "ESPN",
+        "title": "Penguins 4-1 Red Wings (Jan 3, 2026) Game Recap - ESPN",
+        "description": null,
+        "url": "https://www.espn.com/nhl/recap?gameId\\\\u003d401802995",
+        "urlToImage": null,
+        "publishedAt": "2026-01-03T19:52:30Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "PEOPLE"
+        },
+        "author": "Rachel McRady, Nicholas Rice",
+        "title": "Meghan McCain and Ben Domenech Welcome Their Third Baby, a Boy: 'We're Absolutely Over the Moon' (Exclusive) - Yahoo News UK",
+        "description": "The couple is already parents to daughters Liberty, 5, and Clover, 2",
+        "url": "https://people.com/meghan-mccain-ben-domenech-welcome-their-third-baby-a-boy-exclusive-11834019",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/soJnCXjjT91AXVJPy4_Rsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/98eedb7c20412ce99eee42b918e14616",
+        "publishedAt": "2026-01-03T19:11:47Z",
+        "content": "NEED TO KNOW\r\n<ul><li>Meghan McCain and her husband, Ben Domenech, have welcomed their third baby together a boy named Ransom McCain Domenech\r\n</li><li>The couple's son was born on Jan. 2, PEOPLE can\u2026 [+2381 chars]"
     },
     {
         "source": {
@@ -37,19 +102,6 @@
         "urlToImage": "https://images.wral.com/ee7a01e5-3838-5350-8c2f-5b0ab1a5ec86?w=1200&h=630",
         "publishedAt": "2026-01-03T19:01:44Z",
         "content": "A person carrying measles traveled through Gaston County while infectious, according to the North Carolina Department of Health and Human Services. \r\nHealth officials ask anyone who was at Constantin\u2026 [+1134 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Covers.com"
-        },
-        "author": null,
-        "title": "Panthers vs Buccaneers Predictions, Picks & Best Bets for Today \u2014 NFL Week 18 - Covers.com",
-        "description": "Expect a solid rushing game for Panthers running back Chuba Hubbard against the Buccaneers in our picks, odds & expert predictions for Saturday, January 3.",
-        "url": "https://www.covers.com/nfl/panthers-vs-buccaneers-predictions-picks-best-bets-today-january-3-2026",
-        "urlToImage": "https://img.covers.com/cms/covers/6f2a28c6-aab4-4ba5-bacb-d7fb0be958cf.jpg",
-        "publishedAt": "2026-01-03T18:53:00Z",
-        "content": "The NFC South picture has shifted from \u201cwin and in\u201d to \u201cwin and wait.\u201d\r\nTampa Bay needs a victory over Carolina on Saturday and a helping hand from New Orleans against Atlanta on Sunday.\r\nThe Panther\u2026 [+5519 chars]"
     },
     {
         "source": {
@@ -79,6 +131,19 @@
     },
     {
         "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Brittany Gibson",
+        "title": "DHS hypes worksite enforcement as fraud allegations rip through Minnesota - Axios",
+        "description": "Sec. Noem says there's \"more coming\" as ICE focuses on businesses.",
+        "url": "https://www.axios.com/2026/01/02/dhs-noem-minnesota-fraud",
+        "urlToImage": "https://images.axios.com/O2_PwZeT4ZIx604wfh6fL4EvlbA=/0x625:6000x4000/1366x768/2026/01/02/1767380478580.jpeg",
+        "publishedAt": "2026-01-03T17:59:24Z",
+        "content": "<ul><li>The Department of Homeland Security's social media campaign hasn't typically highlighted the worksite enforcement arm of ICE's operations.</li><li>But in a post sharing video of a business si\u2026 [+2027 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Variety"
         },
@@ -92,16 +157,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Hollywood Reporter"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": "Lexi Carson",
-        "title": "National Society of Film Critics Voting Taking Place (Updating Live) - The Hollywood Reporter",
-        "description": "Winners will be noted as they're announced for best picture, director, actor, actress, supporting actor and actress, screenplay and cinematography.",
-        "url": "http://www.hollywoodreporter.com/lists/2026-national-society-of-film-critics-winners-list/",
-        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/11/One_Battle_After_Another_PREM_H_Still_3840x2160_02.jpg?w=1440&h=810&crop=1",
-        "publishedAt": "2026-01-03T17:48:25Z",
-        "content": "The National Society of Film Critics is voting on its top picks for the best in film from the past year.\r\nFounded in 1966, and made up of more than 60 critics from prominent outlets across the countr\u2026 [+2284 chars]"
+        "author": "Maggie Penman, Ted Muldoon, Ted Muldoon",
+        "title": "How to get stronger as you age - The Washington Post",
+        "description": "New research finds that declining health is not inevitable as we age. It can also be a time to get healthier and stronger.",
+        "url": "https://www.washingtonpost.com/podcasts/post-reports/how-to-get-stronger-as-you-age-1/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://podcast.posttv.com/series/20260102/t_1767369617095_name_FLORENE_long.jpeg&w=1440",
+        "publishedAt": "2026-01-03T17:07:39Z",
+        "content": "Today we share one of our favorite episodes, from Optimist reporter Maggie Penman about the new science of aging, and a hopeful research finding that getting stronger and healthier in old age is poss\u2026 [+439 chars]"
     },
     {
         "source": {
@@ -154,57 +219,5 @@
         "urlToImage": "https://media.phillyvoice.com/media/images/USATSI_26802670_1.20d8a183.fill-1200x630-c0.jpg",
         "publishedAt": "2026-01-03T14:21:02Z",
         "content": "For the gambling degenerates, here are my Week 18 NFL picks. The team logos indicate who I think will win the game, not necessarily cover the spread. At the end of the picks, I'll note a few teams th\u2026 [+9220 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Live Science"
-        },
-        "author": "Skyler Ware",
-        "title": "Giant 'cow of the Cretaceous' discovered almost 100 years ago identified as new duck-billed dinosaur - Live Science",
-        "description": "The dino lived during the Late Cretaceous alongside other hadrosaurids in present-day New Mexico.",
-        "url": "https://www.livescience.com/animals/dinosaurs/giant-cow-of-the-cretaceous-discovered-almost-100-years-ago-identified-as-new-duck-billed-dinosaur",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/GHYrbv8uxQUw2CdFrNRQJj-2560-80.jpg",
-        "publishedAt": "2026-01-03T13:42:00Z",
-        "content": "Scientists have discovered an enormous species of duck-billed dinosaur that lived in what is now New Mexico about 75 million years ago.\r\nThe dinosaur, Ahshislesaurus wimani, likely had a flat head an\u2026 [+3349 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Space.com"
-        },
-        "author": "Anthony Wood",
-        "title": "The largest sun of 2026 rises today as Earth draws closest to our parent star - Space",
-        "description": "Earth reaches its closest point to the sun in its 2026 orbit on Jan. 3.",
-        "url": "https://www.space.com/stargazing/the-largest-sun-of-2026-rises-today-as-earth-draws-closest-to-our-parent-star",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/wyMxDWWPJvwvBCfEaaixzZ-1920-80.jpg",
-        "publishedAt": "2026-01-03T13:00:00Z",
-        "content": "The sun will appear larger in the sky than on any other day in 2026 on Jan. 3, as our planet reaches its closest point to our parent star in its 365-day orbit during an event known to astronomers as \u2026 [+2039 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Trump intervention warning over Iran protests 'reckless' says foreign minister - BBC",
-        "description": "The US president earlier said if peaceful protesters are killed, Washington \"will come to their rescue\".",
-        "url": "https://www.bbc.com/news/articles/c2057md3gvro",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fea1/live/bafc3380-e855-11f0-b67b-690eb873de1b.jpg",
-        "publishedAt": "2026-01-03T11:22:51Z",
-        "content": "Donald Trump's warning that the US will intervene if peaceful protesters are killed was \"reckless and dangerous\", Iran's foreign minister has said.\r\nAbbas Araghchi's comments came after the US presid\u2026 [+3403 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Creative Bloq"
-        },
-        "author": "Joe Foley",
-        "title": "Instagram boss admits AI slop has won, but where does that leave creatives? - Creative Bloq",
-        "description": "Prove you're real, Adam Mosseri suggests.",
-        "url": "https://www.creativebloq.com/art/digital-art/instagrams-boss-admits-ai-slop-has-won-but-where-does-that-leave-creatives",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/pX3BkaFhfz9CSFczS2KdWe-1920-80.png",
-        "publishedAt": "2026-01-03T07:00:00Z",
-        "content": "AI slop was all over social media in 2025, and Meta's head of Instagram Adam Mosseri has finally recognised something that was pretty apparent. Authenticity is going to be an issue in 2026.\r\nA lot of\u2026 [+5138 chars]"
     }
 ]
