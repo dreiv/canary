@@ -1,42 +1,120 @@
 [
     {
         "source": {
-            "id": "nhl-news",
-            "name": "NHL News"
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Trista Kurniawan",
+        "title": "Landfill collapse kills 1 and leaves at least 27 missing, Philippine police say - CNN",
+        "description": "An avalanche of garbage buried workers at a waste segregation facility in a central Philippine city, killing one person, injuring seven and leaving at least 27 others missing, police said Friday.",
+        "url": "https://www.cnn.com/2026/01/09/asia/landfill-collapse-philippines-intl-hnk",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap26009166232497.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-01-09T06:33:08Z",
+        "content": "An avalanche of garbage buried workers at a waste segregation facility in a central Philippine city, killing one person, injuring seven and leaving at least 27 others missing, police said Friday.\r\nRe\u2026 [+1776 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Claire Rush, Gene Johnson",
+        "title": "Federal immigration officers shoot and wound 2 people in Portland, Oregon, authorities say - AP News",
+        "description": "Federal immigration officers have shot and wounded two people in a vehicle outside a hospital in Portland, Oregon. Thursday's shooting comes a day after an Immigration and Customs Enforcement officer shot and killed a driver in Minnesota. The Department of Ho\u2026",
+        "url": "https://apnews.com/article/immigration-shooting-oregon-5eeffe06106f711b8a17f6072ad9b53d",
+        "urlToImage": "https://dims.apnews.com/dims4/default/8daab17/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F21%2Fc0%2Ffc8c98f80b154a6b78de4f14f352%2Feea0ceea187446a9984023ae81ca0abf",
+        "publishedAt": "2026-01-09T05:43:00Z",
+        "content": "PORTLAND, Ore. (AP) Federal immigration agents shot and wounded two people in a vehicle outside a hospital in Portland on Thursday, a day after an officer fatally shot a woman in Minnesota, authoriti\u2026 [+4904 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Financial Times"
+        },
+        "author": "Eleanor Olcott, William Sandlund",
+        "title": "DeepSeek rival\u2019s shares jump 87% in China AI listings boom - Financial Times",
+        "description": "MiniMax joins wave of Chinese technology companies going public",
+        "url": "https://www.ft.com/content/a4fc6106-5a61-4a89-9400-c17c87fb1920",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F134e13e6-6902-4175-90a8-48cb57f21aa3.jpg?source=next-barrier-page",
+        "publishedAt": "2026-01-09T02:20:36Z",
+        "content": "was $409now $149 for your first year\r\nDelivery Monday - Saturday, including FT Weekend and FT Digital Edition: all the content of the FT newspaper on any device. Savings based on annual price.\r\n<ul><\u2026 [+221 chars]"
+    },
+    {
+        "source": {
+            "id": "espn",
+            "name": "ESPN"
+        },
+        "author": "ESPN",
+        "title": "Michigan State 76-66 Northwestern (Jan 8, 2026) Game Recap - ESPN",
+        "description": null,
+        "url": "https://www.espn.com/mens-college-basketball/recap?gameId\\\\u003d401825428",
+        "urlToImage": null,
+        "publishedAt": "2026-01-09T02:15:16Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Nintendo.com"
         },
         "author": null,
-        "title": "Kane gets 500th NHL goal, becomes 5th U.S.-born player to reach milestone - NHL.com",
-        "description": "37-year-old scores twice for Red Wings in win against Canucks",
-        "url": "https://www.nhl.com/news/red-wings-patrick-kane-scores-500th-nhl-goal",
-        "urlToImage": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/v1767927470/prd/dsybrkzfuoydb8xof2hm.jpg",
-        "publishedAt": "2026-01-09T04:29:30Z",
-        "content": "Patrick Kane became the fifth player born in the United States to score 500 goals in the NHL by getting two for the Detroit Red Wings in a 5-1 win against the Vancouver Canucks at Little Caesars Aren\u2026 [+1827 chars]"
+        "title": "Fire Emblem: Path of Radiance comes to Nintendo Classics! \u2013 News \u2013 Nintendo Official Site - Nintendo",
+        "description": "Play Fire Emblem: Path of Radiance and rediscover curated Nintendo classics with a Nintendo Switch Online + Expansion Pack membership!",
+        "url": "https://www.nintendo.com/us/whatsnew/fire-emblem-path-of-radiance-comes-to-nintendo-classics/",
+        "urlToImage": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
+        "publishedAt": "2026-01-09T02:01:56Z",
+        "content": "01/08/26Learn more\r\nFire Emblem: Path of Radiance comes to Nintendo Classics!\r\nThe tactical RPG arrives on Nintendo Classics!\r\nNintendo Switch Online + Expansion Pack members with the Nintendo Switch\u2026 [+1217 chars]"
     },
     {
         "source": {
             "id": "abc-news",
             "name": "ABC News"
         },
-        "author": "abcnews.go.com",
-        "title": "2 shot by federal agent after 'targeted' stop, Portland mayor asks ICE to halt operations - abcnews.go.com",
-        "description": null,
-        "url": "https://abcnews.go.com/US/2-shot-federal-agents-portland-sources/story?id\\\\u003d129038573",
-        "urlToImage": null,
-        "publishedAt": "2026-01-09T02:54:57Z",
+        "author": "ANTHONY IZAGUIRRE Associated Press",
+        "title": "Hochul and Mamdani to unveil free child care plan in New York City - abcnews.go.com",
+        "description": "New York City parents may soon have access to free child care for their 2-year-olds, under a plan set to be unveiled by Gov. Kathy Hochul and Mayor Zohran Mamdani",
+        "url": "https://abcnews.go.com/Business/wireStory/hochul-mamdani-unveil-free-child-care-plan-new-129013299",
+        "urlToImage": "https://i.abcnewsfe.com/a/89b2b6ed-e407-4914-a3a4-88e3549cbb25/wirestory_a4f06b6cd4ac26122daf736067f6c7e9_16x9.jpg?w=1600",
+        "publishedAt": "2026-01-09T01:40:24Z",
+        "content": "NEW YORK -- New York City parents may soon have access to free child care for their 2-year-olds, under a plan set to be unveiled Thursday by Gov. Kathy Hochul and Mayor Zohran Mamdani.\r\nThe two Democ\u2026 [+1349 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Understandingwar.org"
+        },
+        "author": "Jordan Glynn",
+        "title": "Russian Offensive Campaign Assessment, January 8, 2026 - Institute for the Study of War",
+        "description": "Preliminary unconfirmed reports suggested that Russian forces may have conducted an Oreshnik IRBM strike against Lviv Oblast.",
+        "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-8-2026/",
+        "urlToImage": "https://understandingwar.org/wp-content/uploads/2025/08/Website-Featured-Image-2-scaled.webp",
+        "publishedAt": "2026-01-09T01:26:41Z",
         "content": null
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "Leagueoflegends.com"
         },
-        "author": "Pia Singh",
-        "title": "Stock futures are little changed ahead of jobs report, potential tariff ruling: Live updates - CNBC",
-        "description": "Traders looked ahead to December's nonfarm payrolls report and awaited a potential Supreme Court ruling on Trump's tariffs.",
-        "url": "https://www.cnbc.com/2026/01/08/stock-market-today-live-updates.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108249451-17678049242026-01-07t165212z_1190234641_rc2dwia1sb2c_rtrmadp_0_usa-stocks.jpeg?v=1767805134&w=1920&h=1080",
-        "publishedAt": "2026-01-09T01:13:00Z",
-        "content": "Stock futures were near flat Thursday night ahead of a key jobs report and a potential U.S. Supreme Court ruling on tariffs. \r\nFutures tied to the Dow Jones Industrial Average added 7 points. S&amp;P\u2026 [+1598 chars]"
+        "author": null,
+        "title": "Season Start: For Demacia! Emote Twitch Drops - League of Legends",
+        "description": "All the information you need to know to start the season right with Demacia inspired Twitch drops.",
+        "url": "https://www.leagueoflegends.com/en-us/news/game-updates/season-start-for-demacia-emote-twitch-drops/",
+        "urlToImage": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d475748d3b875046a2aa53fa219bf454ff9c8728-1920x1080.jpg?accountingTag=LoL?w=1200&h=630&fm=webp&fit=crop&crop=center",
+        "publishedAt": "2026-01-09T01:16:00Z",
+        "content": "To kick off the new ranked season, and to celebrate all things Demacia!, were teaming up with our League Partner Program (LPP) creators for a special, two-week Twitch Drops event! This is our way of \u2026 [+4959 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "DIDI TANG and BERNARD CONDON",
+        "title": "Trump has a China problem in Venezuela: What to do with Beijing's debt and oil stakes - Yahoo Finance",
+        "description": "When it comes to claiming that Venezuelan oil is now under his control, President Donald Trump is mincing no words.  After all, Trump is expected to visit...",
+        "url": "https://finance.yahoo.com/news/trump-china-problem-venezuela-beijings-010046180.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/eZ9Ny8r8PtjjDDEfsNsfjg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/e3aab75816033d4d588c07cbb1938c30",
+        "publishedAt": "2026-01-09T01:02:17Z",
+        "content": "WASHINGTON (AP) When it comes to claiming that Venezuelan oil is now under his control, President Donald Trump is mincing no words. But no small part of that oil belongs to China under contracts it s\u2026 [+6143 chars]"
     },
     {
         "source": {
@@ -54,15 +132,15 @@
     {
         "source": {
             "id": null,
-            "name": "9to5google.com"
+            "name": "CNBC"
         },
-        "author": "Abner Li",
-        "title": "Google Fi starts selling its first 5G tablet - 9to5Google",
-        "description": "Following phones and watches, the Google Fi store is getting its first tablet with the Samsung Galaxy Tab A11+ 5G....",
-        "url": "http://9to5google.com/2026/01/08/google-fi-store-tablet/",
-        "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Samsung-Galaxy-Tab-A11-Gemini.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "publishedAt": "2026-01-08T22:49:00Z",
-        "content": "Following phones and watches, the Google Fi store is getting its first tablet with the Samsung Galaxy Tab A11+ 5G.\r\nThis Android 16 tablet has an 11-inch (1,920 x 1,200) LCD display with a 90 Hz refr\u2026 [+856 chars]"
+        "author": "Yeo Boon Ping",
+        "title": "CNBC Daily Open: U.S. moves over Greenland are heating up quickly - CNBC",
+        "description": "U.S. President Donald Trump's ambitions around Greenland are rapidly gaining concrete form \u2014 that is, evolving from rhetoric into action.",
+        "url": "https://www.cnbc.com/2026/01/09/cnbc-daily-open-us-moves-over-greenland-are-heating-up-quickly.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108249915-1767882137244-gettyimages-2204695484-AFP_372K2NX.jpeg?v=1767943915&w=1920&h=1080",
+        "publishedAt": "2026-01-09T00:57:00Z",
+        "content": "U.S. President Donald Trump's ambitions around Greenland are rapidly gaining concrete form that is, evolving from rhetoric into action. \r\nMining company Amaroq told CNBC the White House has been havi\u2026 [+1538 chars]"
     },
     {
         "source": {
@@ -115,58 +193,6 @@
         "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/the-nsf-very-large-arr.jpg",
         "publishedAt": "2026-01-08T20:58:01Z",
         "content": "Astronomers using W. M. Keck Observatory on Maunakea, Hawaii Island have uncovered the largest and most extended stream of super-heated gas ever observed flowing from a nearby galaxy, providing the c\u2026 [+5256 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "AtlantaFalcons.com"
-        },
-        "author": null,
-        "title": "A letter from Owner and Chairman Arthur M. Blank - Atlanta Falcons",
-        "description": "",
-        "url": "https://www.atlantafalcons.com/news/letter-owner-chairman-arthur-blank-greg-beadles-rich-mckay",
-        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/falcons/vyheseiztk87ix6jawgb",
-        "publishedAt": "2026-01-08T20:40:07Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "PBS"
-        },
-        "author": null,
-        "title": "Trump blasts 5 Republicans for war powers vote - PBS",
-        "description": "President Donald Trump called their vote \u201cstupidity\u201d in a post to Truth social on Thursday.",
-        "url": "https://www.pbs.org/newshour/politics/trump-blasts-5-republicans-for-war-powers-vote",
-        "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/01/2026-01-07T223444Z_627251180_RC2SBEA20ART_RTRMADP_3_USA-TRUMP-UN-1024x682.jpg",
-        "publishedAt": "2026-01-08T19:06:46Z",
-        "content": "President Donald Trump lashed out at the five Republican senators who voted for the war powers resolution that would limit his ability to conduct further attacks against Venezuela.\r\nWATCH LIVE: Senat\u2026 [+528 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Whitehouse.gov"
-        },
-        "author": null,
-        "title": "Fact Sheet: President Donald J. Trump Establishes New Department of Justice Division for National Fraud Enforcement - The White House (.gov)",
-        "description": "FIGHTING CRIMINAL FRAUD NATIONWIDE: Today, the Trump Administration is announcing the upcoming creation of the Department of Justice\u2019s new division for",
-        "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-establishes-new-department-of-justice-division-for-national-fraud-enforcement/",
-        "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
-        "publishedAt": "2026-01-08T19:06:14Z",
-        "content": "FIGHTING CRIMINAL FRAUD NATIONWIDE: Today, the Trump Administration is announcing the upcoming creation of the Department of Justices new division for national fraud enforcement.\r\n<ul><li>To combat t\u2026 [+5319 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Ashley Strickland",
-        "title": "\u2018Cloud-9\u2019 celestial object could solve dark matter mystery - CNN",
-        "description": "A newly discovered celestial object may be a starless cloud that could change how astronomers understand dark matter.",
-        "url": "https://www.cnn.com/2026/01/08/science/cloud-9-new-celestial-object",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/stsci-01k7q4g9nw9tw4f0s95st16e5m.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-01-08T18:47:36Z",
-        "content": "Astronomers may have discovered a previously unknown type of astronomical object, nicknamed Cloud-9, that could shed light on dark matter, one of the biggest mysteries in the universe.\r\nDark matter i\u2026 [+7410 chars]"
     },
     {
         "source": {
