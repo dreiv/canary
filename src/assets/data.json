@@ -1,16 +1,16 @@
 [
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
+            "id": "nfl-news",
+            "name": "NFL News"
         },
-        "author": "James Pollard, Sarah Raza",
-        "title": "Celebrities wear pins protesting ICE at the Golden Globes - AP News",
-        "description": "Some celebrities have donned anti-ICE pins at the Golden Globes ceremony in tribute to Renee Good, who was shot and killed by an Immigration and Customs Enforcement officer in Minneapolis this week. The pins display slogans like \u201cBE GOOD\u201d and \u201cICE OUT.\u201d Mark \u2026",
-        "url": "https://apnews.com/article/golden-globes-pins-ice-protests-f1ec739a6536fe2be811e00500714395",
-        "urlToImage": "https://dims.apnews.com/dims4/default/52f1d51/2147483647/strip/true/crop/3370x1896+0+176/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F16%2F5c%2F8b333291e8f6c7daca28f66e5fb2%2F1558349b9686451eb3dddd6865606579",
-        "publishedAt": "2026-01-12T05:16:00Z",
-        "content": "Some celebrities donned anti-ICE pins at the Golden Globes on Sunday in tribute to Renee Good, who was shot and killed in her car by an Immigration and Customs Enforcement officer this week in Minnea\u2026 [+3738 chars]"
+        "author": null,
+        "title": "NFL Divisional Round: Biggest immediate question for advancing/eliminated playoff teams - NFL.com",
+        "description": "In this edition of The First Read, Jeffri Chadiha reveals the most pressing question for each of the NFL teams that advanced to the Divisional Round and each of the squads that lost on Wild Card Weekend.",
+        "url": "https://www.nfl.com/news/nfl-divisional-round-biggest-immediate-question-for-advancing-eliminated-playoff-teams-x3405",
+        "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/zpkm6bjnno2cvml2z1hd",
+        "publishedAt": "2026-01-12T05:06:00Z",
+        "content": null
     },
     {
         "source": {
@@ -28,6 +28,58 @@
     {
         "source": {
             "id": null,
+            "name": "BuffaloBills.com"
+        },
+        "author": null,
+        "title": "Buffalo Bills to play at Denver Broncos in Divisional Round on Saturday - BuffaloBills.com",
+        "description": "Buffalo will travel to face Denver Broncos in the AFC Divisional Round on Saturday, Jan. 17",
+        "url": "https://www.buffalobills.com/news/buffalo-bills-to-play-at-denver-broncos-in-divisional-round-on-saturday",
+        "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bills/byeyjd6mw40lkeopshdk",
+        "publishedAt": "2026-01-12T04:12:02Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Goldenglobes.com"
+        },
+        "author": "Gabrielle Boehme",
+        "title": "\u2018Good Hang With Amy Poehler\u2019 Wins the First Golden Globe for Best Podcast - Golden Globes",
+        "description": "Amy Poehler isn\u2019t just a \u201cGood Hang\u201d \u2013 she\u2019s the best one of the year. The \u201cParks and Recreation\u201d and \u201cSaturday Night Live\u201d star took home the Golden Globe for Best Podcast, inaugurating the awards ceremony\u2019s newest category. \u00a0 The win represents a crowning m\u2026",
+        "url": "https://goldenglobes.com/articles/good-hang-with-amy-poehler-wins-the-first-golden-globe-for-best-podcast/",
+        "urlToImage": "https://goldenglobes.com/wp-content/uploads/2025/12/default-stacked.jpg",
+        "publishedAt": "2026-01-12T04:06:12Z",
+        "content": "Amy Poehler isnt just a Good Hang shes the best one of the year. The Parks and Recreation and Saturday Night Live star took home the Golden Globe for Best Podcast, inaugurating the awards ceremonys n\u2026 [+3187 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Rebecca Falconer, Ben Geman",
+        "title": "Trump says he's \"inclined to keep Exxon out\" of Venezuela after CEO's remarks - Axios",
+        "description": "The oil giant's CEO called the South American country \"uninvestable.\"",
+        "url": "https://www.axios.com/2026/01/12/trump-exxon-venezuela-oil",
+        "urlToImage": "https://images.axios.com/Ayjc4QIckhSZjYIcHD2S1PUnN0E=/0x140:5399x3177/1366x768/2026/01/12/1768180034644.jpeg",
+        "publishedAt": "2026-01-12T02:31:21Z",
+        "content": "<ul><li>\"I'd probably be inclined to keep Exxon out. I didn't like their response,\" added the president aboard Air Force One en route to Washington, D.C., from Palm Beach, Florida. \"They're playing t\u2026 [+2921 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ComicBook.com"
+        },
+        "author": "Tyler Fischer",
+        "title": "First Nintendo Direct of 2026 Reportedly Leaked (Including New 3D Mario Game) - ComicBook.com",
+        "description": "The first Nintendo Direct of 2026 is reportedly happening very soon, and will include the reveal of a new 3D Mario game.",
+        "url": "http://comicbook.com/gaming/news/first-nintendo-direct-of-2026-reportedly-leaked-including-new-3d-mario-game/",
+        "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2024/10/5cc287e1-4554-4c7d-b701-3eeea72c6970.png?w=1200",
+        "publishedAt": "2026-01-12T02:23:58Z",
+        "content": "The first Nintendo Direct of 2026 has supposedly leaked, and it may be happening very soon. As you may know, Nintendo fans had to wait all the way until March 27, 2025, for the first Nintendo Direct \u2026 [+2038 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Yahoo Entertainment"
         },
         "author": "Matthew Swigonski",
@@ -40,15 +92,15 @@
     },
     {
         "source": {
-            "id": "abc-news",
-            "name": "ABC News"
+            "id": "espn",
+            "name": "ESPN"
         },
-        "author": "ABC News",
-        "title": "U-Haul drives into crowd at Los Angeles anti-Iranian regime protest - ABC News",
+        "author": "ESPN",
+        "title": "Knicks 123-114 Trail Blazers (Jan 11, 2026) Game Recap - ESPN",
         "description": null,
-        "url": "https://abcnews.go.com/US/haul-drives-crowd-los-angeles-anti-iranian-regime/story?id\\\\u003d129112878",
+        "url": "https://www.espn.com/nba/recap?gameId\\\\u003d401810406",
         "urlToImage": null,
-        "publishedAt": "2026-01-12T01:52:30Z",
+        "publishedAt": "2026-01-12T01:40:21Z",
         "content": null
     },
     {
@@ -63,6 +115,19 @@
         "urlToImage": null,
         "publishedAt": "2026-01-12T01:14:21Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "KABC-TV"
+        },
+        "author": "Tim Pulliam",
+        "title": "Chaos erupts as U-Haul drives into crowd during anti-Iranian regime rally in Westwood - ABC7 Los Angeles",
+        "description": "Chaos erupted after a U-Haul drove into a crowd during an anti-Iranian regime rally near the federal building in Westwood on Sunday afternoon.",
+        "url": "https://abc7.com/post/haul-drives-crowd-during-anti-iranian-regime-rally-westwood-lapd-says/18388519/",
+        "urlToImage": "https://cdn.abcotvs.com/dip/images/18388511_iran-dtla-1.jpg?w=1600",
+        "publishedAt": "2026-01-12T01:04:17Z",
+        "content": "WESTWOOD, LOS ANGELES (KABC) -- A protest that began peacefully in Westwood on Sunday afternoon turned chaotic after a U-Haul truck drove toward hundreds of demonstrators gathered outside the federal\u2026 [+5659 chars]"
     },
     {
         "source": {
@@ -89,32 +154,6 @@
         "urlToImage": "https://wtop.com/wp-content/uploads/2026/01/Measles_71091-scaled.jpg",
         "publishedAt": "2026-01-12T00:28:41Z",
         "content": "A confirmed case of measles was reported in a person who traveled last week through Maryland while infectious, state health officials announced Sunday.\r\nThe Maryland Department of Health said the per\u2026 [+2729 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Basketball Network"
-        },
-        "author": "Basketball Network",
-        "title": "\u201cThe ultimate cheater of all time\u201d \u2013 Former Bulls center recalls Michael Jordan cheating on Dunkin\u2019 Donuts bets - Basketball Network",
-        "description": null,
-        "url": "https://www.basketballnetwork.net/off-the-court/former-bulls-center-recalls-michael-jordan-cheating-on-dunkin-donuts-bets",
-        "urlToImage": null,
-        "publishedAt": "2026-01-11T23:59:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Nintendo Life"
-        },
-        "author": "Liam Doolan",
-        "title": "Super Mario Bros. Wonder - Nintendo Switch 2 Edition + Meetup In Bellabel Park Has Been Rated - Nintendo Life",
-        "description": "Get ready for a 2026 release",
-        "url": "https://www.nintendolife.com/news/2026/01/super-mario-bros-wonder-nintendo-switch-2-edition-plus-meetup-in-bellabel-park-has-been-rated",
-        "urlToImage": "https://images.nintendolife.com/7e9525559b980/large.jpg",
-        "publishedAt": "2026-01-11T23:45:00Z",
-        "content": "I feel like, given the end of the trailer for this in the September Direct, the name really undersells the content. It really ought to be called Super Mario Bros. Wonder --- Nintendo Switch 2 Edition\u2026 [+1084 chars]"
     },
     {
         "source": {
@@ -170,42 +209,16 @@
     },
     {
         "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "Jared Perlo",
-        "title": "Anthropic joins OpenAI's push into health care with new Claude tools - NBC News",
-        "description": "Anthropic announced a new suite of health care and life sciences features Sunday, enabling users of its Claude artificial intelligence platform to share access to their health records to better understand their medical information",
-        "url": "https://www.nbcnews.com/tech/tech-news/anthropic-health-care-rcna252872",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250826-Anthropic-ch-1533-2ea8e0.jpg",
-        "publishedAt": "2026-01-11T22:00:40Z",
-        "content": "Anthropic announced a new suite of health care and life sciences features Sunday, enabling users of its Claude artificial intelligence platform to share access to their health records to better under\u2026 [+5023 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "UK can legally stop shadow fleet tankers, ministers believe - BBC",
-        "description": "Existing law could be used to approve the use of military force to stop sanction-busting ships operated by Russia and Iran.",
-        "url": "https://www.bbc.com/news/articles/cy8pn7jgy3no",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dd23/live/f8eccb40-ef22-11f0-b1a3-cfac234d0717.jpg",
-        "publishedAt": "2026-01-11T22:00:33Z",
-        "content": "Jack FenwickPolitical correspondent\r\nThe government has identified a legal basis which it believes can be used to allow UK military to board and detain vessels in so-called shadow fleets, BBC News un\u2026 [+3517 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Thousands of tourists stranded in Lapland as cold grounds flights - BBC",
-        "description": "All flights out of Kittila airport in northern Finland were cancelled on Sunday with temperatures falling as low as -38C.",
-        "url": "https://www.bbc.com/news/articles/c74vnxlvl40o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8437/live/fa510aa0-ef2c-11f0-b385-5f48925de19a.jpg",
-        "publishedAt": "2026-01-11T21:35:05Z",
-        "content": "Thousands of tourists have been stranded in Finland's Lapland as a severe cold spell has grounded flights out of one of its airports.\r\nDepartures from Lapland's Kittila airport that would have ferrie\u2026 [+1774 chars]"
+        "author": "Jeremy Kahn",
+        "title": "Anthropic rolls out new healthcare and life science features for Claude - Fortune",
+        "description": "Anthropic's expansion of Claude's healthcare and life science capabilities comes one week after OpenAI debuted new health features for ChatGPT.",
+        "url": "https://fortune.com/2026/01/11/anthropic-unveils-claude-for-healthcare-and-expands-life-science-features-partners-with-healthex-to-let-users-connect-medical-records/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2191761620-e1768150584162.jpg?resize=1200,600",
+        "publishedAt": "2026-01-11T22:00:00Z",
+        "content": "AI lab Anthropic is making a major push into healthcare with the launch of Claude for Healthcare and an expansion of its life sciences offerings.The announcement, timed to coincide with the start of \u2026 [+6393 chars]"
     },
     {
         "source": {
@@ -232,18 +245,5 @@
         "urlToImage": "https://newsroom.churchofjesuschrist.org/media/640x480/20260110151716Nilsson__LES1121.jpg",
         "publishedAt": "2026-01-11T20:51:09Z",
         "content": "President Dallin H. Oaks of The Church of Jesus Christ of Latter-day Saints dedicated the Burley Idaho Temple on Sunday, January 11, 2025 his first temple dedication as Church president.\r\nWe dedicate\u2026 [+15374 chars]"
-    },
-    {
-        "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "ABC News",
-        "title": "Largest nursing strike in New York City history looming as contract negotiations continue - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/US/largest-nursing-strike-new-york-city-history-looming/story?id\\\\u003d129100789",
-        "urlToImage": null,
-        "publishedAt": "2026-01-11T20:48:45Z",
-        "content": null
     }
 ]
