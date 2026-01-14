@@ -27,29 +27,42 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
         },
-        "author": "Kate Murphy",
-        "title": "5 lines from Nikki Glaser that sum up her night as Golden Globes host - Yahoo",
-        "description": "The Emmy-nominated comedian and actress roasted A-list celebs and the network airing the show.",
-        "url": "https://www.yahoo.com/entertainment/celebrity/article/5-lines-from-nikki-glaser-that-sum-up-her-night-as-golden-globes-host-045957049.html",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XocNH3WnifYkBZA6VmL9NA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2026-01/e4063090-ef6d-11f0-b7f5-7894ea6fc6cb",
-        "publishedAt": "2026-01-12T13:23:47Z",
-        "content": "Nikki Glaser got Hollywoods biggest party started at the 2026 Golden Globes on Sunday night when she returned for the second year in a row to take on hosting duties. During her opening monologue, she\u2026 [+4907 chars]"
+        "author": "Sarah Shamim",
+        "title": "Which are Iran\u2019s main opposition groups? - Al Jazeera",
+        "description": "Iran\u2019s fragmented opposition includes figures living abroad, such as Reza Pahlavi, the heir of the former monarch.",
+        "url": "https://www.aljazeera.com/news/2026/1/12/which-are-irans-main-opposition-groups",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/ap_6964b3a10e353-1768207265.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-01-12T12:19:50Z",
+        "content": "Protests in Iran that began in late December over soaring prices have evolved into a broader challenge to its religious rulers, who have governed Iran since the 1979 revolution.\r\nMore than\u00a0100 securi\u2026 [+10586 chars]"
     },
     {
         "source": {
-            "id": "politico",
-            "name": "Politico"
+            "id": "nfl-news",
+            "name": "NFL News"
         },
-        "author": "Elena Schneider",
-        "title": "Former Rep. Mary Peltola jumps into Alaska Senate race - Politico",
-        "description": "The former Alaska congressmember will likely face off against Sen. Dan Sullivan (R-Alaska), and is a recruitment coup for national Democrats.",
-        "url": "https://www.politico.com/news/2026/01/12/peltola-alaska-senate-2026-midterms-00721596",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F26%2F67%2Fe4509106407d966985b9b1af2e0e%2Felections-2024-house-71701.jpg",
-        "publishedAt": "2026-01-12T13:01:00Z",
-        "content": "Systemic change is the only way to bring down grocery costs, save our fisheries, lower energy prices and build new housing Alaskans can afford, Peltola said. Its about time Alaskans teach the rest of\u2026 [+3409 chars]"
+        "author": null,
+        "title": "Jim Harbaugh on whether Greg Roman is right play-caller for Chargers: 'I don't have that answer right now' - NFL.com",
+        "description": "After scoring three points in Sunday's Wild Card Weekend game against the New England Patriots, Los Angeles Chargers head coach Jim Harbaugh says the team is going to look at everything.",
+        "url": "https://www.nfl.com/news/jim-harbaugh-on-whether-greg-roman-is-right-play-caller-for-chargers-i-don-t-have-that-answer-right-now",
+        "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/otrsncqvcv0vmtpwqnbz",
+        "publishedAt": "2026-01-12T12:02:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "CHAN HO-HIM AP business writer",
+        "title": "China and the EU agree on steps to resolve their dispute over EV imports - ABC News",
+        "description": "China and the European Union say they have agreed on steps toward resolving their dispute over the bloc's imports of Chinese-made electric vehicles",
+        "url": "https://abcnews.go.com/Business/wireStory/china-deal-eu-steps-resolve-dispute-ev-imports-129123987",
+        "urlToImage": "https://i.abcnewsfe.com/a/eba016eb-e1bb-4cf6-b862-e66c455a064a/wirestory_c9fac664d657ae5735cb806eab8cac49_16x9.jpg?w=1600",
+        "publishedAt": "2026-01-12T11:26:15Z",
+        "content": "HONG KONG -- China and the European Union said Monday they have agreed on steps toward resolving their dispute over the blocs imports of Chinese-made electric vehicles.\r\nA guidance document released \u2026 [+3386 chars]"
     },
     {
         "source": {
@@ -106,6 +119,19 @@
     {
         "source": {
             "id": null,
+            "name": "BBC News"
+        },
+        "author": "Sandrine Ceurstemont",
+        "title": "AI can now 'see' optical illusions. What does it tell us about our own brains? - BBC",
+        "description": "Our eyes can frequently play tricks on us, but scientists have discovered that some artificial intelligence can fall for the same illusions.",
+        "url": "https://www.bbc.com/future/article/20251218-how-ai-is-shedding-new-light-on-optical-illusions",
+        "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0mt4jj0.jpg",
+        "publishedAt": "2026-01-12T10:00:00Z",
+        "content": "Inspired by this work, Ivan Maksymov, a research fellow at Charles Sturt University's Artificial Intelligence and Cyber Futures Institute in Bathurst, Australia, developed a model that combined\u00a0quant\u2026 [+1164 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "CNBC"
         },
         "author": "Tasmin Lockwood",
@@ -131,16 +157,29 @@
     },
     {
         "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
+            "id": null,
+            "name": "CNBC"
         },
-        "author": "Brian  Dakss",
-        "title": "3 inmates dead, 12 hurt after \"major fights\" at Georgia prison, authorities say - CBS News",
-        "description": "A disturbance at a prison in northern Georgia Sunday afternoon left three inmates dead and 12 more injured along with a guard, authorities say.",
-        "url": "https://www.cbsnews.com/news/georgia-prison-disturbance-3-inmates-dead-12-hurt-major-fights/",
-        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/12/21/6e11bb5a-1871-4756-8388-602084c44d21/thumbnail/1200x630/7132765dba33076d389bf02a23f5eed4/gettyimages-1327894263.jpg",
-        "publishedAt": "2026-01-12T07:22:00Z",
-        "content": "A disturbance at a prison in northern Georgia Sunday afternoon left three inmates dead and 12 more injured along with a guard, authorities say.\r\nDavisboro, Georgia Police Chief Leondus Dixon told CBS\u2026 [+465 chars]"
+        "author": "Sam Meredith",
+        "title": "Trump threatens to sideline Exxon from Venezuela's oil: 'They're playing too cute\u2019 - CNBC",
+        "description": "His comments come shortly after Exxon CEO Darren Woods said the Venezuelan market is \"uninvestable\" in its current state.",
+        "url": "https://www.cnbc.com/2026/01/12/oil-trump-venezuela-exxon-mobil-darren-woods.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108250989-1768204888657-gettyimages-2254860206-TRUMP_VENEZUELA_OIL.jpeg?v=1768204927&w=1920&h=1080",
+        "publishedAt": "2026-01-12T09:12:42Z",
+        "content": "Darren Woods, chairman and chief executive officer Exxon Mobil Corp., during a meeting with oil executives in the East Room of the White House in Washington, DC, US, on Friday, Jan. 9, 2026.\r\nU.S. Pr\u2026 [+2718 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Suntimes.com"
+        },
+        "author": "Georgia Nicols",
+        "title": "Horoscope for Monday, January 12, 2026 - Chicago Sun-Times",
+        "description": null,
+        "url": "https://chicago.suntimes.com/horoscopes/2026/01/12/horoscopes-today-monday-january-12-2026",
+        "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+        "publishedAt": "2026-01-12T06:01:00Z",
+        "content": "Moon Alert\r\nThere are no restrictions to shopping or important decisions today. The moon is in Scorpio.\r\nAries (March 21-April 19)\r\n This is a strong day for financial matters, especially about inher\u2026 [+3838 chars]"
     },
     {
         "source": {
@@ -184,40 +223,14 @@
     {
         "source": {
             "id": null,
-            "name": "Hollywood Reporter"
+            "name": "KABC-TV"
         },
-        "author": "Jackie Strause",
-        "title": "As \u2018Landman\u2019 Ends on Violent Cliffhanger, Jacob Lofland Says End of Season \u201cBlew Me Off My Feet\u201d - The Hollywood Reporter",
-        "description": "The actor who plays the son to Billy Bob Thornton's starring oil fixer peels back the layers of his character on the Taylor Sheridan and Christian Wallace hit Paramount+ series.",
-        "url": "http://www.hollywoodreporter.com/tv/tv-features/landman-violent-cliffhanger-jacob-lofland-interview-season-2-1236469905/",
-        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/01/LANDMAN_209_EM_BTS_0710_00866_RT_f.jpg?w=1440&h=810&crop=1",
-        "publishedAt": "2026-01-12T00:35:50Z",
-        "content": "[This story contains major spoilers from the penultimate episode of Landman season two, \u201cPlans, Tears and Sirens.\u201d]\r\nThe penultimate episode of Landman season two ended on a violent cliffhanger when \u2026 [+12026 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Paul Wallace, Golnar Motevalli, Fiona MacDonald, Ben Bartenstein, Peter Martin, Bloomberg",
-        "title": "Iran edges closer to a revolution that would reshape the world - Fortune",
-        "description": "\u201cThis is the biggest moment in Iran since 1979,\u201d said William Usher, a former senior Middle East analyst at the Central Intelligence Agency.",
-        "url": "https://fortune.com/2026/01/11/iran-protests-economy-infliation-political-revolution-reza-pahlavi-khamenei/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2254812566.jpg?resize=1200,600",
-        "publishedAt": "2026-01-11T22:05:00Z",
-        "content": "As protesters pour into the streets of Iran night after night, leaders across the region and around the world are grappling with the possibility that the Islamic Republic could be overthrown a semina\u2026 [+8473 chars]"
-    },
-    {
-        "source": {
-            "id": "hacker-news",
-            "name": "Hacker News"
-        },
-        "author": null,
-        "title": "The struggle of resizing windows on macOS Tahoe - Hacker News",
-        "description": null,
-        "url": "https://news.ycombinator.com/item?id\\\\u003d46579864",
-        "urlToImage": null,
-        "publishedAt": "2026-01-11T21:30:22Z",
-        "content": null
+        "author": "Tim Pulliam",
+        "title": "Chaos erupts as U-Haul drives into crowd during anti-Iranian regime rally in Westwood - ABC7 Los Angeles",
+        "description": "Chaos erupted after a U-Haul drove into a crowd during an anti-Iranian regime rally near the federal building in Westwood on Sunday afternoon.",
+        "url": "https://abc7.com/post/haul-drives-crowd-during-anti-iranian-regime-rally-westwood-lapd-says/18388519/",
+        "urlToImage": "https://cdn.abcotvs.com/dip/images/18388511_iran-dtla-1.jpg?w=1600",
+        "publishedAt": "2026-01-12T01:04:17Z",
+        "content": "WESTWOOD, LOS ANGELES (KABC) -- A protest that began peacefully in Westwood on Sunday afternoon turned chaotic after a U-Haul truck drove toward hundreds of demonstrators gathered outside the federal\u2026 [+5716 chars]"
     }
 ]
