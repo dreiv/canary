@@ -1,6 +1,32 @@
 [
     {
         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Jess Weatherbed",
+        "title": "OpenAI\u2019s ChatGPT translator challenges Google Translate - The Verge",
+        "description": "\ufeffChatGPT Translate allows users to direct the style of translated text, such as \u2018more fluent\u2019 and \u2018academic.\u2019",
+        "url": "https://www.theverge.com/news/862448/openai-chatgpt-translate-tool-launch-website",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/ChatGPT-Translate.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-01-15T11:13:45Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nChatGPT Translate allows users to direct the style of translated text, such as more fluent and academic.\r\nChatGPT Translate allows users to direct the style of t\u2026 [+2598 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "David Goldman",
+        "title": "Trump is threatening to attack another country with tremendous oil reserves - CNN",
+        "description": "The United States is considering whether to strike Iran as turmoil intensifies for the country\u2019s authoritarian regime.",
+        "url": "https://www.cnn.com/2026/01/15/business/oil-reserves-trump-iran",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1779976536.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-01-15T10:00:58Z",
+        "content": "The United States is considering whether to strike Iran as turmoil intensifies for the countrys authoritarian regime.\r\nThe Iranian government is at its weakest point in years, destabilizing yet anoth\u2026 [+6189 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "BBC News"
         },
@@ -11,19 +37,6 @@
         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3027/live/577394d0-f1e6-11f0-b373-d7bde4e9f067.jpg",
         "publishedAt": "2026-01-15T09:39:02Z",
         "content": "Sammy Awami,BBC Africa, Kampalaand\r\nMore than 21 million Ugandans have registered to vote\r\nLogistical problems have delayed voting in many parts of Uganda amid an internet shutdown.\r\nThe BBC observed\u2026 [+6031 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "X to stop Grok AI from undressing images of real people after backlash - BBC",
-        "description": "Grok will no longer allow users to remove clothing from images of real people in jurisdictions where it is illegal.",
-        "url": "https://www.bbc.com/news/articles/ce8gz8g2qnlo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6e39/live/d2ffc570-f1a9-11f0-af39-d97d2e6b0b19.jpg",
-        "publishedAt": "2026-01-15T07:43:56Z",
-        "content": "Elon Musk launched Grok on social media platform X in 2023\r\nElon Musk's AI model Grok will no longer be able to edit photos of real people to show them in revealing clothing in jurisdictions where it\u2026 [+4088 chars]"
     },
     {
         "source": {
@@ -41,67 +54,28 @@
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "Foreign Affairs"
         },
-        "author": "Dylan Butts",
-        "title": "TSMC fourth-quarter profit beats estimates, soaring 35%, as AI chip demand stays strong - CNBC",
-        "description": "TSMCy delivered another estimate-beating quarter, with profit up 35% from a year ago as advanced chip orders tied to AI continued to dominate its business.",
-        "url": "https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108190003-1756081779730-gettyimages-2147908701-TSMC_CHIP_GRANT.jpeg?v=1768435975&w=1920&h=1080",
-        "publishedAt": "2026-01-15T05:43:01Z",
-        "content": "Taiwan Semiconductor Manufacturing Company on Thursday reported a 35% increase in fourth-quarter profit, beating estimates and hitting a fresh record as demand for artificial intelligence chips remai\u2026 [+3415 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Lex Harvey",
-        "title": "European nations to send troops to Greenland as US annexation threats escalate - CNN",
-        "description": "Several NATO countries are deploying small numbers of military personnel to Greenland to participate in joint exercises with Denmark as US President Donald Trump ramps up his threats to forcibly annex the Arctic island.",
-        "url": "https://www.cnn.com/2026/01/15/world/europe-troops-greenland-trump-nato-intl-hnk",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-14t204306z-1838046754-rc251jaae5qz-rtrmadp-3-usa-trump-greenland.JPG?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-01-15T05:06:26Z",
-        "content": "Several NATO countries are deploying small numbers of military personnel to Greenland to participate in joint exercises with Denmark as US President Donald Trump ramps up his threats to forcibly anne\u2026 [+4760 chars]"
+        "author": "Alexander Gabuev, Sergey Vakulenko",
+        "title": "Russia Is the World\u2019s Worst Patron - Foreign Affairs",
+        "description": "From Syria to Venezuela, Putin has overpromised and underdelivered.",
+        "url": "https://www.foreignaffairs.com/venezuela/russia-worlds-worst-patron",
+        "urlToImage": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/01/14/2026-01-13T105613Z_2115210932_RC22DEAF2KEB_RTRMADP_3_USA-VENEZUELA-RUSSIA-OIL.jpg?itok=881J-lWG",
+        "publishedAt": "2026-01-15T05:00:00Z",
+        "content": "This morning, the United States carried out an act of armed aggression against Venezuela, Russias Foreign Ministry wrote on January 3, as news emerged of the U.S. operation targeting various Venezuel\u2026 [+11487 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Deadline"
-        },
-        "author": "Glenn Garner",
-        "title": "Teyana Taylor Confirms Leonardo DiCaprio Was \u201cLaughing And Kiki-ing\u201d About \u2018KPop Demon Hunters\u2019 During Animated Globes Convo - Deadline",
-        "description": "After Leonardo DiCaprio's animated performance in the crowd at the 83rd Golden Globe Awards went viral, his co-star is revealing what all the fuss was about.",
-        "url": "http://deadline.com/2026/01/teyana-taylor-leonardo-dicaprio-kpop-demon-hunters-globes-1236683767/",
-        "urlToImage": "https://deadline.com/wp-content/uploads/2026/01/LeoTeyana-2-shot.jpg?w=1024",
-        "publishedAt": "2026-01-15T04:33:00Z",
-        "content": "After Leonardo DiCaprio\u2018s animated performance in the crowd at the 83rd Golden Globe Awards went viral, his co-star is revealing what all the fuss was about.\r\nThe 3x Globe-winning actor\u2019s One Battle \u2026 [+944 chars]"
-    },
-    {
-        "source": {
-            "id": "espn",
-            "name": "ESPN"
+            "name": "ATP Tour"
         },
         "author": null,
-        "title": "Stanford 95-90 North Carolina (Jan 14, 2026) Game Recap - ESPN",
-        "description": "Expert recap and game analysis of the Stanford Cardinal vs. North Carolina Tar Heels NCAAM game from January 14, 2026 on ESPN.",
-        "url": "https://www.espn.com/mens-college-basketball/recap?gameId=401820672",
-        "urlToImage": "http://s.espncdn.com/stitcher/sports/basketball/mens-college-basketball/events/401820672.png?templateId=espn.com.share.1",
-        "publishedAt": "2026-01-15T04:31:27Z",
-        "content": "STANFORD, Calif. -- Freshman Ebuka Okorie had 36 points and nine assists and Stanford rallied from 12 points down in the second half to beat No. 14 North Carolina 95-90 on Wednesday night.\r\n Okorie o\u2026 [+1776 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Heat.com"
-        },
-        "author": "Dan Gelston | Associated Press",
-        "title": "Darius Garland left Wednesday's game early with injured foot - NBA",
-        "description": "Cleveland's guard is forced to leave in the 3rd quarter and is doubtful to play Friday against the 76ers.",
-        "url": "https://www.nba.com/news/cavaliers-darius-garland-foot-injury",
-        "urlToImage": "https://cdn.nba.com/manage/2026/01/GettyImages_Garland.jpg",
-        "publishedAt": "2026-01-15T04:07:33Z",
-        "content": "Two-time All-Star Darius Garland injured his foot Wednesday night while diving for a loose ball against the 76ers.\r\nPHILADELPHIA (AP) Cavaliers guard Darius Garland has sustained another foot injury.\u2026 [+1812 chars]"
+        "title": "Djokovic, Sinner in same half of Australian Open draw; Alcaraz learns path - ATP Tour",
+        "description": "Novak Djokovic and Jannik Sinner are in the same half of the Australian Open draw, which was revealed Thursday in Melbourne.",
+        "url": "https://www.atptour.com/en/news/australian-open-2026-draw-preview",
+        "urlToImage": "https://www.atptour.com/-/media/images/news/2026/01/15/02/11/djokovic-ausralian-open-2026-draw.jpg",
+        "publishedAt": "2026-01-15T04:29:24Z",
+        "content": null
     },
     {
         "source": {
@@ -115,19 +89,6 @@
         "urlToImage": "https://cdn.abcotvs.com/dip/images/18405470_011426-wpvi-rocky-statue-moving-11pm-CC-vid.jpg?w=1600",
         "publishedAt": "2026-01-15T03:59:10Z",
         "content": "PHILADELPHIA (WPVI) -- Get ready to climb the steps next time you want to pose with the Rocky statue at the Philadelphia Art Museum.\r\nOn Wednesday, the city's Art Commission voted to move the iconic \u2026 [+445 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "MLB.com"
-        },
-        "author": "Thomas Harrigan",
-        "title": "With Su\u00e1rez off the board, let's break down the remaining FA starters - MLB.com",
-        "description": "With Ranger Su\u00e1rez on his way to the Red Sox, the focus turns to the rest of the starting pitching market.\nOnce finalized, Su\u00e1rez\u2019s five-year, $130 million deal will make him the fourth free-agent starter to exceed $50 million in guaranteed money this offseas\u2026",
-        "url": "https://www.mlb.com/news/best-free-agent-starting-pitchers-left-on-market-in-2026",
-        "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/hul9qc5az0ogryqctvvr.jpg",
-        "publishedAt": "2026-01-15T02:21:21Z",
-        "content": "With Ranger Su\u00e1rez on his way to the Red Sox, the focus turns to the rest of the starting pitching market.\r\nOnce finalized, Su\u00e1rezs five-year, $130 million deal will make him the fourth free-agent st\u2026 [+6037 chars]"
     },
     {
         "source": {
@@ -158,28 +119,15 @@
     {
         "source": {
             "id": null,
-            "name": "Variety"
+            "name": "BBC News"
         },
-        "author": "Jem Aswad",
-        "title": "Bruno Mars Adds 30+ New Dates to \u2018The Romantic Tour\u2019 - Variety",
-        "description": "Bruno Mars has added 30+ new dates to his 2026 Romantic Tour' announced earlier this week, which marks his first full headline tour in nearly a decade.",
-        "url": "https://variety.com/2026/music/news/bruno-mars-adds-romantic-tour-dates-1236631834/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2026/01/Untitled_c2fe4c.jpg?w=896&h=563&crop=1",
-        "publishedAt": "2026-01-15T01:11:00Z",
-        "content": "Bruno Mars has added 30-plus new dates to his 2026 \u201cRomantic Tour,\u201d announced earlier this week, which marks his first full headline tour in nearly a decade. Produced by Live Nation, the 2026 tour wi\u2026 [+5191 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Usembassy.gov"
-        },
-        "author": "missionqa",
-        "title": "Security Alert \u2013 U.S. Embassy Doha (January 14, 2026) - U.S. Embassy Doha \u2013 Qatar (.gov)",
+        "author": null,
+        "title": "US and UK pulling some personnel from Qatar military base - BBC",
         "description": null,
-        "url": "https://qa.usembassy.gov/security-alert-u-s-embassy-doha-january-14-2026/",
-        "urlToImage": "https://qa.usembassy.gov/wp-content/uploads/sites/17/2025/06/750x450-Alert-Graphics-for-MW_SEC-ALERT-e1750760811735.jpg",
-        "publishedAt": "2026-01-15T01:07:32Z",
-        "content": "{\"id\":\"1\",\"user_id\":18,\"uid\":\"db93bcdd-1571-434d-92b1-33d03ce71d8d\",\"name\":\"Would you help us improve our website\",\"description\":\"\",\"sections\":[{\"uid\":\"795074e8-232f-474e-8fda-6bc491054e04\",\"title\":\"\u2026 [+9775 chars]"
+        "url": "https://www.bbc.com/news/articles/c701xywwxw8o",
+        "urlToImage": null,
+        "publishedAt": "2026-01-15T01:31:46Z",
+        "content": null
     },
     {
         "source": {
@@ -209,19 +157,6 @@
     },
     {
         "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "ABC News",
-        "title": "At least 171 measles cases confirmed in 9 states: CDC - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/Health/171-measles-cases-confirmed-9-states-cdc/story?id\\\\u003d129198221",
-        "urlToImage": null,
-        "publishedAt": "2026-01-15T00:43:24Z",
-        "content": null
-    },
-    {
-        "source": {
             "id": null,
             "name": "Seahawks.com"
         },
@@ -235,15 +170,54 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Android Police"
+            "id": "ars-technica",
+            "name": "Ars Technica"
         },
-        "author": "Timi Cantisano",
-        "title": "Android 16 QPR3 Beta 2 takes a big leap forward - Android Police",
-        "description": "This is a big step up",
-        "url": "https://www.androidpolice.com/android-16-qpr3-beta-2-now-live/",
-        "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/08/img_1498.jpg?w=1600&h=900&fit=crop",
-        "publishedAt": "2026-01-15T00:04:00Z",
-        "content": "It hasn't been that long since the last beta of Android 16 QPR3, but Google is starting out the year strong, delivering a new update today that will be rolling out to all compatible Pixel devices. Th\u2026 [+4687 chars]"
+        "author": "Beth Mole",
+        "title": "SC measles outbreak has gone berserk: 124 cases since Friday, 409 quarantined - Ars Technica",
+        "description": "On Jan. 6, there were 211 cases. The outbreak, which began in October, is now at 434.",
+        "url": "https://arstechnica.com/health/2026/01/sc-measles-outbreak-has-gone-berserk-124-cases-since-friday-409-quarantined/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/misinfoTOP-1152x648.jpg",
+        "publishedAt": "2026-01-14T23:08:44Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Whitehouse.gov"
+        },
+        "author": null,
+        "title": "Congressional Bill S. 222 Signed into Law - The White House (.gov)",
+        "description": "On Wednesday, January 14, 2026, the President signed into law: S. 222, the \"Whole Milk for Healthy Kids Act of 2025,\" which modifies the requirements for",
+        "url": "https://www.whitehouse.gov/briefings-statements/2026/01/congressional-bill-s-222-signed-into-law/",
+        "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
+        "publishedAt": "2026-01-14T21:05:20Z",
+        "content": "On Wednesday, January 14, 2026, the President signed into law:\r\nS. 222, the \u201cWhole Milk for Healthy Kids Act of 2025,\u201d which modifies the requirements for milk provided by schools participating in th\u2026 [+31 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "US announces start of phase two of Trump's Gaza peace plan - BBC",
+        "description": "It includes the establishment of a technocratic Palestinian government, as well as the reconstruction and demilitarisation of Gaza, US envoy Steve Witkoff says.",
+        "url": "https://www.bbc.com/news/articles/cjw1nxe5pvlo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9952/live/d8cccae0-f16b-11f0-b5f7-49f0357294ff.jpg",
+        "publishedAt": "2026-01-14T20:50:09Z",
+        "content": "Phase two of the peace plan should see reconstruction starting in Gaza after two years of war\r\nUS envoy Steve Witkoff has announced the start of phase two of President Donald Trump's plan to end the \u2026 [+4904 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Spaceflight Now"
+        },
+        "author": null,
+        "title": "SpaceX breaks pad turnaround record at Cape Canaveral with midday Starlink launch - Spaceflight Now",
+        "description": null,
+        "url": "https://spaceflightnow.com/2026/01/14/live-coverage-spacex-to-launch-midweek-starlink-mission-on-falcon-9-rocket-from-cape-canaveral/",
+        "urlToImage": null,
+        "publishedAt": "2026-01-14T20:27:56Z",
+        "content": "A SpaceX Falcon 9 rocket lifts off from Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station to begin the Starlink 6-98 mission on Jan. 14, 2026. The flight, which lifted off at 1:0\u2026 [+1970 chars]"
     }
 ]
