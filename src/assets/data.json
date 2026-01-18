@@ -1,6 +1,71 @@
 [
     {
         "source": {
+            "id": null,
+            "name": "Deadline"
+        },
+        "author": "Melanie Goodfellow",
+        "title": "Stellan Skarsg\u00e5rd & Renate Reinsve Scoop Best Actor & Actress For \u2018Sentimental Value\u2019 At European Film Awards \u2013 Updating Live - Deadline",
+        "description": "Joachim Trier's 'Sentimental Value' Sweeps Board At   European Film Awards With Wins For Best Film, Director, Screenwriter, Actor, Actress & Score",
+        "url": "http://deadline.com/2026/01/2026-european-film-awards-updating-live-1236685950/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2026/01/GettyImages-2256162038.jpg?w=1024",
+        "publishedAt": "2026-01-17T19:25:00Z",
+        "content": "Joachim Trier\u2019s Sentimental Value Swept the board at 38th European Film Awards in Berlin on Saturday evening. \r\nThe film scooped Best Film, Best Director, Best Screenwriter for Eskil Vogt and Trier, \u2026 [+4307 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SFGate"
+        },
+        "author": "Grant Marek",
+        "title": "Injured Darnold hasn't thrown a pass in 48 hours. One ex-49ers QB is worried. - SFGATE",
+        "description": "ESPN analyst Alex Smith, a former 49ers quarterback, says Seahawks quarterback Sam Darnold's injury is a cause for real concern.",
+        "url": "https://www.sfgate.com/49ers/article/former-49ers-qb-not-buying-downplay-darnold-injury-21300397.php",
+        "urlToImage": "https://s.hdnux.com/photos/01/55/61/64/28777772/3/rawImage.jpg",
+        "publishedAt": "2026-01-17T19:18:45Z",
+        "content": "Sam\u00a0Darnold of the Seattle Seahawks reacts after throwing a fourth-quarter touchdown against the Los Angeles Rams at Lumen Field on Dec. 18, 2025, in Seattle.\r\nSteph Chambers/Getty Images\r\nEveryone i\u2026 [+3295 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "TMZ"
+        },
+        "author": "TMZ Staff",
+        "title": "Perrie Edwards Gives Birth to Second Child with Fianc\u00e9 Alex Oxlade-Chamberlain - TMZ",
+        "description": "Perrie Edwards is a mom of 2!",
+        "url": "https://www.tmz.com/2026/01/17/perrie-edwards-gives-birth-to-second-child-little-mix/",
+        "urlToImage": "https://imagez.tmz.com/image/33/16by9/2026/01/17/332de4414ea44e2a9d153d106fcc63ad_xl.jpg",
+        "publishedAt": "2026-01-17T18:35:28Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Patrick Marley, Yasmeen Abutaleb",
+        "title": "Justice Dept. enters new territory with probe of Minnesota officials - The Washington Post",
+        "description": "The agency is targeting critics during a moment of crisis in which protesters are clashing with federal agents on icy city streets.",
+        "url": "https://www.washingtonpost.com/politics/2026/01/17/trump-walz-frey-investigation-minnesota-justice-department/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TC4ZK4S32SDM2GP7YOTURCH6AU_size-normalized.JPG&w=1440",
+        "publishedAt": "2026-01-17T18:31:49Z",
+        "content": "President Donald Trumps Justice Department crossed a new threshold with its criminal investigation of top Democratic elected officials in Minnesota, targeting vocal critics during a moment of crisis \u2026 [+71 chars]"
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Associated Press",
+        "title": "Abigail Spanberger becomes Virginia\u2019s 1st female governor in historic inauguration - Politico",
+        "description": "Her swearing-in marks a new political chapter in the commonwealth, with Democrats pulling the levers of power in state government.",
+        "url": "https://www.politico.com/news/2026/01/17/abigail-spanberger-becomes-virginias-1st-female-governor-in-historic-inauguration-00735529",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F38%2F36%2F9996a00b448fb956b3e932942e9f%2Fvirginia-inauguration-50403.jpg",
+        "publishedAt": "2026-01-17T18:29:44Z",
+        "content": "Spanberger quoted Patrick Henry, Virginias first governor, saying, Let us not split into factions, which must destroy that union upon which our existence hangs. That was the charge Governor Henry put\u2026 [+1758 chars]"
+    },
+    {
+        "source": {
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
@@ -14,19 +79,6 @@
     },
     {
         "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Ben Johansen",
-        "title": "Trump announces he will sue JPMorgan \u2018over the next two weeks\u2019 for allegedly \u2018DEBANKING\u2019 him - Politico",
-        "description": "The president also ruled out the bank\u2019s CEO, Jamie Dimon, as a possible pick for Fed chair.",
-        "url": "https://www.politico.com/news/2026/01/17/trump-jpmorgan-debanking-lawsuit-00735544",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F45%2F8a%2F3d88b3e642eea0c1c01166af645b%2Ftrump-82380.jpg",
-        "publishedAt": "2026-01-17T17:47:05Z",
-        "content": "During the 2024 campaign, JPMorgan CEO Jamie Dimon had been floated for Treasury secretary by the president, but their relationship has since soured. Trump in August went after Dimons bank, as well a\u2026 [+2149 chars]"
-    },
-    {
-        "source": {
             "id": "associated-press",
             "name": "Associated Press"
         },
@@ -37,19 +89,6 @@
         "urlToImage": "https://dims.apnews.com/dims4/default/1f82e45/2147483647/strip/true/crop/5616x3159+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc6%2Fb1%2Fe4dfc8a6580f87a6da633d1b57d6%2F67a2221c0eaa434aadea0b105ca8825a",
         "publishedAt": "2026-01-17T17:43:00Z",
         "content": "ASUNCI\u00d3N, Paraguay (AP) The European Union and the Mercosur bloc of South American countries formally signed a long-sought landmark free trade agreement on Saturday, capping more than a quarter-centu\u2026 [+2969 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Gregory S. Schneider, Erin Cox",
-        "title": "Abigail Spanberger to be sworn in as Virginia\u2019s first female governor - The Washington Post",
-        "description": "Democratic former congresswoman Abigail Spanberger becomes Virginia\u2019s 75th governor, pledging a centrist agenda in a divided era.",
-        "url": "https://www.washingtonpost.com/dc-md-va/2026/01/17/spanberger-inauguration-virginia-governor/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4VFCDQEXKBAT6VWRLUFIM4YEDM_size-normalized.jpg&w=1440",
-        "publishedAt": "2026-01-17T17:31:39Z",
-        "content": "RICHMOND Abigail Davis Spanberger, a former Democratic member of Congress and undercover operative for the CIA, became Virginias 75th governor Saturday as the first woman chosen to lead a state that \u2026 [+80 chars]"
     },
     {
         "source": {
@@ -93,41 +132,41 @@
     {
         "source": {
             "id": null,
-            "name": "Slate Magazine"
+            "name": "DW (English)"
         },
-        "author": "Luke Winkie",
-        "title": "My Body Is Being Battered and Broken by an Unlikely Tormentor: Books. - Slate",
-        "description": "Don\u2019t act like you don\u2019t know what I\u2019m talking about.",
-        "url": "https://slate.com/life/2026/01/body-books-reading-position-posture-pain.html",
-        "urlToImage": "https://compote.slate.com/images/eb3afb8a-55e6-4b73-a089-cded7727648e.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-        "publishedAt": "2026-01-17T16:00:00Z",
-        "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nFor the 10th year in a row, my New Years resolution is to read more books\u2026 [+8285 chars]"
+        "author": "Matt Pearson",
+        "title": "Five graphics that show Greenland\u2019s importance to Trump - DW.com",
+        "description": "Its entire population would fit in a large sports stadium but Greenland\u2019s current presence on the geopolitical stage is huge. DW takes a look at the reasons it's so coveted \u2014 from natural resources to climate change.",
+        "url": "https://www.dw.com/en/five-graphics-that-show-greenlands-importance-to-trump/a-75547831",
+        "urlToImage": "https://static.dw.com/image/75498891_6.jpg",
+        "publishedAt": "2026-01-17T15:31:40Z",
+        "content": "An autonomous territory of Denmark thousands of kilometers from the US is currently center stage in a geopolitical tussle.\r\nUS President Donald Trump says it's \"unacceptable\"\u00a0that Greenland should no\u2026 [+4752 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "NBCSports.com"
+        },
+        "author": "Mike Florio",
+        "title": "John Harbaugh may be looking for \"parallel report\" to ownership with Joe Schoen - NBC Sports",
+        "description": "Will Giants change their front-office structure to get the coach they want?",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-may-be-looking-for-parallel-report-to-ownership-with-joe-schoen",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/75e53ed/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fed%2F35%2F801f69964157a44913963aa01919%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2250175528",
+        "publishedAt": "2026-01-17T15:27:15Z",
+        "content": "From the moment Giant executive Chris Mara told Ian OConnor of TheAthletic.com about a previously secret informal lunch meeting between Mara and coach John Harbaugh, it appeared that Giants ownership\u2026 [+2624 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Strategyandwargaming.com"
         },
         "author": null,
-        "title": "Iran's supreme leader admits thousands killed during recent protests - BBC",
-        "description": "Ayatollah Ali Khamenei says some deaths were \u201cinhuman\u201d and \u201csavage\u201d but blames the US.",
-        "url": "https://www.bbc.com/news/articles/ckglee733wno",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c884/live/7349b990-f39a-11f0-9212-79f406d84709.jpg",
-        "publishedAt": "2026-01-17T14:43:35Z",
-        "content": "Ghoncheh Habibiazad,BBC Persian\r\nIran's supreme leader has for the first time publicly acknowledged that thousands of people were killed, \"some in an inhuman, savage manner\", during recent protests.\r\u2026 [+2490 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "MMA Fighting"
-        },
-        "author": "Damon Martin",
-        "title": "Matt Brown argues Gable Steveson talented enough to beat Tom Aspinall right now: \u2018I\u2019d pick him to beat the champion today\u2019 - MMA Fighting",
-        "description": "Gable Steveson is expected to eventually join the UFC roster but right now he\u2019s just 2-0 in his MMA career.",
-        "url": "https://www.mmafighting.com/ufc/466311/matt-brown-argues-gable-steveson-talented-enough-to-beat-tom-aspinall-right-now-id-pick-him-to-beat-the-champion-today",
-        "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/01/gettyimages-2205641536.jpg?quality=90&strip=all&crop=0%2C14.154352271279%2C100%2C78.52497641172&w=1200",
-        "publishedAt": "2026-01-17T14:00:00Z",
-        "content": "Gable Steveson is one of the most hyped prospects to ever compete in MMA. And for good reason.\r\nThe 25-year-old heavyweight is an athletic freak who became the youngest American to ever capture a gol\u2026 [+4806 chars]"
+        "title": "Top 10 Most Wishlisted Strategy Games On Steam In 2026 - Strategy and Wargaming",
+        "description": "Explore the 10 most wishlisted strategy games on Steam in 2026, featuring Slay the Spire 2, Total War: Warhammer 40,000, and more.",
+        "url": "https://strategyandwargaming.com/2026/01/17/top-10-most-wishlisted-strategy-games-on-steam-in-2026/",
+        "urlToImage": "https://i0.wp.com/strategyandwargaming.com/wp-content/uploads/2026/01/Top-10-Most-Wishlisted-Strategy-Games-On-Steam-In-2026.jpg?fit=1000%2C562&ssl=1",
+        "publishedAt": "2026-01-17T14:03:19Z",
+        "content": "I don\u2019t think there\u2019s a better indicator of what players are most excited about than the Steam wishlist numbers. Does a game interest you? Add it to the wishlish. Does it look interesting? Into the w\u2026 [+2945 chars]"
     },
     {
         "source": {
@@ -196,32 +235,6 @@
     },
     {
         "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Kerry  Breen",
-        "title": "A head-on car crash sidelined a young mom. A rare transplant was the only option to get her life back. - CBS News",
-        "description": "Lacy Cornelius Boyd needed IV nutrition and an ileostomy bag after a devastating car crash. A rare transplant was her only option.",
-        "url": "https://www.cbsnews.com/news/intestinal-transplant-cleveland-clinic-nyu-langone-oklahoma/",
-        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/01/15/ac37f742-adf7-41f4-b561-b039f0a8d80d/thumbnail/1200x630/ba1746f7d4e87431de988eaf854dc2e9/screenshot-2026-01-15-at-2-25-34-pm.png",
-        "publishedAt": "2026-01-17T13:00:00Z",
-        "content": "For Lacy Cornelius Boyd, March 19, 2024, was an exciting day. She and her husband had taken their 6-year-old daughter to the Grand Canyon as part of a family road trip. Boyd, her husband and their da\u2026 [+5899 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NBCSports.com"
-        },
-        "author": "Mike Florio",
-        "title": "Bills need their healthy receivers to step up at Denver - NBC Sports",
-        "description": "In their wild-card win over the Jaguars, the Bills lost a pair of receivers to torn ACLs: Gabe Davis and Tyrell Shavers.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-need-their-healthy-receivers-to-step-up-at-denver",
-        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/dd2a766/2147483647/strip/true/crop/4000x2250+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffd%2F08%2F9aab0630490eb82ea14fec04ccdd%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2255220898",
-        "publishedAt": "2026-01-17T12:19:52Z",
-        "content": "In their wild-card win over the Jaguars, the Bills lost a pair of receivers to torn ACLs: Gabe Davis and Tyrell Shavers.\r\nAs of Friday morning, they had three healthy receivers on the roster Khalil S\u2026 [+1568 chars]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -245,18 +258,5 @@
         "urlToImage": "https://static.kyivpost.com/storage/2026/01/16/f2f59c750192bf2d50a7ed8a3eb2cee2.jpg?w=1200&q=90&f=jpg",
         "publishedAt": "2026-01-17T10:59:06Z",
         "content": "In Kyiv, power cuts now last up to 20 hours per day, with strikes on thermal plants leaving hundreds of buildings without heat\u00a0 \u2013 and some areas plunged into darkness for days.\r\nKyiv isn\u2019t alone. Rus\u2026 [+7550 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "WCCO  Staff",
-        "title": "Minnesota officials ask protesters to stay peaceful ahead of weekend demonstrations in the state - CBS News",
-        "description": "Minnesota safety officials are asking that protesters participating in scheduled demonstrations this weekend stay orderly and peaceful.",
-        "url": "https://www.cbsnews.com/minnesota/live-updates/minnesota-protests-ice-shooting-law-enforcement/",
-        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/01/17/76477ba7-4d5a-437c-a212-cb6160b249a7/thumbnail/1200x630/827f6067f403fead92775a72360871a6/inx-dps-public-safety-briefing-011626-15-32-3125.jpg",
-        "publishedAt": "2026-01-17T10:58:49Z",
-        "content": "Minnesota Gov. Tim Walz and Minneapolis Mayor Jacob Frey are under federal investigation over an alleged conspiracy to impede federal immigration agents, multiple sources familiar with the matter tol\u2026 [+1154 chars]"
     }
 ]
