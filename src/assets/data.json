@@ -1,16 +1,16 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "The Seattle Times"
+            "id": "nfl-news",
+            "name": "NFL News"
         },
-        "author": "Bob Condotta",
-        "title": "Seahawks thump 49ers in playoff opener, advance to NFC Championship Game - The Seattle Times",
-        "description": "In a game that felt over almost as soon as it started, the Seahawks thumped the 49ers 41-6 in their playoff opener and advance to the NFC Championship Game.",
-        "url": "https://www.seattletimes.com/sports/seahawks/seahawks-thump-49ers-in-playoff-opener-advance-to-nfc-championship-game/",
-        "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/01/01172026_tzr_tzr_194639.jpg?d=1200x630",
-        "publishedAt": "2026-01-18T07:31:21Z",
-        "content": "The 41-6 final score will tell you it was already over when Rashid Shaheed returned the opening kickoff 95 yards for a touchdown.\r\nThat gave the Seahawks a 7-0 lead just 13 seconds into their divisio\u2026 [+6541 chars]"
+        "author": null,
+        "title": "Biggest winners and losers from Saturday's Divisional Round NFL playoff games - NFL.com",
+        "description": "Jeffri Chadiha identifies winners and losers from the first two games of the Divisional Round, which saw both No. 1 seeds -- the Denver Broncos and Seattle Seahawks -- advance. Who's up and who's down following Saturday's contests?",
+        "url": "https://www.nfl.com/news/biggest-winners-and-losers-from-saturday-s-divisional-round-nfl-playoff-games",
+        "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/suuio61vgzqe5qke8tgk",
+        "publishedAt": "2026-01-18T05:31:00Z",
+        "content": null
     },
     {
         "source": {
@@ -67,28 +67,28 @@
     {
         "source": {
             "id": null,
-            "name": "San Francisco Chronicle"
+            "name": "Earth.com"
         },
-        "author": "J.K. Dineen",
-        "title": "Fare thee well: Thousands give Bob Weir a stirring send-off at S.F. \u2018homecoming\u2019 - San Francisco Chronicle",
-        "description": "Thousands of music fans gave Bob Weir a stirring send-off Saturday at the San Francisco \u201chomecoming\u201d for the Grateful Dead co-founder, who died last weekend.",
-        "url": "https://www.sfchronicle.com/sf/article/bob-weir-memorial-grateful-dead-21297361.php",
-        "urlToImage": "https://s.hdnux.com/photos/01/55/73/43/28817617/3/rawImage.jpg",
-        "publishedAt": "2026-01-18T03:11:24Z",
-        "content": "Thousands of people pay their respects to Grateful Dead co-founder Bob Weir during a public memorial Saturday at San Franciscos Civic Center Plaza.\r\nStephen Lam/S.F. Chronicle\r\nJohn Mayer, a\u00a0bandmate\u2026 [+12590 chars]"
+        "author": null,
+        "title": "Insects listen to plants 'talking' before deciding where to lay eggs, breakthrough study shows - Earth.com",
+        "description": "Female moths avoid laying eggs on stressed plants that emit ultrasonic sounds. Instead, they choose silent, healthy plants.",
+        "url": "https://www.earth.com/news/insects-moths-listen-to-plants-talking-before-deciding-where-to-lay-their-eggs/",
+        "urlToImage": "https://cff2.earth.com/uploads/2025/07/17172803/tomato-plants_talking_moths-listen_lay-eggs_1m.jpg",
+        "publishedAt": "2026-01-18T00:39:05Z",
+        "content": "Female moths don\u2019t rely on sight or smell alone. They can also hear stressed plants. Scientists found that these insects detect ultrasonic clicks from plants under drought stress and use them when ch\u2026 [+5230 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CBS Sports"
+            "name": "On3.com"
         },
-        "author": "Tyler Sullivan",
-        "title": "Broncos vs. Bills recap: Denver advances to AFC title game with OT win; loses Bo Nix - CBS Sports",
-        "description": "The Broncos are one step closer to Super Bowl LX, but will have to carry on without their starting QB",
-        "url": "https://www.cbssports.com/nfl/news/broncos-vs-bills-live-updates-can-josh-allen-lead-buffalo-to-another-road-playoff-victory/live/",
-        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/01/18/04097896-63c7-4108-abfc-e8df7ba1fbce/thumbnail/1200x675/a55a58c64bca00d4ae6c869eb7c0e9ac/broncos-int-imagn.jpg",
-        "publishedAt": "2026-01-18T02:32:00Z",
-        "content": "The Denver Broncos are heading to the AFC Championship by way of a frantic finish at Mile High. Will Lutz netted a game-winning 23-yard field goal in overtime to secure the 33-30 win over the Buffalo\u2026 [+6478 chars]"
+        "author": "Tyler Thompson",
+        "title": "Mo Dioubate's toughness helped Kentucky come back to beat Tennessee - On3",
+        "description": "Mo Dioubate was starting to look like the odd man out for Kentucky, but his toughness helped the Cats come back to beat Tennessee.",
+        "url": "https://www.on3.com/teams/kentucky-wildcats/news/mo-dioubate-toughness-kentucky-tennessee-comeback/",
+        "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2026/01/17170308/mo-dioubate-toughness-kentucky-tennessee-comeback-1.png",
+        "publishedAt": "2026-01-18T00:00:15Z",
+        "content": "As Kentucky has searched for its identity in recent weeks, it was starting to look like Mo Dioubate was the odd man out. Dioubate averaged two points in 12.5 minutes in the wins over Mississippi Stat\u2026 [+4403 chars]"
     },
     {
         "source": {
@@ -106,28 +106,15 @@
     {
         "source": {
             "id": null,
-            "name": "Earth.com"
+            "name": "Inside the Hall"
         },
-        "author": null,
-        "title": "Scientists find an interstellar 'tunnel' that connects our solar system to other stars - Earth.com",
-        "description": "Astronomers found an interstellar \"tunnel\" - a cosmic channel that connects our solar system to distant stars, according to a recent study.",
-        "url": "https://www.earth.com/news/local-hot-bubble-interstellar-cosmic-channel-connects-our-solar-system-to-other-stars/",
-        "urlToImage": "https://cff2.earth.com/uploads/2025/08/22164814/interstellar-tunnel_connects-solar-system-to-stars_hot-plasma-channel_1m.jpg",
-        "publishedAt": "2026-01-17T23:28:59Z",
-        "content": "Recent observations of our corner of the universe suggest we have been living inside a hot, less dense region, and that there may even be a strange \u201ccosmic interstellar channel,\u201d or tunnel, connectin\u2026 [+5857 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Goheels.com"
-        },
-        "author": null,
-        "title": "Lucas: Cal Rapid Reactions - University of North Carolina Athletics",
-        "description": "Quick takeaways from the visit to Cal.",
-        "url": "https://goheels.com/news/2026/1/17/mens-basketball-lucas-cal-rapid-reactions",
-        "urlToImage": "https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Func.sidearmsports.com%2Fimages%2F2026%2F1%2F17%2FDixon-D_atCal_MaggieHobsonPhoto_2G5A1267a_pQWLq.jpg&width=1600&type=jpeg",
-        "publishedAt": "2026-01-17T23:28:54Z",
-        "content": null
+        "author": "Alex Bozich",
+        "title": "Five takeaways from IU basketball\u2019s loss to Iowa - Inside the Hall",
+        "description": "IU basketball lost its third straight game, falling 74-57 on Saturday afternoon to Iowa at Simon Skjodt Assembly Hall.",
+        "url": "https://www.insidethehall.com/2026/01/17/five-takeaways-from-iu-basketballs-loss-to-iowa/",
+        "urlToImage": "https://www.insidethehall.com/wp-content/uploads/2025/12/IUBB20252600354.jpg",
+        "publishedAt": "2026-01-17T23:32:25Z",
+        "content": "IU basketball lost its third straight game, falling 74-57 on Saturday afternoon to Iowa at Simon Skjodt Assembly Hall.\r\nHere are five takeaways from the loss to the Hawkeyes:\r\nIndiana\u2019s second-half w\u2026 [+4773 chars]"
     },
     {
         "source": {
@@ -144,29 +131,16 @@
     },
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Richard Bravo",
-        "title": "EU Set to Halt US Trade Deal Over Trump\u2019s New Tariff Threat - Bloomberg.com",
-        "description": "European Union lawmakers are poised to halt approval of the EU\u2019s trade deal with the US over President Donald Trump\u2019s vow to impose tariffs on countries that supported Greenland in the face of American threats.",
-        "url": "https://www.bloomberg.com/news/articles/2026-01-17/eu-set-to-halt-us-trade-deal-over-trump-s-latest-tariff-threat",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i73poNj8ag5I/v1/1200x800.jpg",
-        "publishedAt": "2026-01-17T21:10:56Z",
-        "content": "European Union lawmakers are poised to halt approval of the EUs trade deal with the US over President Donald Trumps vow to impose tariffs on countries that supported Greenland in the face of American\u2026 [+189 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "DW (English)"
-        },
-        "author": "Matt Pearson",
-        "title": "Five graphics that show Greenland\u2019s importance to Trump - dw.com",
-        "description": "Its entire population would fit in a large sports stadium but Greenland\u2019s current presence on the geopolitical stage is huge. DW takes a look at the reasons it's so coveted \u2014 from natural resources to climate change.",
-        "url": "https://www.dw.com/en/five-graphics-that-show-greenlands-importance-to-trump/a-75547831",
-        "urlToImage": "https://static.dw.com/image/75498891_6.jpg",
-        "publishedAt": "2026-01-17T20:07:32Z",
-        "content": "An autonomous territory of Denmark thousands of kilometers from the US is currently center stage in a geopolitical tussle.\r\nUS President Donald Trump says it's \"unacceptable\"\u00a0that Greenland should no\u2026 [+4752 chars]"
+        "author": "Lilia  Luciano",
+        "title": "How a man's personal loss fueled a historic trip down Everest's North Face - CBS News",
+        "description": "Elite mountaineer Jim Morrison, fueled by a promise he made to his deceased partner, ascended and then skied down Mount Everest's treacherous North Face.",
+        "url": "https://www.cbsnews.com/news/jim-morrison-loss-ski-historic-trip-down-everests-north-face/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/01/17/d409429c-5266-4a25-aa24-d76d555c691e/thumbnail/1200x630/258d63752815bdacf14f6ca78c260579/1768679780846.png",
+        "publishedAt": "2026-01-17T20:47:32Z",
+        "content": "A mountaineer's personal loss fueled his historic ascent and ski down Mount Everest's treacherous North Face.\u00a0\r\nJim Morrison had dreamed about summitting the mountain's peak, and when he made it to t\u2026 [+2347 chars]"
     },
     {
         "source": {
@@ -184,15 +158,15 @@
     {
         "source": {
             "id": null,
-            "name": "Deadline"
+            "name": "Europa.eu"
         },
-        "author": "Melanie Goodfellow",
-        "title": "Norwegian Acting Legend Liv Ullmann Wades Into Donald Trump Nobel Peace Prize Gift: \u201cHe Will Lose It\u201d \u2013 European Film Awards - Deadline",
-        "description": "Norwegian Acting Legend Liv Ullmann Wades Into Donald Trump Nobel Peace Prize Gift: \"He Will Lose It\" \u2013 European Film Awards",
-        "url": "http://deadline.com/2026/01/norwegian-star-liv-ullmann-comments-trump-nobel-peace-prize-1236686028/",
-        "urlToImage": "https://deadline.com/wp-content/uploads/2026/01/GettyImages-2256778335.jpg?w=1024",
-        "publishedAt": "2026-01-17T19:05:00Z",
-        "content": "Norwegian actress Liv Ullmann has suggested U.S. President Donald Trump is unlikely to remain in possession of the Nobel Peace Prize gifted to him this past week by Venezuelan opposition leader Mar\u00eda\u2026 [+1356 chars]"
+        "author": null,
+        "title": "Joint statement by President Costa and by President von der Leyen on Greenland - consilium.europa.eu",
+        "description": "President of the European Council, Ant\u00f3nio Costa, and President of the European Commission, Ursula von der Leyen, issued a joint statement on Greenland.",
+        "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/01/17/joint-statement-by-president-costa-and-by-president-von-der-leyen-on-greenland/",
+        "urlToImage": "https://www.consilium.europa.eu/media/43918/eucouncil-logo-socmed.jpg",
+        "publishedAt": "2026-01-17T19:40:31Z",
+        "content": "Territorial integrity and sovereignty are fundamental principles of international law. They are essential for Europe and for the international community as a whole.\r\nWe have consistently underlined o\u2026 [+624 chars]"
     },
     {
         "source": {
@@ -232,5 +206,31 @@
         "urlToImage": null,
         "publishedAt": "2026-01-17T17:37:09Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Sophia Cai",
+        "title": "Trump to POLITICO: \u2018It\u2019s time to look for new leadership in Iran\u2019 - Politico",
+        "description": "Trump, after being read a series of hostile X posts from Iran\u2019s supreme leader, said the ayatollah is guilty of \u201cthe complete destruction of his country.\u201d",
+        "url": "https://www.politico.com/news/2026/01/17/trump-to-politico-its-time-to-look-for-new-leadership-in-iran-00735528",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ff4%2F0e%2Ffe2ecaab445985fa731f7b76ce6a%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2220642570",
+        "publishedAt": "2026-01-17T17:21:49Z",
+        "content": "The next day, the president abruptly changed course, saying he had been informed that the killings had stopped.\r\nThe best decision he ever made was not hanging more than 800 people two days ago, Trum\u2026 [+1744 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "TheStreet"
+        },
+        "author": "Silin Chen",
+        "title": "Bank of America revamps Alphabet stock after Google enters two key partnerships - thestreet.com",
+        "description": "Here\u2019s what could be next for Alphabet stock.",
+        "url": "https://www.thestreet.com/investing/stocks/bank-of-america-revamps-alphabet-stock-after-google-enters-two-key-partnerships",
+        "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyODQzMjQw/gettyimages-2217999139-1.jpg",
+        "publishedAt": "2026-01-17T17:17:00Z",
+        "content": "Key Points\r\n<ul><li>Googles Gemini AI partnerships with Walmart and Apple spur stock gains and investor optimism.</li><li>Investors await Alphabets Q4 earnings scheduled for Feb. 4.</li><li>Google ex\u2026 [+3878 chars]"
     }
 ]
