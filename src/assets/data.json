@@ -27,19 +27,6 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": null,
-        "title": "Rams end the Bears\u2019 magical run and the Patriots ease past the Texans to set up NFL\u2019s final four - CNN",
-        "description": "The Rams and Patriots are moving on to the conference championship round after victories on Sunday in the NFL playoffs",
-        "url": "https://www.cnn.com/sport/live-news/nfl-playoffs-texans-patriots-rams-bears-01-18-26",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2256970976.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-01-19T03:33:00Z",
-        "content": "It wasnt always pretty, but the New England Patriots have found a way to get past the Houston Texans to set up an AFC conference championship matchup against the Denver Broncos.\r\nWith rain and then s\u2026 [+985 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "NBCSports.com"
         },
@@ -50,6 +37,19 @@
         "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/fcdd654/2147483647/strip/true/crop/5472x3078+0+285/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2Fe4%2F190e89e94dcd99b7d7f2c4d98b09%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2251109842",
         "publishedAt": "2026-01-18T23:39:19Z",
         "content": "The Patriots will be road favorites in Denver in next weekends AFC Championship Game.\r\nThe point spread has been released, and the Patriots are 4.5-point favorites at the Broncos.\r\nThats a reflection\u2026 [+383 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Sports Illustrated"
+        },
+        "author": "Liam McKeone",
+        "title": "Texans\u2019 C.J. Stroud Makes Unfortunate NFL History With Wild Run of Turnovers in Playoffs - Sports Illustrated",
+        "description": "C.J. Stroud\u2019s turnover numbers this postseason are unlike anything the NFL has ever seen.",
+        "url": "https://www.si.com/nfl/texans-cj-stroud-unfortunate-nfl-history-turnovers-in-playoffs",
+        "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_87,w_3430,h_1929/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01kf9kdtdm6js81h4m4r.jpg",
+        "publishedAt": "2026-01-18T23:00:19Z",
+        "content": "Texans quarterback C.J. Stroud entered this years NFL playoffs regarded as one of the better signal-callers left playing in the chase for the Super Bowl. One of his strongest qualities? Taking care o\u2026 [+2366 chars]"
     },
     {
         "source": {
@@ -67,28 +67,15 @@
     {
         "source": {
             "id": null,
-            "name": "Minnesota Public Radio News"
+            "name": "Gizmodo.com"
         },
-        "author": "MPR News Staff",
-        "title": "Man detained in Minneapolis dies in ICE custody in Texas - MPR News",
-        "description": "A man arrested by immigration officials in Minneapolis died in federal detention in Texas.",
-        "url": "https://www.mprnews.org/story/2026/01/18/man-detained-in-minneapolis-dies-in-ice-custody-in-texas",
-        "urlToImage": "https://img.apmcdn.org/bfb4a50492cb3c5e2ef4e34c5a32f29d2ad28e2b/widescreen/a6efff-20260118-el-paso-ice-facility-2000.jpg",
-        "publishedAt": "2026-01-18T22:03:26Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "The Seattle Times"
-        },
-        "author": "Bob Condotta",
-        "title": "Why Seahawks defense\u2019s fourth-down stops were critical vs. 49ers | Four Downs - The Seattle Times",
-        "description": "How big were the Seahawks' fourth-down stops vs. the 49ers? And what advice did Grey Zabel give Leonard Williams before his fourth-down sack?",
-        "url": "https://www.seattletimes.com/sports/seahawks/seahawks-defenses-fourth-down-stops-critical-vs-49ers-four-downs/",
-        "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/01/01182026_Four-Downs_tzr_140842.jpg?d=1200x630",
-        "publishedAt": "2026-01-18T21:06:30Z",
-        "content": "The Seahawks have maintained all year they are just taking it one game at a time, even as they increasingly became considered as favorites to make it to the Super Bowl.\r\nNow, they can truly say one g\u2026 [+6190 chars]"
+        "author": "Justin Carter",
+        "title": "Games Workshop Is Finally Making Female Custodes Models - Gizmodo",
+        "description": "The new models mark the first time tabletop players will be given the option to build their Custodes units with unhelmeted female heads.",
+        "url": "https://gizmodo.com/warhammer-40k-female-custodes-models-games-workshop-2000711356",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/01/warhammer-horus-heresy-female-custodes-models-1200x675.jpg",
+        "publishedAt": "2026-01-18T21:15:28Z",
+        "content": "On Friday, Games Workshop unveiled new models for\u00a0Warhammer 40K,\u00a0and in doing so, made history for the tabletop game.\r\nDuring the \u201cNew Year Preview\u201d livestream, the company showed off a range of mode\u2026 [+2077 chars]"
     },
     {
         "source": {
@@ -118,32 +105,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "POLITICO.eu"
-        },
-        "author": "Aitor Hern\u00e1ndez-Morales",
-        "title": "Center left wins Portugal presidential election first round, setting up showdown with far right - politico.eu",
-        "description": "Ant\u00f3nio Jos\u00e9 Seguro will face far-right leader Andr\u00e9 Ventura in a runoff ballot Feb. 8.",
-        "url": "https://www.politico.eu/article/far-right-wins-portugal-presidential-election-first-round-exit-poll-says/",
-        "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/01/18/GettyImages-2256298636-scaled.jpg",
-        "publishedAt": "2026-01-18T20:58:00Z",
-        "content": "Ventura\u2019s ability to secure almost a quarter of the ballots Sunday emphasizes\u00a0how remarkable his Chega party\u2019s growth\u00a0has been in Portugal. In six years the ultranationalist grouping has gone from ha\u2026 [+2106 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "9to5Mac"
-        },
-        "author": "Chance Miller",
-        "title": "Here\u2019s why Walmart still doesn\u2019t support Apple Pay - 9to5Mac",
-        "description": "Walmart still doesn\u2019t accept Apple Pay (or any NFC tap-to-pay) in U.S. stores. Here are a few reasons why it doesn't.",
-        "url": "https://9to5mac.com/2026/01/18/heres-why-walmart-still-doesnt-support-apple-pay/",
-        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/Apple-Pay-walmart%400.5x.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "publishedAt": "2026-01-18T19:58:00Z",
-        "content": "The year is 2026 and Walmart still doesnt accept Apple Pay at any of its stores in the United States. This makes it one of the last remaining major retailers to not support Apples contactless payment\u2026 [+4464 chars]"
-    },
-    {
-        "source": {
             "id": "cbs-news",
             "name": "CBS News"
         },
@@ -158,15 +119,15 @@
     {
         "source": {
             "id": null,
-            "name": "Deadline"
+            "name": "Outkick.com"
         },
-        "author": "Anthony D'Alessandro",
-        "title": "\u2018Avatar: Fire And Ash\u2019 Hits $1.3B, \u2018Housemaid\u2019 Paul Feig\u2019s 2nd Highest Grossing Pic, \u201928 Years Later: Bone Temple\u2019 $31M WW Debut \u2013 Global Box Office - Deadline",
-        "description": "The MLK weekend box office might have been sleep in the U.S., but overseas, Disney continued to reign with milestones, Zootopia 2, as we just told you becoming the highest grossing MPA animated movie ever with $1.7 billion, but also James Cameron\u2019s Avatar: Fi\u2026",
-        "url": "http://deadline.com/2026/01/box-office-global-avatar-fire-and-ash-28-years-later-bone-temple-1236689254/",
-        "urlToImage": "https://deadline.com/wp-content/uploads/2026/01/28-Years-Later-Bone-Temple-Avatar-Fire-Ash-2-shot.jpg?w=1024",
-        "publishedAt": "2026-01-18T18:33:00Z",
-        "content": "The MLK weekend box office might have been sleep in the U.S., but overseas, Disney continued to reign withmilestones, Zootopia 2, as we just told you becoming the highest grossing MPA animated movie \u2026 [+5136 chars]"
+        "author": "Trey Wallace",
+        "title": "Mario Cristobal Could Have Been Guarding Donald Trump, Instead He's Coaching Miami In CFP Title Game - OutKick",
+        "description": "Mario Cristobal reveals he was one step away from joining the Secret Service \u2014 a decision that could\u2019ve put him protecting Donald Trump instead of chasing a CFP title.",
+        "url": "https://www.outkick.com/sports/mario-cristobal-secret-service-donald-trump-miami-cfp-indiana",
+        "urlToImage": "https://static.outkick.com/www.outkick.com/content/uploads/2024/04/Mario-Cristobal-1.jpg",
+        "publishedAt": "2026-01-18T18:45:57Z",
+        "content": "MIAMI\u2014There was a time when Mario Cristobal\u2019s path might have led him away from the sidelines and into federal service, possibly even guarding President Donald Trump on Monday night during the CFP ti\u2026 [+3058 chars]"
     },
     {
         "source": {
@@ -180,19 +141,6 @@
         "urlToImage": "https://s.yimg.com/os/en/e__181/1877d0015c59e16b36f2e515481f9dd6",
         "publishedAt": "2026-01-18T17:25:00Z",
         "content": "Originally appeared on E! Online\r\nColin Jostdoes in fact play about Scarlett Johansson.\r\nFollowing news of The Avengers star being replaced by Zoe Salda\u00f1a as the highest-grossing actor of all time, C\u2026 [+5072 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Terrence O'Brien",
-        "title": "Microsoft\u2019s first Windows 11 update of 2026 stopped some computers from shutting down - The Verge",
-        "description": "Microsoft was forced to release an emergency update after the first Windows 11 update of 2026 stopped some computers from shutting down or hibernating.",
-        "url": "https://www.theverge.com/news/864032/microsofts-out-of-band-windows-11-update-bug",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/acastro_STK109_microsoft.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-01-18T16:46:15Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nIt only affected Enterprise and IoT editions of Windows 11 23H2, and an emergency fix is already available.\r\nIt only affected Enterprise and IoT editions of Wind\u2026 [+2378 chars]"
     },
     {
         "source": {
@@ -222,15 +170,67 @@
     },
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
+            "id": "hacker-news",
+            "name": "Hacker News"
         },
-        "author": "Wilfried Eckl-Dorna",
-        "title": "German Soldiers Leave Greenland After 44 Hours, Bild Reports - Bloomberg.com",
-        "description": "The German military reconnaissance team that arrived in Greenland on Friday is on its way back after a 44-hour deployment on the Arctic island, Bild newspaper reported on Sunday.",
-        "url": "https://www.bloomberg.com/news/articles/2026-01-18/german-soldiers-leave-greenland-after-44-hour-stay-bild-reports",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPFSlRRPseqw/v1/1200x800.jpg",
-        "publishedAt": "2026-01-18T15:15:36Z",
-        "content": "The German military reconnaissance team that arrived in Greenland on Friday is on its way back after a 44-hour deployment on the Arctic island, Bild newspaper reported on Sunday. \r\nThe team of 15 was\u2026 [+173 chars]"
+        "author": null,
+        "title": "Predicting OpenAI's ad strategy - Hacker News",
+        "description": null,
+        "url": "https://news.ycombinator.com/item?id\\\\u003d46668021",
+        "urlToImage": null,
+        "publishedAt": "2026-01-18T14:37:22Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Videocardz.com"
+        },
+        "author": null,
+        "title": "ASUS goes \"all in AI\" and stops new smartphones, Chairman Jonney Shih confirms - VideoCardz.com",
+        "description": "ASUS to stop launching new smartphones as company goes all in on AI ASUS chairman Jonney Shih says the company will stop adding new smartphone models and",
+        "url": "https://videocardz.com/newz/asus-goes-all-in-ai-and-stops-new-smartphones-chairman-jonney-shih-confirms",
+        "urlToImage": "https://cdn.videocardz.com/1/2026/01/ASUS-CEO.jpg",
+        "publishedAt": "2026-01-18T13:55:00Z",
+        "content": "ASUS chairman Jonney Shih says the company will stop adding new smartphone models and move R&amp;D toward commercial PCs and physical AI devices such as robotics and smart glasses. \r\nShih made the co\u2026 [+1748 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gematsu"
+        },
+        "author": "Sal Romano",
+        "title": "Ketsu Battler adds Narmaya from Granblue Fantasy Versus: Rising - Gematsu",
+        "description": "Ketsu Battler, the one-on-one butt shaking fighting game, has added Narmaya from Granblue Fantasy Versus: Rising as a free guest character today alongside the previously announced Beelzebub via its\u2026",
+        "url": "https://www.gematsu.com/2026/01/ketsu-battler-adds-narmaya-from-granblue-fantasy-versus-rising",
+        "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/01/Ketsu-Battler-Narmaya_01-18-26.jpg",
+        "publishedAt": "2026-01-18T13:52:12Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Kelsey Tamborrino, Josh Siegel, Lesley Clark, Niina H. Farah",
+        "title": "Trump suffers major losses in his war on offshore wind - Politico",
+        "description": "The administration\u2019s arguments that offshore wind farms present a national security risk failed to convince judges in three separate courts.",
+        "url": "https://www.politico.com/news/2026/01/18/trump-offshore-wind-problems-00734850",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F59%2F40%2Ffc9ec3144bbeab3d327edaa46153%2Fblock-island-wind-farm-47493.jpg",
+        "publishedAt": "2026-01-18T13:45:35Z",
+        "content": "Democrats and wind supporters hailed the clean sweep in this weeks legal cases, even if the ultimate fate of those massive offshore energy projects remains to be determined.\r\nTrump is getting his but\u2026 [+8922 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Tina Nguyen",
+        "title": "Why Coinbase derailed the crypto industry\u2019s political future - The Verge",
+        "description": "The powerful crypto exchange objected to a draft of the market structure bill at the last minute, infuriating the rest of the industry.",
+        "url": "https://www.theverge.com/policy/864008/senate-clarity-act-coinbase-crypto-market",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2255802309.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+        "publishedAt": "2026-01-18T13:10:00Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe powerful exchange yanked its support of the Senate CLARITY Act at the last minute and the rest of the crypto world, from Kraken to a16z, is infuriated.\r\nThe \u2026 [+7422 chars]"
     }
 ]
