@@ -1,16 +1,29 @@
 [
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": null,
+            "name": "Investing.com"
         },
-        "author": "Marianna Sotomayor",
-        "title": "House Democrats to investigate Kristi Noem with eye on impeachment push - The Washington Post",
-        "description": "Unlike a typical congressional impeachment inquiry, Democrats plan to conduct their investigation without Republicans.",
-        "url": "https://www.washingtonpost.com/politics/2026/01/26/house-democrats-noem-investigation-impeachment/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4Z5C6PCUYI726UKKHHEUNXBM2Y.JPG&w=1440",
-        "publishedAt": "2026-01-27T03:17:00Z",
-        "content": "House Democrats are set to open an investigation into Homeland Security Secretary Kristi L. Noem as early as next week, laying the groundwork for a push to impeach her.\r\nUnlike a typical congressiona\u2026 [+244 chars]"
+        "author": "Ayushman Ojha",
+        "title": "Asia stocks climb on Wall St lead; S.Korea rebounds after tariff jitters - Investing.com",
+        "description": "Asia stocks climb on Wall St lead; S.Korea rebounds after tariff jitters",
+        "url": "https://www.investing.com/news/stock-market-news/asia-stocks-climb-on-wall-st-lead-skorea-rebounds-after-tariff-jitters-4466372",
+        "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEC0B0BR_L.jpg",
+        "publishedAt": "2026-01-27T03:30:04Z",
+        "content": "Investing.com-- Asian stock markets rose on Tuesday, tracking overnight gains on Wall Street as investors positioned for a heavy week of U.S. megacap technology earnings, while South Korean shares ju\u2026 [+2290 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Trump raises US tariffs on South Korea imports to 25% - BBC",
+        "description": "Trump has accused Seoul of \"not living up\" to a trade deal that was reached last year.",
+        "url": "https://www.bbc.com/news/articles/cwyw3ynwe37o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5081/live/22f93670-fb18-11f0-a2c0-71839ce781f8.jpg",
+        "publishedAt": "2026-01-27T03:06:18Z",
+        "content": "US President Donald Trump has announced he is raising tariffs on South Korean imports to 25% after accusing Seoul of \"not living up\" to a trade deal reached last year.\r\nIn a post on social media, Tru\u2026 [+2429 chars]"
     },
     {
         "source": {
@@ -27,19 +40,6 @@
     },
     {
         "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Natalie Fertig",
-        "title": "Former Trail Blazer Chris Dudley to run again for governor of Oregon - Politico",
-        "description": "He came within 2 points when he ran in 2010.",
-        "url": "https://www.politico.com/news/2026/01/26/chris-dudley-oregon-governor-00747694",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F64%2Ffa%2Fdf60895a4d47ab770da0232758e1%2Foregon-governor.JPEG",
-        "publishedAt": "2026-01-27T00:27:31Z",
-        "content": "Dudley is one of the most successful Republicans of the last 25 years in Oregon, coming within 2 points of defeating Democratic Gov. John Kitzhaber in 2010.\r\nI think its imperative that we get somebo\u2026 [+1970 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "BBC News"
         },
@@ -50,6 +50,19 @@
         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dd77/live/8b531fd0-fae9-11f0-a422-4ba8a094a8fa.jpg",
         "publishedAt": "2026-01-27T00:04:46Z",
         "content": "Michelle RobertsDigital health editor\r\nThe menopause is linked to changes in the brain similar to those seen in Alzheimer's, according to a large UK study.\r\nThe loss of grey matter in areas involved \u2026 [+2859 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Globemagazine.com"
+        },
+        "author": null,
+        "title": "North West Calls Mom Kim Kardashian \u2018the Goat\u2019 During Livestream: \u2018I Hope Someone Recorded That\u2019 - Yahoo",
+        "description": null,
+        "url": "https://globemagazine.com/north-west-calls-mom-kim-kardashian-the-goat-during-livestream-i-hope-someone-recorded-that/",
+        "urlToImage": null,
+        "publishedAt": "2026-01-26T23:21:35Z",
+        "content": "{\"en\":{\"access_disabled\":\"Internet access has been disabled on this device\",\"code\":\"Code\",\"custom_block_list\":\"it is on a custom block list\",\"email\":\"Email\",\"file_ext_blocked\":\"the file extension is \u2026 [+5484 chars]"
     },
     {
         "source": {
@@ -79,19 +92,6 @@
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Ethan Beck",
-        "title": "Kanye West apologizes for antisemitic comments, links behavior to 2002 brain injury - The Washington Post",
-        "description": "In a full page ad in the Wall Street Journal, Ye says, \u201cI am not a Nazi or antisemite. I love Jewish people.\u201d",
-        "url": "https://www.washingtonpost.com/style/2026/01/26/kanye-west-ye-antisemitism-apology/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZU7BW7NU27GIZSBNTRBIUHWWSA.jpg&w=1440",
-        "publishedAt": "2026-01-26T22:37:16Z",
-        "content": "In a statement on Monday, Ye apologized for a history of impulsive behavior, including using antisemitic imagery and describing himself as a Nazi.\r\nThe musician and fashion mogul formerly known as Ka\u2026 [+269 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Rolling Stone"
         },
@@ -102,19 +102,6 @@
         "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/01/neil-young-amazon.jpg?crop=0px%2C21px%2C1800px%2C1014px&resize=1600%2C900",
         "publishedAt": "2026-01-26T22:28:44Z",
         "content": "Back in October, Neil Youngpledged to remove all of his music from Amazon. And in a recent post on the Neil Young Archives, he said he\u2019s sticking with the plan.\r\n\u201cAmazon is owned by Jeff Bezos, a bil\u2026 [+2791 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "WSB Atlanta"
-        },
-        "author": "WSBTV.com News Staff",
-        "title": "SCHOOL CLOSINGS: List of Georgia districts canceling or going virtual Tuesday - wsbtv.com",
-        "description": "These districts have changed their schedules on Tuesday.",
-        "url": "https://www.wsbtv.com/news/local/school-closings-list-georgia-districts-canceling-or-going-virtual-tuesday/2LAT5ELIOBC23BLMLN2CG2XC2M/",
-        "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FMXTF7PR2TVGVPGHXONXVRGUUZI.jpg?auth=bffb896f178237c2a45415c41c2bfa460b8e1900d372290f36551548328ee049&width=1200&height=630&smart=true",
-        "publishedAt": "2026-01-26T22:12:49Z",
-        "content": "ATLANTA \u2014 All of north Georgias school districts made the decision to cancel class or have a virtual day on Monday.\r\nBut as icy conditions and power outages continue in some north Georgia counties, s\u2026 [+1136 chars]"
     },
     {
         "source": {
@@ -145,15 +132,28 @@
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "The Seattle Times"
         },
-        "author": null,
-        "title": "French MPs take first step to ban social media for under-15s - BBC",
-        "description": "If the bill passes the upper house it could take effect by the start of France's new school year in September.",
-        "url": "https://www.bbc.com/news/articles/c07x003vx0yo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/053a/live/4c7fd700-fab0-11f0-91f4-a739ab96be22.jpg",
-        "publishedAt": "2026-01-26T21:46:41Z",
-        "content": "France's National Assembly has backed a bill that would bansocial media access for under-15s, a proposal supported by President Emmanuel Macron.\r\nLawmakers in the lower house on Monday agreed key ele\u2026 [+3818 chars]"
+        "author": "Bob Condotta",
+        "title": "Why Seahawks\u2019 NFC title win was historic and fortunate | Four Downs - The Seattle Times",
+        "description": "The Seahawks were a bit fortunate at a few key moments against the Rams in the NFC Championship Game. That and more in the latest Four Downs.",
+        "url": "https://www.seattletimes.com/sports/seahawks/why-seahawks-nfc-title-win-was-historic-and-fortunate-four-downs/",
+        "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/01/01262026_Seahawks-Macdonald_tzr_131853.jpg?d=1200x630",
+        "publishedAt": "2026-01-26T21:38:03Z",
+        "content": "An hour or so before Sundays NFC title game, the two participants in one of the most iconic phrases in Seahawks history Richard Sherman and Tom Brady reunited on the surface of Lumen Field.\r\nBrady wa\u2026 [+6619 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Alex Wickham",
+        "title": "Starmer Says UK Won\u2019t Be Forced to Choose Between US, China - Bloomberg.com",
+        "description": "Prime Minister Keir Starmer said the UK wouldn\u2019t have to choose between the US and China, as he heralded \u201csignificant opportunities\u201d for British businesses ahead of his trip to Beijing this week.",
+        "url": "https://www.bloomberg.com/news/articles/2026-01-26/starmer-says-uk-won-t-be-forced-to-choose-between-us-and-china",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBOSPbE_bxX8/v0/1200x800.jpg",
+        "publishedAt": "2026-01-26T21:34:30Z",
+        "content": "Prime Minister Keir Starmer said the UK wouldnt have to choose between the US and China, as he heralded significant opportunities for British businesses ahead of his trip to Beijing this week.\r\nIn an\u2026 [+399 chars]"
     },
     {
         "source": {
@@ -171,19 +171,6 @@
     {
         "source": {
             "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Shawn Tully",
-        "title": "Trump\u2019s own Big Beautiful Bill could add $5.5 trillion to the deficit and help sabotage his plan to \u2018grow out\u2019 of the national debt crisis - Yahoo Finance",
-        "description": "Prior to the passage of the One Big Beautiful Bill, Trump\u2019s \u201cgrowth\u201d math stood a chance of closing the gap. Now it\u2019s much harder to see it working.",
-        "url": "https://finance.yahoo.com/news/trump-own-big-beautiful-bill-204952439.html",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/CIWqjqr5QsflUKQRr8dhqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/15fe13fea2cada0ab7767e5514cfbe25",
-        "publishedAt": "2026-01-26T20:49:52Z",
-        "content": "In an onstage interview at the World Economic Forum on Jan. 21, President Trump was asked how he intends to tackle the gigantic increase in federal deficits and debt, which according to the Congressi\u2026 [+10431 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "World Health Organization"
         },
         "author": null,
@@ -196,42 +183,42 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "WTMJ"
+            "id": "axios",
+            "name": "Axios"
         },
-        "author": "WTMJ News",
-        "title": "Measles confirmed in Waukesha County - wtmj.com",
-        "description": "WAUKESHA, Wis. -- The Wisconsin Department of Health Services confirms the first case of measles in the Badger state this year in a resident in Waukesha",
-        "url": "https://wtmj.com/news/2026/01/26/measles-confirmed-in-waukesha-county/",
-        "urlToImage": "https://wtmj.com/wp-content/uploads/2024/02/GettyImages-462803914.jpg",
-        "publishedAt": "2026-01-26T20:36:34Z",
-        "content": "WAUKESHA, Wis. \u2014 The Wisconsin Department of Health Servicesconfirms the first case of measles in the Badger state this year in a resident in Waukesha County.\r\nHealth officials at the state level and\u2026 [+1689 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Terry Eliasen,  Exec. Weather Producer",
-        "title": "Could Massachusetts get hit with a blizzard this weekend? Here's what the forecast says. - CBS News",
-        "description": "As we tick towards the end of what will be an all-time, record setting, top-ten snowstorm for Boston, it is awfully hard to ignore what may be coming next for Massachusetts.",
-        "url": "https://www.cbsnews.com/boston/news/massachusetts-blizzard-possibility/",
-        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/01/26/4906c298-4ef2-4467-a656-1453287e4c00/thumbnail/1200x630/8c618a413d3eec8963664c11e2c82e52/newstormtrack.jpg",
-        "publishedAt": "2026-01-26T20:27:00Z",
-        "content": "As we tick towards the end of what will be an all-time, record setting, top-ten snowstorm for Boston, it is awfully hard to ignore what may be coming next for Massachusetts.\r\nIt was about this time l\u2026 [+3400 chars]"
+        "author": "Barak Ravid",
+        "title": "Exclusive: Trump says Iran wants a deal as U.S. \"armada\" arrives - Axios",
+        "description": "\"We have a big armada next to Iran. Bigger than Venezuela.\"",
+        "url": "https://www.axios.com/2026/01/26/trump-iran-deal-strike-protests",
+        "urlToImage": "https://images.axios.com/v5XeyFdpOBwz4WyhLosFdT3TVAs=/0x104:4911x2866/1366x768/2026/01/26/1769457157778.jpeg",
+        "publishedAt": "2026-01-26T20:26:38Z",
+        "content": "<ul><li>Sources with knowledge of the situation say Trump hasn't made a final decision. He will likely hold more consultations this week and be presented with additional military options.</li><li>Tho\u2026 [+3223 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "BGR"
+            "name": "ZME Science"
         },
-        "author": "Joshua Hawkins",
-        "title": "China's Thermal Battery Breakthrough Might Change Everything - bgr.com",
-        "description": "Thermal batteries have major advantages in terms of durability, but they also have a serious shortcoming. Fortunately, this breakthrough might offer a solution.",
-        "url": "https://www.bgr.com/2081338/china-high-efficiency-cathodes-thermal-batteries/",
-        "urlToImage": "https://www.bgr.com/img/gallery/chinas-thermal-battery-breakthrough-might-change-everything/l-intro-1768962165.jpg",
-        "publishedAt": "2026-01-26T20:17:00Z",
-        "content": "Battery tech has come a long way over the years, with new solid state batteries which hold almost double the charge of some Tesla EVs, and even research that looks at using energy-storing concrete to\u2026 [+1472 chars]"
+        "author": "Emily Gardner",
+        "title": "Scientists Finally Figured Out How Much Groundwater There Is Under the US and It Is Enough to Fill the Great Lakes 13 Times Over - ZME Science",
+        "description": "Researchers used 1 million data points and a machine learning algorithm to estimate groundwater stores with higher resolution than ever before.",
+        "url": "https://www.zmescience.com/science/news-science/us-groundwater-figures/",
+        "urlToImage": "https://cdn.zmescience.com/wp-content/uploads/2026/01/Figure2-for-web-1200x675-1.jpg",
+        "publishedAt": "2026-01-26T19:19:05Z",
+        "content": "Its not easy to determine how much water there is across a landscape.\u00a0A measly 1%\u00a0of Earths freshwater is on the surface, where it can be seen and measured with relative ease. But beneath that, measu\u2026 [+5190 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Wizards.com"
+        },
+        "author": "John Schork",
+        "title": "MTG Arena Announcements \u2013 January 26, 2026 - Magic: The Gathering",
+        "description": "Catch up with the latest info and events on MTG Arena.",
+        "url": "https://magic.wizards.com/en/news/mtg-arena/announcements-january-26-2026",
+        "urlToImage": "https://images.ctfassets.net/s5n2t79q9icq/1qqHUJ9cKYenQosEqhXIPD/968f0dfadd6c9b3841beb7a93058e210/en_articles_archive_magic-digital_mtg-arena-announcements-september-14-2022-meta-image.jpeg",
+        "publishedAt": "2026-01-26T18:57:45Z",
+        "content": "In this edition:\r\nLorwyn Eclipsed Competitive Events\r\nCompetitive play for Lorwyn Eclipsed is heating up! A bunch of fun events are happening, so here's the rundown:\r\nArena Direct: Lorwyn Eclipsed(Ja\u2026 [+8041 chars]"
     },
     {
         "source": {
@@ -245,5 +232,18 @@
         "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4720x2655+0+246/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2Ffc%2Fe93ff1dd449d8212076780a65e52%2Fgettyimages-2255608281.jpg",
         "publishedAt": "2026-01-26T18:24:44Z",
         "content": "KYIV After repeated Russian attacks on Ukraine's energy grid, Ukrainians are facing long cuts to heating, electricity and water during the coldest winter since Russia's full-scale invasion nearly fou\u2026 [+4424 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Nikkei.com"
+        },
+        "author": "Staff Writer",
+        "title": "Alliance with US would 'collapse' if Japan fled a Taiwan crisis: Takaichi - Nikkei Asia",
+        "description": "Japanese PM refers to possibility of joint operation to evacuate citizens",
+        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/alliance-with-us-would-collapse-if-japan-fled-a-taiwan-crisis-takaichi",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F5%2F3%2F7%2F12057350-1-eng-GB%2F74d21e73f5b7-20260126N-Takaichi-debate.jpg?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
+        "publishedAt": "2026-01-26T17:46:00Z",
+        "content": "TOKYO -- Failing to respond if American forces came under attack in a Taiwan crisis would threaten Japan's critical security alliance with the U.S., Japanese Prime Minister Sanae Takaichi said Monday."
     }
 ]
