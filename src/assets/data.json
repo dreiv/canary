@@ -1,16 +1,29 @@
 [
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
+            "id": null,
+            "name": "BBC News"
         },
-        "author": "Anand Krishnamoorthy, Winnie Hsu, Carmeli Argana",
-        "title": "Asian Stocks to Fall as Tech-Led Drop Gains Pace: Markets Wrap - Bloomberg.com",
-        "description": "A slump in technology stocks snowballed into Asia as mounting anxiety over frothy valuations and massive artificial intelligence spending drove investors to trim exposure.",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-04/asian-stocks-to-fall-as-tech-led-drop-gains-pace-markets-wrap",
-        "urlToImage": "https://assets.bwbx.io/s3/lightsaber/_next/static/media/social-markets.e062a0c0.jpg",
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Anger among Labour MPs grows over Starmer's handling of Mandelson-Epstein scandal - BBC",
+        "description": "The prime minister told Parliament he was aware of Mandelson's ongoing friendship with the late sex offender when he was appointed as US ambassador.",
+        "url": "https://www.bbc.com/news/live/czx3lq460n6t",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d26/live/35cf8290-027f-11f1-b5e2-dd58fc65f0f6.jpg",
+        "publishedAt": "2026-02-05T08:40:13Z",
+        "content": "Rachel FlynnLive reporter\r\nMinisters pledge to release Mandelson appointment documents - but with caveats\r\nOn Wednesday, the Conservatives put forward a motion in Parliament demanding the government \u2026 [+1344 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "cleveland.com"
+        },
+        "author": "Chris Fedor, cleveland.com",
+        "title": "Cavs clobber Clippers, 124-91, in \u2018weird\u2019 game with Darius Garland seated courtside - Cleveland.com",
+        "description": "The Cavs have won nine of their last 11 games. They are now fourth in the Eastern Conference \u2014 and look primed to continue this ascension, especially given this week\u2019s roster enhancements.",
+        "url": "https://www.cleveland.com/cavs/2026/02/cavs-clobber-clippers-124-91-in-weird-game-with-darius-garland-seated-courtside.html",
+        "urlToImage": "https://www.cleveland.com/resizer/v2/MK66SKENRRER7NHT7UPLMCI32U.jpg?auth=242c248b10ce5da2abc89f401f58e30b363467f1fa4aef643792a83a8e53a09c&width=1280&smart=true&quality=90",
         "publishedAt": "2026-02-05T05:51:00Z",
-        "content": "A slump in technology stocks snowballed into Asia as mounting anxiety over frothy valuations and massive artificial intelligence spending drove investors to trim exposure.\r\nMSCIs gauge of Asian tech \u2026 [+381 chars]"
+        "content": "INGLEWOOD, Calif. On the bus ride from Beverly Hills to Inglewood, Cavs coach Kenny Atkinson was consumed by one specific thought. \r\nThis is weird. \r\nSurging Cleveland topped the Los Angeles Clippers\u2026 [+4977 chars]"
     },
     {
         "source": {
@@ -27,19 +40,6 @@
     },
     {
         "source": {
-            "id": "abc-news",
-            "name": "ABC News"
-        },
-        "author": "ABC News",
-        "title": "Housecleaner said multiple illnesses tied to Las Vegas house with possible bio lab: Police report - ABC News",
-        "description": null,
-        "url": "https://abcnews.go.com/US/housecleaner-multiple-illnesses-tied-las-vegas-house-bio/story?id\\\\u003d129865238",
-        "urlToImage": null,
-        "publishedAt": "2026-02-05T05:15:21Z",
-        "content": null
-    },
-    {
-        "source": {
             "id": null,
             "name": "Deseret News"
         },
@@ -50,6 +50,32 @@
         "urlToImage": "https://www.deseret.com/resizer/v2/24SVYTBA4ZE5PCXELJXHRPLRQM.jpg?focal=1838%2C1767&auth=70f79b65eeb9cdfd83ec4065aa1647b0ed628653e0fde94d22a470e0cc2e2ad7&width=630",
         "publishedAt": "2026-02-05T04:41:00Z",
         "content": "STILLWATER, Okla. Make that three straight losses for BYU.\r\nThe Cougars faded late Wednesday night against Oklahoma State, being upset 99-92 by the Cowboys at Gallagher-Iba Arena in Stillwater.\r\nBYU \u2026 [+1705 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Sean Lyngaas",
+        "title": "Intelligence director Tulsi Gabbard\u2019s office obtained and tested voting machines in Puerto Rico - CNN",
+        "description": "The Office of Director of National Intelligence Tulsi Gabbard obtained voting machines from Puerto Rico and probed them for security vulnerabilities, the office said in a statement to CNN on Wednesday.",
+        "url": "https://www.cnn.com/2026/02/04/politics/gabbard-office-obtained-voting-machines-puerto-rico",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2248985489.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-02-05T04:33:00Z",
+        "content": "The Office of the Director of National Intelligence obtained voting machines from Puerto Rico and probed them for security vulnerabilities, the office said in a statement to CNN Wednesday.\r\nThe extra\u2026 [+2705 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Yihui Xie",
+        "title": "Silver Plummets More Than 16%, Erasing a Two-Day Recovery - Bloomberg.com",
+        "description": "Silver fell sharply, wiping out a two-day recovery, as the white metal struggled to find a floor following a historic market rout. Gold also declined.",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-04/gold-rises-for-a-third-day-in-recovery-from-historic-market-rout",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1ITLXrMHrfY/v0/1200x800.jpg",
+        "publishedAt": "2026-02-05T04:20:00Z",
+        "content": "Silver fell sharply, wiping out a two-day recovery, as the white metal struggled to find a floor following a historic market rout. Gold also declined.\r\nSpot silver plunged as much as 17% on Thursday,\u2026 [+220 chars]"
     },
     {
         "source": {
@@ -105,6 +131,19 @@
     },
     {
         "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Kate Brumback, Nicholas Riccardi",
+        "title": "Legal fight escalates over Georgia voting records as Trump says he wants to \u2018take over\u2019 elections - AP News",
+        "description": "Officials in Georgia\u2019s Fulton County have asked a federal court to order the FBI to return ballots and other documents from the 2020 election that it seized last week, The move escalates a voting battle as President Donald Trump says he wants to \u201ctake over\u201d e\u2026",
+        "url": "https://apnews.com/article/fbi-georgia-elections-fulton-county-2020-ballots-532b6daf318c79c471cd7f145c9f2215",
+        "urlToImage": "https://dims.apnews.com/dims4/default/ece67d4/2147483647/strip/true/crop/2904x1935+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fce%2F02%2F8c9ef6bdffed1405ed4530a3fe3d%2F5741f01209654a5db025b33a0b549f39",
+        "publishedAt": "2026-02-05T01:19:00Z",
+        "content": "ATLANTA (AP) Officials in Georgias Fulton County said Wednesday they have asked a federal court to order the FBI to return ballots and other documents from the 2020 election that it seized last week,\u2026 [+6807 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Phoronix"
         },
@@ -128,19 +167,6 @@
         "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/caveman-fire.jpg",
         "publishedAt": "2026-02-05T00:10:06Z",
         "content": "Humans' exposure to high temperature burn injuries may have played an important role in our evolutionary development, shaping how our bodies heal, fight infection, and sometimes fail under extreme in\u2026 [+6408 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Lim Hui Jie",
-        "title": "South Korea's Kospi leads declines in Asia, tracking Wall Street tech sell-off; Topix retreats from record - CNBC",
-        "description": "In Asia, investors are keeping an eye on tech and tech-related stocks in the region for any spillover.",
-        "url": "https://www.cnbc.com/2026/02/05/asia-markets-live-nikkei-kospi-hang-seng-oil-saas.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108248914-1767724643020-gettyimages-2254260517-CES_2026.jpeg?v=1770201506&w=1920&h=1080",
-        "publishedAt": "2026-02-04T23:57:44Z",
-        "content": "Lisa Su, chair and chief executive officer of Advanced Micro Devices Inc., displays an AMD Instinct MI455X GPU during the 2026 CES event in Las Vegas, Jan. 5, 2026.\r\nSouth Korea markets led declines \u2026 [+1925 chars]"
     },
     {
         "source": {
@@ -183,6 +209,19 @@
     },
     {
         "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "ICE gets even worse ratings in polling after Pretti's fatal shooting; majority calling for Noem's removal - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/Politics/ice-gets-worse-ratings-polling-after-prettis-fatal/story?id\\\\u003d129859236",
+        "urlToImage": null,
+        "publishedAt": "2026-02-04T22:57:30Z",
+        "content": null
+    },
+    {
+        "source": {
             "id": null,
             "name": "Figure Four Online"
         },
@@ -209,41 +248,15 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": "Laya Neelakandan",
-        "title": "E.l.f. Beauty posts earnings beat, raises full-year guidance - CNBC",
-        "description": "E.l.f. Beauty said its acquisition of Hailey Bieber's skin-care company, Rhode, contributed $128 million to the company's net third-quarter sales growth.",
-        "url": "https://www.cnbc.com/2026/02/04/elf-beauty-elf-q3-2026.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107327059-1698856159605-031622_SLHaloGroup-V1_Main_0186_STACK_FINAL_IGF.jpg?v=1716394371&w=1920&h=1080",
-        "publishedAt": "2026-02-04T21:50:54Z",
-        "content": "E.l.f. Beauty reported a huge earnings beat Wednesday and raised its guidance for the fiscal year.\r\nE.l.f. stock was up as much as 15% in after-hours trading before losing the majority of those gains\u2026 [+1491 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "KELOLAND.com"
-        },
-        "author": "Asher Deinken",
-        "title": "Measles exposure in Milbank, Brookings - KELOLAND.com",
-        "description": "SIOUX FALLS, S.D. (KELO) \u2013 The Department of Health is notifying the public of potential measles exposures in Milbank and Brookings. A Grant County resident with a confirmed measles infection visited several locations while infectious. The places the infected\u2026",
-        "url": "https://www.keloland.com/news/local-news/measles-exposure-in-milbank-brookings/",
-        "urlToImage": "https://www.keloland.com/wp-content/uploads/sites/103/2023/07/South-Dakota-Department-of-Health-logo-SQUARE.png?w=1280",
-        "publishedAt": "2026-02-04T21:36:00Z",
-        "content": "SIOUX FALLS, S.D. (KELO) \u2013 The Department of Health is notifying the public of potential measles exposures in Milbank and Brookings. \r\nA Grant County resident with a confirmed measles infection visit\u2026 [+1897 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "PBS"
-        },
-        "author": null,
-        "title": "After crushing protests, Iran's supreme leader now tries to avert a U.S. attack - PBS",
-        "description": "The ferocious suppression of the protests is a sign of how deep a threat Khamenei and Iran\u2019s leadership see in the widespread popular anger.",
-        "url": "https://www.pbs.org/newshour/world/after-crushing-protests-irans-supreme-leader-now-tries-to-avert-a-u-s-attack",
-        "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/02/2026-02-01T112223Z_2016145942_RC2YCJA1UW1X_RTRMADP_3_IRAN-CRISIS-KHAMENEI-1024x683.jpg",
-        "publishedAt": "2026-02-04T21:32:43Z",
-        "content": "CAIRO (AP) Iran's Supreme Leader Ayatollah Ali Khamenei crushed the protests that swept across the country last month, but only by unleashing the bloodiest crackdown of his nearly four decades in pow\u2026 [+7368 chars]"
+        "author": "Wafaa Shurafa, Samy Magdy, Julia Frankel",
+        "title": "Israel strikes across Gaza, killing 24, and says militants attacked its soldiers - AP News",
+        "description": "Health officials in Gaza say Israeli strikes have killed at least 24 Palestinians, including two babies. Israel says it killed three militant leaders and that some of the strikes were in response to an attack that wounded a soldier. The strikes come as an alr\u2026",
+        "url": "https://apnews.com/article/gaza-rafah-hamas-israel-war-2-4-2026-a3726ab659321430bf3ca73cae50936e",
+        "urlToImage": "https://dims.apnews.com/dims4/default/5a86b62/2147483647/strip/true/crop/6952x4632+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbb%2F5f%2Fb4d77791577bf746d57ad736183e%2F45547083bc5d45be9b76c7097b9a62e5",
+        "publishedAt": "2026-02-04T22:11:00Z",
+        "content": "DEIR AL-BALAH, Gaza Strip (AP) Israeli strikes pounded Gaza on Wednesday, killing at least 24 Palestinians, including two babies, according to health officials in the territory, where a fragile cease\u2026 [+6588 chars]"
     }
 ]
