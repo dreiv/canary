@@ -1,55 +1,159 @@
 [
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": "cnn",
+            "name": "CNN"
         },
-        "author": "Barry Svrluga",
-        "title": "What\u2019s up with Mikaela Shiffrin? A startlingly poor slalom costs her team a medal. - The Washington Post",
-        "description": "After a rough performance four years ago in the Olympics, Shiffrin can\u2019t close in the the team combined competition. Paula Moltzan and Jackie Wiles take bronze.",
-        "url": "https://www.washingtonpost.com/sports/olympics/2026/02/10/mikaela-shiffrin-olympics-struggles/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/3AGFAXWP6JHSCZGBDMRSESGVNA.JPG&w=1440",
-        "publishedAt": "2026-02-11T00:01:50Z",
-        "content": "CORTINA dAMPEZZO, Italy Over the course of a World Cup ski season, there is no more intimidating scene for racers no more sure thing than Mikaela Shiffrin in the start gate, a lead in hand, a slalom \u2026 [+136 chars]"
+        "author": null,
+        "title": "Live updates: Nancy Guthrie\u2019s disappearance and latest on person in video - CNN",
+        "description": "Follow for live updates on the search for Nancy Guthrie, the mother of \u201cToday\u201d host Savannah Guthrie, which has entered its tenth day.",
+        "url": "https://www.cnn.com/us/live-news/nancy-guthrie-savannah-missing-mom-02-10-26",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ha0icsnaaaujqwj.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-02-11T02:06:00Z",
+        "content": "The newly released surveillance video from Nancy Guthries front door offers a new trove of information to investigators including some small details that could help crack the case.\r\nThe person is see\u2026 [+1162 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "The Detroit News"
+            "name": "Lost Coast Outpost"
         },
-        "author": "Beth LeBlanc, Craig Mauger",
-        "title": "Top Michigan Republicans defend Trump's Gordie Howe Bridge threats - The Detroit News",
-        "description": "Michigan Republicans defended Trump's threats to block the Gordie Howe International Bridge, arguing it was appropriate leverage in talks with Canada.",
-        "url": "https://www.detroitnews.com/story/news/politics/2026/02/10/trump-threatens-to-block-gordie-howe-bridge-opening-canada-china-trade-deal-detroit-michigan/88603508007/",
-        "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2025/03/11/PDTN/82283679007-20250311-dgdrone-0142.jpg?crop=3991,2245,x0,y373&width=3200&height=1801&format=pjpg&auto=webp",
-        "publishedAt": "2026-02-10T21:19:00Z",
-        "content": "Lansing Top Michigan Republicans on Tuesday embraced President Donald Trump's threat to block the opening of the Gordie Howe International Bridge, arguing it was appropriate leverage in negotiating a\u2026 [+8086 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Daniel  Klaidman, Michael  Kaplan, Matt  Gutman",
-        "title": "A 14-year-old girl described being zip-tied during Idaho raid, sparking fresh questions about ICE tactics - CBS News",
-        "description": "A 14-year-old girl said she was \"crying\" and \"struggling to breathe\" when law enforcement officers herded her onto a racetrack with other detainees and zip-tied her hands.",
-        "url": "https://www.cbsnews.com/news/feds-zip-tied-14-year-old-girl-idaho-raid-ice-tactics/",
-        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/02/10/f46b0f84-8d13-4534-87fa-58971542b23c/thumbnail/1200x630/9f8fcbb394e2fe2b4210d3c6be84d607/zipties.jpg",
-        "publishedAt": "2026-02-10T21:01:00Z",
-        "content": "Wilder, Idaho \u2014 When Canyon County Sheriff Kieran Donahue described the October raid on a popular community horse racing venue here, he hailed the detention of 105 undocumented immigrants and flatly \u2026 [+12214 chars]"
+        "author": null,
+        "title": "POLL! Looks Like We Got Ourselves an Outbreak! Are YOU Vaccinated Against Measles? - Lost Coast Outpost",
+        "description": "",
+        "url": "https://lostcoastoutpost.com",
+        "urlToImage": "https://lostcoastoutpost.com/loco-media/cache/21/36/21362f848e1ebad0795124dc1b7dcb50.webp",
+        "publishedAt": "2026-02-11T00:20:51Z",
+        "content": "Image: CDC.\u00a0Public Domain, Link\r\nMan, spare a thought for South Carolina! The measles outbreak there has gotten so bad that even a Trump administration official is urging people to get vaccinated.\r\nH\u2026 [+521 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "MMA Mania"
+            "name": "9to5google.com"
         },
-        "author": "Jesse Holland",
-        "title": "Check out these somewhat uncomfortable pics of UFC champ Tom Aspinall getting double eye surgery - MMA Mania",
-        "description": "UFC heavyweight champion Tom Aspinall underwent double eye surgery to repair the damage suffered from the eye pokes of Ciryl Gane in the UFC 331 main event.",
-        "url": "https://www.mmamania.com/ufc-news/421518/uncomfortable-pics-ufc-champ-tom-aspinall-double-eye-surgery",
-        "urlToImage": "https://platform.mmamania.com/wp-content/uploads/sites/110/2026/02/eyesinall.jpg?quality=90&strip=all&crop=0,16.660081003655,100,66.67983799269",
-        "publishedAt": "2026-02-10T20:52:16Z",
-        "content": "Tom Aspinalls Instagram pics remind me of that scene in Fire in the Skywhen Travis Walton got a needle in his eye from those Aliens that look like the mummified remains of The Golden Girls.\r\nThe UFC \u2026 [+737 chars]"
+        "author": "Ben Schoon",
+        "title": "Samsung confirms Galaxy S26 launch on February 25, up to $900 off with reservation - 9to5Google",
+        "description": "Samsung has confirmed the official launch date for the Galaxy S26 series, with reservations now open and up to $900 off, too.",
+        "url": "http://9to5google.com/2026/02/10/samsung-galaxy-s26-launch-date-confirmed/",
+        "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-unpacked-teaser-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2026-02-10T23:00:00Z",
+        "content": "Samsung has officially confirmed that its next Unpacked event will take place on February 25, with the Galaxy S26 series set to be the star of the show.\r\nIn an announcement this evening, Samsung has \u2026 [+1922 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Evan Bush",
+        "title": "EPA to repeal its own conclusion that greenhouse gases warm the planet and threaten health - NBC News",
+        "description": "The Environmental Protection Agency plans to repeal its endangerment finding, the legal framework that underpins its power to regulate greenhouse gas emissions.",
+        "url": "https://www.nbcnews.com/science/climate-change/epa-to-repeal-endangerment-finding-climate-change-emissions-rcna258250",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260209-coal-plant-vsb-2200-0a89e9.jpg",
+        "publishedAt": "2026-02-10T22:50:47Z",
+        "content": "The Environmental Protection Agency on Thursday plans to repeal the legal framework that underpins its power to regulate greenhouse gas emissions.\r\n\"President Trump will be joined by Administrator Le\u2026 [+6611 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Andrew J. Hawkins",
+        "title": "Trump\u2019s new \u2018Buy American\u2019 requirement for EV charging would dramatically curtail build-out - The Verge",
+        "description": "The Trump administration\u2019s proposal that EV charging equipment be built in the US before receiving federal funds is a de facto moratorium on the program.",
+        "url": "https://www.theverge.com/transportation/876703/trump-ev-charging-buy-american-nevi-funds",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25436996/2151153842.jpg?quality=90&strip=all&crop=0%2C10.244919691188%2C100%2C79.510160617624&w=1200",
+        "publishedAt": "2026-02-10T22:30:54Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nOf course, that was likely the plan all along.\r\nOf course, that was likely the plan all along.\r\nby\r\nAndrew J. HawkinsClose\r\nPosts from this author will be added \u2026 [+4551 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NBCSports.com"
+        },
+        "author": "Mike Florio",
+        "title": "Dan Quinn acknowledges three empty press room seats for Washington Post reporters - NBC Sports",
+        "description": "During last week's Radio Row ruckus, we neglected to mention that the Washington Post disbanded its sports department.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-quinn-acknowledges-three-empty-press-room-seats-for-washington-post-reporters",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/0fb0d42/2147483647/strip/true/crop/7772x4372+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8f%2F24%2Fe2269aea46748af9ae2dc487135a%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2254419934",
+        "publishedAt": "2026-02-10T22:17:47Z",
+        "content": "During last weeks Radio Row ruckus, we neglected to mention that the Washington Post disbanded its sports department.\r\nGiven the general outcry that was articulated by others far more eloquently than\u2026 [+1200 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Julianna Bragg",
+        "title": "GOP lawmakers urge FCC probe after Bad Bunny's Super Bowl performance - Axios",
+        "description": "Many of the lyrics cited by critics are translations of Bad Bunny's songs but were not actually performed.",
+        "url": "https://www.axios.com/2026/02/10/bad-bunny-super-bowl-halftime-show-fcc-investigation",
+        "urlToImage": "https://images.axios.com/2Zh4XHSeTO286A0iU5mj3RHqG1M=/0x0:4017x2260/1366x768/2026/02/10/1770747729993.jpeg",
+        "publishedAt": "2026-02-10T21:53:50Z",
+        "content": "What they're saying: Rep. Randy Fine on Monday announced that he and other Republicans would send a letter to the FCC calling for \"fines and broadcast license reviews\" against the NFL, NBC and Bad Bu\u2026 [+2371 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hollywood Reporter"
+        },
+        "author": "McKinley Franklin",
+        "title": "Jill Zarin Cut From E!\u2019s New \u2018RHONY\u2019 Show Following Racist Bad Bunny Halftime Show Remarks - The Hollywood Reporter",
+        "description": "The former New York Housewife shared critiques for his performance in a since-deleted video, where she slammed the show for featuring mostly Spanish songs and \"no white people.\"",
+        "url": "http://www.hollywoodreporter.com/tv/tv-news/jill-zarin-fired-e-rhony-show-bad-bunny-halftime-1236501869/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/02/GettyImages-2227156233-H-2026.jpg?w=1296&h=730&crop=1",
+        "publishedAt": "2026-02-10T21:34:54Z",
+        "content": "Jill Zarin has been fired from E!\u2018s recently greenlit reality seriesThe Golden Life, which is set to star a few of the original Real Housewives of New York City. \r\nHer removal from the cast comes fol\u2026 [+3994 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "9to5google.com"
+        },
+        "author": "Abner Li",
+        "title": "Google rolling out Android 16 QPR3 Beta 2.1 patch - 9to5Google",
+        "description": "Following last month's release, Android 16 QPR3 Beta 2.1 is rolling out to Pixel devices. This patch \u2014 instead of Beta 3 \u2014 is a...",
+        "url": "http://9to5google.com/2026/02/10/android-16-qpr3-beta-2-1-pixel/",
+        "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Android-16-QPR1-logo-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2026-02-10T21:13:00Z",
+        "content": "Android 16 QPR3 Beta 2.1 is rolling out to Pixel devices today. This patch comes almost four weeks after the last release, and is surprisingly not Beta 3.\r\nGoogle says the Android 17 Beta is coming s\u2026 [+977 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MMA Fighting"
+        },
+        "author": "Damon Martin",
+        "title": "Tom Aspinall undergoes surgery on both eyes, doctors working to get his \u2018vision back to fighting fitness\u2019 - MMA Fighting",
+        "description": "Tom Aspinall has been out of action since October after he suffered a double eye poke in his fight against Ciryl Gane",
+        "url": "https://www.mmafighting.com/ufc/471317/tom-aspinall-undergoes-surgery-on-both-eyes-doctors-working-to-get-his-vision-back-to-fighting-fitness",
+        "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/10/gettyimages-2242956312.jpg?quality=90&strip=all&crop=0%2C8.7492185925001%2C100%2C78.544694554334&w=1200",
+        "publishedAt": "2026-02-10T21:00:00Z",
+        "content": "UFC heavyweight champion Tom Aspinall is still working his way back to action after undergoing surgery on both of his eyes in the aftermath of his fight against Ciryl Gane this past October.\r\nA doubl\u2026 [+1704 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Matt Lavietes",
+        "title": "Minnesota gubernatorial candidate suspends his campaign after his daughter is found fatally stabbed - NBC News",
+        "description": "Minnesota gubernatorial candidate Jeff Johnson announced Monday that he was suspending his campaign after his daughter was found fatally stabbed",
+        "url": "https://www.nbcnews.com/news/us-news/minnesota-gubernatorial-candidate-suspends-campaign-daughter-found-fat-rcna258320",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260210-st-cloud-police-mn-0910-f8470b.jpg",
+        "publishedAt": "2026-02-10T20:45:27Z",
+        "content": "Minnesota gubernatorial candidate Jeff Johnson announced Monday that he was suspending his campaign after his daughter was found fatally stabbed.\r\nHallie Marie Tobler, 22, was found dead with multipl\u2026 [+2176 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NOLA.com"
+        },
+        "author": "Jonah Meadows",
+        "title": "Saks Fifth Avenue, an anchor at New Orleans\u2019 Canal Place since the 1980s, to close for good - NOLA.com",
+        "description": "Saks Global, which filed for Chapter 11 bankruptcy protection last month, will close eight Saks Fifth Avenue stores and one Neiman Marcus around the country.&nbsp;",
+        "url": "https://www.nola.com/news/business/saks-fifth-avenue-an-anchor-at-new-orleans-canal-place-since-the-1980s-to-close/article_7110e444-1ea4-4537-8af6-1608764b88dc.html",
+        "urlToImage": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/4/07/407b734c-8e52-4e61-ba7a-20b686dee45b/698bbeafc52cc.image.jpg?crop=1661%2C873%2C0%2C124&resize=1200%2C631&order=crop%2Cresize",
+        "publishedAt": "2026-02-10T20:41:00Z",
+        "content": "Saks Fifth Avenue, the luxury department store that has anchored Canal Place since the mid-1980s, will close in the coming months as its bankrupt parent company downsizes its footprint.\r\nSaks Global,\u2026 [+607 chars]"
     },
     {
         "source": {
@@ -66,32 +170,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Gabrielle Fonrouge",
-        "title": "Est\u00e9e Lauder sues Walmart alleging 'despicable' sale of counterfeit beauty products - CNBC",
-        "description": "The counterfeits were sold by third-party sellers on Walmart's marketplace but Estee Lauder alleged the retailer played an active role facilitating those sales.",
-        "url": "https://www.cnbc.com/2026/02/10/estee-lauder-lawsuit-walmart-counterfeits.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108239209-1765305031479-gettyimages-2250263214-WALMART_NASDAQ.jpeg?v=1770748431&w=1920&h=1080",
-        "publishedAt": "2026-02-10T19:54:16Z",
-        "content": "Walmart Inc. signage during the company's listing at the Nasdaq MarketSite in New York, US, on Tuesday, Dec. 9, 2025. \r\nEst\u00e9e Lauder sued Walmart in California federal court over allegations the big-\u2026 [+4934 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Wafaa Shurafa, Edna Tarigan",
-        "title": "Israeli drone strike kills 2 cyclists in Gaza as death toll mounts despite ceasefire - AP News",
-        "description": "Two Palestinian men riding bicycles were killed in an Israeli drone strike Tuesday, hospital officials said, as deadly violence continued in Gaza despite an October ceasefire. Gaza health authorities say 586 Palestinians have been killed since the truce took \u2026",
-        "url": "https://apnews.com/article/gaza-hamas-israel-war-2-10-2026-08acadd177a13e971de88c56b12d456f",
-        "urlToImage": "https://dims.apnews.com/dims4/default/f3629e1/2147483647/strip/true/crop/5811x3872+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F36%2F7f%2F30dce7d754e21af65728b5fde9ff%2F59f6370759c5469a9af98514eaab3d71",
-        "publishedAt": "2026-02-10T19:02:00Z",
-        "content": "DEIR AL-BALAH, Gaza Strip (AP) An Israeli drone strike killed two Palestinians on bicycles Tuesday, hospital officials said, marking the latest deaths since an October ceasefire that hasnt halted dea\u2026 [+3302 chars]"
-    },
-    {
-        "source": {
             "id": "associated-press",
             "name": "Associated Press"
         },
@@ -102,32 +180,6 @@
         "urlToImage": "https://dims.apnews.com/dims4/default/5e743b7/2147483647/strip/true/crop/8355x5567+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffc%2F69%2F16fcd9c7e451b57cb43d4fa4dd07%2F7de02e485dda4cf69a9dd18509310189",
         "publishedAt": "2026-02-10T18:15:00Z",
         "content": "WASHINGTON (AP) An annual meeting of the nations governors that has long served as a rare bipartisan gathering is unraveling after President Donald Trump excluded Democratic governors from White Hous\u2026 [+3322 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Amber Phillips",
-        "title": "Republicans are pushing to drastically change the way you cast ballots - The Washington Post",
-        "description": "Explaining the SAVE Act, which Republicans in Congress are voting on this week.",
-        "url": "https://www.washingtonpost.com/politics/2026/02/10/republicans-are-pushing-drastically-change-way-you-cast-ballots/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VG5POTETEHTXQVSG4NPXBPYBGI_size-normalized.JPG&w=1440",
-        "publishedAt": "2026-02-10T18:00:01Z",
-        "content": "As President Donald Trump calls for sweeping changes to election law including saying that Republicans should take over the voting Republicans in Congress are planning to vote this week on the SAVE A\u2026 [+94 chars]"
-    },
-    {
-        "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Berkeley Lovelace Jr.",
-        "title": "FDA moves to ban BHA \u2014 an additive used in processed foods such as meats and bread - NBC News",
-        "description": "The Food and Drug Administration on Tuesday took steps toward banning BHA, a food additive used in processed foods such as meats and bread",
-        "url": "https://www.nbcnews.com/health/health-news/fda-moves-ban-bha-additive-processed-meats-bread-cancer-rfk-jr-rcna258337",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230703-ham-sandwich-mb-1149-737cd8.jpg",
-        "publishedAt": "2026-02-10T17:53:01Z",
-        "content": "The Food and Drug Administration on Tuesday took steps toward banning BHA, a food additive used in processed foods such as meats and bread.\r\nBHA, or butylated hydroxyanisole, has been used in the foo\u2026 [+2967 chars]"
     },
     {
         "source": {
@@ -160,19 +212,6 @@
             "id": "the-verge",
             "name": "The Verge"
         },
-        "author": "Jess Weatherbed",
-        "title": "Microsoft is keeping Secure Boot alive with Windows updates - The Verge",
-        "description": "Microsoft is automatically replacing boot-level security certificates on Windows devices before they start expiring later this year.",
-        "url": "https://www.theverge.com/tech/876336/microsoft-windows-secure-boot-certificate-renewal",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-02-10T17:00:00Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nDevices that dont receive new Secure Boot certificates may miss out on future security updates.\r\nDevices that dont receive new Secure Boot certificates may miss \u2026 [+3266 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
         "author": "Andrew Liszewski",
         "title": "Razer\u2019s resurrected 25-year-old gaming mouse will cost you $1,337 - The Verge",
         "description": "Razer is relaunching the world\u2019s first gaming mouse but the upgraded Boomslang will cost you more than $1,000.",
@@ -180,19 +219,6 @@
         "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/razer_boomslang1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
         "publishedAt": "2026-02-10T16:41:54Z",
         "content": "<ul><li></li><li></li><li></li></ul>\r\nPreorders for the Razer Boomslang 20th Anniversary Edition start on February 10th, and are limited to only 1,337 units.\r\nPreorders for the Razer Boomslang 20th A\u2026 [+2905 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "TMZ"
-        },
-        "author": "TMZ Staff",
-        "title": "Demi Lovato Postpones Tour, Cancels Dates to Protect Her Health - TMZ",
-        "description": "Sad times for some Lovatics -- Demi Lovato just pulled the plug on a whopping five dates from her \"It\u2019s Not That Deep\" tour... and yeah, turns out it kind of is!",
-        "url": "https://www.tmz.com/2026/02/10/demi-lovato-postpones-tour-cancels-dates/",
-        "urlToImage": "https://imagez.tmz.com/image/b0/16by9/2026/02/10/b0ac321d01c54d37be1a9f6bc36a161a_xl.jpg",
-        "publishedAt": "2026-02-10T16:33:04Z",
-        "content": "Bad news for some Lovatics ... Demi Lovato just pulled the plug on a whopping five dates from her \"Its Not That Deep\" tour.\r\nIn a lengthy IG Stories post Tuesday, Demi revealed shes also pushing back\u2026 [+820 chars]"
     },
     {
         "source": {
@@ -209,19 +235,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Hollywood Reporter"
-        },
-        "author": "David Canfield",
-        "title": "Ryan Coogler Goes Deep on Shattering Oscar Records, Losing Chadwick and Battling Imposter Syndrome - The Hollywood Reporter",
-        "description": "The \u2018Sinners' director silenced skeptics by scoring big at the box office and making the most nominated film ever. After a decade of hitmaking, is he finally ready to admit that this is where he deserves to be?",
-        "url": "http://www.hollywoodreporter.com/movies/movie-features/ryan-coogler-interview-sinners-oscars-chadwick-boseman-1236500968/",
-        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/02/ClaremontxSanFran17556-SPLASH-2026.jpg?w=1440&h=810&crop=1",
-        "publishedAt": "2026-02-10T14:01:43Z",
-        "content": "If you\u2019re new to Oakland, California, and want a few recommendations from Ryan Coogler, set aside some time. As his friends and colleagues will tell you, the 39-year-old filmmaker and Bay Area lifer \u2026 [+23643 chars]"
-    },
-    {
-        "source": {
             "id": "the-verge",
             "name": "The Verge"
         },
@@ -232,31 +245,5 @@
         "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/image-5.png?quality=90&strip=all&crop=0%2C8.3418282132906%2C100%2C83.18034496045&w=1200",
         "publishedAt": "2026-02-10T13:00:00Z",
         "content": "<ul><li></li><li></li><li></li></ul>\r\nNothing wants to make an ecosystem of AI-generated apps, but it has a long way to go. \r\nNothing wants to make an ecosystem of AI-generated apps, but it has a lon\u2026 [+5967 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "The Conversation Africa"
-        },
-        "author": "Keith Cooper",
-        "title": "Did the Viking missions discover life on Mars 50 years ago? These scientists think so - Space",
-        "description": "The key to solving the mystery of the Viking results is the discovery of perchlorate on the Martian surface in 2008.",
-        "url": "https://theconversation.com/50-years-ago-nasa-sent-2-spacecraft-to-search-for-life-on-mars-the-viking-missions-findings-are-still-discussed-today-262186",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/f5rmmHEsZBAiiGCBbD32xE-1920-80.jpg",
-        "publishedAt": "2026-02-10T13:00:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Ivan Mehta",
-        "title": "YouTube rolls out an AI playlist generator for Premium users - TechCrunch",
-        "description": "YouTube Music is rolling out a new AI-powered playlist-generation feature that allows Premium users on iOS and Android to use text prompts to create playlists.",
-        "url": "https://techcrunch.com/2026/02/10/youtube-rolls-out-an-ai-playlist-generator-for-premium-users/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/youtube-music-icon.jpg?resize=1200,800",
-        "publishedAt": "2026-02-10T11:52:39Z",
-        "content": "YouTube is rolling out a new AI-powered playlist-generation feature that allows Premium users on iOS and Android to use text prompts to create playlists. \r\nUsers can go to the Library tab, tap the \u201cN\u2026 [+1577 chars]"
     }
 ]
