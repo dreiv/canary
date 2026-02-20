@@ -1,6 +1,32 @@
 [
     {
         "source": {
+            "id": null,
+            "name": "San Francisco Chronicle"
+        },
+        "author": "Aidin Vaziri, Matthias Gafni",
+        "title": "8 dead in Tahoe avalanche; victims include Sugar Bowl ski team moms - San Francisco Chronicle",
+        "description": "Eight people were killed in a Tahoe backcountry avalanche. Among the victims were mothers of Sugar Bowl youth team skiers, officials said.",
+        "url": "https://www.sfchronicle.com/california/article/tahoe-avalanche-skiers-dead-21360546.php",
+        "urlToImage": "https://s.hdnux.com/photos/01/63/21/21/30217320/3/rawImage.jpg",
+        "publishedAt": "2026-02-19T07:28:20Z",
+        "content": "Roofs and mountains are covered in snow in Truckee.\r\nWilliam Hale Irwin/For the S.F. Chronicle\r\nEight of the nine people reported missing after a massive avalanche roughly the length of a football fi\u2026 [+10804 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Abbie Cheeseman, Lior Soroka, Hazem Balousha, Siham Shamalakh, Heba Farouk Mahfouz",
+        "title": "As Israel takes steps to claim land in West Bank, U.S. stands by - The Washington Post",
+        "description": "Despite Trump\u2019s opposition to annexation, Israel has moved to expand control over the West Bank \u2014 to the condemnation of Britain and others at a U.N. Security Council meeting.",
+        "url": "https://www.washingtonpost.com/world/2026/02/18/israel-west-bank-annexation-trump-land-registration/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AGQ3QZWEYOH6HHOFXVNVBW7CSM_size-normalized.JPG&w=1440",
+        "publishedAt": "2026-02-19T06:25:56Z",
+        "content": "Israel has moved aggressively in recent days to deepen its control over the occupied West Bank, unilaterally adopting policies that analysts say represent a major shift toward annexation and appear t\u2026 [+132 chars]"
+    },
+    {
+        "source": {
             "id": "associated-press",
             "name": "Associated Press"
         },
@@ -11,6 +37,32 @@
         "urlToImage": "https://dims.apnews.com/dims4/default/befd86a/2147483647/strip/true/crop/4457x2970+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2Ff7%2Ff29e65a4d4f9a15f337ffedc4338%2Ff4eee7c1853343a397a7b4ba73936489",
         "publishedAt": "2026-02-19T05:34:00Z",
         "content": "LIMA, Peru (AP) Perus Congress late Wednesday elected legislator Jos\u00e9 Mar\u00eda Balc\u00e1zar as the countrys eighth president in a decade, replacing another interim leader who was ousted the previous day ove\u2026 [+2359 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "On3.com"
+        },
+        "author": "Spencer Haskell",
+        "title": "UNC Awaiting Henri Veesaar's Return to Practice and Games - On3",
+        "description": "A team spokesman confirmed that UNC's seven-footer is still being held out of practice, more than a week after suffering the injury.",
+        "url": "https://www.on3.com/teams/north-carolina-tar-heels/news/henri-veesaar-update-return-practice-games-unc/",
+        "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2026/02/18162411/0C1A0007-henri-veesaar-1.jpg",
+        "publishedAt": "2026-02-19T05:30:34Z",
+        "content": "RALEIGH, N.C. In the aftermath of Tuesdays loss to NC State, Hubert Davis offered an update on the status of his starting center Henri Veesaar that managed to provide both reasons for optimism and pe\u2026 [+2972 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "247Sports"
+        },
+        "author": "Jeremy Werner",
+        "title": "Quick hits: No. 8 Illini put on a show in 101-65 laugher over USC - 247Sports",
+        "description": "Seven Illini scored in double figures in the Illinis third Big Ten win of 26 points",
+        "url": "https://247sports.com/college/illinois/article/illinois-fighting-illini-basketball-usc-trojans-quick-hits-recap-274866164/",
+        "urlToImage": "https://s3media.247sports.com/Uploads/Assets/152/615/13615152.jpeg?width=1200&height=628&crop=1.91:1&fit=cover",
+        "publishedAt": "2026-02-19T05:30:05Z",
+        "content": "LOS ANGELES \u2014 In its first Big Ten game in Tinseltown, Illinois basketball looked like the Showtime Lakers.\r\nNo. 8-ranked Illinois torched the nets and rocked the rim in a 101-65 rout of USC at Galen\u2026 [+5730 chars]"
     },
     {
         "source": {
@@ -53,29 +105,16 @@
     },
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
+            "id": null,
+            "name": "Mediaite"
         },
-        "author": "Michael R. Blood",
-        "title": "Bernie Sanders and Gavin Newsom become adversaries over push to tax California billionaires - Associated Press News",
-        "description": "Bernie Sanders has traveled to Los Angeles to kick off a campaign for a proposed \u201cbillionaires tax\u201d that has set off an uproar in the Silicon Valley and led to divisions among Democrats. Sanders said at a rally that passage of the tax would show \u201cthe billiona\u2026",
-        "url": "https://apnews.com/article/california-billionaires-bernie-sanders-gavin-newsom-democrats-87a1e54f463aad49a2093382969e5cca",
-        "urlToImage": "https://dims.apnews.com/dims4/default/0efe57c/2147483647/strip/true/crop/5227x3483+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F88%2F7d%2Ff3eed76b85b3b231e170e25f040c%2F6272434b5a6c486d94b461b0bebb0bae",
-        "publishedAt": "2026-02-19T03:41:00Z",
-        "content": "LOS ANGELES (AP) As national Democrats search for a unifying theme ahead of the falls midterm elections, a California proposal to levy a hefty tax on billionaires is turning some of the partys leadin\u2026 [+5367 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": null,
-        "title": "OpenAI Funding on Track to Top $100 Billion With Latest Round - Bloomberg",
-        "description": null,
-        "url": "https://www.bloomberg.com/news/articles/2026-02-19/openai-funding-on-track-to-top-100-billion-with-latest-round",
-        "urlToImage": null,
-        "publishedAt": "2026-02-19T03:03:00Z",
-        "content": null
+        "author": "Alex Griffing",
+        "title": "Team USA Fans Cry Foul After Skier\u2019s Historic Jump Doesn\u2019t Win Gold - Mediaite",
+        "description": "While many took to social media to call for an investigation, Forehand, 24, quickly shut down any speculation that he was robbed of the gold.",
+        "url": "https://www.mediaite.com/media/news/team-usa-fans-cry-foul-after-skiers-historic-jump-doesnt-win-gold/",
+        "urlToImage": "https://www.mediaite.com/wp-content/uploads/2026/02/AP26048708154472.jpg",
+        "publishedAt": "2026-02-19T02:16:00Z",
+        "content": "(AP Photo/Gregory Bull)\r\nTeam USA fans cried foul this week after freestyle skier Mac Forehand received a silver medal during Tuesday nights Olympic freeski big air final, which saw Forehand land a h\u2026 [+2471 chars]"
     },
     {
         "source": {
@@ -93,19 +132,6 @@
     {
         "source": {
             "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "US to withdraw troops from Syria amid Iran tensions - BBC",
-        "description": "The decision came as US President Donald Trump ramps up military presence in the Middle East as tensions mount with Iran.",
-        "url": "https://www.bbc.com/news/articles/c875pey8vy2o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/41c3/live/055cd960-0d28-11f1-b5e2-dd58fc65f0f6.jpg",
-        "publishedAt": "2026-02-19T01:14:47Z",
-        "content": "The official noted that the decision to remove the roughly 1,000 remaining troops from Syria is part of a conditions-based transition, and that the US remains ready to respond to any threats in the r\u2026 [+5 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Stlpr.org"
         },
         "author": "Kavahn Mansouri, Joshua Carter",
@@ -115,19 +141,6 @@
         "urlToImage": "https://npr.brightspotcdn.com/dims4/default/c30c3b9/2147483647/strip/true/crop/2782x1460+0+219/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fba%2F83%2Fcc0a90d44df0a5278fb3bcaca86a%2F02-18-2026-hegseth-at-boeing-48a.JPG",
         "publishedAt": "2026-02-19T00:49:46Z",
         "content": "After nearly a decade away from the region, Boeing will return its defense headquarters to St. Louis.\r\nBoeing announced on Wednesday that it will shift its Defense, Space and Security headquarters ba\u2026 [+1978 chars]"
-    },
-    {
-        "source": {
-            "id": "fox-news",
-            "name": "Fox News"
-        },
-        "author": null,
-        "title": "Nancy Guthrie disappearance: Sheriff pleads with suspect to \u2018just let her go,\u2019 insists case not cold - Fox News",
-        "description": "Pima County Sheriff Chris Nanos made a plea Tuesday to the suspect in Nancy Guthrie\u2019s disappearance, urging the individual to \u201cjust let her go.\u201d He added that the investigation continues to be a rescue operation and not a recovery mission.",
-        "url": "https://foxnews.com/live-news/nancy-guthrie-disappearance-arizona-feb-18-live-updates",
-        "urlToImage": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/02/4508a14c64366e81a42ef51c58080389.jpg",
-        "publishedAt": "2026-02-19T00:38:40Z",
-        "content": "Cross-border investigative protocols would come into play in the event Nancy Guthrie crossed into Mexico, even as local authorities say there is no evidence she was taken south of the border, a retir\u2026 [+1712 chars]"
     },
     {
         "source": {
@@ -144,6 +157,19 @@
     },
     {
         "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Scott  MacFarlane",
+        "title": "Mass departures from Justice Dept. are boon for law firms, legal groups and political campaigns - CBS News",
+        "description": "More than 5,000 employees have resigned, retired or been fired\u200b from the Justice Department in the first year of Mr. Trump's second administration.",
+        "url": "https://www.cbsnews.com/news/mass-departures-justice-dept-boon-for-law-firms-legal-groups-campaigns/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/01/11/b700599a-af13-47ab-82b2-bf93a98593fa/thumbnail/1200x630/c03c3b0a28b713714ddec8198715e314/gettyimages-2172231637-1.jpg",
+        "publishedAt": "2026-02-19T00:30:08Z",
+        "content": "Michael Romano, a former federal prosecutor, is used to asking the questions in court, but now he's finding himself on the other side, fielding the questions from witness tables at congressional hear\u2026 [+8252 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Minnesota Public Radio News"
         },
@@ -154,6 +180,19 @@
         "urlToImage": "https://img.apmcdn.org/bce233c6c6ee08c92b1c8189eedd91ccae1b69a6/uncropped/f54de5-20260218-snowfall-projection-for-minnesota-2-1042.png",
         "publishedAt": "2026-02-18T23:55:00Z",
         "content": "When it comes to staying informed in Minnesota, our newsletters overdeliver. Sign-up now for headlines, breaking news, hometown stories, weather and much more. Delivered weekday mornings."
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Nicole Norman",
+        "title": "Los Angeles-area state lawmakers call for Wasserman to step aside - Politico",
+        "description": "Ten lawmakers on the state\u2019s legislative Olympics committees told POLITICO he should step down as chair of LA28.",
+        "url": "https://www.politico.com/news/2026/02/18/los-angeles-state-lawmakers-call-for-wasserman-to-step-down-00787153",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F47%2F58%2F5305bf064a4b88a4dcd40376b1fc%2Fmain-norman-caseywasserman-illustration.jpg",
+        "publishedAt": "2026-02-18T22:42:07Z",
+        "content": "A day after fielding an inquiry about Wasserman, LA County Legislative Delegation Chair Tina McKinnor on Wednesday released a statement on behalf of the groups 37 members calling on him to step down,\u2026 [+2833 chars]"
     },
     {
         "source": {
@@ -170,29 +209,29 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Variety"
+            "id": "techcrunch",
+            "name": "TechCrunch"
         },
-        "author": "Matt Donnelly",
-        "title": "Neon, Oscar-Winning Studio Behind \u2018Parasite\u2019 and \u2018Anora,\u2019 in Talks to Sell Stake to Department M (EXCLUSIVE) - Variety",
-        "description": "Neon, the Oscar-winning studio behind 'Parasite' and 'Anora,' has sold a stake to Department M.",
-        "url": "https://variety.com/2026/film/news/neon-studio-parasite-anora-selling-stake-department-m-1236666837/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2025/01/MCDPARA_EC181.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2026-02-18T21:45:00Z",
-        "content": "Department M, a production company founded two years ago by Mike Larocca and Michael Schaefer, is in talks to acquire a significant stake in Neon, the Oscar-winning studio behind \u201cParasite\u201d and \u201cAnor\u2026 [+1611 chars]"
+        "author": "Sarah Perez",
+        "title": "A startup called Germ becomes the first private messenger that launches directly from Bluesky's app - TechCrunch",
+        "description": "Social network Bluesky now offers private messaging by integrating the startup Germ's E2E encrypted messenger natively in its app.",
+        "url": "https://techcrunch.com/2026/02/18/a-startup-called-germ-becomes-the-first-private-messenger-that-launches-directly-from-blueskys-app/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/Drop-In_PR_Horizontal.png?w=1200",
+        "publishedAt": "2026-02-18T20:57:48Z",
+        "content": "Here\u2019s something that you\u2019ve never seen on Big Tech social platforms: The decentralized open social network Bluesky has integrated new technology from a startup called Germ Network in order to bring \u2026 [+5410 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Nbcolympics.com"
+            "name": "Phys.Org"
         },
-        "author": null,
-        "title": "For Alysa Liu, competition is just 'pure enjoyment' - NBC Olympics",
-        "description": "The U.S. women's figure skaters, known as the \"Blade Angels\" reflect on their uneven short program outing, with renewed focus for the free skate \u2014 where ,\"you never know what is going to happen,\u201d",
-        "url": "https://www.nbcolympics.com/news/alysa-liu-competition-just-pure-enjoyment",
-        "urlToImage": "https://images.nbcolympics.com/sites/default/files/2026-02/Thumb_Alysa_Liu_SP_Olympics.jpg",
-        "publishedAt": "2026-02-18T20:52:00Z",
-        "content": "And what of Glenn and the third U.S. woman, Isabeau Levito, eighth after the short program (70.84), seemingly a bit underscored?\u00a0Levitos facial expression when the scores were announced was one of co\u2026 [+1609 chars]"
+        "author": "Phys.org",
+        "title": "Hubble identifies a near-invisible galaxy that may be 99% dark matter - Phys.org",
+        "description": null,
+        "url": "https://phys.org/news/2026-02-hubble-invisible-galaxy-dark.html",
+        "urlToImage": null,
+        "publishedAt": "2026-02-18T20:01:03Z",
+        "content": null
     },
     {
         "source": {
@@ -219,18 +258,5 @@
         "urlToImage": "https://img.ksl.com/slc/2790/279021/27902158.jpeg?filter=kslv2/responsive_story_lg",
         "publishedAt": "2026-02-18T19:01:02Z",
         "content": "SALT LAKE CITY Students at Highland High School could have been exposed to measles for more than a week as an infectious student continued to attend the school.\r\nThe Salt Lake County Health Departmen\u2026 [+2141 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Formula 1"
-        },
-        "author": "F1",
-        "title": "What we learned from Day 1 of the second Bahrain test - Formula 1",
-        "description": "F1.com's Lawrence Barretto looks back on the opening day of the second official 2026 pre-season test in Bahrain.",
-        "url": "https://www.formula1.com/en/latest/article/what-we-learned-from-day-1-of-the-second-2026-pre-season-test-in-bahrain.7Gt63jOARM2yPHXsSqyMCs",
-        "urlToImage": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000000/trackside-images/2026/Formula_1_Testing_in_Bahrain___Day_1/2262306298.webp",
-        "publishedAt": "2026-02-18T18:42:08Z",
-        "content": "Mercedes still look very impressive\r\nGeorge Russell set the pace on Wednesday and while the timesheets don't mean much because everyone is running such different programmes, it's undeniable that the \u2026 [+819 chars]"
     }
 ]
