@@ -1,55 +1,42 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "Votes being counted in Gorton and Denton by-election - BBC",
-        "description": "The result is due in the early hours of Friday morning - a close race between Labour, Reform UK, and the Greens is expected.",
-        "url": "https://www.bbc.com/news/live/cp8rjk02r0jt",
-        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d834/live/09078700-136c-11f1-986d-69868da76563.jpg",
-        "publishedAt": "2026-02-27T00:16:51Z",
-        "content": "Chris MasonPolitical editor, reporting from Manchester\r\nThe drama that has swirled around this by-election began months before we even knew when or where it would happen.\r\nThe question of when and ho\u2026 [+2861 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Jack Brook",
-        "title": "Judge scolds Shia LaBeouf and orders him to rehab after Mardi Gras arrest - AP News",
-        "description": "A New Orleans judge has ordered actor Shia LaBeouf to return to drug and alcohol rehabilitation and set a $100,000 bond after the film star was charged with two counts of battery. The film star appeared in court Thursday after his arrest this month over an al\u2026",
-        "url": "https://apnews.com/article/shia-labeouf-arrest-new-orleans-mardi-gras-fb0c434617be6045e659789053e552f0",
-        "urlToImage": "https://dims.apnews.com/dims4/default/0ba018f/2147483647/strip/true/crop/1620x1079+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F29%2F25%2Fd2964a99d2e0c9c35eda8e73719b%2F320e46e506b842f3a9e3a9ccb6ec92f2",
-        "publishedAt": "2026-02-26T23:47:00Z",
-        "content": "NEW ORLEANS (AP) A New Orleans judge ordered actor Shia LaBeouf to return to drug and alcohol rehabilitation and set a $100,000 bond Thursday after the film star was charged with two counts of batter\u2026 [+2813 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ Staff, Xavier Martinez, Heard Editors, Ryan Dezember, Vicky Ge Huang, Elias Schisgall, Ed Ballard, Heather Haddon, Jessica Coacci",
-        "title": "Stock Market Today: Nvidia Stock Falls After Earnings; Dow Rises\u2014 Live Updates - WSJ",
-        "description": "Follow along for live updates on markets and the top finance, economics and business stories. Plus the latest on the Dow, S&P 500 and Nasdaq. Stay tuned for Nvidia earnings after the bell.",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-26-2026",
-        "urlToImage": "https://images.wsj.net/im-925349/social",
-        "publishedAt": "2026-02-26T23:30:00Z",
-        "content": "Nvidias blockbuster quarter wasn't enough to reassure the market. Shares fell 5.5% Thursday afternoon, its biggest drop since April, despite the huge chip maker logging a jump in profit and record in\u2026 [+843 chars]"
-    },
-    {
-        "source": {
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
-        "author": "Perry Stein",
-        "title": "DOJ reviewing if Epstein files with Trump allegations were wrongly withheld - The Washington Post",
-        "description": "Three summaries of interviews the FBI conducted in 2019 with a woman who had accused Trump of sexual assault are missing from the files, it has been reported.",
-        "url": "https://www.washingtonpost.com/national-security/2026/02/26/justice-department-epstein-trump-allegations/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/BAJJSK6TJC6WU6LK7WKGAIDZ24.jpg&w=1440",
-        "publishedAt": "2026-02-26T22:56:26Z",
-        "content": "The Justice Department said Thursdaythat it is examining whether it wrongly withheld FBI files that contained allegations against President Donald Trump in its release of millions of pages from the i\u2026 [+68 chars]"
+        "author": "Jeff Stein",
+        "title": "Judge: IRS broke law \u2018approximately 42,695 times\u2019 in giving DHS data - The Washington Post",
+        "description": "A court on Thursday issued an opinion on a data-sharing agreement between the taxpayer agency and federal immigration authorities.",
+        "url": "https://www.washingtonpost.com/business/2026/02/26/irs-data-federal-judge-dhs-illegal/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/6TAUCDDEGKJ7JDUCJLD3J3VBQI.JPG&w=1440",
+        "publishedAt": "2026-02-27T00:56:20Z",
+        "content": "A federal judge has found that the Internal Revenue Service violated federal law approximately 42,695 times when it shared confidential taxpayer addresses with immigration enforcement officials last \u2026 [+6 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "TMZ"
+        },
+        "author": "TMZ Staff",
+        "title": "Celina Powell Sends Cease and Desist to Deshae Frost Over STD, Assault Claims - TMZ",
+        "description": "Celina Powell has lawyered up and is going on the offensive against Deshae Frost ... firing off a cease and desist letter after he accused her of sexual assault and giving him herpes during a livestream.",
+        "url": "https://www.tmz.com/2026/02/26/celina-powell-sends-cease-desist-deshae-frost-over-std-assault-claims/",
+        "urlToImage": "https://imagez.tmz.com/image/83/16by9/2026/02/26/831a188c35e54137a3276e0cab382801_xl.png",
+        "publishedAt": "2026-02-27T00:41:19Z",
+        "content": "Celina Powellhas lawyered up and is going on the offensive against Deshae Frost ... firing off a cease and desist letter after he accused her of sexual assault and giving him herpes during a livestre\u2026 [+1521 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Ramon Padilla, George Petras",
+        "title": "How many people watched Trump's State of the Union address? - USA Today",
+        "description": "Trump drew an estimated 32.6 million viewers for his 2026 State of the Union address. Here's a closer look at SOTU ratings over the years.",
+        "url": "https://www.usatoday.com/story/graphics/2026/02/26/trump-state-of-the-union-2026-ratings-chart/88830368007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/02/25/USAT/88861327007-trumpratings-4-x.png?crop=4711,2650,x1144,y830&width=3200&height=1801&format=pjpg&auto=webp",
+        "publishedAt": "2026-02-26T23:01:00Z",
+        "content": "President Donald Trump delivered his State of the Union address on Feb. 24. His speech drew an estimated\u00a032.6 million viewers, reported Nielsen, which tracks how many people watch television programs\u2026 [+1567 chars]"
     },
     {
         "source": {
@@ -93,15 +80,15 @@
     {
         "source": {
             "id": null,
-            "name": "Gizmodo.com"
+            "name": "The Action Network"
         },
-        "author": "Passant Rabie",
-        "title": "Astronomers Wake Up to 800,000 Notifications From Observatory Watching the Night Skies - Gizmodo",
-        "description": "The first batch of alerts from the Vera Rubin Observatory drew attention to new asteroids, supernovae, and active galactic nuclei.",
-        "url": "https://gizmodo.com/astronomers-wake-up-to-800000-notifications-from-observatory-watching-the-night-skies-2000727018",
-        "urlToImage": "https://gizmodo.com/app/uploads/2025/09/image-3-1200x675.jpg",
-        "publishedAt": "2026-02-26T21:05:34Z",
-        "content": "The Vera C. Rubin Observatory spent the night staring at the dark cosmos, alerting astronomers of ongoing changes in the skies in real-time.\r\nThe observatory fired off its first wave of notifications\u2026 [+3530 chars]"
+        "author": "Action Network Staff",
+        "title": "NBA Best Bets, Picks: Thursday\u2019s Best NBA Predictions - Action Network",
+        "description": "NBA best bets and picks for Thursday, February 26. Here are today's best NBA predictions.",
+        "url": "https://www.actionnetwork.com/nba/nba-picks-best-bets-predictions-odds-thursday-february-26",
+        "urlToImage": "https://images.actionnetwork.com/blog/2026/02/NBABestBets22626.jpg",
+        "publishedAt": "2026-02-26T21:46:00Z",
+        "content": "<ul><li>Today's NBA best bets include six picks.</li><li>Continue reading for Thursday's top NBA predictions, courtesy of our NBA betting experts.</li></ul>The NBA regular season continues with 10 ma\u2026 [+5229 chars]"
     },
     {
         "source": {
@@ -118,6 +105,32 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "The Information"
+        },
+        "author": "Jyoti Mann, Wayne Ma, Qianer Liu",
+        "title": "Meta\u2019s Internal Chip Design Efforts Hit Roadblocks - The Information",
+        "description": "As Meta Platforms strikes new chip supply deals with AMD and Nvidia, it has been running into problems with AI chips it is designing internally, according to six people with direct knowledge of the matter. Meta last week scrapped the most advanced chip it was\u2026",
+        "url": "https://www.theinformation.com/articles/metas-internal-chip-design-efforts-hit-roadblocks",
+        "urlToImage": "https://tii.imgix.net/production/articles/16665/c17ada10-40b3-4b0c-9b08-cda4342d3c14.png?fm=jpg&auto=compress&w=1200&frame=0",
+        "publishedAt": "2026-02-26T20:59:00Z",
+        "content": "Exclusive: Google Strikes Multibillion-Dollar AI Chip Deal With Meta, Sharpening Nvidia RivalrySave 25% and read more"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "24/7 Wall St."
+        },
+        "author": "Joel South",
+        "title": "Live Earnings: Complete Rocket Lab (RKLB) Coverage - 24/7 Wall St.",
+        "description": "Live Updates LIVE UPDATES IN PROGRESS \u2014 Stay on This Page Pinned 1 hour ago Live We are updating this story in real time as new information breaks. Stay on this page for the latest developments, key quotes, numbers, and market reaction as they happen. Earning\u2026",
+        "url": "https://247wallst.com/investing/2026/02/26/live-earnings-complete-rocket-lab-rklb-coverage/",
+        "urlToImage": "https://247wallst.com/wp-content/uploads/2024/02/GettyImages-1240778446.jpg",
+        "publishedAt": "2026-02-26T20:30:00Z",
+        "content": "Live Updates\r\nRocket Lab USA (NASDAQ: RKLB | RKLB Price Prediction) reports Q4 FY2025 earnings today, and the stakes are high. With shares up 230% over the past year but down nearly 12% over the past\u2026 [+3895 chars]"
+    },
+    {
+        "source": {
             "id": "axios",
             "name": "Axios"
         },
@@ -128,45 +141,6 @@
         "urlToImage": "https://images.axios.com/33rnaFCdcIkPTTHSr0P9QExzGHE=/0x0:5166x2906/1366x768/2026/02/26/1772134839963.jpg",
         "publishedAt": "2026-02-26T20:02:14Z",
         "content": "Secretary of State Marco Rubiosaid the U.S. is investigating the incident and has officially asked Cuba for access to the six injured people, a U.S. official told Axios. \r\n<ul><li>Cuban officials cla\u2026 [+1658 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Barak Ravid",
-        "title": "U.S.-Iran nuclear talks were \"positive,\" senior U.S. official says - Axios",
-        "description": "The outcome may determine whether Trump opts for war.",
-        "url": "https://www.axios.com/2026/02/26/iran-nuclear-talks-geneva",
-        "urlToImage": "https://images.axios.com/ssfwg6eUy9sizC35h6C8IFqJ5GM=/0x210:3200x2010/1366x768/2026/02/26/1772109361746.jpeg",
-        "publishedAt": "2026-02-26T19:45:54Z",
-        "content": "The intrigue: The talks between Trump's envoys Steve Witkoff and Jared Kushner and Iranian Foreign Minister Abbas Araghchi took place over several hours, in a morning and an afternoon session.\r\n<ul><\u2026 [+3621 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Constantine Courcoulas, Donal Griffin",
-        "title": "Barclays, Atlas Among Firms Exposed to Collapsed UK Lender MFS - Bloomberg.com",
-        "description": "Barclays Plc and Atlas SP Partners are among Wall Street firms that helped arrange more than \u00a32 billion ($2.7 billion) of loans to a UK mortgage-finance company that has unraveled amid allegations of financial irregularities.",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-26/barclays-atlas-among-firms-exposed-to-collapsed-uk-lender-mfs",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYE7GKNzV8F8/v1/1200x801.jpg",
-        "publishedAt": "2026-02-26T19:10:45Z",
-        "content": "Barclays Plc and Atlas SP Partners are among Wall Street firms that helped arrange more than \u00a32 billion ($2.7 billion) of loans to a UK mortgage-finance company that has unraveled amid allegations of\u2026 [+335 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Sports Illustrated"
-        },
-        "author": "Matt Verderame",
-        "title": "Six NFL Storylines to Monitor With Free Agency and the Draft Ahead - Sports Illustrated",
-        "description": "Why teams are already turning their focus to the 2027 draft. Plus, Tyler Linderbaum\u2019s market, Malik Wallis\u2019s options and more from around the league.",
-        "url": "https://www.si.com/nfl/six-nfl-storylines-monitor-with-free-agency-draft-ahead",
-        "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_196,w_6638,h_3733/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01kjdhj2r4bwmys4a3gz.jpg",
-        "publishedAt": "2026-02-26T18:27:13Z",
-        "content": "INDIANAPOLIS Free agency doesnt begin on March 9 with the legal tampering period. It begins in the Starbucks at the JW Marriott. It begins at Prime 47 Steakhouse and Cafe Patachou. It begins in the s\u2026 [+10053 chars]"
     },
     {
         "source": {
@@ -223,15 +197,15 @@
     {
         "source": {
             "id": null,
-            "name": "Hollywood Reporter"
+            "name": "Iracing.com"
         },
-        "author": "Nicole Fell",
-        "title": "\u2018Heated Rivalry\u2019 Season 2 Is Shooting This Summer, Expected to Air in Spring 2027 - The Hollywood Reporter",
-        "description": "The Crave series, which airs on HBO Max in the U.S., received a second-season order quickly into its first-season run.",
-        "url": "http://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-season-2-release-date-filming-1236516091/",
-        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/12/Heated-Rivalry-Episode-104-20-e1765578505258.jpg?w=1440&h=810&crop=1",
-        "publishedAt": "2026-02-26T16:00:35Z",
-        "content": "Heated Rivalryis likely to return to television screens in the spring of 2027. \r\nShow creator Jacob Tierney and executive producer Brendan Brady joined Gayle King on CBS Mornings Thursday, where the \u2026 [+2731 chars]"
+        "author": "Greg Hill",
+        "title": "iRacing Development Update: February 2026 - iRacing",
+        "description": "Hello iRacers, The first few months of the year are an incredible time to be a motorsport fan. With real-world series deep into preseason testing or waving their first green flags, we get that first look at the new cars, technologies, and regulations that wil\u2026",
+        "url": "https://www.iracing.com/iracing-development-update-february-2026/",
+        "urlToImage": "https://s100.iracing.com/wp-content/uploads/2026/02/iR_DevBlog_S2_26_web-350x197.jpg",
+        "publishedAt": "2026-02-26T16:09:59Z",
+        "content": "Hello iRacers,\r\nThe first few months of the year are an incredible time to be a motorsport fan. With real-world series deep into preseason testing or waving their first green flags, we get that first\u2026 [+32692 chars]"
     },
     {
         "source": {
