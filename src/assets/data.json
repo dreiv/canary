@@ -14,68 +14,42 @@
     },
     {
         "source": {
-            "id": "google-news",
-            "name": "Google News"
+            "id": null,
+            "name": "BBC News"
         },
-        "author": "BBC",
+        "author": "https://www.facebook.com/bbcnews",
         "title": "Iran's Supreme Leader Ayatollah Ali Khamenei killed in US-Israel attack - BBC",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BRHVheEFBVUpmNUpoZkw3RWJxNVFNRl9rc2FmVWtMd1FRNEJTSFJLNUxuRjVVZkcyTWs0VVZpYnE3d1pqaGpNTDlRTTRldlFQOS00Sg?oc=5",
-        "urlToImage": null,
+        "description": "Israel says it is targeting sites \"in the heart of Tehran\", as new Iranian attacks are reported in Tel Aviv, Dubai, Doha and Bahrain's capital Manama.",
+        "url": "https://www.bbc.com/news/live/cn5ge95q6y7t",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e3a/live/b158b850-154e-11f1-b853-a529da477c42.jpg",
         "publishedAt": "2026-03-01T08:45:17Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Bridget Brown, Lorian Belanger",
-        "title": "Live updates: Hundreds of protesters storm US Consulate in Pakistan after Iran\u2019s supreme leader is killed - AP News",
-        "description": "The U.S. and Israel killed Iranian Supreme Leader Ayatollah Ali Khamenei in strikes on Saturday. President Donald Trump called on Iranians to \u201ctake back\u201d their country.",
-        "url": "https://apnews.com/live/us-israel-strikes-iran-khamenei-03-01-2026",
-        "urlToImage": "https://dims.apnews.com/dims4/default/730263c/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa4%2F25%2Fd6549fcc4b9ba5b78fe3bece526c%2Fap26060314070136.jpg",
-        "publishedAt": "2026-03-01T08:37:30Z",
-        "content": "Tens of thousands of people in Indian-controlled Kashmir on Sunday staged massive demonstrations to denounce Khameneis killing by the U.S. and Israel.\r\nSince early Sunday, mostly Shiite Muslims hit s\u2026 [+788 chars]"
+        "content": "Hugo BachegaMiddle East correspondent in Jerusalem\r\nIt is day two of the joint US-Israel attacks on Iran after the initial phase that included the killing of Supreme Leader Ayatollah Ali Khamenei at \u2026 [+1760 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Hollywood Reporter"
+            "name": "Cageside Seats"
         },
-        "author": "Nicole Fell",
-        "title": "Connor Storrie Brings Out \u2018Heated Rivalry\u2019 Co-Star Hudson Williams in \u2018SNL\u2019 Debut - The Hollywood Reporter",
-        "description": "The 26-year-old actor is fresh off his breakout role in the unexpected hit series, \u2018Heated Rivalry.\u2019",
-        "url": "http://www.hollywoodreporter.com/tv/tv-news/connor-storrie-saturday-night-live-debut-hockey-olympics-1236518366/",
-        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/02/1-4.jpg?w=1296&h=730&crop=1",
-        "publishedAt": "2026-03-01T06:05:04Z",
-        "content": "Connor Storrie has officially madehis Saturday Night Live debut. \r\nThe 26-year-old actor was absent from the Trump-centric cold open, entering onto the stage for his monologue to loud cheers.\r\n\u201cNow, \u2026 [+4651 chars]"
+        "author": "Josh Jagler",
+        "title": "WWE Elimination Chamber Recap and Reactions: WrestleMania gets RKO-ed - Cageside Seats",
+        "description": "Unpack a PLE from Chicago that had expected and unexpected Chamber winners, a pair of hometown champs, and a crate.",
+        "url": "https://www.cagesideseats.com/wwe/421601/wwe-elimination-chamber-2026-recap-and-reactions-wrestlemania-gets-rko-ed",
+        "urlToImage": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2026/03/gettyimages-2263649121.jpg?quality=90&strip=all&crop=0%2C10.74313080888%2C100%2C78.51373838224&w=1200",
+        "publishedAt": "2026-03-01T05:00:00Z",
+        "content": "The WWE rolled into Chicago tonight for Elimination Chamber, serving as the final main roster premium live event before WrestleMania 42 in Las Vegas. Two huge title matches, two #1 contenders matches\u2026 [+15438 chars]"
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
         },
-        "author": "Barak Ravid, Marc Caputo",
-        "title": "Two months, two tracks: How Trump chose war with Iran - Axios",
-        "description": "In the end, Trump's ambiguity was itself a strategic asset.",
-        "url": "https://www.axios.com/2026/03/01/trump-iran-war-attack-behind-scenes",
-        "urlToImage": "https://images.axios.com/lqvAThKFwlEVwcXrSXrHViG_Yro=/0x146:1400x933/1366x768/2026/03/01/1772332639940.jpeg",
-        "publishedAt": "2026-03-01T04:15:01Z",
-        "content": "<ul><li>The crisis, which began with the public uprising in Iran in late December, was vintage Trump full of twists, last-minute reversals and deliberate disinformation.</li><li>In the end, the ambig\u2026 [+6766 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Jasmine Golden, Liam Scott",
-        "title": "Outside White House, hundreds protest attack on Iran, urge end to conflict - The Washington Post",
-        "description": "The protest near the White House was among the demonstrations that erupted across the country after Israel and the United States launched strikes on Iran.",
-        "url": "https://www.washingtonpost.com/dc-md-va/2026/02/28/dc-protest-israel-us-strike-iran/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/QGUH4CKBVFSPAKEOCUNK6722JE.JPG&w=1440",
-        "publishedAt": "2026-03-01T04:05:20Z",
-        "content": "Ermiya Fanaeian has lived in the United States since she was 1, but still has family in her home country of Iran. On Saturday, as word spread of attacks there by Israel and the U.S., she grew concern\u2026 [+85 chars]"
+        "author": "Marcus Weisgerber, Amrith Ramkumar, Shelby Holliday",
+        "title": "U.S. Strikes in Middle East Use Anthropic, Hours After Trump Ban - WSJ",
+        "description": "Within hours of declaring that the federal government will end its use of artificial-intelligence tools made by tech company Anthropic, President Trump launched a major air attack in Iran with the help of those very same tools.Commands around the world, inclu\u2026",
+        "url": "https://www.wsj.com/livecoverage/iran-strikes-2026/card/u-s-strikes-in-middle-east-use-anthropic-hours-after-trump-ban-ozNO0iClZpfpL7K7ElJ2",
+        "urlToImage": "https://images.wsj.net/im-28725351/social",
+        "publishedAt": "2026-03-01T04:55:00Z",
+        "content": "Within hours of declaring that the federal government will end its use of artificial-intelligence tools made by tech company Anthropic, President Trump launched a major air attack in Iran with the he\u2026 [+539 chars]"
     },
     {
         "source": {
@@ -131,16 +105,16 @@
     },
     {
         "source": {
-            "id": "nfl-news",
-            "name": "NFL News"
+            "id": null,
+            "name": "BBC News"
         },
         "author": null,
-        "title": "2026 NFL combine stock up/stock down, Day 3: Taylen Green among 10 players on the move - NFL.com",
-        "description": "Who boosted their draft stock and who took a step in the wrong direction on the third day of workouts at the 2026 NFL Scouting Combine? Chad Reuter provides a stock report from Indianapolis.",
-        "url": "https://www.nfl.com/news/2026-nfl-combine-stock-up-stock-down-day-3-taylen-green-among-10-players-on-the-move",
-        "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/cgouskokmlggekzbfsn1",
-        "publishedAt": "2026-03-01T01:35:00Z",
-        "content": null
+        "title": "Dozens dead in Iran school blast blamed on US and Israel strikes - BBC",
+        "description": "There is no confirmation by the US or Israel of the strike on the school located near elite military troops.",
+        "url": "https://www.bbc.com/news/articles/c1l7rvqq51eo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/042f/live/8fad6fc0-14f4-11f1-aec6-05623088f9a7.jpg",
+        "publishedAt": "2026-02-28T23:24:35Z",
+        "content": "\"People have no shelters, the internet is cut, phone lines are down, and there has been no warning to keep children out of school. In these conditions, the minimum requirement should be to stay at ho\u2026 [+3 chars]"
     },
     {
         "source": {
@@ -154,6 +128,19 @@
         "urlToImage": "https://www.ringsidenews.com/wp-content/uploads/2026/02/aj-lee-reveals-real-reason-behind-her-wwe-return-14.jpg",
         "publishedAt": "2026-02-28T23:14:09Z",
         "content": "AJ Lee is stepping back into singles competition for the first time in over a decade, and she made it clear exactly why she chose now and why Becky Lynch was the deciding factor.\r\nDuring an interview\u2026 [+2117 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Churchofjesuschrist.org"
+        },
+        "author": "http://newsroom.churchofjesuschrist.org",
+        "title": "Church Statement on the Evolving Situation in Iran - newsroom.churchofjesuschrist.org",
+        "description": "We invite people everywhere to join us in prayer for the well-being of the region and its people.",
+        "url": "https://newsroom.churchofjesuschrist.org/article/church-statement-iran-middle-east",
+        "urlToImage": "https://newsroom.churchofjesuschrist.org/media/640x480/Statement.png",
+        "publishedAt": "2026-02-28T22:47:49Z",
+        "content": null
     },
     {
         "source": {
@@ -197,19 +184,6 @@
     {
         "source": {
             "id": null,
-            "name": "Pittsburgh Post-Gazette"
-        },
-        "author": "Lindsay Shachnow",
-        "title": "NASA astronaut Mike Fincke, a Pittsburgh-area native, suffered an unprecedented medical issue in space - Pittsburgh Post-Gazette",
-        "description": "False",
-        "url": "https://www.post-gazette.com/news/science/2026/02/28/mike-fincke-nasa-astronaut-emsworth/stories/202602270073",
-        "urlToImage": "https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202602270073/1140x_a10-7_cTC/space022726-2_1772227644.jpg",
-        "publishedAt": "2026-02-28T20:52:55Z",
-        "content": "MENU"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "NBCSports.com"
         },
         "author": "Josh Alper",
@@ -245,6 +219,19 @@
         "urlToImage": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/02/gettyimages-2264076160.jpg?quality=90&strip=all&crop=0%2C8.3642398089845%2C100%2C83.271520382031&w=1200",
         "publishedAt": "2026-02-28T19:50:05Z",
         "content": "Bayern Munich and Borussia Dortmund delivered a Der Klassiker for the ages. Both sides gained and lost the lead before Bayern emerged with a 3-2 victory. Harry Kane scored a brace, Joshua Kimmich sho\u2026 [+3502 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Brits red carpet in pictures: Arrivals of Harry Styles, Olivia Dean and Lola Young - BBC",
+        "description": "Stars including Olivia Dean, Lola Young and Rosal\u00eda turned out for the Brit Awards in Manchester.",
+        "url": "https://www.bbc.com/news/articles/c24dle3mv97o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/d2878980-14da-11f1-b106-cbf633dcab7a.jpg",
+        "publishedAt": "2026-02-28T19:46:19Z",
+        "content": "This time, though, and for the first time in its 50-year history, the Brits swapped London for Manchester's Co-op Live Arena."
     },
     {
         "source": {
