@@ -1,6 +1,19 @@
 [
     {
         "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Lindsay Whitehurst",
+        "title": "Supreme Court blocks law against schools outing transgender students to their parents in California - AP News",
+        "description": "The Supreme Court is clearing the way for California schools to tell parents if their children identify as transgender without getting the student\u2019s approval, granting an emergency appeal from a conservative legal group. The Monday order blocks for now a stat\u2026",
+        "url": "https://apnews.com/article/supreme-court-transgender-students-california-cca311ae39d267f31c1392a0bcf780cd",
+        "urlToImage": "https://dims.apnews.com/dims4/default/3e8c2f4/2147483647/strip/true/crop/6290x4191+115+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F20%2F4b%2Fb3b846620b5cd6c005efcfcf39c8%2F1b8601c6da4a4276aadfacbde2d9764c",
+        "publishedAt": "2026-03-03T03:06:00Z",
+        "content": "WASHINGTON (AP) The Supreme Court cleared the way Monday for California schools to tell parents if their children identify as transgender without getting the students approval, granting an emergency \u2026 [+3624 chars]"
+    },
+    {
+        "source": {
             "id": "fox-news",
             "name": "Fox News"
         },
@@ -40,16 +53,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "On3.com"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": "Griffin McVeigh",
-        "title": "BREAKING: Mark Stoops joins surprising SEC team's staff - On3",
-        "description": ".",
-        "url": "https://www.on3.com/news/report-steve-sarkisian-texas-hire-former-kentucky-head-coach-mark-stoops-to-staff-as-special-assistant/",
-        "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2025/11/24162720/z-Stoops-_MG_0374.jpg",
-        "publishedAt": "2026-03-03T00:27:54Z",
-        "content": "According to Chip Brown of Horns247, the Texas Longhorns have hired former Kentucky Wildcats head coach Mark Stoops as a special assistant. On3s Chris Low has since confirmed.\r\nStoops was fired by Ke\u2026 [+2208 chars]"
+        "author": "Refugio Ru\u00edz, Fabiola S\u00e1nchez",
+        "title": "Jalisco cartel leader \u2018El Mencho\u2019 buried in a golden casket in a Guadalajara cemetery - AP News",
+        "description": "The leader of the Jalisco New Generation Cartel has been buried in a shiny golden casket with enormous flower wreaths and a large military presence in the state that gave name to one of Mexico\u2019s most powerful cartels. A federal official confirmed Monday that \u2026",
+        "url": "https://apnews.com/article/mexico-mencho-jalisco-cartel-5458d299e183e5aafa3e6cd3111401dc",
+        "urlToImage": "https://dims.apnews.com/dims4/default/495d6d5/2147483647/strip/true/crop/5142x3426+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F32%2F76%2F9cd1f92e6af775ab7a41bccb5648%2Fc7bb12db58ce4aefb2db8b3d68c9e4d5",
+        "publishedAt": "2026-03-03T00:51:00Z",
+        "content": "GUADALAJARA, Mexico (AP) The leader of the Jalisco New Generation Cartel was buried Monday in a shiny golden casket with enormous flower wreaths and a large military presence in the state that gave n\u2026 [+3422 chars]"
     },
     {
         "source": {
@@ -66,16 +79,16 @@
     },
     {
         "source": {
-            "id": "al-jazeera-english",
-            "name": "Al Jazeera English"
+            "id": null,
+            "name": "Gwhatchet.com"
         },
-        "author": "Al Jazeera Staff",
-        "title": "US urges citizens to immediately leave over a dozen Middle East countries - Al Jazeera",
-        "description": "The latest advisory includes Egypt, Israel, Saudi Arabia and Qatar, according to a State Department official.",
-        "url": "https://www.aljazeera.com/news/2026/3/3/us-urges-citizens-to-immediately-leave-over-a-dozen-middle-east-countries",
-        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20210526__9AT7ED__v1__MidRes__JordanUsPalestinianIsrael-1772494186.jpg?resize=1879%2C1080",
-        "publishedAt": "2026-03-03T00:12:11Z",
-        "content": "The US Department of State has urged all Americans to immediately depart more than a dozen countries in the Middle East, including Saudi Arabia and Qatar, amid escalating US-Israeli strikes against I\u2026 [+2257 chars]"
+        "author": "Elijah Edwards",
+        "title": "GW sold Virginia campus for $427 million to Amazon for data center development - The GW Hatchet",
+        "description": "The deal transfers all of GW\u2019s roughly 122 acres of property in Loudoun County, Virginia, to ADS for $427,299,350 \u2014 roughly $3.5 million an acre \u2014 according to real estate records.",
+        "url": "https://gwhatchet.com/2026/03/02/gw-sold-virginia-campus-for-427-million-to-amazon-for-data-center-development/",
+        "urlToImage": "https://gwhatchet.com/wp-content/uploads/2026/02/022726_AC_GWVirginiaCampus_061.jpg",
+        "publishedAt": "2026-03-03T00:14:43Z",
+        "content": "The Hatchet is celebrating its 120th birthday\r\nDONATE TODAY"
     },
     {
         "source": {
@@ -93,28 +106,41 @@
     {
         "source": {
             "id": null,
-            "name": "Twz.com"
+            "name": "Colorado.gov"
         },
-        "author": "Howard Altman",
-        "title": "Iranian Kamikaze Drone Boat Makes First Successful Strike Of War - The War Zone",
-        "description": "Iran, a pioneer in lower-end uncrewed surface vessel technology, used at least one to attack the oil tanker MKD VYOM in the Gulf of Oman.",
-        "url": "http://www.twz.com/news-features/iranian-kamikaze-drone-boat-makes-first-successful-strike-of-war",
-        "urlToImage": "https://www.twz.com/wp-content/uploads/2026/03/Drone-boat-attack.jpg?w=1200",
-        "publishedAt": "2026-03-02T22:52:37Z",
-        "content": "The TWZ Newsletter\r\nWeekly insights and analysis on the latest developments in military technology, strategy, and foreign policy.\r\nTerms of Service and Privacy Policy\r\nA Marshall Islands-flagged oil \u2026 [+7189 chars]"
+        "author": null,
+        "title": "Colorado public health officials confirm measles case, release locations for potential exposures in Broomfield and Westminster - Colorado Department of Public Health and Environment (.gov)",
+        "description": "The individual is the second case of measles at Broomfield High School. Neither of the students had received the measles, mumps, and rubella (MMR) vaccine.",
+        "url": "https://cdphe.colorado.gov/press-release/colorado-public-health-officials-confirm-measles-case-Broomfield-Westminster",
+        "urlToImage": null,
+        "publishedAt": "2026-03-02T22:54:06Z",
+        "content": "Denver (March 2, 2026) The Colorado Department of Public Health and Environment and Adams County Health Department have confirmed a case of measles in an Adams County resident and are notifying membe\u2026 [+2570 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "The Action Network"
         },
-        "author": "Jonathan Jorcin",
-        "title": "Duke vs NC State Prediction, Time, Pick, Odds for Tonight\u2019s College Basketball Game - Action Network",
-        "description": "Read for Duke vs. NC State predictions, picks and odds for their college basketball game on Monday, March 2.",
-        "url": "https://www.actionnetwork.com/ncaab/duke-blue-devils-vs-nc-state-wolfpack-predictions-picks-odds-college-basketball-monday-march-2",
-        "urlToImage": "https://images.actionnetwork.com/blog/2026/03/duke-nc-state-cbb.png",
-        "publishedAt": "2026-03-02T22:35:00Z",
-        "content": "The Duke Blue Devils take on the NC State Wolfpack in Raleigh, NC. Tip-off is set for 7 p.m. ET on ESPN.\r\nDuke is favored by 9.5 points on the spread with a moneyline of -550. The total is set at 148\u2026 [+2851 chars]"
+        "author": "Ryan Minion",
+        "title": "Iowa State vs Arizona Prediction, Time, Pick, Odds \u2014 3/2 - Action Network",
+        "description": "Read for Iowa State vs. Arizona predictions, picks and odds for their college basketball game on Monday, March 2.",
+        "url": "https://www.actionnetwork.com/ncaab/iowa-state-cyclones-vs-arizona-wildcats-predictions-picks-odds-college-basketball-monday-march-2",
+        "urlToImage": "https://images.actionnetwork.com/blog/2026/03/KoaPeat-Arizona-312026.jpg",
+        "publishedAt": "2026-03-02T22:40:00Z",
+        "content": "The Iowa State Cyclones take on the Arizona Wildcats in Tucson, AZ. Tip-off is set for 9 p.m. ET on ESPN.\r\nArizona is favored by 7.5 points on the spread with a moneyline of -350. The total is set at\u2026 [+6473 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Ben Geman",
+        "title": "Iran attack on giant Saudi refinery pushes up oil prices - Axios",
+        "description": "\"The attack on Saudi Arabia's Ras Tanura refinery marks a significant escalation,\" one analyst said.",
+        "url": "https://www.axios.com/2026/03/02/iran-attack-refinery-prices",
+        "urlToImage": "https://images.axios.com/WW-ohhx_0WSdzXyY12ZhLdxEpWI=/0x0:4000x2250/1366x768/2026/03/02/1772454480340.jpg",
+        "publishedAt": "2026-03-02T22:39:45Z",
+        "content": "A Saudi oil refinery one of the world's largest suffered \"limited\" damage overnight from an Iranian attack, per the kingdom's press agency and multiple news reports.\r\nWhy it matters: \"The attack on S\u2026 [+3851 chars]"
     },
     {
         "source": {
@@ -141,6 +167,19 @@
         "urlToImage": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2026/03/Screenshot-2026-03-02-at-4.25.05%E2%80%AFPM.png?quality=90&strip=all&crop=0,0,100,61.431064572426",
         "publishedAt": "2026-03-02T22:00:00Z",
         "content": "We thought it was just run-of-the-mill trash talk between WrestleMania rivals. Thats what Rhea Ripley and WWE Womens champion Jade Cargill are now that Ripley won the Elimination Chamber on Saturday \u2026 [+1597 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Nick Lichtenberg",
+        "title": "Trump\u2019s strikes on Iran could cost American economy as much as $210 billion, top budget expert says - Fortune",
+        "description": "\u201cOne problem I have with cost-of-war calculations is that they really do ignore the counterfactual,\u201d Kent Smetters of the Penn Wharton Budget Model told Fortune.",
+        "url": "https://fortune.com/2026/03/02/how-much-trump-iran-war-operation-epic-fury-cost-taxpayers/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2263741006.jpg?resize=1200,600",
+        "publishedAt": "2026-03-02T21:32:00Z",
+        "content": "As the United States enters day four of Operation Epic Furyits sweeping military campaign against Iran, launched in partnership with Israelthe financial toll on American taxpayers is beginning to com\u2026 [+4840 chars]"
     },
     {
         "source": {
@@ -171,6 +210,19 @@
     {
         "source": {
             "id": null,
+            "name": "Nuggets.com"
+        },
+        "author": "Matt Brooks",
+        "title": "Nuggets play Jazz on back-to-back - NBA",
+        "description": "",
+        "url": "https://nuggets.com/news/nuggets-play-jazz-on-back-to-back",
+        "urlToImage": "https://cdn.nba.com/teams/uploads/sites/1610612743/2026/03/DN-2526-PREVIEW-web-4.png",
+        "publishedAt": "2026-03-02T21:04:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
             "name": "BBC News"
         },
         "author": null,
@@ -180,57 +232,5 @@
         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fb2e/live/e103afb0-1661-11f1-b1a8-d97a7a8b24a4.jpg",
         "publishedAt": "2026-03-02T18:16:14Z",
         "content": "He said eight other European countries the UK, Germany, Poland, the Netherlands, Belgium, Greece, Sweden and Denmark had agreed to participate in a new \"advanced deterrence\" strategy."
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Channel3000.com - WISC-TV3"
-        },
-        "author": "Samantha Calderon",
-        "title": "Bird flu case confirmed in Dane County - Channel 3000",
-        "description": "MADISON, Wis. \u2014 A case of highly pathogenic avian influenza, also known as bird flu, was identified in a backyard poultry flock in Dane County, the Wisconsin Department of Agriculture,",
-        "url": "https://www.channel3000.com/news/bird-flu-case-confirmed-in-dane-county/article_0a8223d5-e0fd-4889-b1a3-96571c19103e.html",
-        "urlToImage": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/b/34/b34fea2f-a68c-5010-aa60-13ee3cf7a984/69212ea19a7ab.image.jpg?crop=1612%2C846%2C0%2C219&resize=1200%2C630&order=crop%2Cresize",
-        "publishedAt": "2026-03-02T18:14:00Z",
-        "content": "MADISON, Wis.\u00a0 A case of highly pathogenic avian influenza, also known as bird flu, was identified in a backyard poultry flock in Dane County, the Wisconsin Department of Agriculture, Trade and Consu\u2026 [+1567 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NASA"
-        },
-        "author": "Jessica Taveau",
-        "title": "NASA, JAXA to Cover HTV-X1 Spacecraft Departure from Space Station - NASA (.gov)",
-        "description": "On Thursday, March 5, flight controllers will use the space station\u2019s Canadarm2 robotic arm to detach HTV-X1 from the Harmony module\u2019s Earth-facing port on",
-        "url": "https://www.nasa.gov/news-release/nasa-jaxa-to-cover-htv-x1-spacecraft-departure-from-space-station/",
-        "urlToImage": "https://images-assets.nasa.gov/image/iss073e0988452/iss073e0988452~large.jpg",
-        "publishedAt": "2026-03-02T16:51:55Z",
-        "content": "After delivering about 12,000 pounds of supplies, scientific investigations, hardware, and other cargo to the International Space Station for NASA and its international partners, JAXAs (Japan Aerospa\u2026 [+2260 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Haaretz"
-        },
-        "author": "Zvi Bar'el",
-        "title": "Khamenei's Chosen Successor Could Offer Trump a 'Dream Deal' to End the Iran War - Haaretz",
-        "description": "Ali Larijani \u2013 whom Khamenei designated to assume control in the event of his death \u2013 could pitch Trump a deal that trades regime survival for the strategic gains Washington seeks, arguing that overthrowing Iran's leadership risks chaos and that there is no v\u2026",
-        "url": "https://www.haaretz.com/middle-east-news/iran/2026-03-02/ty-article/.premium/khameneis-chosen-successor-could-offer-trump-a-dream-deal-to-end-the-iran-war/0000019c-ae37-d0a6-a5ff-bff767110000",
-        "urlToImage": "https://img.haarets.co.il/bs/0000019c-ae37-d0a6-a5ff-bff767110000/39/a1/1f1067994415ad216e1cd2097a52/64862124.JPG?precrop=1492,868,x56,y269&width=1200&height=630&cmsprod",
-        "publishedAt": "2026-03-02T16:42:00Z",
-        "content": "When U.S. President Donald Trump told CNBC on Sunday that the Israeli-American campaign in Iran is \"ahead of schedule,\" and that Iran's leadership \"want to talk, and I have agreed,\" and when Al Arabi\u2026 [+237 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "9to5google.com"
-        },
-        "author": "Will Sattelberg",
-        "title": "Early Galaxy S27 Ultra rumor says Samsung might finally upgrade its main 200MP sensor - 9to5Google",
-        "description": "Samsung might be working on a big upgrade for the Galaxy S27 Ultra's camera, even as we wait for the S26 Ultra to hit store shelves.",
-        "url": "http://9to5google.com/2026/03/02/early-galaxy-s27-ultra-rumor-main-200mp-sensor-upgrade-lofic/",
-        "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "publishedAt": "2026-03-02T16:10:00Z",
-        "content": "We\u2019re still more than a week away from Samsung\u2019s Galaxy S26 trio hitting store shelves, leaving plenty of time for fans to take advantage of some solid pre-order deals. But if this year\u2019s refined des\u2026 [+2566 chars]"
     }
 ]
