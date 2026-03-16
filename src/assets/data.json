@@ -1,16 +1,68 @@
 [
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": "Jason Ma",
-        "title": "'Peak war panic' will likely hit markets in 1-3 weeks, as Trump balks at ceasefire deal - Fortune",
-        "description": "\"The end is not in sight. The Strait of Hormuz is effectively closed, and markets are starting to price in a prolonged, uncertain endgame.\"",
-        "url": "https://fortune.com/2026/03/14/peak-war-panic-financial-markets-stock-selloff-us-iran-escalation/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2265016960-e1773521302496.jpg?resize=1200,600",
-        "publishedAt": "2026-03-15T00:41:00Z",
-        "content": "The S&amp;P 500 is only down 3% so far this year and 5% off its all-time high, still far from reaching bear market territory or even a correction, suggesting investors arent panicking yet about the U\u2026 [+5672 chars]"
+        "author": "Maegan Vazquez, Mustafa Salim",
+        "title": "Trump urges world to help open Strait of Hormuz; U.S. Embassy in Baghdad hit - The Washington Post",
+        "description": "The Pentagon identified the six service members who were killed when a U.S. refueling aircraft crashed in Iraq while supporting operations in Iran.",
+        "url": "https://www.washingtonpost.com/national-security/2026/03/14/trump-urges-world-help-open-strait-hormuz-us-embassy-baghdad-hit/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/J37N4IEJHKSJVZ5YLJ7F5HJGDY.jpg&w=1440",
+        "publishedAt": "2026-03-15T04:38:54Z",
+        "content": "President Donald Trump on Saturday urged countries to send ships to the Strait of Hormuz, in an attempt to force Iran to reopen the waterway as oil prices surge, and the United States reiterated call\u2026 [+98 chars]"
+    },
+    {
+        "source": {
+            "id": "espn",
+            "name": "ESPN"
+        },
+        "author": "David Hale",
+        "title": "Duke holds off Virginia for 2nd straight ACC tournament title - ESPN",
+        "description": "No. 1 Duke defeated No. 10 Virginia on Saturday night for its second straight Atlantic Coast Conference tournament championship under coach Jon Scheyer and its third title in the past four years.",
+        "url": "https://www.espn.com/mens-college-basketball/story/_/id/48210833/duke-holds-virginia-2nd-straight-acc-tournament-title",
+        "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0315%2Fr1628583_1296x729_16%2D9.jpg",
+        "publishedAt": "2026-03-15T03:30:13Z",
+        "content": "CHARLOTTE, N.C. -- Virginia's Dallin Hall understands how Cameron Boozer must've been feeling Saturday. Hall spent the summer trying to work the paint against teammate Ugo Onyenso, the Cavaliers' 7-f\u2026 [+4350 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "AP News",
+        "title": "Crew of fatal US military crash included Alabama father recently deployed and several from Ohio - AP News",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNEJtUW4tLVp5XzlCWFlhWjYyMVJCTlR4cW8xR0c3dVdRTnZwQ3dyUTJPZTg0VldpSVhOYnIwSzdWTlNrVWVlaHhCZ3d4aGhyeFRtNUNRYkxOenpLSmNVSUtUS2V5QzI3ZFk0OE8tMWQxcTJtWjBuWTlBT3E4UVJrekstYUFoWEYySnpMcUl5eDhMSkY4dWZLRkZOTQ?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2026-03-15T02:59:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Danica Creahan",
+        "title": "How to watch the 2026 Oscars: Where to stream the Academy Awards this Sunday, start time, full nominations list and more - Yahoo",
+        "description": "Are you ready for the 2026 Oscars? Here's how to tune in live.",
+        "url": "https://www.yahoo.com/entertainment/tv/article/how-to-watch-the-2026-oscars-where-to-stream-the-academy-awards-this-sunday-start-time-full-nominations-list-and-more-170539747.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ltV61tXzsA3hyc0DLfGPQQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2026-03/6c3fb260-1d7c-11f1-bf6f-baa0a99e37a1",
+        "publishedAt": "2026-03-15T02:12:00Z",
+        "content": "The 98th Academy Awards are this Sunday, and Sinners leads the nominees with 16 nods the most in Oscars history! One Battle After Another follows with 13 nominations. Marty Supreme, Frankenstein, Sen\u2026 [+6707 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "San Francisco Chronicle"
+        },
+        "author": "Joaquin Palomino",
+        "title": "Hawaii residents, visitors urged to stay indoors as storm floods roads, cuts power to 111,000 - San Francisco Chronicle",
+        "description": "Hawaii residents and visitors are urged to stay indoors as a powerful storm floods roads and cuts power.",
+        "url": "https://www.sfchronicle.com/us-world/article/hawaii-storm-flooding-22076789.php",
+        "urlToImage": "https://s.hdnux.com/photos/01/65/37/77/30801893/5/rawImage.jpg",
+        "publishedAt": "2026-03-15T01:37:46Z",
+        "content": "A boat is grounded on a beach off Kihei, Hawaii, during heavy rain.\r\nMaui County\r\n<ul><li>Flash flood warnings and high wind alerts remain in effect for much of Hawaii through the weekend, with sever\u2026 [+2842 chars]"
     },
     {
         "source": {
@@ -28,41 +80,67 @@
     {
         "source": {
             "id": null,
-            "name": "New York Post"
-        },
-        "author": "Associated Press",
-        "title": "Italy advances to WBC semifinal with win over Puerto Rico to continue Cinderella run - New York Post",
-        "description": "The Azzurri improved to 5-0.",
-        "url": "https://nypost.com/2026/03/14/sports/italy-advances-to-wbc-semifinal-with-win-over-puerto-rico/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/03/newspress-collage-ixx730ioz-1773529750926.jpg?quality=75&strip=all&1773515369&w=1200",
-        "publishedAt": "2026-03-15T00:18:08Z",
-        "content": "HOUSTON J.J. DOrazio doubled with three RBIs and Andrew Fischer drove in two runs as Italy kept up its charmed World Baseball Classic run with an 8-6 win over Puerto Rico on Saturday to earn its firs\u2026 [+2127 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Deadline"
+            "name": "The Official Website of the Ultimate Fighting Championship"
         },
         "author": null,
-        "title": "John Alford Dies: British Soap Star Was 54 - Deadline",
-        "description": null,
-        "url": "http://deadline.com/2026/03/john-alford-dies-54-1236754066/",
-        "urlToImage": null,
-        "publishedAt": "2026-03-14T23:41:00Z",
-        "content": null
+        "title": "Prelim Results | UFC Fight Night: Emmett vs Vallejos - UFC.com",
+        "description": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From UFC Fight Night: Emmett vs Vallejos, Live From Meta APEX In Las Vegas On March 14, 2026",
+        "url": "https://www.ufc.com/news/ufc-fight-night-emmett-vs-vallejos-results-prelims-highlights-winners-interviews",
+        "urlToImage": "https://ufc.com/images/styles/card/s3/2026-03/GettyImages-2266531772_resized.jpg?itok=j_4NakEK",
+        "publishedAt": "2026-03-15T00:14:18Z",
+        "content": "The opening slate at the Meta APEX on Saturday offered a little bit of everything, including a thunderous stoppage, a couple slick submissions, and a pair of thoroughly entertaining bouts that went t\u2026 [+6839 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "On3.com"
         },
-        "author": "Peter Scrivener",
-        "title": "Ludvig Aberg leads Players Championship before final round at Sawgrass - BBC",
-        "description": "Sweden's Ludvig Aberg serenely plots his way around TPC Sawgrass to extend his lead to three shots heading into Sunday's Players Championship finale.",
-        "url": "https://www.bbc.com/sport/golf/articles/c1jk35ren24o",
-        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2d65/live/9bcae510-1ff5-11f1-b048-c9424b2cf5fd.jpg",
-        "publishedAt": "2026-03-14T23:12:28Z",
-        "content": "Ludvig Aberg did not provide the fireworks of Friday but will take a three-shot lead into Sunday's final round of the Players Championship in Florida.\r\nThe Swede, who shot a 63 in round two to move t\u2026 [+2089 chars]"
+        "author": "James Fletcher III",
+        "title": "2026 NCAA Tournament Predictions: Bracketology updates from Saturday's conference championships, more - On3",
+        "description": ".",
+        "url": "https://www.on3.com/news/2026-ncaa-tournament-predictions-bracketology-updates-from-saturdays-conference-championships-more/",
+        "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2026/03/13104737/CBB-Bracketology-afi-copy.png",
+        "publishedAt": "2026-03-14T23:53:34Z",
+        "content": "The NCAA Tournament bubble is closing in on its final form, with plenty bid-stealers still alive entering the finals two days before Selection Sunday reveals the field of 68. As teams make their fina\u2026 [+5002 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "DW (English)"
+        },
+        "author": "Rana Taha",
+        "title": "Cuba: Protesters attack ruling party's office amid blackouts - dw.com",
+        "description": "Long, daily blackouts ignited by a US oil blockade have pushed Cuban residents to the edge. On Friday, Havana acknowledged talks with the US to diffuse the situation.",
+        "url": "https://www.dw.com/en/cuba-protesters-attack-ruling-partys-office-amid-blackouts/a-76363513",
+        "urlToImage": "https://static.dw.com/image/76363504_6.jpg",
+        "publishedAt": "2026-03-14T23:37:30Z",
+        "content": "Protesters in central Cuba attacked early Saturday an office of the ruling Communist Party, amid growing discontent over hourslong blackouts fueled by a US oil blockade.\r\nAngry protesters vandalized \u2026 [+2542 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "GSMArena.com"
+        },
+        "author": "Peter",
+        "title": "Deals: Galaxy S26 series now available, S25 and Pixel 10 models on sale - GSMArena.com news - GSMArena.com",
+        "description": "With the pre-orders over, you now have to pay full price for a 512GB S26 phone - previously, you could get it at the price of a 256GB unit.",
+        "url": "https://www.gsmarena.com/deals_galaxy_s26_series_now_available_s25_and_pixel_10_models_on_sale-news-71941.php",
+        "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/03/spring-deals-us-11/-952x498w6/gsmarena_us.jpg",
+        "publishedAt": "2026-03-14T22:59:03Z",
+        "content": "The Galaxy S26 series launched globally this week and Wednesday was your last chance to pick up an S26 series flagship with a free storage upgrade. Now you have to pay full price for 512GB storage. T\u2026 [+4323 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "TheStreet"
+        },
+        "author": "Hillary Remy, Celine Provini",
+        "title": "Goldman Sachs revamps Brent crude forecast for the rest of 2026 - thestreet.com",
+        "description": "The bank just moved its numbers.",
+        "url": "https://www.thestreet.com/investing/goldman-sachs-revamps-brent-crude-forecast-for-the-rest-of-2026",
+        "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyOTExMDEx/gettyimages-2264091178-1.jpg",
+        "publishedAt": "2026-03-14T22:37:00Z",
+        "content": "Key Points\r\n<ul><li>Goldman Sachs just moved its oil forecast, and the numbers are striking.</li><li>The supply disruption is unlike anything the market has seen in decades.</li><li>The economic ripp\u2026 [+5768 chars]"
     },
     {
         "source": {
@@ -80,170 +158,66 @@
     {
         "source": {
             "id": null,
-            "name": "CNBC"
-        },
-        "author": "Contessa Brewer, Sandy Cannold",
-        "title": "Fertitta in weekend deal talks to acquire Caesars, while billionaire Carl Icahn waits in the wings - CNBC",
-        "description": "The deal, if it gets done, would not be finalized until early April and is not expected to close until 2027.",
-        "url": "https://www.cnbc.com/2026/03/14/fertitta-caesars-talks-casino-acquisition.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/103994956-GettyImages-520902310_1.jpg?v=1773518220&w=1920&h=1080",
-        "publishedAt": "2026-03-14T21:19:21Z",
-        "content": "Tilman Fertitta's Fertitta Entertainment is actively negotiating a deal to acquire Caesars Entertainment, according to sources close to the situation.\r\nThe deal terms currently stand at $32 per share\u2026 [+4517 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Mark Scolforo, Margery A. Beck",
-        "title": "High winds cause power outages and property destruction as wild March weather blows in - AP News",
-        "description": "Powerful winds and extreme weather are knocking out power, damaging property, and fueling wildfires across parts of the United States. About 346,000 customers were still without electricity in Ohio, Pennsylvania, and Michigan on Saturday. Officials in Nebrask\u2026",
-        "url": "https://apnews.com/article/weather-storms-power-outages-4162d30198b05f4717e2e5376eef1578",
-        "urlToImage": "https://dims.apnews.com/dims4/default/ea7a3a8/2147483647/strip/true/crop/2500x1666+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F63%2Fd5%2Fc18044aeb935f06b52e4361155aa%2Fe88b8df6c75048919e7a4c61e489b839",
-        "publishedAt": "2026-03-14T21:11:00Z",
-        "content": "HARRISBURG, Pa. (AP) Hundreds of thousands of people were left without power Saturday after high winds raked eastward from the Great Lakes region, leaving trees down and substantial property damage i\u2026 [+3702 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Barak Ravid",
-        "title": "Trump claims international coalition will send war ships to reopen the strait of Hormuz - Axios",
-        "description": "U.S., Israeli and Western officials say the situation at the strait has been the key concern for the Trump administration in recent days.",
-        "url": "https://www.axios.com/2026/03/14/trump-iran-war-ships-strait-hormuz",
-        "urlToImage": "https://images.axios.com/RjJh8MDJGA58Ketvv525JoVSEzE=/0x0:6400x3600/1366x768/2026/03/14/1773499809142.jpeg",
-        "publishedAt": "2026-03-14T21:10:18Z",
-        "content": "<ul><li> U.S., Israeli and Western officials say the situation at the strait has been the key concern for the Trump administration in recent days. </li></ul>What he's saying: \"Many Countries, especia\u2026 [+2804 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Hollywood Reporter"
-        },
-        "author": "Lexi Carson",
-        "title": "\u2018Buffy the Vampire Slayer\u2019 Reboot Not Moving Forward at Hulu, Sarah Michelle Gellar Says - hollywoodreporter.com",
-        "description": "The series was in development since February 2025, with Oscar-winning Chlo\u00e9 Zhao attached to direct.",
-        "url": "http://www.hollywoodreporter.com/tv/tv-news/buffy-the-vampire-slayer-reboot-not-moving-forward-hulu-1236531001/",
-        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/02/TSDBUTH_FE169-H-2025.jpg?w=1296&h=730&crop=1",
-        "publishedAt": "2026-03-14T21:09:34Z",
-        "content": "The Buffy the Vampire Slayer reboot is dead at Hulu.\r\nThe series star, Sarah Michelle Gellar, took to Instagram Saturday morning to share that Hulu is no longer moving forward with the project, which\u2026 [+1345 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "David A. Lieb, Mark Scolforo, Julie Walker",
-        "title": "Crew of fatal US military crash included Alabama father and several from Ohio - AP News",
-        "description": "The six U.S. service members who died in the crash of a U.S. military refueling aircraft included an Alabama father who had just been promoted and deployed. The U.S. government released the identities of the deceased service members Saturday. They include thr\u2026",
-        "url": "https://apnews.com/article/us-military-aircraft-down-iran-iraq-7f56db745b94fd80a7553560cf49c292",
-        "urlToImage": "https://dims.apnews.com/dims4/default/298423d/2147483647/strip/true/crop/2219x1479+0+648/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe7%2Fdb%2F6cb6dc579118ed83ae61d83963ce%2F274f1718b133469b8303e009d7eda39d",
-        "publishedAt": "2026-03-14T20:53:00Z",
-        "content": "A pilot from Alabama had just been promoted to major in January and had been deployed less than a week when the refueling aircraft he was aboard crashed in Iraq this week, killing him and five others\u2026 [+4276 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Kyivindependent.com"
-        },
-        "author": "Abbey Fenbert",
-        "title": "Moscow attacked by over 60 drones in single day, mayor says - The Kyiv Independent",
-        "description": "The Russian Defense Ministry also claimed that nearly 300 Ukrainian drones had been shot down across the country over a 10-hour span.",
-        "url": "https://kyivindependent.com/moscow-attacked-by-over-60-drones-in-single-day-mayor-says/",
-        "urlToImage": "https://assets.kyivindependent.com/content/images/2025/09/GettyImages-2198678229.jpg",
-        "publishedAt": "2026-03-14T20:38:55Z",
-        "content": "Editor's Note: This is a developing story. \r\nRussian air defenses shot down over 60 drones headed toward the Russian capital on March 14, Moscow Mayor Sergey Sobyanin claimed. \r\nThroughout the day, S\u2026 [+1072 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Kerry  Breen",
-        "title": "FCC chair threatens broadcast licenses amid Trump's criticism of Iran war coverage - CBS News",
-        "description": "Federal Communications Commission Chair Brendan Carr did not name specific networks, but his post included a reference to a Saturday morning Truth Social post from the president.",
-        "url": "https://www.cbsnews.com/news/fcc-brendan-carr-threat-news-networks-broadcast-license/",
-        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/11/19/cc5d13cb-5318-4a57-aff2-e673af51684e/thumbnail/1200x630/db2482010fabd0b15e820438254c56e2/gettyimages-2028793337.jpg",
-        "publishedAt": "2026-03-14T19:27:00Z",
-        "content": "Federal Communications Commission Chair Brendan Carr threatened to revoke broadcast licenses on Saturday, echoing criticism from President Trump over media coverage of the U.S.-Israeli war in Iran.\u00a0\r\u2026 [+2383 chars]"
-    },
-    {
-        "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Matt Lavietes",
-        "title": "How two teens from wealthy Pennsylvania suburbs became suspects in an attempted \u2018ISIS-inspired\u2019 attack in New York City - NBC News",
-        "description": "Pennsylvania teens Emir Balat and Ibrahim Kayumi are accused of attempting and ISIS-inspired attack outside NYC Mayor Zohran Mamadani's residence",
-        "url": "https://www.nbcnews.com/news/us-news/gracie-mansion-suspects-rcna263125",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260313-gracie-mansion-suspects-ch-1606-6e5715.jpg",
-        "publishedAt": "2026-03-14T19:25:25Z",
-        "content": "BUCKS COUNTY, Pa. Emir Balat and Ibrahim Kayumi have a lot in common: Theyre both teenagers. Theyre both first-generation Americans. Both live on tree-lined streets in the affluent suburbs north of P\u2026 [+9658 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "Vera Bergengruen, Alex Leary, Lara Seligman, Alexander Ward",
-        "title": "Five Takeaways From WSJ\u2019s Reporting on Trump\u2019s Decision to Launch a War in Iran - WSJ",
-        "description": "The president was warned that military attack could prompt Tehran to close Strait of Hormuz, but moved ahead",
-        "url": "https://www.wsj.com/world/middle-east/five-takeaways-from-wsjs-reporting-on-trumps-decision-to-launch-a-war-in-iran-8ac226eb",
-        "urlToImage": "https://images.wsj.net/im-18265237/social",
-        "publishedAt": "2026-03-14T19:00:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
             "name": "PBS"
         },
         "author": null,
-        "title": "North Korea fires about 10 ballistic missiles toward sea in show of force, South Korea says - PBS",
-        "description": "North Korea on Saturday fired about 10 ballistic missiles toward the eastern sea, South Korea\u2019s military said, staging its own show of force as the rival South conducts a joint military exercise with the United States.",
-        "url": "https://www.pbs.org/newshour/world/north-korea-fires-about-10-ballistic-missiles-toward-sea-in-show-of-force-south-korea-says",
-        "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/03/2026-03-14T102929Z_1027907424_RC224KACNZZ4_RTRMADP_3_SOUTHKOREA-USA-MILITARY-1024x683.jpg",
-        "publishedAt": "2026-03-14T17:17:25Z",
-        "content": "SEOUL, South Korea (AP) North Korea on Saturday fired about 10 ballistic missiles toward the eastern sea, South Korea's military said, staging its own show of force as the rival South conducts a join\u2026 [+4759 chars]"
+        "title": "Another 3 members of Iran's women's soccer team decide against staying in Australia as refugees - PBS",
+        "description": "Another three members of the\u00a0Iran's women\u2019s soccer team\u00a0who accepted refugee visas to stay in Australia have decided to return to their homeland, an Australian government minister said on Sunday.",
+        "url": "https://www.pbs.org/newshour/world/another-3-members-of-irans-womens-soccer-team-decide-against-staying-in-australia-as-refugees",
+        "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/03/2026-03-10T055148Z_960952072_RC2A1KAU3CJK_RTRMADP_3_IRAN-CRISIS-SOCCER-AUSTRALIA-1024x672.jpg",
+        "publishedAt": "2026-03-14T22:35:15Z",
+        "content": "MELBOURNE, Australia (AP) Another three members of the\u00a0Iran's women's soccer team\u00a0who accepted refugee visas to stay in Australia have decided to return to their homeland, an Australian government mi\u2026 [+1794 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Space.com"
+            "name": "Deadline"
         },
-        "author": "Robert Z. Pearlman",
-        "title": "Two days, two coasts, two more SpaceX Starlink batches launched - Space",
-        "description": "Fifty-four (54) more satellites in low Earth orbit after launches from California and Florida on Friday and Saturday (March 13 and 14).",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-launch-group-17-31-b1071-vsfb-ocisly-group-10-48-b1095-ccsfs-jrti",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/wyJcA7ND5SCteGZCtUCQSc-1920-80.jpg",
-        "publishedAt": "2026-03-14T17:11:43Z",
+        "author": "Anthony D'Alessandro",
+        "title": "Max Landis\u2019 \u2018G.I. Joe\u2019 Treatment Not Moving Forward At Paramount, Studio Still Taking Meetings For Franchise Reboot - Deadline",
+        "description": "Paramount has passed on Max Landis\u2019 treatment for a new G.I. Joe, sources tell us. Note, a specific direction for the next screen version of a Real American Hero hasn\u2019t been decided according to those we\u2019ve spoken to. The studio, we hear, is still taking meet\u2026",
+        "url": "http://deadline.com/2026/03/g-i-joe-max-landis-paramount-passes-1236754006/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2026/02/Danny-McBride-GI-Joe-Max-Landis-e1773524569696.jpg?w=670",
+        "publishedAt": "2026-03-14T21:48:00Z",
+        "content": "Paramount has passed on Max Landis\u2019 treatment for a new G.I. Joe, sources tell us. \r\nNote, a specific direction for the next screen version of a Real American Hero hasn\u2019t been decided according to th\u2026 [+1824 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Anthony Ha",
+        "title": "The MacBook Neo is \u2018the most repairable MacBook\u2019 in years, according to iFixit - TechCrunch",
+        "description": "Apple\u2019s new MacBook Neo isn\u2019t just the most affordable MacBook \u2014 it\u2019s also the company's most repairable laptop in \u201cabout fourteen years.\"",
+        "url": "https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-MacBook-Neo-lifestyle-01-260304_big.jpg.medium_2x.jpg?resize=1200,676",
+        "publishedAt": "2026-03-14T21:24:10Z",
+        "content": "Apples new MacBook Neo isnt just the most affordable MacBook by far its also the most repairable MacBook in about fourteen years, according to an in-depth teardown by how-to website iFixit.\r\nThe big \u2026 [+801 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Ian Livingston, Ben Noll",
+        "title": "These 11 cities could see heavy snow or severe thunderstorms this weekend - The Washington Post",
+        "description": "Snow totals of 10 to 30 inches will be widespread with some spots nearing 40 inches. Severe thunderstorms roll east to the south of the low.",
+        "url": "https://www.washingtonpost.com/weather/2026/03/14/blizzard-midwest-plains-forecast-cities-thunderstorms/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/W27JEK7T3RBJ5KVBV7WJLM4WYM.png&w=1440",
+        "publishedAt": "2026-03-14T21:20:39Z",
+        "content": "A severe late-season winter storm unfolds this weekend and into Monday across the northern tier of the central United States. The worst of the snow and wind and the likelihood of blizzard conditions \u2026 [+75 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Louder"
+        },
+        "author": "Stef Lach",
+        "title": "\"I was a single guy on tour, in a band, and I met a lot of girls and I apologise if I hurt her.\" Sebastian Bach sorry for relationship with 17-year-old Christina Applegate - Louder",
+        "description": "Skid Row and new Twisted Sister singer Sebastian Bach famously derailed Christina Applegate and Brad Pitt's union",
+        "url": "https://www.loudersound.com/bands-artists/i-was-a-single-guy-on-tour-in-a-band-and-i-met-a-lot-of-girls-and-i-apologise-if-i-hurt-her-sebastian-bach-sorry-for-relationship-with-17-year-old-christina-applegate",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/EzwHDYeoMdKsU49WR2PMye-1600-80.png",
+        "publishedAt": "2026-03-14T21:00:00Z",
         "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Variety"
-        },
-        "author": "Jack Dunn",
-        "title": "Box Office: \u2018Reminders of Him\u2019 Leads on Friday With $8 Million; \u2018Hoppers\u2019 Holds Strong With $7.1 Million - Variety",
-        "description": "Disney and Pixar's \u201cHoppers\u201d is holding strong in its second weekend, but it was Universal's \"Reminders of Him\" that took the top spot on Friday.",
-        "url": "https://variety.com/2026/film/box-office/box-office-reminders-of-him-hoppers-1236687949/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2025/12/reminders-of-him.jpg?crop=0px%2C92px%2C1500px%2C844px&resize=1000%2C563",
-        "publishedAt": "2026-03-14T16:50:00Z",
-        "content": "Disney and Pixar\u2019s animal adventure \u201cHoppers\u201d is holding strong in its second weekend, but it was Universal\u2019s teary romance \u201cReminders of Him\u201d that took the top spot on Friday.\r\n\u201cReminders of Him,\u201d t\u2026 [+2373 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "On3.com"
-        },
-        "author": "James Fletcher III",
-        "title": "2026 NCAA Tournament Predictions: Bracketology updates from Saturday's conference championships, more - On3",
-        "description": ".",
-        "url": "https://www.on3.com/news/2026-ncaa-tournament-predictions-bracketology-updates-from-saturdays-conference-championships-more/",
-        "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2026/03/13104737/CBB-Bracketology-afi-copy.png",
-        "publishedAt": "2026-03-14T13:14:36Z",
-        "content": "The NCAA Tournament bubble is closing in on its final form, with plenty bid-stealers still alive entering the finals two days before Selection Sunday reveals the field of 68. As teams make their fina\u2026 [+5082 chars]"
     }
 ]
