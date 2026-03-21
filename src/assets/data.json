@@ -1,6 +1,45 @@
 [
     {
         "source": {
+            "id": null,
+            "name": "Deadline"
+        },
+        "author": "Anthony D'Alessandro",
+        "title": "\u2018Project Hail Mary\u2019 Blasts Off To $11M+ In Previews, Best YTD - Deadline",
+        "description": "'Project Hail Mary' is headed to $11M+ in previews, the best so far in 2026 and a great start for a non-franchise movie.",
+        "url": "http://deadline.com/2026/03/box-office-project-hail-mary-ready-or-not-2-1236761181/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2026/03/MCDPRHA_MG008.jpg?w=1024",
+        "publishedAt": "2026-03-20T06:13:00Z",
+        "content": "EXCLUSIVE: A non-franchise movie is making waves at the box office and we\u2019re talking about Amazon MGM Studios\u2018 Project Hail Mary. \r\nSources tell us that the previews for the Phil Lord-Christopher Mil\u2026 [+1739 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Rachel Chason, Evan Halper, Victoria Craw, Siham Shamalakh, Tara Copp",
+        "title": "Iran hits Gulf energy sites, escalating war, as U.S. mulls sanctions rollback - The Washington Post",
+        "description": "As attacks rattled markets, Treasury Secretary Scott Bessent said the Trump administration might lift restrictions on Iranian oil already loaded onto vessels.",
+        "url": "https://www.washingtonpost.com/world/2026/03/19/us-iran-war-trump-gas-prices-qatar/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5LCWUM2EQ3XXEYYCVJJMZNWZDI_size-normalized.jpg&w=1440",
+        "publishedAt": "2026-03-20T06:03:32Z",
+        "content": "DUBAI Irans escalating strikes on energy infrastructure across the Persian Gulf are stoking fears of a full-blown energy crisis, sending already high oil and gas prices surging and widening the scope\u2026 [+75 chars]"
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Rachel Bluth",
+        "title": "RFK Jr. went too far with comments about gender care for minors, judge rules - Politico",
+        "description": "The ruling in a lawsuit brought by a group of states deals another setback to the Trump administration in its efforts to restrict the treatments.",
+        "url": "https://www.politico.com/news/2026/03/20/kennedy-cant-threaten-hospitals-over-gender-care-for-minors-judge-rules-00837312",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F0c%2F01%2F63964bbf43cd85b7f3e9e6494089%2Fstate-of-the-union-95381.jpg",
+        "publishedAt": "2026-03-20T05:03:05Z",
+        "content": "The decision came in a lawsuit 18 states including California and New York\r\n filed against Kennedy and the Trump administration, arguing that the declaration was an overstep of Kennedys rule-making p\u2026 [+1032 chars]"
+    },
+    {
+        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
@@ -11,32 +50,6 @@
         "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2155472642-e1773976186755.jpg?resize=1200,600",
         "publishedAt": "2026-03-20T04:32:00Z",
         "content": "Federal agents on Thursday arrested Yih-Shyan Wally Liaw, a prominent Silicon Valley executive deep in the AI ecosystem who co-founded Supermicro in 1993 and is a close confidante of CEO and chairman\u2026 [+11450 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Kate Santaliz",
-        "title": "House GOP welcomes $200B Pentagon request to jump-start reconciliation 2.0 - Axios",
-        "description": "Expect to hear lots of talk about \"offsets\" from fiscal hawks.",
-        "url": "https://www.axios.com/2026/03/19/pentagon-200-billion-reconciliation-house-republicans",
-        "urlToImage": "https://images.axios.com/q7HxSajEuDqVkud-A-NYg_CniFk=/0x0:6000x3375/1366x768/2026/03/19/1773957460429.jpeg",
-        "publishedAt": "2026-03-20T04:09:46Z",
-        "content": "<ul><li>The Pentagon's request \"opens up the door to a second reconciliation package,\" Rep. Michael Cloud (R-Texas) said.</li></ul>Zoom in: Any reconciliation process is typically painful and prolong\u2026 [+2416 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NPR"
-        },
-        "author": "",
-        "title": "Trump is dismantling democracy at 'unprecedented' speed, global report finds - NPR",
-        "description": "Three major new studies on democracy and freedom all find the U.S. is slipping further away from democracy. Leaders of two of those studies say President Trump's goal is to rule as an autocrat.",
-        "url": "https://www.npr.org/2026/03/20/nx-s1-5754021/trump-democracy-autocracy-dictatorship-reports",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3416x1922+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6d%2F79%2F098e44af4271afc47868050fd5a2%2Fflag.jpg",
-        "publishedAt": "2026-03-20T04:01:00Z",
-        "content": "Three major reports out this month say President Trump has done serious damage to American democracy at remarkable speed since his return to the White House.\r\nAn annual report from V-Dem\r\n, an instit\u2026 [+4650 chars]"
     },
     {
         "source": {
@@ -66,19 +79,6 @@
     },
     {
         "source": {
-            "id": "espn",
-            "name": "ESPN"
-        },
-        "author": "ESPN",
-        "title": "Lakers 134-126 Heat (Mar 19, 2026) Game Recap - ESPN",
-        "description": null,
-        "url": "https://www.espn.com/nba/recap?gameId\\\\u003d401810865",
-        "urlToImage": null,
-        "publishedAt": "2026-03-20T02:52:35Z",
-        "content": null
-    },
-    {
-        "source": {
             "id": null,
             "name": "On3.com"
         },
@@ -89,19 +89,6 @@
         "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2026/03/19204803/IMG_3187.jpg",
         "publishedAt": "2026-03-20T02:30:55Z",
         "content": "GREENVILLE, N.C. No. 6 seed North Carolina blew a 19-point second-half lead \u00a0the second largest in NCAA Tournament history \u00a0to lose 82-78 to No. 11 seed VCU in overtime on Thursday night in the Round\u2026 [+2468 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Tucker  Reals, Sarah  Lynch Baldwin",
-        "title": "Live Updates: Iran war escalates, energy prices spike after Israeli strike on South Pars gas field - CBS News",
-        "description": "As Iran retaliates for an Israeli strike on the South Pars gas field, one analyst warns the war is \"now hitting the plumbing of the global energy system.\"",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-israel-strike-south-pars-gas-field-trump-threat-oil-gas-prices/",
-        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/19/63eaf70f-cf09-4421-b978-69188457e367/thumbnail/1200x630/d3af03a30eb4ee8a5276462fc8e37ded/southpars.jpg",
-        "publishedAt": "2026-03-20T01:59:00Z",
-        "content": "The leaders of the United Kingdom, France, Germany, Italy, the Netherlands and Japan voiced their \"readiness to contribute to appropriate efforts to ensure safe passage through\" the Strait of Hormuz \u2026 [+1514 chars]"
     },
     {
         "source": {
@@ -119,15 +106,15 @@
     {
         "source": {
             "id": null,
-            "name": "TMZ"
+            "name": "ScienceAlert"
         },
-        "author": "TMZ Staff",
-        "title": "'Mormon Wives' Jessi Draper Ngatikaura Husband Files For Divorce - TMZ",
-        "description": "More drama for \"The Secret Lives of Mormon\" wives ... Jessi Draper Ngatikuara's husband just filed for divorce ... TMZ has learned.",
-        "url": "https://www.tmz.com/2026/03/19/jessi-draper-jordan-ngatikaura-files-divorce/",
-        "urlToImage": "https://imagez.tmz.com/image/36/16by9/2026/03/20/364fd81b76d04acc88216bf49fd45b4c_xl.jpg",
-        "publishedAt": "2026-03-20T01:36:44Z",
-        "content": "More drama for \"The Secret Lives of Mormon\" wives ... Jessi Draper Ngatikuara's husband just filed for divorce ... TMZ has learned.\r\nJordan Ngatikaura beelined it to a Utah court Thursday and filed f\u2026 [+1235 chars]"
+        "author": "AFP",
+        "title": "'Unprecedented' Meningitis Outbreak in UK Spreads to 27 Cases - ScienceAlert",
+        "description": "UK health authorities are probing 27 cases linked to a deadly meningitis outbreak believed to have spread at a nightclub in southeast England.",
+        "url": "https://www.sciencealert.com/unprecedented-meningitis-outbreak-in-uk-spreads-to-27-cases",
+        "urlToImage": "https://www.sciencealert.com/images/2026/03/bacteria-illustration-green.jpg",
+        "publishedAt": "2026-03-20T01:26:44Z",
+        "content": "UK health authorities are probing 27 cases linked to a deadly meningitis outbreak believed to have spread at a nightclub in southeast England.\r\nHere's everything we know about the disease and the out\u2026 [+4729 chars]"
     },
     {
         "source": {
@@ -154,19 +141,6 @@
         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3651/live/fe5510f0-23d5-11f1-92f6-6d3dbba93239.jpg",
         "publishedAt": "2026-03-20T00:53:44Z",
         "content": "A spokesperson for Disney, which owns ABC, said it made the decision to pull the season \"in light of the newly released video just surfaced today\", referring to the footage, which was published by TM\u2026 [+1 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Labour MPs threaten vote to show opposition to Mahmood's migration plans - BBC",
-        "description": "Opponents are considering using parliamentary procedure to force a vote to highlight their concerns.",
-        "url": "https://www.bbc.com/news/articles/cy514kv2vzro",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e06a/live/028a3900-bbf5-11f0-afe7-091f65e80e83.jpg",
-        "publishedAt": "2026-03-20T00:42:49Z",
-        "content": "Settlement, also known as indefinite leave to remain, gives a person the right to live, work and study in the UK for as long as they like and apply for benefits if they are eligible."
     },
     {
         "source": {
@@ -209,29 +183,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Deadline"
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
         },
-        "author": "Anthony D'Alessandro",
-        "title": "\u2018Project Hail Mary\u2019 To Orbit Around $100M+ WW Opening; \u2018Ready Or Not 2\u2019 $14M WW \u2013 Preview - Deadline",
-        "description": "This weekend the Amazon MGM Studios Ryan Gosling movie 'Project Hail Mary' is seeing a $100M global start, while 'Ready or Not 2' is eyeing $14M worldwide.",
-        "url": "http://deadline.com/2026/03/project-hail-mary-ready-or-not-2-box-office-projection-1236760889/",
-        "urlToImage": "https://deadline.com/wp-content/uploads/2026/03/Project-Hail-Mary-and-Ready-or-Not-2.jpg?w=1024",
-        "publishedAt": "2026-03-19T23:12:00Z",
-        "content": "There\u2019s already excellent word of mouth for Amazon MGM Studios\u2018 sci-fi dramedy Project Hail Mary,with a 98% Rotten Tomatoes audience score and 95% certified fresh from critics.\r\nThe global outlook is\u2026 [+5833 chars]"
-    },
-    {
-        "source": {
-            "id": "ign",
-            "name": "IGN"
-        },
-        "author": "Wesley Yin-Poole",
-        "title": "Crimson Desert Day One Update Goes Live in Full on PC, in Part on Console \u2014 Check Out the Patch Notes - IGN",
-        "description": "Crimson Desert has launched across all platforms, and with it comes a day one update that makes some significant improvements to the game, some balance changes, and various fixes. Pearl Abyss recommended players download the patch \u201cfor the best experience.\u201d C\u2026",
-        "url": "https://www.ign.com/articles/crimson-desert-day-one-update-goes-live-in-full-on-pc-in-part-on-console-check-out-the-patch-notes",
-        "urlToImage": "https://assets-prd.ignimgs.com/2026/03/19/cd-main-1773960325692.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "publishedAt": "2026-03-19T23:05:43Z",
-        "content": "Crimson Desert has launched across all platforms, and with it comes a day one update that makes some significant improvements to the game, some balance changes, and various fixes. Pearl Abyss recomme\u2026 [+5233 chars]"
+        "author": "Al Jazeera Staff",
+        "title": "US arts commission approves gold coin stamped with Donald Trump\u2019s face - Al Jazeera",
+        "description": "The gold coin comes in addition to Trump\u2019s efforts to have his face stamped on a $1 coin, in violation of federal law.",
+        "url": "https://www.aljazeera.com/news/2026/3/19/us-arts-commission-approves-gold-coin-stamped-with-donald-trumps-face",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/03/2026-03-19T202458Z_1951771589_RC2S7KAPOULN_RTRMADP_3_USA-TRUMP-COIN-1773958027.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-03-20T00:03:04Z",
+        "content": "The United States Commission of Fine Arts, a federal agency, has approved plans for a commemorative gold coin that features one of Donald Trumps recent presidential portraits.\r\nThe commission, made u\u2026 [+4012 chars]"
     },
     {
         "source": {
@@ -245,18 +206,5 @@
         "urlToImage": "https://cdn.abcotvs.com/dip/images/18737279_dolores-huerta-clean-TN-img.jpg?w=1600",
         "publishedAt": "2026-03-19T22:08:46Z",
         "content": "LOS ANGELES (KABC) -- Labor activist Dolores Huerta is speaking on camera for the first time about her allegations against farmworker movement leader Cesar Chavez, describing decades of private pain \u2026 [+1857 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Teenager among first to be executed over Iran's anti-government protests - BBC",
-        "description": "Saleh Mohammadi, a member of Iran's national wrestling team, was found guilty of killing police officers alongside two other men, state media say.",
-        "url": "https://www.bbc.com/news/articles/ce9mzn7k722o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8fb9/live/aeb455a0-23db-11f1-b297-95b0a0a8331e.jpg",
-        "publishedAt": "2026-03-19T22:07:17Z",
-        "content": "Tasnim, a semi-official news agency associated with Iran's Revolutionary Guard Corps (IRGC), reported that Mohammadi, Mehdi Ghasemi, and Saeed Davoudi were found guilty of killing two police officers\u2026 [+27 chars]"
     }
 ]
