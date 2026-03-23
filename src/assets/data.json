@@ -4,6 +4,32 @@
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
+        "author": "Casey Parks, Chris Hacker, Dylan Moriarty",
+        "title": "One gas station, two drivers and three fill-ups: The Iran war hits home - The Washington Post",
+        "description": "In Colorado, where gas prices have surged higher than the rest of the country, the impact of the Iran war has changed daily lives for many. But not equally.",
+        "url": "https://www.washingtonpost.com/nation/2026/03/22/iran-war-gas-price-surge/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AKKBBKWRIGJ3QNZZDHMFVBQGOM_size-normalized.jpg&w=1440",
+        "publishedAt": "2026-03-22T12:01:51Z",
+        "content": "PUEBLO, Colo. Zac Grant never let his truck run close to empty. Colorados weather was too unpredictable for that, and lately, the cost of fuel had been, too. In theweeks since the United States had a\u2026 [+185 chars]"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "Aftermath of Iranian missile strikes near Israel\u2019s nuclear facility - Al Jazeera",
+        "description": "It was the first time Iranian missiles had penetrated Israeli air defence systems in the area around a key nuclear site.",
+        "url": "https://www.aljazeera.com/gallery/2026/3/22/aftermath-of-iranian-missiles-strikes-near-israels-nuclear-centre",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/03/2026-03-22T054515Z_179536914_RC2H9KAQBIU3_RTRMADP_3_IRAN-CRISIS-ISRAEL-1774159081.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-03-22T10:35:14Z",
+        "content": "Iranian missiles struck two communities in southern Israel, leaving buildings shattered and dozens injured in dual attacks not far from Israels main nuclear research centre.\r\nThe Iranian strikes late\u2026 [+1350 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
         "author": "Steven Petrow",
         "title": "Column | I want to avoid the \u2018aging mistakes\u2019 my parents made. I\u2019ve got work to do. - The Washington Post",
         "description": "Twenty years ago, I started a list of what I considered \u201cstupid things\u201d that old people do. Now, I\u2019m seeing my life, and my list, in a different light.",
@@ -11,6 +37,45 @@
         "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/HMUFORIKCZAURJRKN2MFTAISPY.jpg&w=1440",
         "publishedAt": "2026-03-22T10:31:46Z",
         "content": "Wow, time flies. Nearly 20 years ago, soon after my 50th birthday, I started making a list of what I considered mistakes my parents (and many of their generation) had made as they aged and that I swo\u2026 [+355 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Christopher Rugaber",
+        "title": "Trump touted bigger tax refunds this year, but Americans will likely spend them on gas - AP News",
+        "description": "Spiking gas prices in the U.S. are on track to eat up tax refunds this year, leaving most Americans with little extra to spend. Oil and gas prices have soared since the start of the Iran war. The nationwide average price of gas is $3.94 a gallon, up nearly a \u2026",
+        "url": "https://apnews.com/article/trump-tax-refunds-gas-prices-859494e746561a3343dcd57836c3dc83",
+        "urlToImage": "https://dims.apnews.com/dims4/default/c40ca96/2147483647/strip/true/crop/7309x4870+0+3/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe5%2F0e%2Ffd8b8fe1c5e6f61a32cfbdeffd78%2F1fafa8d9da1f4b678964c5a19bfa88c0",
+        "publishedAt": "2026-03-22T10:25:00Z",
+        "content": "WASHINGTON (AP) The U.S. economy was supposed to start the year with a bang, fueled by an unusually large jump in tax refunds from President Donald Trumps tax cut legislation. Yet spiking gas prices \u2026 [+5250 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "BBC in Cuba as island plunged into darkness - BBC",
+        "description": "More than 10 million people are enduring power cuts after Cuba's national electrical grid collapsed again.",
+        "url": "https://www.bbc.com/news/videos/cj94jp3jmv8o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bb5d/live/4a0ef590-25c7-11f1-b1ce-2dccb029f244.jpg",
+        "publishedAt": "2026-03-22T08:40:50Z",
+        "content": "More than 10 million people in Cuba have had power cut to their homes and businesses after the country's national electrical grid collapsed.\r\nThe Caribbean island has been hit with several blackouts \u2026 [+272 chars]"
+    },
+    {
+        "source": {
+            "id": "the-jerusalem-post",
+            "name": "The Jerusalem Post"
+        },
+        "author": "JERUSALEM POST STAFF",
+        "title": "WATCH: IDF raids Hezbollah hideouts in Lebanon, kills terrorists, seizes weapons, rockets - The Jerusalem Post",
+        "description": "The IDF also conducted raids on several Hezbollah sites in Lebanon, killing over ten terrorists and locating large amounts of weaponry, the military announced earlier on Sunday.",
+        "url": "https://www.jpost.com/israel-news/defense-news/article-890737",
+        "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/712584",
+        "publishedAt": "2026-03-22T06:06:07Z",
+        "content": "The commander of Hezbollah's Radwan Force's special forces, Abu Khalil Barji, was killed in an IDF air strike in Lebanon on Saturday, the military announced on Sunday.\r\nAccording to the IDF, Barji wa\u2026 [+1566 chars]"
     },
     {
         "source": {
@@ -40,32 +105,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Suntimes.com"
-        },
-        "author": "Georgia Nicols",
-        "title": "Horoscope for Sunday, March 22, 2026 - Chicago Sun-Times",
-        "description": null,
-        "url": "https://chicago.suntimes.com/horoscopes/2026/03/22/horoscopes-today-sunday-march-22-2026",
-        "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
-        "publishedAt": "2026-03-22T05:01:00Z",
-        "content": "Moon alert\r\nAvoid shopping (except food and gas) or important decisions after midnight tonight Chicago time. The moon is in Taurus.\r\nAries (March 21-April 19)\r\nToday is a mixed bag because, in one wa\u2026 [+3835 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Financial Times"
-        },
-        "author": "Harry Dempsey, Verity Ratcliffe, Humza Jilani",
-        "title": "World faces gas supply cliff edge as Gulf\u2019s final LNG shipments approach ports - Financial Times",
-        "description": "Carriers that departed from the Middle East before Iran\u2019s missile attacks began are due to arrive in the next 10 days",
-        "url": "https://www.ft.com/content/64c5a600-1fc8-4370-b5d6-8a0bc273a33f?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4437d11d-7b09-4be2-aaa1-4d51f71871f1.jpg?source=next-barrier-page",
-        "publishedAt": "2026-03-22T05:00:36Z",
-        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-    },
-    {
-        "source": {
             "id": "cbs-news",
             "name": "CBS News"
         },
@@ -79,16 +118,16 @@
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": null,
+            "name": "Daily Nebraskan"
         },
-        "author": "Maegan Vazquez",
-        "title": "Senate rejects Trump-backed measure to ban trans athletes in female sports - The Washington Post",
-        "description": "The chamber considered adding the measure to a far-reaching voting bill supported by the Republican president.",
-        "url": "https://www.washingtonpost.com/politics/2026/03/21/senate-trump-transgender-sports/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/UL6OF46YWNOFWMKHKA45G57E6E.JPG&w=1440",
-        "publishedAt": "2026-03-22T02:57:47Z",
-        "content": "The Senate on Saturday rejected an amendment to a far-reaching voting bill that would have barred transgender females from playing in girls and womens sports, a provision that President Donald Trump \u2026 [+43 chars]"
+        "author": "Alex Berry",
+        "title": "Four takeaways from Nebraska men\u2019s basketball\u2019s NCAA Tournament win over Vanderbilt - The Daily Nebraskan",
+        "description": "The Huskers were dialed in on Saturday night in an energy-filled Paycom Center. Freshman forward Braden Frager squeezed through multiple defenders to hit a layup with 2.2 seconds left on the clock.",
+        "url": "https://www.dailynebraskan.com/sports/four-takeaways-from-nebraska-men-s-basketball-s-ncaa-tournament-win-over-vanderbilt/article_f2ab8b7a-1f3b-4d65-8baf-ee811899d397.html",
+        "urlToImage": "https://bloximages.newyork1.vip.townnews.com/dailynebraskan.com/content/tncms/assets/v3/editorial/3/9e/39efb313-7126-4551-a72c-f7241955b9ad/69bf4f8b21a35.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+        "publishedAt": "2026-03-22T03:16:00Z",
+        "content": "OKLAHOMA CITY Braden Frager. Learn the name.\r\nThe Huskers were dialed in on Saturday night in an energy-filled Paycom Center. Freshman forward Braden Frager squeezed through multiple defenders to hit\u2026 [+3160 chars]"
     },
     {
         "source": {
@@ -106,15 +145,28 @@
     {
         "source": {
             "id": null,
-            "name": "The Action Network"
+            "name": "Deadline"
         },
-        "author": "Joshua Nunn",
-        "title": "High Point vs Arkansas Predictions, 2026 March Madness Odds: Picks for Second-Round Game - Action Network",
-        "description": "Read High Point Panthers vs Arkansas Razorbacks predictions, picks and odds for their NCAA Tournament game on Saturday, March 21.",
-        "url": "https://www.actionnetwork.com/ncaab/high-point-panthers-vs-arkansas-razorbacks-prediction-pick-odds-ncaa-tournament-saturday-march-21",
-        "urlToImage": "https://images.actionnetwork.com/blog/2026/03/Acuff_3_20_26.jpg",
-        "publishedAt": "2026-03-22T02:45:00Z",
-        "content": "The High Point Panthers play the Arkansas Razorbacks in the second round of the NCAA Tournament in Portland, Oregon, on Saturday, March 21. Tip-off is set for 9:45 p.m. ET on TBS/truTV.\r\nArkansas is \u2026 [+4581 chars]"
+        "author": "Natalie Oganesyan",
+        "title": "Amanda Peet Reveals Breast Cancer Diagnosis - Deadline",
+        "description": "In a heartfelt essay for The New Yorker actress Amanda Peet revealed her breast cancer diagnosis, which came as both her parents were in hospice care.",
+        "url": "http://deadline.com/2026/03/amanda-peet-breast-cancer-diagnosis-1236762460/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2026/03/GettyImages-2243305383.jpg?w=1024",
+        "publishedAt": "2026-03-22T02:07:00Z",
+        "content": "In a heartfelt essay for The New Yorker titled \u201cMy Season of Ativan,\u201d actress Amanda Peet revealed her breast cancer diagnosis, which came as both of her parents were undergoing hospice care on oppos\u2026 [+3387 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "KVOA Tucson News"
+        },
+        "author": "",
+        "title": "News 4 Tucson Special \"Bring Her Home\" set to shine light on the Nancy Guthrie case - KVOA",
+        "description": "TUCSON, Ariz. (KVOA) - Over six weeks into her disappearance, the search for Nancy Guthrie continues to grip our community.",
+        "url": "https://www.kvoa.com/news/top-stories/news-4-tucson-special-bring-her-home-set-to-shine-light-on-the-nancy-guthrie/article_faa1ae48-3175-43be-a974-5f204898d479.html",
+        "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kvoa.com/content/tncms/assets/v3/editorial/a/e1/ae1187bf-550b-5eb5-a544-b66aa1ed059c/69be0a34661fe.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+        "publishedAt": "2026-03-22T02:04:12Z",
+        "content": "TUCSON, Ariz. (KVOA) - Over six weeks into her disappearance, the search for Nancy Guthrie continues to grip our community.\r\nA News 4 Tucson special is set to air Saturday in hopes of shining light o\u2026 [+817 chars]"
     },
     {
         "source": {
@@ -131,16 +183,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "GSMArena.com"
+            "id": "the-hill",
+            "name": "The Hill"
         },
-        "author": "Peter",
-        "title": "Deals: Galaxy S26 series gets its first price drop, the Pixel 10 series drops even further - GSMArena.com news - GSMArena.com",
-        "description": "Meanwhile, the 2025 MacBook Airs are getting cheaper too - not quite as cheap as the Neo, but they are an important alternative for those who need more RAM.",
-        "url": "https://www.gsmarena.com/deals_galaxy_s26_series_gets_its_first_price_drop_the_pixel_10_series_drops_even_further-news-72031.php",
-        "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/03/weekly-deals-20/-952x498w6/gsmarena_us.jpg",
-        "publishedAt": "2026-03-22T01:31:02Z",
-        "content": "The first full week of sales of the Samsung Galaxy S26 series is now behind us. While we cant expect to see price movement this quickly, there was the smallest twitch.\r\nThe Galaxy S26 Ultra has not b\u2026 [+2525 chars]"
+        "author": "Ryan Mancini",
+        "title": "Jury finds Musk misled Twitter shareholders during takeover fight - The Hill",
+        "description": "A jury on Friday found that Elon Musk misled Twitter\u2019s shareholders by driving down Twitter\u2019s stock price ahead of his $44 billion acquisition of the company in 2022. The San Francisco jury were asked if two tweets and comments made by Musk on a podcast showe\u2026",
+        "url": "https://thehill.com/regulation/court-battles/5795094-jury-rules-musk-defrauded-investors/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/03/AP26063620756821-e1774147465457.jpg?w=1280",
+        "publishedAt": "2026-03-22T01:29:00Z",
+        "content": "Skip to content\r\nA jury on Friday found that Elon Musk misled Twitter\u2019s shareholders by driving down Twitter\u2019s stock price ahead of his $44 billion acquisition of the company in 2022.\r\nThe San Franci\u2026 [+2219 chars]"
     },
     {
         "source": {
@@ -158,53 +210,14 @@
     {
         "source": {
             "id": null,
-            "name": "New York Daily News"
+            "name": "MLB Trade Rumors"
         },
-        "author": "Jami Ganz",
-        "title": "\u2018Bachelorette\u2019 suitors could file \u2018monstrous lawsuit\u2019 over Taylor Frankie Paul cancellation - The Seattle Times",
-        "description": "Men who were hoping to find love with Taylor Frankie Paul on season 22 of \u201cThe Bachelorette\u201d may have grounds for a \u201cmonstrous lawsuit\u201d amid the show\u2019s last-minute cancelation, entertainment insiders say.",
-        "url": "https://www.nydailynews.com/2026/03/21/bachelorette-suitors-could-file-monstrous-lawsuit-taylor-frankie-paul-cancelation/",
-        "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2026/03/GettyImages-2211531778-e1774115673420.jpg?w=1024&h=678",
-        "publishedAt": "2026-03-22T00:55:49Z",
-        "content": "Taylor Frankie Paul\u2019s \u201cBachelorette\u201d suitors are considering a lawsuit against ABC and Warner Bros. Discovery over the cancelation of the 22nd season of the reality romance hit, amid new domestic vio\u2026 [+1985 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": null,
-        "title": "Cuba suffers second nationwide power outage in less than a week - CBS News",
-        "description": "Humanitarian organizations began delivering aid to Cuba by air Friday, including solar panels, food and medicine.",
-        "url": "https://www.cbsnews.com/news/cuba-second-nationwide-power-outage-march/",
-        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/03/21/8704ad3b-e143-42ae-b216-308852df3bcb/thumbnail/1200x630/4f5ac233ba6198c8245eeb5aeadd3536/gettyimages-2234051231.jpg",
-        "publishedAt": "2026-03-21T23:40:00Z",
-        "content": "Cuba on Saturday suffered its second nationwide power outage in less than a week, according to officials.\r\nThe Ministry of Energy and Mines said on\u00a0X\u00a0that another \"total disconnection of the National\u2026 [+1970 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "PBS"
-        },
-        "author": null,
-        "title": "Trump says he will order federal immigration officers to help with airport security unless Democrats end shutdown - PBS",
-        "description": "President Donald Trump said Saturday he will order federal immigration officers to take a role in airport security starting Monday unless Democrats agree on a bill to fund the Department of Homeland Security.",
-        "url": "https://www.pbs.org/newshour/nation/trump-says-he-will-order-federal-immigration-officers-to-help-with-airport-security-unless-democrats-end-shutdown",
-        "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/03/IceShooting-1024x683.jpg",
-        "publishedAt": "2026-03-21T22:57:59Z",
-        "content": "WEST PALM BEACH, Fla. (AP) President Donald Trump said Saturday he will order federal immigration officers to take a role in airport security starting Monday unless Democrats agree on a bill to fund \u2026 [+3755 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Kaanita Iyer, Gianluca Mezzofiore",
-        "title": "Iran launched missiles at US-UK military base in the Indian Ocean. Here\u2019s what that says about its capabilities - CNN",
-        "description": "Iran\u2019s attempt to strike a US-UK base over 2,000 miles (over 3,000 kilometers) off its coast has renewed questions about Tehran\u2019s military capabilities and how far its missiles can reach.",
-        "url": "https://www.cnn.com/2026/03/21/politics/iran-missiles-diego-garcia",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap26080467004763.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-03-21T22:22:16Z",
-        "content": "Irans attempt to strike a US-UK base over 2,000 miles (over 3,000 kilometers) off its coast has renewed questions about Tehrans military capabilities and how far its missiles can reach.\r\nOn Friday mo\u2026 [+4491 chars]"
+        "author": "Charlie Wright",
+        "title": "Mariners Assign Colt Emerson To Minor League Camp - MLB Trade Rumors",
+        "description": "The Mariners have sent one of their top prospects to minor league camp, ending his chance to be on the Opening Day roster.",
+        "url": "https://www.mlbtraderumors.com/2026/03/mariners-assign-colt-emerson-to-minor-league-camp.html",
+        "urlToImage": "https://cdn.mlbtraderumors.com/files/2026/03/ColtEmerson-1024x683.jpg",
+        "publishedAt": "2026-03-22T00:51:19Z",
+        "content": "Top prospect Colt Emerson has been\u00a0reassigned to minor league camp, the Mariners announced. The move likely ends the infielder\u2019s bid for an Opening Day roster spot. Despite his youth, the 20-year-old\u2026 [+2207 chars]"
     }
 ]
