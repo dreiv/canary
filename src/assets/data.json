@@ -1,16 +1,81 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "OilPrice.com"
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
         },
-        "author": "Irina Slav",
-        "title": "Goldman Boosts Oil Price Forecast by $8 for Brent and $7 for WTI - Crude Oil Prices Today | OilPrice.com",
-        "description": "Goldman Sachs has raised its oil price forecasts as the Strait of Hormuz crisis threatens a historic supply disruption.",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Boosts-Oil-Price-Forecast-by-8-for-Brent-and-7-for-WTI.html",
-        "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-03-23_tpf1btovkq.jpg",
-        "publishedAt": "2026-03-23T09:10:00Z",
-        "content": "Israels widening attacks on Iran\u2026\r\nScientists have created the first\u2026\r\nBy Irina Slav - Mar 23, 2026, 4:10 AM CDTBrent crude is seen averaging $85 per barrel this year, and West Texas Intermediate cou\u2026 [+1773 chars]"
+        "author": "Al Jazeera Staff",
+        "title": "Trump postpones military strikes on Iranian power plants for five days - Al Jazeera",
+        "description": "The US president\u2019s announcement comes after he holds \u200c\u2019good and productive conversations\u2019 with Tehran.",
+        "url": "https://www.aljazeera.com/news/2026/3/23/trump-postpones-military-strikes-on-iranian-power-plants",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/03/2026-03-20T201354Z_493857006_RC2K8KAXXANT_RTRMADP_3_USA-TRUMP-1-1-1774266324.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-03-23T12:00:00Z",
+        "content": "President Donald Trump said on Monday that he has ordered the United States military to postpone strikes against Iranian power plants and energy infrastructure for five days after holding good and pr\u2026 [+2914 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Tamar Haspel",
+        "title": "Column | Nutrition advice is often unreliable. Here are 3 things you can count on. - The Washington Post",
+        "description": "Most dietary guidance relies on lousy evidence. How are we supposed to know what to eat?",
+        "url": "https://www.washingtonpost.com/food/2026/03/23/nutrition-advice-fiber-salt-saturated-fat/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/WTP2RGDTM5FX3HMVP3WCX36VHU.jpg&w=1440",
+        "publishedAt": "2026-03-23T11:31:57Z",
+        "content": "Ever notice how nutrition advice keeps changing?\r\nYeah, dont answer that."
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Yuliya Talmazan, Mithil Aggarwal",
+        "title": "Jewish volunteer ambulances set on fire in London in apparent antisemitic attack - NBC News",
+        "description": "LONDON \u2014 Police in London are investigating an arson attack on several ambulances from a Jewish volunteer service, saying they are treating it as an antisemitic hate crime",
+        "url": "https://www.nbcnews.com/world/united-kingdom/jewish-volunteer-ambulances-set-fire-london-apparent-antisemitic-attac-rcna264680",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260323-ambulances-rs-2a6a53.jpg",
+        "publishedAt": "2026-03-23T10:34:00Z",
+        "content": "LONDON Police in London are investigating an arson attack on several ambulances from a Jewish volunteer service, saying they are treating it as an antisemitic hate crime.\r\nThe attack early Monday too\u2026 [+3631 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investor's Business Daily"
+        },
+        "author": null,
+        "title": "Dow Jones Futures Fall, Oil Prices Rise As Trump's Strait Of Hormuz Deadline Nears - Investor's Business Daily",
+        "description": "Trump delays strikes on Iran energy for five days, citing \"productive talks.\"",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fall-oil-prices-trump-strait-of-hormuz-iran-war-deadline/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2025/03/Stock-Trumplookingright-02-shutt.jpg",
+        "publishedAt": "2026-03-23T10:32:48Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Rohan Nadkarni",
+        "title": "Iowa's stunning upset of No. 1 Florida caps off thrilling first weekend of March Madness - NBC News",
+        "description": "The Florida Gators, the No. 1 seed in the South Region, exited the men\u2019s NCAA Tournament in the second round after a 73-72 loss to the No. 9 Iowa Hawkeyes. It was just one of many exciting results.",
+        "url": "https://www.nbcnews.com/sports/college-basketball/ncaa-tournament-iowas-stunning-upset-no-1-florida-caps-thrilling-weeke-rcna264669",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260322-iowa-ncaa-ww-1949-0d3934.jpg",
+        "publishedAt": "2026-03-23T10:05:00Z",
+        "content": "The Florida Gators will not be repeating as national champions.\r\nThe Gators, the No. 1 seed in the South Region, exited the mens NCAA Tournament in the second round after a 73-72 loss to the No. 9 Io\u2026 [+3881 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "Laurence Norman",
+        "title": "The Top Iranian Diplomat Who Says He\u2019s in No Mood to Talk - WSJ",
+        "description": "Iran\u2019s foreign minister Abbas Araghchi is a regime loyalist and relentless negotiator",
+        "url": "https://www.wsj.com/world/middle-east/the-top-iranian-diplomat-who-says-hes-in-no-mood-to-talk-ef6ed51e",
+        "urlToImage": "https://images.wsj.net/im-06145733/social",
+        "publishedAt": "2026-03-23T09:30:00Z",
+        "content": "BERLINAfter strikes that decimated much of Irans leadership, the countrys top diplomat has become the chief messenger of a defiant regime.\r\nAbbas Araghchi, 63 years old, has long been known in Wester\u2026 [+384 chars]"
     },
     {
         "source": {
@@ -24,6 +89,32 @@
         "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F4e%2F8f%2F725ad22645cdb32a09390cb071b1%2Fu-s-congress-75673.jpg",
         "publishedAt": "2026-03-23T08:45:00Z",
         "content": "Trump threw a curveball into the rekindled talks Sunday night when he declared on Truth Social he would not back any deal unless it includes the GOPs partisan elections bill, the SAVE America Act. Se\u2026 [+5594 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Joseph Wilkins, Hugh Leask",
+        "title": "Gold and silver in freefall as investors flee safe haven metals trade - CNBC",
+        "description": "Precious metals recovered some of Monday morning's heavy losses after President Trump delayed strikes against Iran's energy facilities.",
+        "url": "https://www.cnbc.com/2026/03/23/gold-and-silver-in-freefall-as-investors-flee-safe-haven-metals-trade.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108184328-1754934160177-gettyimages-2207845202-20090101250404-99-437465.jpeg?v=1774249190&w=1920&h=1080",
+        "publishedAt": "2026-03-23T07:43:00Z",
+        "content": "Gold, silver and platinum resumed their recent sell-off on Monday, but recovered strongly from initial sharp losses as fresh hopes of a de-escalation of the Iranian conflict buoyed investors. \r\nThe p\u2026 [+2361 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SFGate"
+        },
+        "author": "Christopher Renstrom",
+        "title": "Horoscope for Monday, 03/23/26 by Christopher Renstrom - SFGATE",
+        "description": "SCORPIO (Oct. 23 - Nov. 21): In truth you're more accommodating than people think. It's just that you want to know they gave it their best shot.",
+        "url": "https://www.sfgate.com/horoscope/article/horoscope-monday-03-23-26-christopher-renstrom-22089163.php",
+        "urlToImage": "https://s.hdnux.com/photos/47/72/12/10461851/6/rawImage.jpg",
+        "publishedAt": "2026-03-23T07:20:30Z",
+        "content": "Star-crossed lovers?PlentyOfFish sorted through 150,000 users to find trends in matches between certain astrological signs. Who's your best match? Click through to find out.\u00a0\r\nAries, March 21 to Apri\u2026 [+7194 chars]"
     },
     {
         "source": {
@@ -53,16 +144,16 @@
     },
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
+            "id": null,
+            "name": "Sports Illustrated"
         },
-        "author": "Anand Krishnamoorthy",
-        "title": "Traders Brace for Turbulent Open as War Rages On: Markets Wrap - Bloomberg.com",
-        "description": "A selloff in stocks, gold and bonds deepened as the US and Iran hardened their rhetoric and signaled a potential escalation to their conflict, which is entering its fourth week.",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-22/markets-set-for-turbulent-open-as-war-rages-on-markets-wrap",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6xbYJLMgV6A/v1/1200x800.jpg",
-        "publishedAt": "2026-03-23T06:00:00Z",
-        "content": "A selloff in stocks, gold and bonds deepened as the US and Iran hardened their rhetoric and signaled a potential escalation to their conflict, which is entering its fourth week.\r\nAsian shares fell fo\u2026 [+351 chars]"
+        "author": "SI Staff",
+        "title": "March Madness Day 4 Recap: Iowa Stuns Florida, UConn Advances to Sweet 16, Alabama Rolls - Sports Illustrated",
+        "description": "The Sweet 16 is set. Here is everything we saw during the second round to set the stage for next week.",
+        "url": "https://www.si.com/college-basketball/march-madness-bracket-live-scores-mens-ncaa-tournament-second-round-day-2",
+        "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_196,w_1702,h_957/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01kmc5a6r6r1sxh4pgrs.jpg",
+        "publishedAt": "2026-03-23T05:43:50Z",
+        "content": "The 2026 NCAA mens tournament second round concludes Sunday. Purdue, Iowa State, St. Johns, Tennessee, Iowa, Arizona, UConn and Alabama earned berths in the Sweet 16 on Sunday, after eight teams adva\u2026 [+777 chars]"
     },
     {
         "source": {
@@ -79,29 +170,42 @@
     },
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
-        "author": "Jon Gambrell, David Rising",
-        "title": "Iran threatens to start hitting Gulf power plants and mine waters as Israel launches new attacks - AP News",
-        "description": "Iran is warning that it could strike electricity plants across the Middle East and mine the Persian Gulf. Monday's warning came after U.S. President Donald Trump threatened to bomb power stations in the Islamic Republic if it did not reopen the crucial Strait\u2026",
-        "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-23-2026-93c6b3234a5e8917aaf599bf85a03044",
-        "urlToImage": "https://dims.apnews.com/dims4/default/c407209/2147483647/strip/true/crop/7690x5124+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff9%2Fe2%2Fbde948a7bfb5da0869d18ef700ca%2Fd6efb71999404a148e0ef2185162fadc",
+        "author": "Jake Lloyd-Smith",
+        "title": "Goldman Raises Oil Forecasts on Largest-Ever Supply Shock - Bloomberg",
+        "description": "Goldman Sachs Group Inc. raised its oil price forecasts for 2026 due to the prolonged disruption of flows through the Strait of Hormuz, which it described as the largest-ever supply shock for the global crude market.",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-23/goldman-sachs-raises-oil-forecasts-on-largest-ever-supply-shock",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imBvgiw7tRpc/v0/1200x800.jpg",
         "publishedAt": "2026-03-23T04:55:00Z",
-        "content": "DUBAI, United Arab Emirates (AP) Iran warned Monday that it would strike electricity plants across the Middle East and mine the Persian Gulf after U.S. President Donald Trump threatened to bomb power\u2026 [+6092 chars]"
+        "content": "Goldman Sachs Group Inc. raised its oil price forecasts for 2026 due to the prolonged disruption of flows through the Strait of Hormuz, which it described as the largest-ever supply shock for the glo\u2026 [+241 chars]"
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
+            "id": null,
+            "name": "SamMobile"
         },
-        "author": "Clare Sebastian, Laura Sharman, Teele Rebane, Lex Harvey",
-        "title": "London fire services responding to \u201cincident\u201d in Golders Green neighborhood - CNN",
-        "description": "Several ambulances belonging to a Jewish volunteer rescue organization were set on fire outside a synagogue in a neighborhood home to London\u2019s largest Jewish community early on Monday, in what police are treating as an antisemitic attack.",
-        "url": "https://www.cnn.com/2026/03/22/uk/attack-ambulances-london-golders-green-intl-hnk",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-22474460-11827-149000000001-still.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-03-23T03:55:00Z",
-        "content": "Several ambulances belonging to a Jewish volunteer rescue organization were set on fire outside a synagogue in a neighborhood home to Londons largest Jewish community early on Monday, in what police \u2026 [+3296 chars]"
+        "author": "Asif Iqbal Shaik",
+        "title": "Samsung Galaxy S27 Ultra may not bring major S Pen reforms - SamMobile",
+        "description": "It has been over 15 years since Samsung began shipping the S Pen stylus with Galaxy devices. Throughout this time, the S Pen has relied on the same Electromagnetic Resonance (EMR) technology. A few months ago, it was rumored that Samsung could switch to a new\u2026",
+        "url": "https://www.sammobile.com/news/galaxy-s27-ultra-not-bring-major-s-pen-reforms/",
+        "urlToImage": "https://www.sammobile.com/wp-content/uploads/2026/03/Galaxy-S26-Ultra-review-S-Pen-2-1200x675.jpg",
+        "publishedAt": "2026-03-23T04:43:00Z",
+        "content": "It has been over 15 years since Samsung began shipping the S Pen stylus with Galaxy devices. Throughout this time, the S Pen has relied on the same Electromagnetic Resonance (EMR) technology. A few m\u2026 [+1183 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Greg Miller, Rachel Chason, Sammy Westfall, Heidi Levine",
+        "title": "Trump threats, U.S. troop build-up raise specter of battle for Hormuz - The Washington Post",
+        "description": "Israelis said securing the strait for energy shipments could become the war\u2019s main goal now that regime change and ending Iran\u2019s ability to obtain a nuclear weapon seem out of reach.",
+        "url": "https://www.washingtonpost.com/world/2026/03/22/marines-hormuz-strait-decisive-battle-iran-trump/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/K73TTYHHUOMTYBV7SXMKCG5GKU.JPG&w=1440",
+        "publishedAt": "2026-03-23T04:41:12Z",
+        "content": "TEL AVIV A surge of additional U.S. forces to the Middle East and President Donald Trumps threat to obliterate Irans energy infrastructure have set the stage for what U.S. and Israeli security offici\u2026 [+124 chars]"
     },
     {
         "source": {
@@ -119,32 +223,6 @@
     {
         "source": {
             "id": null,
-            "name": "Suntimes.com"
-        },
-        "author": "Kaitlin Washburn, Violet Miller",
-        "title": "Venezuelan migrant charged with murder of Loyola student Sheridan Gorman - Chicago Sun-Times",
-        "description": "Trump administration officials claim Illinois' sanctuary state policies enabled the attack.",
-        "url": "https://chicago.suntimes.com/crime/2026/03/22/ice-detainer-loyola-student-killing-sheridan-gorman",
-        "urlToImage": "https://cst.brightspotcdn.com/dims4/default/4f4474a/2147483647/strip/true/crop/6818x3892+0+573/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd6%2F30%2F872fd020461881bad76323c2496f%2Frogersparkhomicide-260320-02.jpg",
-        "publishedAt": "2026-03-23T02:56:00Z",
-        "content": "A Venezuelan migrant has been charged with the murder of Loyola University Chicago student Sheridan Gorman, police announced Sunday, prompting outrage from Trump administration officials who branded \u2026 [+3320 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "On3.com"
-        },
-        "author": "Griffin McVeigh",
-        "title": "2026 NCAA Tournament: Tip-off times, TV channels announced for Sweet 16 games - On3",
-        "description": "Tip-off times and television channels for the NCAA Tournament Sweet Sixteen games have been announced by Turner.",
-        "url": "https://www.on3.com/news/2026-ncaa-tournament-tip-off-times-tv-channels-announced-for-sweet-16-games/",
-        "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2024/03/28193755/march_madness_logo_2024.jpg",
-        "publishedAt": "2026-03-23T02:50:26Z",
-        "content": "For 16 teams, a major postseason hurdle has been jumped over. Making the second weekend of the NCAA Tournament is a big-time accomplishment. Coaches can build resumes on playing in Sweet Sixteens and\u2026 [+1215 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Hollywood Reporter"
         },
         "author": "Kimberly Nordyke",
@@ -154,19 +232,6 @@
         "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/03/GettyImages-56192858-copy.jpg?w=1296&h=730&crop=1",
         "publishedAt": "2026-03-23T02:47:58Z",
         "content": "NHL reporter Jessi Pierce and her three children died Saturday in a fire at her Minnesota home.\r\nThe family dog also perished in the fire, according to the White Bear Lake (Minn.) Fire Department.\r\nF\u2026 [+1972 chars]"
-    },
-    {
-        "source": {
-            "id": "al-jazeera-english",
-            "name": "Al Jazeera English"
-        },
-        "author": "John Power",
-        "title": "Asian stock markets plunge amid Trump\u2019s ultimatum on Iran - Al Jazeera",
-        "description": "Key indexes in Japan, South Korea and Hong Kong tumble as Iran threatens attacks on energy infrastructure across region.",
-        "url": "https://www.aljazeera.com/economy/2026/3/23/asian-stock-markets-plunge-amid-trumps-ultimatum-on-iran",
-        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260302__99HQ8KE__v2__MidRes__TopshotJapanEconomyStocks-1774225751.jpg?resize=1800%2C1200&quality=80",
-        "publishedAt": "2026-03-23T02:01:58Z",
-        "content": "Stock markets in the Asia Pacific have fallen sharply amid US President Donald Trumps ultimatum warning Iran to reopen the Strait of Hormuz or face the annihilation of its energy infrastructure.\r\nJap\u2026 [+2731 chars]"
     },
     {
         "source": {
@@ -183,67 +248,15 @@
     },
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
         },
-        "author": "Rob Maaddi",
-        "title": "Iowa beats No. 1 seed and defending champ Florida in March Madness on Folgueiras' 3 in final seconds - AP News",
-        "description": "Alvaro Folgueiras nailed a 3-pointer with 4.5 seconds remaining and Iowa eliminated defending national champion Florida, sending the top-seeded Gators home with a 73-72 victory in the second round of the NCAA Tournament. Under first-year coach Ben McCollum, I\u2026",
-        "url": "https://apnews.com/article/iowa-florida-score-march-madness-aa80c53cb290b3bd6b6d69aa387c44e2",
-        "urlToImage": "https://dims.apnews.com/dims4/default/2caf983/2147483647/strip/true/crop/4200x2799+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fff%2Fc7%2Fa5571216cbcae0182474ccd3b7de%2F973474ed14924b2b937885c3f507caf2",
-        "publishedAt": "2026-03-23T01:51:00Z",
-        "content": "TAMPA, Fla. (AP) Alvaro Folgueiras told Bennett Stirtz hed be ready for the ball, and he delivered in the clutch.\r\nFolgueiras nailed a 3-pointer with 4.5 seconds remaining and Iowa eliminated defendi\u2026 [+3805 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "DSOGaming"
-        },
-        "author": "John Papadopoulos",
-        "title": "Crimson Desert March 23 Update 1.00.03 Released \u2013 Patch Notes - DSOGaming",
-        "description": "Pearl Abyss has just released Title Update 1.00.03 for Crimson Desert and shared its full patch notes.",
-        "url": "https://www.dsogaming.com/patches/crimson-desert-mar-23rd-update-1-00-03-released-patch-notes/",
-        "urlToImage": "https://www.dsogaming.com/wp-content/uploads/2024/12/Crimson-Desert-new-feature-2.jpg",
-        "publishedAt": "2026-03-23T01:48:58Z",
-        "content": "Pearl Abyss has just released Title Update 1.00.03 for Crimson Desert and shared its full patch notes. So, let\u2019s see what this new update brings to the table.\r\nPatch 1.00.03 brings numerous control i\u2026 [+12514 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "nj.com"
-        },
-        "author": "Adam Zagoria | For NJ.com",
-        "title": "Charles Barkley reacts to final play of St. John\u2019s-Kansas game: \u2018That cannot happen\u2019 - NJ.com",
-        "description": "Charles Barkley reacts to final play of St. John\u2019s-Kansas game: \u2018That cannot happen\u2019",
-        "url": "https://www.nj.com/sports/2026/03/charles-barkley-reacts-to-final-play-of-st-johns-kansas-game-that-cannot-happen.html",
-        "urlToImage": "https://www.nj.com/resizer/v2/24X4WDHGQ5BQ3NZELD7MH2DOXI.jpg?auth=34907269451ca1d615884eed91af090f56de76ae921ed7b30a69614d214d95af&width=1280&smart=true&quality=90",
-        "publishedAt": "2026-03-23T00:35:00Z",
-        "content": "Dylan Darling scored the game-winning basket to send St. Johns to the Sweet 16, but Charles Barkley had a message for Kansas about the play.\r\nThat cannot happen, that straight line drive, Barkley sai\u2026 [+2017 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Anderson  Cooper, Denise  Schrier Cetta",
-        "title": "Research to help dogs live longer, healthier lives could unlock secrets for people to age better, too - CBS News",
-        "description": "The Dog Aging Project is working to help dogs live longer, healthier lives. The research results may help humans age well, too.",
-        "url": "https://www.cbsnews.com/news/longer-healthier-dog-lives-research-could-unlock-secrets-for-people-60-minutes-transcript/",
-        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/03/20/6b98e599-8d6e-4f73-93ef-bfdab3786c85/thumbnail/1200x630/010be6ef0fdd844388dcd34bcd5a80fd/dog-aging-video-cooper.jpg",
-        "publishedAt": "2026-03-22T23:45:11Z",
-        "content": "Everyone knows the old adage about dogs being man's best friend, but you may not know that dogs might also be one of man's best hopes to treat age-related illnesses. That's because our canines develo\u2026 [+13516 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "ScienceAlert"
-        },
-        "author": "Carly Cassella",
-        "title": "Scientists Identified a Speech Trait That Foreshadows Cognitive Decline - ScienceAlert",
-        "description": "Early signs of Alzheimer's disease may be hidden in the way a person speaks, but it's not yet clear which details of our diction are most critical for diagnosis.",
-        "url": "https://www.sciencealert.com/scientists-identified-a-speech-trait-that-foreshadows-cognitive-decline",
-        "urlToImage": "https://www.sciencealert.com/images/2025/11/Silhouette-of-senior-couple-talking-close-to-faces.jpg",
-        "publishedAt": "2026-03-22T23:22:25Z",
-        "content": "Early signs of Alzheimer's disease may be hidden in the way a person speaks, but it's not yet clear which details of our diction are most critical for diagnosis.\r\nA study from 2023 suggests that as w\u2026 [+4786 chars]"
+        "author": "Edna Mohamed",
+        "title": "Slovenia\u2019s liberals and conservatives neck and neck in parliamentary vote - Al Jazeera",
+        "description": "The nearly equal result means that none of the main parties will have a majority in the 90-member parliament.",
+        "url": "https://www.aljazeera.com/news/2026/3/22/slovenias-freedom-movement-party-takes-narrow-election-lead-exit-poll",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/03/afp_69c0465b183e-1774208603.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-03-23T01:04:29Z",
+        "content": "Slovenias governing liberals and opposition conservatives were neck and neck after a parliamentary election, near-complete preliminary results showed, heralding a period of political uncertainty in t\u2026 [+1933 chars]"
     }
 ]
