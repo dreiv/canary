@@ -1,6 +1,32 @@
 [
     {
         "source": {
+            "id": null,
+            "name": "Haaretz"
+        },
+        "author": "Bar Peleg",
+        "title": "Five Iranian Missile Barrages Since Morning: At Least Six Wounded, Medics Say - Haaretz",
+        "description": "11-year-old Suffers Cardiac Arrest During Siren in Northern Israel. Sirens Sound in Tel Aviv, Central Israel, West Bank as Iran Fires Sixth Barrage. Saudi Arabia, Gulf States Reiterate \u2018Full Right to Self Defense\u2019 Against Iranian Aggression",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-03-26/ty-article-live/wall-street-journal-trump-tells-aides-to-wrap-up-iran-conflict-in-coming-weeks/0000019d-281c-d77a-a7ff-fffcacd50000",
+        "urlToImage": "https://img.haarets.co.il/bs/0000019d-281c-d77a-a7ff-fffcacd50000/9d/42/6578f6ba42b08455bf802fb0c751/d2126155-b766-48cf-97e8-aa5454d46e1a.jfif?precrop=1200,698,x0,y437&width=1200&height=630&cmsprod",
+        "publishedAt": "2026-03-26T07:39:00Z",
+        "content": "Staff sergeant Ori Greenberg, 21, killed in south LebanonCredit: IDF Spokesperson's Unit\r\nThe Israeli military said an IDF soldier in the Golani Brigade's reconnaissance unit was killed in south Leba\u2026 [+278 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Darlene Superville",
+        "title": "Melania Trump shares the spotlight with a robot at an education and technology event - AP News",
+        "description": "Melania Trump often commands the attention of any room she enters, but on Wednesday, she shared the spotlight with a robot. The humanoid robot Figure 03 accompanied the first lady on Wednesday as she arrived at the White House East Room for the second day of \u2026",
+        "url": "https://apnews.com/article/melania-trump-robot-technology-education-summit-4753e34c6c80ca49623fec95ba99a275",
+        "urlToImage": "https://dims.apnews.com/dims4/default/b0b2094/2147483647/strip/true/crop/12857x8567+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa3%2F0c%2Fba051796a5d97c3b93dd5d8dc1f2%2F26357644b79b43c59cdfcf3666389d5a",
+        "publishedAt": "2026-03-26T05:53:00Z",
+        "content": "WASHINGTON (AP) Melania Trump often commands the attention of any room she enters but all eyes and cameras were trained on her humanoid companion on Wednesday. \r\nThe robot accompanied the first lady \u2026 [+2619 chars]"
+    },
+    {
+        "source": {
             "id": "axios",
             "name": "Axios"
         },
@@ -28,15 +54,28 @@
     {
         "source": {
             "id": null,
-            "name": "On3.com"
+            "name": "Hollywood Reporter"
         },
-        "author": "Griffin McVeigh",
-        "title": "UNC coaching search: Incoming AD Steve Newmark recaps timeline that led to Hubert Davis firing - On3",
-        "description": "Incoming North Carolina AD Steve Newmark recapped the timeline that led to the firing of head coach Hubert Davis.",
-        "url": "https://www.on3.com/college/north-carolina-tar-heels/news/unc-coaching-search-incoming-ad-steve-newmark-recaps-timeline-that-led-to-hubert-davis-firing/",
-        "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2026/03/20143112/0C1A0678-hubert-davis.jpg",
-        "publishedAt": "2026-03-26T03:05:10Z",
-        "content": "Multiple days spanned between North Carolinas loss to VCU in the NCAA Tournament and the firing of Hubert Davis. For folks in Chapel Hill, the process probably felt even longer. Davis is out after fi\u2026 [+2093 chars]"
+        "author": "Pamela McClintock, Aaron Couch",
+        "title": "\u2018Project Hail Mary\u2019 Sequel Not Out of the Question As Ryan Gosling Movie Rockets Into Potential Franchise Territory (Exclusive) - The Hollywood Reporter",
+        "description": "All involved say author Andy Weir is in the driver's seat as to whether there will be a second book \u2014 and hence, movie \u2014 but the stars seem to be aligning for Amazon MGM as it becomes the first new major Hollywood studio in decades.",
+        "url": "http://www.hollywoodreporter.com/movies/movie-news/project-hail-mary-movie-sequel-ryan-gosling-1236547587/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/Project-Hail-Mary.png?crop=0px%2C108px%2C3062px%2C1713px&resize=1440%2C810",
+        "publishedAt": "2026-03-26T03:09:02Z",
+        "content": "In the early weeks of the pandemic, Ryan Gosling received the manuscript for Project Hail Mary a full year before The Martian author Andy Weir published the sci-fi space novel. The actor was hooked. \u2026 [+5870 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Sportsrush"
+        },
+        "author": "Reese Patanjo",
+        "title": "Shaquille O\u2019Neal Denies Sending Viral Explicit DM\u2019s to Sabrina Carpenter, Says He Has \u201cWay More Game\u201d - Yahoo",
+        "description": "Shaquille O\u2019Neal was one of the best players in NBA history, but the big fella has also been known to be a pretty solid player off the court as well. He\u2019s...",
+        "url": "https://thesportsrush.com/nba-news-shaquille-oneal-denies-sending-viral-explicit-dms-to-sabrina-carpenter-says-he-has-way-more-game/",
+        "urlToImage": "https://s.yimg.com/os/en/the_sportsrush_articles_230/4a30bc526bb65c59c543e3f73b00a0a4",
+        "publishedAt": "2026-03-26T02:41:00Z",
+        "content": "Shaquille ONeal was one of the best players in NBA history, but the big fella has also been known to be a pretty solid player off the court as well. Hes had a high-profile dating life and even admitt\u2026 [+1904 chars]"
     },
     {
         "source": {
@@ -53,19 +92,6 @@
     },
     {
         "source": {
-            "id": "entertainment-weekly",
-            "name": "Entertainment Weekly"
-        },
-        "author": "https://www.facebook.com/entertainmentweekly",
-        "title": "Security guard takes 'full responsibility' for Chappell Roan hotel controversy, confirms he wasn't working for pop star - Entertainment Weekly",
-        "description": "Security guard Pascal Duvier said that he takes 'full responsibility' for the hotel controversy involving Chappell Roan and Jude Law's daughter Ava, noting that he was not working for the 'Hot to Go' singer.",
-        "url": "https://ew.com/security-guard-takes-full-responsibility-for-chappell-roan-hotel-controversy-11934703",
-        "urlToImage": "https://ew.com/thmb/pSh-EoIibAGuHtW4-EEn3Zz7h1A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chappell-roan-2024-olivia-rodrigo-guts-tour-012025-a437ce2f579a48d09a9b47ee799d3d41.jpg",
-        "publishedAt": "2026-03-26T01:43:04Z",
-        "content": "A security guard has claimed responsibility for the controversial incident in a Brazilian hotel involving Jude Law's daughter and Chappell Roan.\r\nPascal Duvier, a \"protection specialist\" and martial \u2026 [+4617 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "BBC News"
         },
@@ -76,6 +102,45 @@
         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fef7/live/33194d00-28af-11f1-bb58-f7787f04c8ed.jpg",
         "publishedAt": "2026-03-26T01:42:26Z",
         "content": "The trip, originally slated for 31 March, was delayed after the US and Israel launched wide-ranging strikes on Iran last month, killing the country's supreme leader."
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Trump says Iran 'afraid' to admit to talks as Tehran rejects reports of dialogue - BBC",
+        "description": "Iran's foreign minister says they have \"no intention of negotiating for now\", as the White House insists its war goals have almost been met.",
+        "url": "https://www.bbc.com/news/live/cre0vl84qy9t",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/631d/live/7ee5aaf0-28ad-11f1-a79a-77e93010d956.jpg",
+        "publishedAt": "2026-03-26T01:37:25Z",
+        "content": "Daniel BushWashington correspondent\r\nTrump appears increasingly interested in finding an off-ramp with Iran, or what he calls \"winding down\" the war. \r\nBut his exit strategy is unclear - and the US p\u2026 [+831 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SFGate"
+        },
+        "author": "Gabe Fernandez",
+        "title": "First SF Giants at-bats ruined by Netflix\u2019s aggressive ad insertion - SFGATE",
+        "description": "The first SF Giants at-bats of the season were ruined by Netflix\u2019s aggressive ad insertion with ugly bright digital ads.",
+        "url": "https://www.sfgate.com/giants/article/sf-giants-at-bats-netflix-ad-22107917.php",
+        "urlToImage": "https://s.hdnux.com/photos/01/65/47/13/30831343/3/rawImage.jpg",
+        "publishedAt": "2026-03-26T01:32:35Z",
+        "content": "Manager Tony\u00a0Vitello of the San Francisco Giants greets players on the field prior to the game between the New York Yankees and the San Francisco Giants at Oracle Park on Wednesday, March 25, 2026 in\u2026 [+1984 chars]"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera Staff",
+        "title": "Sarah Mullally enthroned as first female archbishop of Canterbury - Al Jazeera",
+        "description": "The first woman to lead the Church of England formally installed at ceremony before 2,000 guests.",
+        "url": "https://www.aljazeera.com/news/2026/3/26/sarah-mullally-enthroned-as-first-female-archbishop-of-canterbury",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/03/AP26084585007249-1774482471.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-03-26T00:53:34Z",
+        "content": "Sarah Mullally has been formally\u00a0installed as archbishop of Canterbury,\u00a0marking the start of her public ministry as the first woman to lead the Church of England.\r\nThe former nurse on Wednesday took \u2026 [+4248 chars]"
     },
     {
         "source": {
@@ -131,19 +196,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "McCovey Chronicles"
-        },
-        "author": "Sami Higgins",
-        "title": "How to watch San Francisco Giants vs. New York Yankees - McCovey Chronicles",
-        "description": "Logan Webb gets the start against Max Fried as the Giants welcome the Yankees to Oracle Park for Opening Day!",
-        "url": "https://www.mccoveychronicles.com/san-francisco-giants-game-information/104270/mlb-2026-san-francisco-giants-how-to-watch-opening-day-new-york-yankees-logan-webb-max-fried",
-        "urlToImage": "https://platform.mccoveychronicles.com/wp-content/uploads/sites/105/2026/03/gettyimages-2266599813.jpg?quality=90&strip=all&crop=0%2C10.730415302961%2C100%2C78.539169394078&w=1200",
-        "publishedAt": "2026-03-25T23:35:00Z",
-        "content": "The San Francisco Giants play the very first game of the 2026 MLB season tonight against the New York Yankees at Oracle Park. As a reminder, this game will only be broadcast on Netflix.\r\nTaking the m\u2026 [+1112 chars]"
-    },
-    {
-        "source": {
             "id": "associated-press",
             "name": "Associated Press"
         },
@@ -158,53 +210,27 @@
     {
         "source": {
             "id": null,
-            "name": "DW (English)"
+            "name": "The Conversation Africa"
         },
-        "author": "Darko Janjevic",
-        "title": "Humans and dogs \u2014 scientists find new proof of ancient bond - DW.com",
-        "description": "Dogs were our friends and guardians thousands of years before the end of the last ice age, with new studies identifying a puppy that lived 15,800 years ago.",
-        "url": "https://www.dw.com/en/humans-and-dogs-scientists-find-new-proof-of-ancient-bond/a-76533203",
-        "urlToImage": "https://static.dw.com/image/76531096_6.jpg",
-        "publishedAt": "2026-03-25T23:05:53Z",
-        "content": "A female puppy that lived some 15,800 years ago in present-day Turkey has been labeled as the earliest-known dog by scientists in papers published on Wednesday.\r\nThe remains are nearly 5,000 years ol\u2026 [+2885 chars]"
+        "author": "Rob Nicholls",
+        "title": "Meta and Google just lost a landmark social media addiction case. A tech law expert explains the fallout - The Conversation",
+        "description": "The case was the first of its kind. But it won\u2019t be the last.",
+        "url": "https://theconversation.com/meta-and-google-just-lost-a-landmark-social-media-addiction-case-a-tech-law-expert-explains-the-fallout-278409",
+        "urlToImage": "https://images.theconversation.com/files/726320/original/file-20260325-57-p5v4uo.jpg?ixlib=rb-4.1.0&rect=0%2C92%2C3000%2C1500&q=45&auto=format&w=1356&h=668&fit=crop",
+        "publishedAt": "2026-03-25T23:14:42Z",
+        "content": "Social media platforms Instagram and YouTube have a design defect which means they are addictive, a jury in the United States has ruled. \r\nThe Los Angeles jury took nearly nine days to reach its verd\u2026 [+6134 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "MacRumors"
+            "name": "NASA"
         },
-        "author": "Joe Rossignol",
-        "title": "tvOS 26.4 Adds These New Features to Your Apple TV - MacRumors",
-        "description": "Apple this week released tvOS 26.4, and the software update includes a handful of new features and changes for the Apple TV.   tvOS 26.4 is...",
-        "url": "https://www.macrumors.com/2026/03/25/tvos-26-4-features-and-release-notes/",
-        "urlToImage": "https://images.macrumors.com/t/GAyquGnnVSnhxBeZ-t47PVsJQ04=/2500x/article-new/2024/06/apple-tv-4k-new-orange.jpg",
-        "publishedAt": "2026-03-25T22:33:00Z",
-        "content": "Apple this week released tvOS 26.4, and the software update includes a handful of new features and changes for the Apple TV.\r\ntvOS 26.4 is compatible with all Apple TV 4K and Apple TV HD models relea\u2026 [+2336 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Nature.com"
-        },
-        "author": null,
-        "title": "Epigenetic memory of colitis promotes tumour growth - Nature",
-        "description": "Colonic stem cells retain a memory of inflammation following disease resolution and there is a mechanistic link between chronic inflammation and malignancy, suggesting potential strategies to mitigate cancer risk in patients with chronic inflammatory conditio\u2026",
-        "url": "https://www.nature.com/articles/s41586-026-10258-4",
-        "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10258-4/MediaObjects/41586_2026_10258_Fig1_HTML.png",
-        "publishedAt": "2026-03-25T22:07:30Z",
-        "content": "Animals and cell lines\r\nAnimal work\r\nMouse (Mus musculus) strains C57BL/6J (strain no. 000664) and Cdx2:CreERT2;APCfl/fl;KrasWT (strain no. 035169)50 were obtained from The Jackson Laboratory. Mice w\u2026 [+60633 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Nature.com"
-        },
-        "author": null,
-        "title": "Dominant clones leverage developmental epigenomic states to drive ependymoma - Nature",
-        "description": "Single-nucleus chromatin and RNA sequencing identifies epigenetic chromatin domains that confer vulnerability to paediatric brain tumours such as ependymomas, providing insight into the development of such tumours despite \u2018quiet\u2019 genomes.",
-        "url": "https://www.nature.com/articles/s41586-026-10270-8",
-        "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10270-8/MediaObjects/41586_2026_10270_Fig1_HTML.png",
-        "publishedAt": "2026-03-25T22:06:38Z",
-        "content": "In utero electroporation\r\nAll animal procedures in this study were performed with approval from the St. Jude Institutional Animal Care and Use Committee. IUE was performed as described previously27, \u2026 [+21989 chars]"
+        "author": "Jennifer M. Dooren",
+        "title": "NASA Sets Coverage for First Artemis Crewed Mission Around Moon - NASA (.gov)",
+        "description": "A variety of prelaunch, launch, and mission events for NASA\u2019s Artemis II mission around the Moon will stream online. The agency is targeting no earlier than",
+        "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-first-artemis-crewed-mission-around-moon/",
+        "urlToImage": "https://www.nasa.gov/wp-content/uploads/2026/03/a2crew-7ff19d.jpg",
+        "publishedAt": "2026-03-25T23:12:06Z",
+        "content": "A variety of prelaunch, launch, and mission events for NASAs Artemis II mission around the Moon will stream online. The agency is targeting no earlier than Wednesday, April 1, for the test flight dur\u2026 [+5304 chars]"
     }
 ]
