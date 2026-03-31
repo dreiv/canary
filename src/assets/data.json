@@ -1,6 +1,19 @@
 [
     {
         "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Noah Trister",
+        "title": "Mullins Madness! Freshman's 35-footer gives UConn a 73-72 win over Duke and a Final Four spot - AP News",
+        "description": "Braylon Mullins sank a desperation 3-pointer with 0.4 seconds left to give UConn an astonishing 73-72 victory over top-seeded Duke, earning the Huskies a spot in the Final Four after they rallied from a 19-point first-half deficit. The Blue Devils led by thre\u2026",
+        "url": "https://apnews.com/article/march-madness-duke-uconn-score-90d41d5db61e46658ffb6465b2681c64",
+        "urlToImage": "https://dims.apnews.com/dims4/default/82c8668/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F36%2F5e%2Fb63102d8f4eb94e8929dbf06db44%2Fc4e265a997e640c6a283ddadc1a91cdf",
+        "publishedAt": "2026-03-30T01:40:00Z",
+        "content": "WASHINGTON (AP) Braylon Mullins retrieved a loose ball near midcourt and suddenly, improbably, UConn had a chance to win.\r\nAs the frantic final seconds unfolded, Dan Hurley figured a timeout would do\u2026 [+5120 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "TVLine"
         },
@@ -11,19 +24,6 @@
         "urlToImage": "https://www.tvline.com/img/gallery/marshals-episode-5-post-mortem/l-intro-1774813303.jpg",
         "publishedAt": "2026-03-30T01:32:32Z",
         "content": "The March 29 episode of \"Marshals\" marked an important step forward in the relationship between Cal's team and the Broken Rock reservation, even if the two-parter ended on a bummer of a cliffhanger.\r\u2026 [+1947 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": null,
-        "title": "Oil Gains as Iran War Escalates With Houthi Attacks on Israel - Bloomberg.com",
-        "description": "Oil advanced as Iran-backed Houthi militants in Yemen entered the Middle East war and more US troops arrived in the region, raising fears the widening conflict will cause further chaos for energy markets.",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-29/latest-oil-market-news-and-analysis-for-march-30",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikSbMTOWVuiA/v0/1200x800.jpg",
-        "publishedAt": "2026-03-30T01:28:00Z",
-        "content": "Oil advanced as Iran-backed Houthi militants in Yemen entered the Middle East war and more US troops arrived in the region, raising fears the widening conflict will cause further chaos for energy mar\u2026 [+292 chars]"
     },
     {
         "source": {
@@ -41,6 +41,19 @@
     {
         "source": {
             "id": null,
+            "name": "FRANCE 24 English"
+        },
+        "author": "https://www.facebook.com/FRANCE24.English",
+        "title": "Live: Trump says he could seize Iran's Kharg Island as US ramps up troop buildup - France 24",
+        "description": "US \u2060President \u200bDonald \u200bTrump said he wants \u200bto \"take \u200cthe \u2060oil \u200cin Iran\" \u2060and could seize \u200bthe \u200cexport hub of \u00a0Kharg\u00a0\u200bIsland, in an interview with \u200bFinancial \u200bTimes \u200bpublished on \u200bSunday as about 2,500\u2026",
+        "url": "https://www.france24.com/en/middle-east/20260330-live-trump-says-iran-has-undergone-regime-change-as-us-builds-up-troops",
+        "urlToImage": "https://s.france24.com/media/display/65265772-1f6b-11f1-bc15-005056bf30b7/w:1280/p:16x9/2026-03-09T133829Z-1021977946-RC211KAXTLRU-RTRMADP-3-IRAN-CRISIS-OIL-KHARG.jpg",
+        "publishedAt": "2026-03-30T01:03:36Z",
+        "content": "30/03/2026 - 06:26New Zealand warns inflation will go 'much higher' if Iran war drags on\r\nNew Zealand's finance minister said on Monday inflation was likely to rise \"much higher\" this year\r\nand stay \u2026 [+8222 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "TMZ"
         },
         "author": "TMZ Staff",
@@ -50,19 +63,6 @@
         "urlToImage": "https://imagez.tmz.com/image/91/16by9/2026/03/29/91c0338e053349e6923894693a763a57_xl.png",
         "publishedAt": "2026-03-30T00:08:17Z",
         "content": "Britney Spears' Instagram has been dominated by wholesome, quality time with family since she returned to the social media site following her latest DUI arrest ... and she just posted the cutest reel\u2026 [+686 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "OregonLive"
-        },
-        "author": "The Conversation, Kyle Enfield",
-        "title": "A formerly low-profile COVID variant is spreading fast. Here\u2019s what to know - OregonLive.com",
-        "description": "There's no sign the variant is more dangerous. But since it's different from prior versions, current vaccines may not be as effective.",
-        "url": "https://www.oregonlive.com/health/2026/03/a-formerly-low-profile-covid-variant-is-spreading-fast-heres-what-to-know.html",
-        "urlToImage": "https://www.oregonlive.com/resizer/v2/WIVBT3AXJJGJ5KEWU5Q33OXLE4.JPG?auth=1006dc3a288cd781afe4df84509811fd85d1d1effdcf27608c73ec20ccc6e9d2&width=1280&smart=true&quality=90",
-        "publishedAt": "2026-03-30T00:04:00Z",
-        "content": "The Conversation is an independent and nonprofit source of news, analysis and commentary from academic experts.\r\nA variant of COVID-19 called BA.3.2, which has circulated under the radar since late 2\u2026 [+5134 chars]"
     },
     {
         "source": {
@@ -79,16 +79,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "BBC News"
+            "id": "nbc-news",
+            "name": "NBC News"
         },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "Oil price rises as Iran threatens to expand retaliatory strikes - BBC",
-        "description": "In an interview with the Financial Times, the US president says he wants to \"take\" Iran's oil but adds a deal could be reached \"fairly quickly\".",
-        "url": "https://www.bbc.com/news/live/c8jke9v9xv9t",
-        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa11/live/5f8e2140-2bd3-11f1-b297-95b0a0a8331e.jpg",
-        "publishedAt": "2026-03-29T23:54:00Z",
-        "content": "Donald Trump has been speaking recently on Air Force One, where he says the US believes it has achieved regime change in Iran, echoing comments made last week on Fox news, where he said, \"You could r\u2026 [+1066 chars]"
+        "author": "The Associated Press",
+        "title": "Lauren Betts and UCLA are Final Four-bound after 70-58 win over Duke - NBC News",
+        "description": "SACRAMENTO, Calif. \u2014 Lauren Betts and her fellow UCLA seniors wouldn\u2019t allow their season to end short of the Final Four",
+        "url": "https://www.nbcnews.com/sports/college-basketball/lauren-betts-ucla-are-final-four-bound-70-58-win-duke-rcna265725",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260329-lauren-betts-ww-1637-26f026.jpg",
+        "publishedAt": "2026-03-29T23:40:27Z",
+        "content": "SACRAMENTO, Calif. Lauren Betts and her fellow UCLA seniors wouldnt allow their season to end short of the Final Four.\r\nBetts had 23 points, 10 rebounds and five blocks to help UCLA rally from a rare\u2026 [+3916 chars]"
     },
     {
         "source": {
@@ -144,6 +144,19 @@
     },
     {
         "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Associated Press",
+        "title": "Supreme Court to hear death row case concerning prosecutor with history of discriminatory juror selection - Politico",
+        "description": "Doug Evans, a now-retired prosecutor with a history of dismissing Black jurors for discriminatory reasons, knocked all but one Black person off the jury that tried and convicted Terry Pitchford.",
+        "url": "https://www.politico.com/news/2026/03/29/supreme-court-death-row-racial-bias-claim-jury-00849737",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fd4%2F95%2F3516cb77495a83d07bf17eb81827%2Fsupreme-court-46432.jpg",
+        "publishedAt": "2026-03-29T21:50:29Z",
+        "content": "Just seven years ago, in a case involving the same district attorney, trial judge and state high court, the Supreme Court overturned the death sentence and conviction of Curtis Flowers because of wha\u2026 [+4029 chars]"
+    },
+    {
+        "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
@@ -157,29 +170,16 @@
     },
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Munir Ahmed, Samy Magdy, Cara Anna",
-        "title": "Pakistan says it will host US-Iran talks, while Iran warns US ground troops would be 'set on fire' - AP News",
-        "description": "Pakistan\u2019s foreign minister says Islamabad will soon host talks between the U.S. and Iran. There was no immediate word Sunday from Washington or Tehran. The announcement came after foreign ministers from regional countries met in Islamabad. The Iranian parlia\u2026",
-        "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-29-2026-26caaef651be1cb4d482b29adaa2d600",
-        "urlToImage": "https://dims.apnews.com/dims4/default/48c83db/2147483647/strip/true/crop/2279x1519+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2a%2Fea%2F01ec80b99f0cc272bf138d1ef7ab%2F31a6cf5f2aa24e84aeb285340677d110",
-        "publishedAt": "2026-03-29T21:05:00Z",
-        "content": "ISLAMABAD (AP) Pakistan announced Sunday that it will soon host talks between the U.S. and Iran, though there was no immediate word from Washington or Tehran, and it was unclear whether discussions o\u2026 [+7003 chars]"
-    },
-    {
-        "source": {
             "id": null,
-            "name": "Ctinsider.com"
+            "name": "Maize n Brew"
         },
-        "author": "Will Aldam",
-        "title": "Notre Dame's Niele Ivey praises UConn follow Elite Eight game - CT Insider",
-        "description": "Notre Dame women's basketball coach Niele Ivey complimented the UConn women's basketball team after losing in the Elite Eight 70-52.",
-        "url": "https://www.ctinsider.com/sports/uconn-womens-basketball/article/notre-dame-coach-niele-ivey-post-game-comments-22158471.php",
-        "urlToImage": "https://s.hdnux.com/photos/01/65/51/41/30840915/3/rawImage.jpg",
-        "publishedAt": "2026-03-29T20:49:40Z",
-        "content": "FORT WORTH, TEXAS - MARCH 29: Head coach Geno Auriemma of UConn Huskies talks to head coach Niele Ivey of Notre Dame Fighting Irish before the game in the Elite Eight round game of the 2026 NCAA Wome\u2026 [+2323 chars]"
+        "author": "Charles Post",
+        "title": "5 takeaways from Michigan Basketball\u2019s win vs Tennessee in the Elite 8 - Maize n Brew",
+        "description": "Michigan Basketball blew out Tennessee to advance to the Final Four of the NCAA Tournament. Here are 5 takeaways from the win:",
+        "url": "https://www.maizenbrew.com/michigan-mens-basketball/110210/michigan-basketball-tennessee-takeaways-elite-8-march-madness",
+        "urlToImage": "https://platform.maizenbrew.com/wp-content/uploads/sites/102/2026/03/gettyimages-2268953811.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-03-29T20:47:00Z",
+        "content": "The No. 1 seed Michigan Wolverines took down the No. 6 seed Tennessee Volunteers, 95-62, in the Elite Eight at the United Center, securing a spot in the Final Four for the first time under head coach\u2026 [+3077 chars]"
     },
     {
         "source": {
@@ -206,31 +206,5 @@
         "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/03/29/62ef5546-7873-42dc-9f61-d66665ce012b/thumbnail/1200x630/de47b3fa5b79b7d9c439047c840edaa7/ap26087378208840.jpg",
         "publishedAt": "2026-03-29T20:05:51Z",
         "content": "Mohammad Bagher Ghalibaf, Iran's parliament speaker, on Sunday warned the United States against a ground invasion, threatening to set American troops \"on fire\" and step up attacks on U.S. allies, acc\u2026 [+3171 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Anthony Ha",
-        "title": "\u2018Project Hail Mary\u2019 becomes Amazon MGM\u2019s biggest box office hit - TechCrunch",
-        "description": "Amazon\u2019s bet on \u201cProject Hail Mary\u201d has paid off handsomely.",
-        "url": "https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/project-hail-mary.jpeg?w=1000",
-        "publishedAt": "2026-03-29T19:50:57Z",
-        "content": "Amazons bet on Project Hail Mary has paid off handsomely, with the film recently surpassing Creed III to become the companys highest grossing movie ever.\r\nAnd it was a big bet, with a reported budget\u2026 [+1970 chars]"
-    },
-    {
-        "source": {
-            "id": "al-jazeera-english",
-            "name": "Al Jazeera English"
-        },
-        "author": "Edna Mohamed",
-        "title": "Zelenskyy arrives in Jordan to bolster security ties - Al Jazeera",
-        "description": "The Ukrainian leader\u2019s visit comes after Kyiv agreed to cooperate on defence with Qatar, Saudi Arabia and the UAE.",
-        "url": "https://www.aljazeera.com/news/2026/3/29/zelenskyy-arrives-in-jordan-to-bolster-security-ties",
-        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/03/reuters_69c959a0-1774803360.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-03-29T18:40:22Z",
-        "content": "Ukrainian President Volodymyr Zelenskyy has arrived in Jordan as he continues his tour to bolster defence ties in the Gulf amid the ongoing United States and Israeli war on Iran.\r\nZelenskyy announced\u2026 [+1728 chars]"
     }
 ]
