@@ -1,6 +1,45 @@
 [
     {
         "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Tara Copp, Alex Horton",
+        "title": "Two U.S. warplanes shot down, search ongoing in Iran for 1 missing crew member - The Washington Post",
+        "description": "An F-15 fighter jet and an A-10 attack plane were lost to hostile fire. Two search-and-rescue helicopters also were hit, injuring the crews, before safely returning to their base, officials said.",
+        "url": "https://www.washingtonpost.com/national-security/2026/04/03/f-15-crash-iran-missing/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2ZVBUEYFBDREBHF572OX6QKMCY_size-normalized.JPG&w=1440",
+        "publishedAt": "2026-04-04T04:49:43Z",
+        "content": "Two U.S. military aircraft were shot down in separate incidents Friday while conducting combat operations against Iran, setting off a frantic search-and-rescue effort that remains ongoing for one mis\u2026 [+37 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Ctinsider.com"
+        },
+        "author": "Bryant Carpenter, Dan Brechlin",
+        "title": "UConn coach Geno Auriemma has heated exchange with Dawn Staley before walking off court - CT Insider",
+        "description": "When ESPN sideline reporter Holly Rowe asked about Sarah Strong's ripped jersey, UConn coach Geno Auriemma did not hold back his emotions.",
+        "url": "https://www.ctinsider.com/sports/uconn-womens-basketball/article/ncaa-semifinals-geno-auriemma-officials-final-four-22188348.php",
+        "urlToImage": "https://s.hdnux.com/photos/01/65/67/10/30896690/3/rawImage.jpg",
+        "publishedAt": "2026-04-04T04:07:43Z",
+        "content": "South Carolina head coach Dawn Staley, left, and UConn head coach Geno Auriemma argue after a woman's NCAA college basketball tournament semifinal game at the Final Four, Friday, April 3, 2026, in Ph\u2026 [+6205 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Courtenay Brown",
+        "title": "Judge rejects Department of Justice bid to reinstate Powell subpoenas - Axios",
+        "description": "The government can appeal the decision, prolonging a standoff that could delay the confirmation of the Fed chair nominee.",
+        "url": "https://www.axios.com/2026/04/03/judge-powell-doj-subpoena-trump",
+        "urlToImage": "https://images.axios.com/HeDEN-ALKrlDeozQbyZJHP-DlKU=/0x244:4000x2494/1366x768/2026/04/03/1775241608745.jpeg",
+        "publishedAt": "2026-04-04T03:26:36Z",
+        "content": "Driving the news: The U.S. District Court for Washington, D.C., denied the government's motion to reconsider an earlier decision to throw out the grand jury subpoenas directed at Powell.\r\nFlashback: \u2026 [+1657 chars]"
+    },
+    {
+        "source": {
             "id": "al-jazeera-english",
             "name": "Al Jazeera English"
         },
@@ -27,29 +66,42 @@
     },
     {
         "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
         },
-        "author": "Rohan Nadkarni",
-        "title": "Geno Auriemma, Dawn Staley have heated exchange after Gamecocks upset Huskies - NBC News",
-        "description": "Two of women\u2019s basketball\u2019s biggest names had a heated exchange in the waning moments of a Final Four classic on Friday",
-        "url": "https://www.nbcnews.com/sports/college-basketball/geno-auriemma-dawn-staley-heated-exchange-gamecocks-upset-huskies-rcna266671",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260403-geno-auriemma-vsb-2154-cbfa45.jpg",
-        "publishedAt": "2026-04-04T02:10:00Z",
-        "content": "Two of womens basketballs biggest names had a heated exchange in the waning moments of a Final Four classic on Friday.\r\nSubscribe to read this story ad-free \r\nGet unlimited access to ad-free articles\u2026 [+2056 chars]"
+        "author": "WSJ",
+        "title": "Trump\u2019s Mission Impossible for Allies: Reopening the Strait of Hormuz - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/world/middle-east/trumps-mission-impossible-for-allies-reopening-the-strait-of-hormuz-d6767476",
+        "urlToImage": null,
+        "publishedAt": "2026-04-04T02:00:00Z",
+        "content": null
     },
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "Deadline"
         },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "Iran and US race to find missing American pilot downed in fighter jet - reports - bbc.com",
-        "description": "Iranian security forces are searching for the missing crew member, Iranian state media report, after a US F-15 fighter jet was reportedly downed in southern Iran.",
-        "url": "https://www.bbc.com/news/live/cm29zmpdj3vt",
-        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1299/live/44f69b20-2fbe-11f1-8e1e-69b35ddf5e37.jpg",
-        "publishedAt": "2026-04-04T02:00:44Z",
-        "content": "Grace Eliza GoodwinReporting from New York\r\nExperts are telling the BBC that the ongoing search for the missing crew member of the downed US fighter jet is extremely time-sensitive, as Iran races to \u2026 [+1603 chars]"
+        "author": "Dominic Patten",
+        "title": "Blake Lively Vows To Fight On After Baldoni Sexual Harassment Claim Dismissed - Deadline",
+        "description": "Blake Lively made very clear today, the lady is not for turning when it comes to taking Justin Baldoni to trial for what may have gone down on It Ends With Us & in the aftermath.",
+        "url": "http://deadline.com/2026/04/blake-lively-vow-fight-justin-baldoni-after-lawsuit-trimmed-1236773371/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2025/11/Blake-Lively-and-Justin-Baldoni.jpg?w=1024",
+        "publishedAt": "2026-04-04T01:52:00Z",
+        "content": "Blake Lively made very clear today: the lady is not for turning. That\u2019 seems especially true when it comes to taking Justin Baldoni to trial for what may have gone down onIt Ends With Usand in the af\u2026 [+2707 chars]"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": null,
+        "title": "Undefeated UConn upset by South Carolina in women's Final Four - CBS News",
+        "description": "UConn, on a 54-game winning streak, entered the Final Four undefeated for the ninth time in school history.",
+        "url": "https://www.cbsnews.com/news/undefeated-uconn-upset-south-carolina-womens-final-four/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/04/a434e44a-6080-467e-bfe0-47ec4b002942/thumbnail/1200x630/69261c3c399eadcd39432ea2d4699c3b/ap26094000669082.jpg",
+        "publishedAt": "2026-04-04T01:43:07Z",
+        "content": "Ta'Niya Latson scored 16 and Agot Makeer added 14 points and South Carolina played stifling defense to beat UConn 62-48 on Friday night, ending the Huskies' 54-game winning streak and advancing to th\u2026 [+3918 chars]"
     },
     {
         "source": {
@@ -63,6 +115,19 @@
         "urlToImage": "https://federalnewsnetwork.com/wp-content/uploads/2026/04/Trump_26091690155976-scaled.jpg",
         "publishedAt": "2026-04-04T00:58:37Z",
         "content": "The Trump administration is out with its initial bid for the prospects of a 2027 federal pay raise which, unless Congress intervenes, likely means most civilian federal employees will not see a salar\u2026 [+6136 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Democracydocket.com"
+        },
+        "author": null,
+        "title": "GOPers ignore election officials\u2019 warnings, leaving Georgia little time for paper ballots switch - Democracy Docket",
+        "description": "The rushed system switch risks compromising election security and will complicate ballot counting, delay reporting results and create \u201cwidespread confusion\u201d for voters and election administrators, county officials say.",
+        "url": "https://www.democracydocket.com/news-alerts/gopers-ignore-election-officials-warnings-leaving-georgia-little-time-for-paper-ballots-switch/",
+        "urlToImage": "https://www.democracydocket.com/wp-content/uploads/2024/10/AP23123001161748-scaled.jpg",
+        "publishedAt": "2026-04-04T00:38:23Z",
+        "content": "Georgia election officials have less than three months to convert the states entire voting system from touchscreen machines to paper ballots, after the state Senate failed to vote Friday on legislati\u2026 [+2632 chars]"
     },
     {
         "source": {
@@ -145,79 +210,27 @@
     {
         "source": {
             "id": null,
-            "name": "Whitehouse.gov"
+            "name": "InStyle"
         },
-        "author": "Georgia O'Neil",
-        "title": "Liberating the Department of Homeland Security From the Democrat-Caused Shutdown - The White House (.gov)",
-        "description": "MEMORANDUM FOR THE SECRETARY OF HOMELAND SECURITY THE DIRECTOR OF THE OFFICE OF MANAGEMENT AND BUDGET SUBJECT:\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Liberating the Department of Homeland",
-        "url": "http://www.whitehouse.gov/presidential-actions/2026/04/liberating-the-department-of-homeland-security-from-the-democrat-caused-shutdown/",
-        "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg",
-        "publishedAt": "2026-04-03T21:40:45Z",
-        "content": "MEMORANDUM FOR THE SECRETARY OF HOMELAND SECURITY\r\nTHE DIRECTOR OF THE OFFICE OF MANAGEMENT AND BUDGET\r\nSUBJECT:\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Liberating the Department of Homeland Security From the Democrat-Caused Shutdown\u2026 [+2589 chars]"
+        "author": "https://www.facebook.com/InStyle",
+        "title": "Shiloh Jolie-Pitt Looks Exactly Like 19-Year-Old Angelina Jolie in Her K-Pop Music Video Debut - instyle.com",
+        "description": "Shiloh Jolie-Pitt, 19, made her music video debut in the teaser for \"What's a Girl to Do?\" by Dayoung, a member of the K-pop group Cosmic Girls, on Thursday, April 2. Jolie-Pitt, who has frequently been called her mother's twin, was an exact lookalike of '90s\u2026",
+        "url": "https://www.instyle.com/shiloh-jolie-pitt-twins-angelina-jolie-music-video-debut-11942717",
+        "urlToImage": "https://www.instyle.com/thmb/cm1JUsMrjjc2wMWk7zp3LOcFh1Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Shiloh4x2-a6840a833f2f4e73bec8737229f13c9a.jpg",
+        "publishedAt": "2026-04-03T21:37:19Z",
+        "content": "Shiloh Jolie-Pitt had K-pop fans doing a double-take on Thursday when she made her music video debut in the \"What's a Girl to Do?\" video by Dayoung, a member of the K-pop group Cosmic Girls. In the t\u2026 [+2303 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Deadline"
+            "id": "ars-technica",
+            "name": "Ars Technica"
         },
-        "author": "Dominic Patten",
-        "title": "Blake Lively Gets Agents' Support After Justin Baldoni Suit Pared Down - Deadline",
-        "description": "With six weeks to go before a trial starts in NYC, WME has come out swinging for 'Another Simple Favor' star Blake Lively.",
-        "url": "http://deadline.com/2026/04/blake-lively-justin-baldoni-case-agents-1236773190/",
-        "urlToImage": "https://deadline.com/wp-content/uploads/2026/04/Blake-Lively.jpg?w=1024",
-        "publishedAt": "2026-04-03T21:27:00Z",
-        "content": "EXCLUSIVE: Blake Lively\u2018s year-and-a-half long legal battle with Justin Baldoni saw a big section of the It Ends With Us actress\u2019 lawsuit sliced out this week, with a judge dismissing the sexual hara\u2026 [+3200 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Kelly Tyko",
-        "title": "Your Easter candy is still expensive \u2014 even with cheaper cocoa - Axios",
-        "description": "Cocoa prices are down \u2014 but Easter chocolate still costs more. Here's why shoppers aren't seeing relief yet.",
-        "url": "https://www.axios.com/2026/04/03/easter-candy-2026-price-cocoa",
-        "urlToImage": "https://images.axios.com/VgawWjVknoo6Liex_mImscxXQ6Y=/0x38:5000x2850/1366x768/2026/04/03/1775225755125.jpeg",
-        "publishedAt": "2026-04-03T20:36:25Z",
-        "content": "State of play: Major chocolate companies raised prices by up to 20% during the cocoa spike in 2024-2025, per a Wells Fargo Agri-Food Institute report.\r\n<ul><li>For Easter, prices are up again with ch\u2026 [+1918 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Bruce Gil",
-        "title": "US Airlines Are Hiking Bag Fees Amid Iran War Oil Crisis - Gizmodo",
-        "description": "United Airlines and JetBlue announced this week that they are raising baggage fees.",
-        "url": "https://gizmodo.com/us-airlines-are-hiking-bag-fees-amid-iran-war-oil-crisis-2000742260",
-        "urlToImage": "https://gizmodo.com/app/uploads/2025/10/United-Airlines-Boeing-737-Max-8-1200x675.jpg",
-        "publishedAt": "2026-04-03T20:10:03Z",
-        "content": "It took just over a month for the war in Iran, which was first sparked by U.S. and Israeli airstrikes on Feb. 28, to start hitting consumers back home. Beyond rising gas prices, flyers are now facing\u2026 [+2913 chars]"
-    },
-    {
-        "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Aaron Pellish",
-        "title": "NATO\u2019s Rutte to meet with Trump at White House amid attacks on alliance - Politico",
-        "description": "The president has grown increasingly furious with the decades-old alliance amid the war in Iran.",
-        "url": "https://www.politico.com/news/2026/04/03/nato-mark-rutte-donald-trump-meeting-00858701",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F8b%2F24%2Ffa7169fe4fddbfa829f5651b4b2d%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2267879385",
-        "publishedAt": "2026-04-03T19:47:09Z",
-        "content": "I was never swayed by NATO. I always knew they were a paper tiger, he told The Telegraph an interview published Wednesday.\r\nSince the beginning of the war in Iran, Trump has lashed out at NATO and Eu\u2026 [+1765 chars]"
-    },
-    {
-        "source": {
-            "id": "al-jazeera-english",
-            "name": "Al Jazeera English"
-        },
-        "author": "Al Jazeera Staff",
-        "title": "US judge upholds decision to toss subpoenas into Fed Chair Jerome Powell - Al Jazeera",
-        "description": "Judge Boasberg says Trump administration\u2019s arguments \u2018do not come close to convincing Court\u2019 of subpoenas\u2019 legitimacy.",
-        "url": "https://www.aljazeera.com/news/2026/4/3/us-judge-upholds-decision-to-toss-subpoenas-into-fed-chair-jerome-powell",
-        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69d00dab-1775242667.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-04-03T19:35:28Z",
-        "content": "A United States federal judge has once again batted down a pair of subpoenas from the administration of President Donald Trump seeking information about Jerome Powell, the chairman of the Federal Res\u2026 [+4131 chars]"
+        "author": "Jon Brodkin",
+        "title": "Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions - Ars Technica",
+        "description": "Some banks \"agreed to spend tens of millions on the chatbot,\" NYT reports.",
+        "url": "https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/grok-icon-1152x648-1775247978.jpg",
+        "publishedAt": "2026-04-03T21:17:01Z",
+        "content": null
     }
 ]
