@@ -1,6 +1,19 @@
 [
     {
         "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Carolyn Y. Johnson",
+        "title": "We may have even less control over how long we live than previously thought - The Washington Post",
+        "description": "A study resets the longevity discussion, after previous research focused on those born between 1870 and 1900, and shows genetics and environment play roughly equal roles.",
+        "url": "https://www.washingtonpost.com/health/2026/04/05/lifespan-longevity-genetics/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/Z6AV5KWMQ5EFFPEHKDF7VIQRDE.jpg&w=1440",
+        "publishedAt": "2026-04-05T10:32:13Z",
+        "content": "Uri Alon was long puzzled by a textbook statistic: longevity, the thinking went, was about 20 percent in our genes.\r\nThat makes you think whats the rest of the 80 percent: Is it the lifestyle? Why sh\u2026 [+178 chars]"
+    },
+    {
+        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -11,6 +24,32 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2268829087.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2026-04-05T08:34:00Z",
         "content": "Sources say US troops are still searching for a crew member from an F-15 fighter jet shot down over Iran on Friday.\r\nThe US military and the White House have not commented on the situation or the sta\u2026 [+1216 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "TMZ"
+        },
+        "author": null,
+        "title": "Zendaya Good Genes or Good Docs?! - TMZ",
+        "description": null,
+        "url": "https://www.tmz.com/2026/04/05/zendaya-good-genes-or-good-docs/",
+        "urlToImage": null,
+        "publishedAt": "2026-04-05T07:45:44Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Daily Beast"
+        },
+        "author": "Julia Ornedo",
+        "title": "White House Forced to Address Claims of Trump Health Crisis - The Daily Beast",
+        "description": "Administration officials move quickly to halt gossip about the president\u2019s health.",
+        "url": "https://www.thedailybeast.com/white-house-forced-to-address-claims-of-donald-trump-health-crisis-at-walter-reed-medical-center/",
+        "urlToImage": "https://www.thedailybeast.com/resizer/v2/4G4ACE5LMJETJFLE4D4V4P4ORY.jpg?smart=true&auth=ee66e9cd07988fe22e2cc76b56393304296a8bdeb14cf0275e00d6138f14b716&width=1200&height=630",
+        "publishedAt": "2026-04-05T06:49:00Z",
+        "content": "The White House was forced to step in after the rumor mill went into overdrive on Saturday with wild speculation about the health of President Donald Trump.\r\nThe administration went on the defensive \u2026 [+2951 chars]"
     },
     {
         "source": {
@@ -27,29 +66,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "New York Post"
-        },
-        "author": "Ariel Zilber",
-        "title": "Steve Kroft rips \u201860 Minutes\u2019 as cutthroat, toxic workplace: \u2018I hated it\u2019 - New York Post",
-        "description": "\u201cYou\u2019re dodging the shivs every time you go in\u2026 somebody wants to kill you,\u201d Steve Kroft said of working at \u201c60 Minutes.\u201d",
-        "url": "https://nypost.com/2026/04/05/media/steve-kroft-rips-60-minutes-as-cutthroat-toxic-workplace-i-hated-it/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/04/125040946.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-04-05T05:49:00Z",
-        "content": "A veteran 60 Minutes correspondent ripped the famed CBS programming as a snake pit plagued by no civility.\r\nSteve Kroft, who spent 30 years as one of the mainstay journalists on \u201c60 Minutes,\u201d told po\u2026 [+4505 chars]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Dana O\u2019Neil, Kyle Feldscher, Mia Fishman, Wayne Sterling, Jacob Lev",
-        "title": "Michigan blows out Arizona and UConn outlasts Illinois in the Final Four to set up an epic national title showdown - CNN",
-        "description": "The Wolverines and Huskies will face off on Monday for the national championship in men\u2019s basketball.",
-        "url": "https://www.cnn.com/2026/04/04/sport/live-news/final-four-live-updates",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2269863023.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-04-05T05:33:00Z",
-        "content": "Minutes after UConn gutted out its 71-62 national semifinal win over Illinois, a panicked staffer came running out of the locker room.\r\nWe need a bracket sticker! he yelled as he peeled around the co\u2026 [+1799 chars]"
+        "author": "Dana O\u2019Neil",
+        "title": "Michigan beat up Arizona and took its lunch money in a Final Four drubbing. Only UConn stands in the way of a title - CNN",
+        "description": "Meaner than the recess yard bully taking your lunch money, and crueler than being punked in the most embarrassing way possible, it was an annihilation so complete that you could practically see Arizona\u2019s guts spilled on the court like roadkill.",
+        "url": "https://www.cnn.com/2026/04/05/sport/michigan-final-four-victory",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-05t021143z-1322739358-mt1usatoday28662390-rtrmadp-3-ncaa-basketball-final-four-national-semifinal-michigan-at-arizona.JPG?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-04-05T05:27:35Z",
+        "content": "So, this is the clearest way to explain what Michigan did to Arizona in a national semifinal billed as a battle between two heavyweights: Yaxel Lendeborg played the second half after spraining his MC\u2026 [+5377 chars]"
     },
     {
         "source": {
@@ -63,6 +89,19 @@
         "urlToImage": null,
         "publishedAt": "2026-04-05T05:24:40Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Suntimes.com"
+        },
+        "author": "Georgia Nicols",
+        "title": "Horoscope for Sunday, April 05, 2026 - Chicago Sun-Times",
+        "description": null,
+        "url": "https://chicago.suntimes.com/horoscopes/2026/04/05/horoscopes-today-sunday-april-05-2026",
+        "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+        "publishedAt": "2026-04-05T05:01:00Z",
+        "content": "Moon alert\r\nAvoid shopping (except food and gas) and important decisions from 4 to 7 p.m. Chicago time. After that, the moon moves from Scorpio into Sagittarius.\r\nAries (March 21-April 19)\r\nToday its\u2026 [+3870 chars]"
     },
     {
         "source": {
@@ -82,26 +121,13 @@
             "id": null,
             "name": "MMA Fighting"
         },
-        "author": "Damon Martin",
-        "title": "Renato Moicano lays waste to Chris Duncan with submission finish, shouts \u2018f*ck the fans\u2019 after UFC Vegas 115 main event - MMA Fighting",
-        "description": "Renato Moicano sounded angry with the fans after his latest win at UFC Vegas 115",
-        "url": "https://www.mmafighting.com/ufc/480627/renato-moicano-lays-waste-to-chris-duncan-with-submission-finish-shouts-fck-the-fans-after-ufc-vegas-115-main-event",
-        "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/04/gettyimages-2269863042.jpg?quality=90&strip=all&crop=0%2C3.6688114154925%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-04-05T03:05:00Z",
-        "content": "Renato Moicano got back on track with a vintage performance after he ran through Chris Duncan in the UFC Vegas 115 main event.\r\nIt was a one-sided performance from start to finish after Moicano estab\u2026 [+2475 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CBS Sports"
-        },
-        "author": null,
-        "title": "Illinois Fighting Illini vs. Connecticut Huskies Live Score and Stats - April 4, 2026 Gametracker - CBS Sports",
-        "description": "Get real-time Men's College Basketball coverage and scores as Illinois Fighting Illini takes on Connecticut Huskies. We bring you the latest game previews, live stats, expert picks and recaps on CBS Sports",
-        "url": "https://www.cbssports.com/college-basketball/gametracker/recap/NCAAB_20260404_ILL@UCONN/",
-        "urlToImage": "https://sportsfly.cbsistatic.com/fly-524/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
-        "publishedAt": "2026-04-05T02:31:21Z",
-        "content": "INDIANAPOLIS (AP) Dan Hurley had UConn ready for another Final Four fight night. Once again, his Huskies scored a knockout.\r\nFabulous freshman Braylon Mullins made another last-minute 3-pointer - his\u2026 [+4650 chars]"
+        "author": "Alexander K. Lee",
+        "title": "\u2018Moicano vs. Paddy next\u2019: Pros react to Renato Moicano\u2019s dominant UFC Vegas 115 win - MMA Fighting",
+        "description": "Pros were wowed by Renato Moicano\u2019s vintage performance at UFC Vegas 115.",
+        "url": "https://www.mmafighting.com/ufc/480662/moicano-vs-paddy-next-pros-react-to-renato-moicanos-dominant-ufc-vegas-115-win",
+        "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/04/gettyimages-2269863179.jpg?quality=90&strip=all&crop=0%2C2.9329838171195%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-04-05T03:09:00Z",
+        "content": "Renato Moicano might have his next opponent already lined up.\r\nAfter making short work of the streaking Chris Duncan in Saturdays UFC Vegas 115 main event, Moicano delivered another classic promo, as\u2026 [+845 chars]"
     },
     {
         "source": {
@@ -132,15 +158,28 @@
     {
         "source": {
             "id": null,
-            "name": "WRAL.com"
+            "name": "247Sports"
         },
-        "author": "MARCIA DUNN \u2014 AP Aerospace Writer",
-        "title": "Artemis II toilet acts up again as astronauts speed toward the moon to break Apollo 13's record - WRAL",
+        "author": "Jeremy Werner",
+        "title": "Quick hits: Illini knocked out by UConn again in 71-62 Final Four loss - 247Sports",
+        "description": "Illinois battled back in the second half to make it a game in the final five minutes but couldnt get over the hump in a semifinal loss to UConn",
+        "url": "https://247sports.com/college/illinois/article/illinois-fighting-illini-basketball-final-four-uconn-huskies-quick-hits-recap-280315552/",
+        "urlToImage": "https://s3media.247sports.com/Uploads/Assets/405/693/13693405.jpeg?width=1200&height=628&crop=1.91:1&fit=cover",
+        "publishedAt": "2026-04-05T00:42:44Z",
+        "content": "INDIANAPOLIS \u2014 For the second time in three years, Dan Hurley and UConn have ended a special Illinois basketball season.\r\nNo. 2 seed UConn defeated Illinois\u00a071-62 on Saturday in the Final Four to adv\u2026 [+5494 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Marcia Dunn",
+        "title": "Artemis II toilet acts up again as astronauts speed toward the moon to break Apollo 13's record - apnews.com",
         "description": "The Artemis II astronauts are more than halfway to the moon. The three Americans and one Canadian will reach their destination Monday, performing a lunar flyby and then coming straight back home. They are the first moonbound crew in more than half a century, \u2026",
-        "url": "https://www.wral.com/news/ap/85bd7-artemis-ii-astronauts-are-more-than-halfway-to-the-moon-as-they-seek-to-break-apollo-13s-record/",
-        "urlToImage": "https://images.wral.com/f851d990-892a-5522-8c33-1bc193c1d607?w=1200&h=630",
-        "publishedAt": "2026-04-05T00:49:15Z",
-        "content": "HOUSTON (AP) Now more than halfway to the moon, the Artemis II astronauts prepared for their historic lunar fly-around to push deeper into space than even the Apollo astronauts.\r\nOn the downside, the\u2026 [+3097 chars]"
+        "url": "https://apnews.com/article/nasa-moon-artemis-astronauts-85bd7e2d77284c3d53ca2a38cf7dee13",
+        "urlToImage": "https://dims.apnews.com/dims4/default/a9bda37/2147483647/strip/true/crop/1905x1269+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbf%2F65%2Ff88ef6e535b07490c33fc9048556%2Fa1656d0f77c747dd8f16e68d161294a8",
+        "publishedAt": "2026-04-05T00:15:00Z",
+        "content": "HOUSTON (AP) Now more than halfway to the moon, the Artemis II astronauts prepared for their historic lunar fly-around to push deeper into space than even the Apollo astronauts.\r\nOn the downside, the\u2026 [+3092 chars]"
     },
     {
         "source": {
@@ -154,19 +193,6 @@
         "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/274CFSDLG6WYL6QFSZ6CKIZUTI.JPG&w=1440",
         "publishedAt": "2026-04-04T23:50:30Z",
         "content": "Time is of the essence! Justice Department lawyers wrote, saying a ruling to pause construction puts the president at risk.\r\nApril 4, 2026 at 3:19 p.m. EDTYesterday at 3:19 p.m. EDT"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Morning Call"
-        },
-        "author": "Graysen Golter",
-        "title": "Plane makes emergency landing on Interstate 78 in Lehigh County; highway reopens [Updated] - The Morning Call",
-        "description": "A small plane made an emergency landing on Interstate 78 in Lehigh County on Saturday morning, shutting down a stretch of the highway for hours.",
-        "url": "https://www.mcall.com/2026/04/04/small-plane-lands-on-i-78-in-lehigh-county-causing-lane-closures-and-delays/",
-        "urlToImage": "https://www.mcall.com/wp-content/uploads/2026/04/TMC-L-PlaneLandsOnI7811-e1775319103840-1.jpeg?w=1024&h=546",
-        "publishedAt": "2026-04-04T23:03:48Z",
-        "content": "A small plane made an emergency landing on Interstate 78 in Lehigh County on Saturday morning, shutting down a stretch of the highway and causing major traffic delays for hours.\r\nTrooper Nathan Brano\u2026 [+2179 chars]"
     },
     {
         "source": {
@@ -210,14 +236,14 @@
     {
         "source": {
             "id": null,
-            "name": "Stereogum"
+            "name": "KHOU.com"
         },
-        "author": "Danielle Chelosky",
-        "title": "NASA Disappoints Artemis II Astronauts By Cutting Off Chappell Roan Wakeup Song - Stereogum",
-        "description": "This is a lot cooler than Katy Perry going into space: NASA played Chappell Roan\u2019s \u201cPink Pony Club\u201d to wake up the astronauts on Artemis II this morning. However, mission control abruptly cut the audio after Roan sang \u201cheels.\u201d \u201cWe were all eagerly awaiting th\u2026",
-        "url": "https://stereogum.com/2494812/nasa-disappoints-artemis-ii-astronauts-by-cutting-off-chappell-roan-wakeup-song/news",
-        "urlToImage": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/04/Copy-of-Copy-of-INTSTAGRAM-GRAPHIC-1.jpeg",
-        "publishedAt": "2026-04-04T19:14:00Z",
-        "content": "This is a lot cooler than Katy Perry going into space: NASA played Chappell Roan's \"Pink Pony Club\" to wake up the astronauts on Artemis II this morning. However, mission control abruptly cut the aud\u2026 [+967 chars]"
+        "author": "KHOU 11 Staff",
+        "title": "Easter 2026: Which Houston stores will be open and which will be closed? - KHOU",
+        "description": "If you forget something for your feast on Thanksging Day, not to worry -- some grocery stores will be open, but with reduced hours.  Check the list.",
+        "url": "https://www.khou.com/article/news/local/grocery-stores-restaurants-open-easter-2026-houston/285-7777d2a6-3df8-4ceb-bbed-e48f0a86f08b",
+        "urlToImage": "https://media.khou.com/assets/KHOU/images/ca2d1cfb-781d-431a-86ba-4fa3294dc86e/20251119T124857/ca2d1cfb-781d-431a-86ba-4fa3294dc86e_1140x641.jpg",
+        "publishedAt": "2026-04-04T20:41:00Z",
+        "content": "HOUSTON Still need to fill your Easter baskets, prep for an egg hunt, grab last-minute ingredients for Sunday brunch, or even make a reservation? There are still options for those who find themselves\u2026 [+2860 chars]"
     }
 ]
