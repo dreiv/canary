@@ -1,42 +1,94 @@
 [
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
+            "id": null,
+            "name": "Centcom.mil"
         },
-        "author": "Betsy Klein, Auzinea Bacon, Tori B. Powell, Dalia Abdelwahab, Sophia Saifi, Sophie Tanno, Riane Lumer, Catherine Nicholls, Tim Lister, Natasha Bertrand, Haley Britzky, Zachary Cohen, Hanna Ziady, Laura Sharman, Lex Harvey, Nic Robertson, Eyad Kourdi, Tamara Qiblawi, Max Saltman, Adam Cancryn, Alayna Treene, Kevin Liptak, Steve Contorno, Brett H. McGurk, Rhea Mogul, Zachary B. Wolf, Issy Ronald",
-        "title": "Live updates: US and Iran hold direct peace talks in Pakistan - CNN",
-        "description": "A US delegation led by Vice President JD Vance is holding face-to-face negotiations with Iranian officials in Pakistan, sources told CNN. Follow for live updates.",
-        "url": "https://www.cnn.com/2026/04/11/world/live-news/iran-us-war-talks",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270263148.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-04-11T15:58:00Z",
-        "content": "Several ships have passed through the Strait of Hormuz as peace talks between Iran and the United States are set to get underway in Islamabad, according to ship tracking data.\r\nA handful vessels - mo\u2026 [+1372 chars]"
+        "author": null,
+        "title": "U.S. Forces Start Mine Clearance Mission in Strait of Hormuz - centcom.mil",
+        "description": "TAMPA, Fla. \u2013 U.S. Central Command (CENTCOM) forces began setting conditions for clearing mines in the Strait of Hormuz, April 11, as two U.S. Navy guided-missile destroyers conducted operations.",
+        "url": "https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/4457220/us-forces-start-mine-clearance-mission-in-strait-of-hormuz/",
+        "urlToImage": "https://media.defense.gov/2023/Oct/27/2003329476/1920/1080/0/231028-M-LM779-002.JPG",
+        "publishedAt": "2026-04-11T17:12:32Z",
+        "content": "TAMPA, Fla. \u2013 U.S. Central Command (CENTCOM) forces began setting conditions for clearing mines in the Strait of Hormuz, April 11, as two U.S. Navy guided-missile destroyers conducted operations.\u00a0\r\nU\u2026 [+725 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Nicole Winfield",
+        "title": "Pope Leo XIV blasts \u2018delusion of omnipotence\u2019 fueling the US-Israeli war in Iran - AP News",
+        "description": "Pope Leo XIV has denounced the \u201cdelusion of omnipotence\u201d that is fueling the U.S.-Israel war in Iran and demanded political leaders stop and negotiate peace. Saturday's remarks were his strongest condemnation yet. Leo presided over an evening prayer service i\u2026",
+        "url": "https://apnews.com/article/pope-leo-usisraeli-war-iran-7309c5df6c7312b942e0510ea65502cb",
+        "urlToImage": "https://dims.apnews.com/dims4/default/a3dd4cd/2147483647/strip/true/crop/3183x2121+1+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffc%2F7a%2F34734a8b12ece001c9f6a3fe1a9f%2F256b10eaa30545e7bc224d835279d787",
+        "publishedAt": "2026-04-11T17:07:00Z",
+        "content": "ROME (AP) In his strongest words yet, Pope Leo XIV on Saturday denounced the delusion of omnipotence that is fueling the U.S.-Israel war in Iran and demanded political leaders stop and negotiate peac\u2026 [+2884 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "Alana Wise",
+        "title": "Artemis II splashdown captures nationwide attention - NPR",
+        "description": "Fans across the country tuned in to see the Artemis II crew make their splashy return to Earth.",
+        "url": "https://www.npr.org/2026/04/11/nx-s1-5781820/artemis-ii-splashdown-captures-nationwide-attention",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7459x4196+0+654/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F60%2Fdb%2F7dff8f6c4addb601dfcccc5e43d3%2F55199857746-07908c9d65-o.jpg",
+        "publishedAt": "2026-04-11T16:29:53Z",
+        "content": "The Artemis II crew made their return to Earth on Friday following the Orion spacecraft's historic 10-day trip around the Moon, capturing the attention of awestruck fans nationwide. \r\nIn stadiums acr\u2026 [+928 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Doug Ferguson",
+        "title": "Rory McIlroy has a big lead at the Masters after 36 holes. It usually ends well - AP News",
+        "description": "Rory McIlroy has a record six-shot lead after 36 holes in the Masters. The previous mark of five shots was shared by six players and it usually ended well. Harry \u201cLighthorse\u201d Cooper was the only player with a 36-hole lead of five shots who did not win. Here's\u2026",
+        "url": "https://apnews.com/article/masters-augusta-national-rory-mcilroy-36-holes-6ce6671a4736551eb0b30853eb5ef80a",
+        "urlToImage": "https://dims.apnews.com/dims4/default/ad124ba/2147483647/strip/true/crop/7197x4796+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe7%2F5e%2Fdedb7459a782dd2741daf2ca14e0%2F566f571bdbbb4a47af05d784c5d6b8cf",
+        "publishedAt": "2026-04-11T15:56:00Z",
+        "content": "AUGUSTA, Ga. (AP) Rory McIlroy took a record six-shot lead into the final 36 holes of the Masters. Heres how the six players who had five-shot leads after 36 holes finished at Augusta National:\r\nScot\u2026 [+3414 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Variety"
+        },
+        "author": "Jack Dunn",
+        "title": "Box Office: 'The Super Mario Galaxy Movie' Adds $17.5 Million - Variety",
+        "description": "'The Super Mario Galaxy Movie' added $17.5 Million at the Friday box office, while 'You, Me & Tuscany' made $3.1 million on opening day.",
+        "url": "https://variety.com/2026/film/news/box-office-the-super-mario-galaxy-movie-you-me-amp-tuscany-1236719521/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2026/04/MCDSUMA_UV054.jpg?crop=387px%2C0px%2C2229px%2C1254px&resize=1000%2C563",
+        "publishedAt": "2026-04-11T15:53:00Z",
+        "content": "It\u2019s a \u201cSuper Mario World,\u201d and we\u2019re just living in it.\r\nUniversal and Illumination\u2019s \u201cSuper Mario Galaxy Movie\u201d led the box office again on its second Friday in North American theaters, adding $17.\u2026 [+2156 chars]"
     },
     {
         "source": {
             "id": "cbs-news",
             "name": "CBS News"
         },
-        "author": "Mark  Prussin",
-        "title": "Suspect shot at Grand Central after 3 people stabbed, NYPD says - CBS News",
-        "description": "Police fatally shot a man with a machete at NYC's Grand Central after at least two people were slashed on a subway platform, officials said.",
-        "url": "https://www.cbsnews.com/newyork/news/grand-central-nypd-investigation/",
-        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/11/bc70e075-0203-4ac5-b4b0-c639eea40191/thumbnail/1200x630/cead0c1accd0b3f832c8c9c749fcbea4/grand-central-police-shooting1-hi-res-still-11-32-4927.jpg",
-        "publishedAt": "2026-04-11T15:39:44Z",
-        "content": "A man with a machete was fatally shot by police at New York City's Grand Central Station on Saturday after at least two people were injured in a slashing, officials said.\u00a0\r\nThe NYPD said officers enc\u2026 [+1402 chars]"
+        "author": "Mark  Osborne",
+        "title": "U.S. detains family of Iranian regime propagandist \"Screaming Mary\" ahead of deportation - CBS News",
+        "description": "The State Department said on Saturday it has revoked the green cards and detained the family of the Iranian regime propagandist known as \"Screaming Mary.\"",
+        "url": "https://www.cbsnews.com/news/us-terminates-green-cards-set-to-deport-iranian-regime-propagandist/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/11/fdd5c96a-1763-4aca-a5eb-b6ccaa783142/thumbnail/1200x630/ab832d4ad9cad67f40282f5edc37cce5/gettyimages-1090866612.jpg",
+        "publishedAt": "2026-04-11T15:48:24Z",
+        "content": "The United States has revoked the green cards and detained the family of the Iranian regime propagandist known as \"Screaming Mary,\" the State Department said on Saturday.\r\nSeyed Eissa Hashemi, Maryam\u2026 [+3326 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "MMA Fighting"
+            "name": "Hollywood Reporter"
         },
-        "author": "Bryan Tucker",
-        "title": "Fury vs. Makhmudov Results: LIVE updates of the undercard and main event - MMA Fighting",
-        "description": "Get Fury vs. Makhmudov results for the Tyson Fury, Arslanbeck Makhmudov event in London on Saturday.",
-        "url": "https://www.mmafighting.com/boxing/481548/fury-vs-makhmudov-results-live-updates-of-the-undercard-and-main-event",
-        "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/04/gettyimages-2270754509.jpg?quality=90&strip=all&crop=0%2C3.4502929413779%2C100%2C78.540790517788&w=1200",
-        "publishedAt": "2026-04-11T14:02:29Z",
-        "content": "MMA Fighting has Fury vs. Makhmudov results for the Tyson Fury vs. Arslanbeck Makhmudov fight card and more for one of the most highly anticipated events of the year at Tottenham Hotspur Stadium in L\u2026 [+1119 chars]"
+        "author": "Mike Barnes",
+        "title": "John Nolan, Actor in Batman Films and \u2018Person of Interest,\u2019 Dies at 87 - The Hollywood Reporter",
+        "description": "The uncle of Jonathan and Christopher Nolan also was a member of the Royal Shakespeare Company and the National Theatre.",
+        "url": "http://www.hollywoodreporter.com/movies/movie-news/john-nolan-batman-person-of-interest-1236561770/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/06/John-Nolan-Advance-Obit-Person-of-Interest-Everett-H-2023.jpg?w=1296&h=730&crop=1",
+        "publishedAt": "2026-04-11T15:28:40Z",
+        "content": "John Nolan, the British theater veteran who appeared in a pair of Batman movies and on the CBS drama Person of Interest for nephews Christopher Nolan and Jonathan Nolan, died Saturday, the Stratford-\u2026 [+2444 chars]"
     },
     {
         "source": {
@@ -44,25 +96,25 @@
             "name": "Axios"
         },
         "author": "Barak Ravid",
-        "title": "U.S. warships cross Strait of Hormuz for first time since Iran war began - Axios",
-        "description": "The crossing was not coordinated with Iran.",
-        "url": "https://www.axios.com/2026/04/11/us-iran-navy-strait-of-hormuz",
-        "urlToImage": "https://images.axios.com/-loT2S0f2wdel-vgGiSP5KcB19E=/0x0:3612x2032/1366x768/2026/04/11/1775913557137.jpeg",
-        "publishedAt": "2026-04-11T13:25:21Z",
-        "content": "<ul><li>The operation was aimed at increasing confidence for commercial ships to cross, sources say. It came as peace talks between the two sides kicked off in Pakistan. </li><li>\"This was an operati\u2026 [+1584 chars]"
+        "title": "Direct U.S.-Iran negotiations underway in Pakistan - Axios",
+        "description": "The odds of success appear low, but the risk of failure is renewed war.",
+        "url": "https://www.axios.com/2026/04/11/us-iran-negotiations-pakistan",
+        "urlToImage": "https://images.axios.com/yDMbqAmHr2qXt-22bHzgpE8NAZ4=/0x37:2857x1644/1366x768/2026/04/11/1775911849619.jpeg",
+        "publishedAt": "2026-04-11T15:16:01Z",
+        "content": "Direct negotiations between the U.S. and Iran, mediated by Pakistan, began in Islamabad on Saturday, according to a White House official. \r\nWhy it matters: While the meeting itself is historic the hi\u2026 [+1573 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "State.gov"
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
         },
-        "author": null,
-        "title": "Secretary Rubio Terminates Green Cards of Foreign Nationals Tied to Infamous Iranian Regime Propagandist - U.S. Department of State (.gov)",
-        "description": "This week, three Iranian nationals with ties to the Iranian regime were arrested by federal agents following Secretary of State Marco Rubio\u2019s termination of their lawful permanent resident (LPR) statuses. Seyed Eissa Hashemi, Maryam Tahmasebi, and their son a\u2026",
-        "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/secretary-rubio-terminates-green-cards-of-foreign-nationals-tied-to-infamous-iranian-regime-propagandist",
-        "urlToImage": "https://www.state.gov/wp-content/uploads/2025/01/Press_Release_Alabaster.png",
-        "publishedAt": "2026-04-11T13:17:40Z",
-        "content": "This week, three Iranian nationals with ties to the Iranian regime were arrested by federal agents following Secretary of State Marco Rubios termination of their lawful permanent resident (LPR) statu\u2026 [+2641 chars]"
+        "author": "Al Jazeera",
+        "title": "Hungry Fury \u2018light and lean\u2019 for heavyweight comeback fight with Makhmudov - Al Jazeera",
+        "description": "Tyson Fury returns lighter than his last \u200cfight but still weighs in three pounds heavier than Arslanbek Makhmudov.",
+        "url": "https://www.aljazeera.com/sports/2026/4/11/hungry-fury-light-and-lean-for-heavyweight-comeback-fight-with-makhmudov",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-10T182503Z_1987385541_UP1EM4A1F5P65_RTRMADP_3_BOXING-HEAVYWEIGHT-FURY-MAKHMUDOV-1775918506.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-04-11T15:07:46Z",
+        "content": "Former world heavyweight champion Tyson Fury hit the scales considerably lighter than last time he fought in 2024, but still carrying a few pounds more than Russian Arslanbek Makhmudov.\r\nThe 37-year-\u2026 [+1794 chars]"
     },
     {
         "source": {
@@ -89,19 +141,6 @@
         "urlToImage": "https://cdn.mos.cms.futurecdn.net/ApRXE55fctzoWAXhUZmDgG-1920-80.png",
         "publishedAt": "2026-04-11T12:35:46Z",
         "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Thefashionspot.com"
-        },
-        "author": "Samridhi Goel",
-        "title": "Kylie Jenner Wears Daring Bikini Top Under T-Shirt for Coachella - Yahoo",
-        "description": "Kylie Jenner stuns in Coachella look, layering a bikini top under a t-shirt with leggings, embracing the relaxed yet bold festival fashion.",
-        "url": "https://www.thefashionspot.com/fashion-news/941755-kylie-jenner-bikini-top-tshirt-coachella/",
-        "urlToImage": "https://www.thefashionspot.com/wp-content/uploads/sites/11/2026/04/GettyImages-2254121828.jpg?resize=1200,630",
-        "publishedAt": "2026-04-11T12:35:26Z",
-        "content": "Kylie Jenner is leaning into effortless festival style, this time blending casual layering with a bold twist with a chic bikini top. The beauty mogul gave fans a glimpse of her Coachella-ready look t\u2026 [+769 chars]"
     },
     {
         "source": {
@@ -206,31 +245,5 @@
         "urlToImage": "https://people.com/thmb/och3ERnpQiSkuFa95E30GU3Dits=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/Eileen-McGill-Fox-1-040926-79c4210c54564334850f010660e983b2.jpg",
         "publishedAt": "2026-04-11T10:00:00Z",
         "content": "<ul><li>A Florida woman learned that her husband had cheated on her and that he had given her human papillomavirus (HPV)</li><li>Soon after, the woman was diagnosed with cancer of the vulva, cervix a\u2026 [+2660 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Android Authority"
-        },
-        "author": null,
-        "title": "I've been a Kindle user for 10+ years \u2014 and I may never buy another one - Android Authority",
-        "description": "Amazon is cutting off older Kindles that still work perfectly fine, and it\u2019s enough to make me rethink buying another model ever again.",
-        "url": "https://www.androidauthority.com/old-kindle-support-ending-wont-buy-another-model-why-3656440/",
-        "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/Kindle-Screen-Off-scaled.jpg",
-        "publishedAt": "2026-04-11T09:37:57Z",
-        "content": "A few days ago, Amazon emailed Kindle users to say that some older models are about to lose support. At first glance, it reads like routine housekeeping; devices age out all the time.\r\nBut these e-re\u2026 [+4064 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Morning Brew"
-        },
-        "author": "Dave Lozo",
-        "title": "Anthropic\u2019s latest AI model strikes fear into banks - Morning Brew",
-        "description": "Mythos required an emergency meeting between government officials and bank leaders",
-        "url": "https://www.morningbrew.com/stories/2026/04/11/anthropic-latest-ai-model-strikes-fear-into-banks",
-        "urlToImage": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=70,format=auto/https://storage.morningbrew.com/image/2026-04-10/image-28a228049706c1b3a22bc93444067a124657bf33-1500x1000-jpg/MBD_MythosBanks_SM_04102026.jpg",
-        "publishedAt": "2026-04-11T08:33:42Z",
-        "content": "An impromptu meeting of bank CEOs and federal officials was held in the nations capital this week because of the destructive capabilities of Anthropics latest AI model, Claude Mythos, which can detec\u2026 [+2044 chars]"
     }
 ]
