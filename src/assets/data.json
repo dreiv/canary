@@ -1,6 +1,45 @@
 [
     {
         "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Kaia  Hubbard",
+        "title": "Trump says U.S. will blockade Strait of Hormuz and intercept ships that paid tolls to Iran - CBS News",
+        "description": "President Trump said the U.S. Navy will begin blockading ships from entering or exiting the Strait of Hormuz and intercept vessels that have paid tolls to Iran.",
+        "url": "https://www.cbsnews.com/news/trump-strait-of-hormuz-blockade-iran/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/12/ba1f712a-fc6e-4716-89ae-a3f10388e84d/thumbnail/1200x630/84e5b0886082df893b3efccadc5b941d/gettyimages-2270387195.jpg",
+        "publishedAt": "2026-04-13T01:41:33Z",
+        "content": "Washington \u2014 President Trump said on Sunday that the U.S. Navy will begin blockading ships from entering or exiting the Strait of Hormuz and intercept vessels that have paid tolls to Iran, after mara\u2026 [+3327 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Garrett Downs",
+        "title": "Trump blasts Pope Leo for criticism of U.S. foreign policy - CNBC",
+        "description": "Leo, the first U.S.-born pope who hails from Chicago, has condemned Trump's war effort with Iran.",
+        "url": "https://www.cnbc.com/2026/04/12/trump-pope-leo-catholic-church-iran.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108287127-1775389884724-gettyimages-2269316110-AFP_A6TE3EC.jpeg?v=1775389909&w=1920&h=1080",
+        "publishedAt": "2026-04-13T01:26:00Z",
+        "content": "President Donald Trump on Sunday bashed Pope Leo XIV over the U.S.-born Roman Catholic pontiff's criticism of the U.S. war in Iran. \r\nThe president said he does not \"want a Pope who criticizes the Pr\u2026 [+2192 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Heat.com"
+        },
+        "author": "Brian Martin",
+        "title": "Playoffs scenarios abound for final Sunday of NBA season - NBA",
+        "description": "Sunday\u2019s 15-game slate to close out the regular season will determine 10 of the 20 postseason seeds.",
+        "url": "https://www.nba.com/news/playoffs-scenarios-abound-for-final-sunday-of-nba-season",
+        "urlToImage": "https://cdn.nba.com/manage/2026/03/GettyImages-2266738655-scaled.jpg",
+        "publishedAt": "2026-04-13T00:59:25Z",
+        "content": "Entering Sundays 15-game slate to close out the regular season, only half of the postseason seeds were locked in place. That left 10 seeds up for grabs. Heres a breakdown of each teams seeding scenar\u2026 [+3940 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Thefp.com"
         },
@@ -24,6 +63,19 @@
         "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260412-britney-spears-ww-1620-a1e0be.jpg",
         "publishedAt": "2026-04-13T00:08:00Z",
         "content": "Britney Spears has voluntarily checked herself into a treatment facility, according to a representative for the pop star. \r\nSubscribe to read this story ad-free \r\nGet unlimited access to ad-free arti\u2026 [+1544 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "San Francisco Chronicle"
+        },
+        "author": "Greg Porter",
+        "title": "Strongest storm on planet bearing down on U.S. islands in Western Pacific - San Francisco Chronicle",
+        "description": "The planet\u2019s strongest storm is threatening Guam and the Northern Mariana Islands with destructive wind, surge and flooding.",
+        "url": "https://www.sfchronicle.com/weather/article/sinlaku-typhoon-western-pacific-us-islands-22202607.php",
+        "urlToImage": "https://s.hdnux.com/photos/01/65/75/21/30921799/5/rawImage.jpg",
+        "publishedAt": "2026-04-12T23:31:42Z",
+        "content": "Infared imagery of Super Typhoon Sinlaku on Sunday evening. The typhoon reached sustained winds of 180 mph, making it the strongest storm on Earth in 2026 so far.\r\nNOAA\r\n<ul><li>Super Typhoon Sinlaku\u2026 [+3119 chars]"
     },
     {
         "source": {
@@ -67,15 +119,28 @@
     {
         "source": {
             "id": null,
-            "name": "Golf Channel"
+            "name": "NASCAR"
         },
         "author": null,
-        "title": "2026 Masters live updates: Final-round leaderboard, scores, results, highlights and news - Golf Channel",
-        "description": "Follow the final round of the 90th Masters with our live blog.",
-        "url": "https://www.golfchannel.com/pga-tour/live/2026-masters-live-updates-final-round-leaderboard-scores-results-highlights-and-news",
-        "urlToImage": "https://assets.golfchannel.com/dims4/default/76cf4de/2147483647/strip/true/crop/640x360+0+34/resize/1440x810!/quality/90/?url=https%3A%2F%2Fversant-production-golfchannel.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0e%2F19%2F5383bad04809b14467c499cdaf19%2F18604b-kgqdpzlstk-lt.jpg",
-        "publishedAt": "2026-04-12T22:42:00Z",
-        "content": "It was a furious first nine Sunday at the Masters, with 45-year-old Justin Rose grabbing a two-shot lead on the field.\r\nIt didnt last long, however, as Rory McIlroy overcame a slow start to birdie No\u2026 [+509 chars]"
+        "title": "Joe Gibbs shows family\u2019s importance in Victory Lane - NASCAR.com",
+        "description": "Joe Gibbs stresses the importance of God and family before he's happily interrupted by his grandson, race winner Ty Gibbs, in Victory Lane.",
+        "url": "https://www.nascar.com/videos/franchise/nascar-cup-post-race-reactions/joe-gibbs-shows-familys-importance-in-victory-lane/",
+        "urlToImage": "https://www.nascar.com/wp-content/uploads/sites/7/2026/04/12/2026-April-12-NCS-Bristol-Joe-Gibbs-VL-PRR.jpg",
+        "publishedAt": "2026-04-12T22:54:10Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NASCAR"
+        },
+        "author": null,
+        "title": "Perfect 360: Elliott spins to bring out late caution - NASCAR.com",
+        "description": "Chase Elliott spins like a pro from 17th in Turn 2, bringing out a late caution with under 25 laps remaining at Bristol.",
+        "url": "https://www.nascar.com/videos/franchise/nascar-cup-series-highlights/perfect-360-elliott-spins-to-bring-out-late-caution/",
+        "urlToImage": "https://www.nascar.com/wp-content/uploads/sites/7/2026/04/12/2026-April-12-NCS-Bristol-Lap-477-Elliott-Spin.jpg",
+        "publishedAt": "2026-04-12T22:12:28Z",
+        "content": null
     },
     {
         "source": {
@@ -108,13 +173,13 @@
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
         },
-        "author": "WSJ",
+        "author": "Robbie Gramer, Alex Leary",
         "title": "Trump Weighs Limited Strikes on Iran After Talks Collapse - WSJ",
-        "description": null,
+        "description": "The White House is considering a menu of options in addition to blockading the Strait of Hormuz",
         "url": "https://www.wsj.com/world/middle-east/trump-weighs-limited-strikes-on-iran-after-talks-collapse-71908883",
-        "urlToImage": null,
+        "urlToImage": "https://images.wsj.net/im-76693700/social",
         "publishedAt": "2026-04-12T22:02:00Z",
-        "content": null
+        "content": "President Trump and his advisers are looking at resuming limited military strikes in Iran in addition to the U.S. \r\nblockade of the Strait of Hormuz as a way to break a stalemate in peace talks, acco\u2026 [+670 chars]"
     },
     {
         "source": {
@@ -131,67 +196,15 @@
     },
     {
         "source": {
-            "id": "al-jazeera-english",
-            "name": "Al Jazeera English"
-        },
-        "author": "Al Jazeera",
-        "title": "Abuse allegations against lead Democrat shake race for California governor - Al Jazeera",
-        "description": "Media reports detailing sexual assault allegations against US Representative Eric Swalwell prompt resignation calls.",
-        "url": "https://www.aljazeera.com/news/2026/4/12/abuse-allegations-against-lead-democrat-shake-race-for-california-governor",
-        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69dbfccf-1776024783.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-04-12T21:15:17Z",
-        "content": "Reports detailing sexual assault allegations against US Congressman Eric Swalwell have shaken the California state gubernatorial race, where polls have shown him leading a crowded field of Democratic\u2026 [+2106 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Bring Me The News"
-        },
-        "author": "Joe Nelson",
-        "title": "Monday severe weather in Minnesota: Tornadoes and baseball-sized hail possible - Bring Me The News",
-        "description": "If storms fire, they'll be in an environment that allows them to spin up tornadoes and drop very large hail.",
-        "url": "https://bringmethenews.com/minnesota-weather/monday-severe-weather-in-minnesota-tornadoes-and-baseball-sized-hail-possible",
-        "urlToImage": "https://bringmethenews.com/.image/MTg0MDAxMTAzMDIzNTgwODcz/screen-shot-2021-09-20-at-7-51-48-am.png?io=1&profile=share16-9",
-        "publishedAt": "2026-04-12T20:10:23Z",
-        "content": "Monday is shaping up to be an explosive day for storms in Minnesota, with the threat of tornadoes and hail the size of baseballs in the southern half of the state. \r\nMatthew Cappucci, a respected met\u2026 [+2283 chars]"
-    },
-    {
-        "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
         "author": "Anthony Ha",
-        "title": "Apple reportedly testing four designs for upcoming smart glasses - TechCrunch",
-        "description": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
-        "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224174932.jpg?w=1024",
-        "publishedAt": "2026-04-12T19:58:42Z",
-        "content": "Apple plans to sell its first smart glasses in 2027, with a possible unveiling at the end of this year, according to Bloombergs Mark Gurman.\r\nGurman has been reporting steadily on the evolution of th\u2026 [+993 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Just Jared"
-        },
-        "author": "Bradley Stern",
-        "title": "Dolly Martinez Dead \u2013 \u2018My 600-Lb. Life\u2019 Star Dies at 30 - Just Jared",
-        "description": "Dolly Martinez, who appeared on a TLC reality series, has sadly passed away at the age of 30. Her family shared an emotional tribute.",
-        "url": "https://www.justjared.com/2026/04/12/dolly-martinez-dead-tlc-reality-star-season-10/",
-        "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2026/04/dolly-600-lb-social.jpg",
-        "publishedAt": "2026-04-12T18:59:19Z",
-        "content": "Dolly Martinez has sadly passed away.\r\nThe reality TV star, who appeared on Season 10 of the TLC reality series, died over the weekend.\r\n\u201cIt is with a heavy heart that I share the passing of my beaut\u2026 [+1302 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Lloyd Lee, Tristan Anthony, Lauren Edmonds",
-        "title": "Here's what smart people are saying about what the failed US-Iran peace talks and Trump's blockade mean for markets - markets.businessinsider.com",
-        "description": "Economists, foreign policy experts, and politicians weigh in on the failed US peace talks with Iran.",
-        "url": "https://markets.businessinsider.com/news/stocks/what-smart-people-saying-failed-us-iran-peace-talks-2026-4",
-        "urlToImage": "https://i.insider.com/69db11b696ef6a4c9d121f93?width=1200&format=jpeg",
-        "publishedAt": "2026-04-12T17:54:00Z",
-        "content": "The US and Iran remained at a standstill after 21 hours of peace talks between the two delegations failed to reach an agreement, Vice President JD Vance announced at a press conference in Islamabad e\u2026 [+3799 chars]"
+        "title": "Trump officials may be encouraging banks to test Anthropic\u2019s Mythos model - TechCrunch",
+        "description": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+        "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+        "publishedAt": "2026-04-12T21:14:38Z",
+        "content": "Treasury Secretary Scott Bessent and Federal Reserve Chair Jerome Powell summoned bank executives for a meeting this week where they encouraged the executives to use Anthropics new Mythos model to de\u2026 [+1012 chars]"
     }
 ]
