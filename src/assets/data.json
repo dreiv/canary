@@ -2,41 +2,28 @@
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "KTLA Los Angeles"
         },
-        "author": null,
-        "title": "Oil back above $100 as US to blockade Iranian ports after peace talks fail - BBC",
-        "description": "The failure of negotiations at the weekend has raised concerns that the global energy crisis will deepen.",
-        "url": "https://www.bbc.com/news/articles/cn781z4lgg4o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/872c/live/2cfeb0f0-36dc-11f1-951e-7783ff0b6757.jpg",
-        "publishedAt": "2026-04-13T05:24:51Z",
-        "content": "The strait, through which a fifth of the world's energy shipments pass, has become a key flashpoint of the Iran war after Tehran retaliated against the US-Israeli strikes by threatening to attack ves\u2026 [+23 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Andras Gergely, Peter Laca",
-        "title": "Forint Surges as Orban\u2019s Loss Starts New Era for Hungary-EU Ties - Bloomberg.com",
-        "description": "Hungary\u2019s forint surged to a four-year high after Prime Minister Viktor Orban conceded defeat in Sunday\u2019s election, with the opposition\u2019s victory expected to help unlock billions of euros in European Union funding.",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-12/forint-jumps-to-three-year-high-as-hungary-s-orban-is-voted-out",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iehS_Rf8vrG8/v0/1200x800.jpg",
-        "publishedAt": "2026-04-13T04:35:00Z",
-        "content": "Hungarys forint surged to a four-year high after Prime Minister Viktor Orban conceded defeat in Sundays election, with the oppositions victory expected to help unlock billions of euros in European Un\u2026 [+348 chars]"
+        "author": "Josh DuBose",
+        "title": "Britney Spears posts racy dance video before voluntarily entering rehab - KTLA",
+        "description": "On the heels of a DUI arrest in Ventura County early last month, pop icon Britney Spears voluntarily checked herself into rehab over the weekend, but not before donning a sheer bodysuit and showing off her dance moves on social media, according to multiple re\u2026",
+        "url": "https://ktla.com/entertainment/britney-spears-posts-racy-dance-before-voluntarily-entering-rehab/",
+        "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2026/03/69aaf9733fe999.17032583.jpeg?w=1280",
+        "publishedAt": "2026-04-13T05:50:25Z",
+        "content": "On the heels of a DUI arrest in Ventura County early last month, pop icon Britney Spears voluntarily checked herself into rehab over the weekend, but not before donning a sheer bodysuit and showing o\u2026 [+1646 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Forbes"
+            "name": "NPR"
         },
-        "author": "Zak Doffman",
-        "title": "Microsoft Shuts Down Outlook App For Android Users In 6 Weeks - Forbes",
-        "description": "Outlook Lite is no more \u2014 here's what you need to do before you lose access to your emails.",
-        "url": "https://www.forbes.com/sites/zakdoffman/2026/04/13/microsoft-shuts-down-outlook-app-for-android-users-in-6-weeks/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6690578891da9e9996f5164d/0x0.jpg?format=jpg&crop=1880,1225,x628,y768,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-04-13T04:22:39Z",
-        "content": "Outlook Lite is about to disappear.\r\nPhotothek via Getty Images\r\nEmail is one of the highest risk apps on your phone. And so Microsofts decision to kill one of its long-standing mobile email apps has\u2026 [+2476 chars]"
+        "author": "The Associated Press",
+        "title": "A stampede at a Haitian mountaintop fortress kills at least 25 people and injures dozens - NPR",
+        "description": "A stampede at a mountaintop fortress popular with tourists in northern Haiti has killed at least 25 people and injured dozens of others, authorities said.",
+        "url": "https://www.npr.org/2026/04/13/g-s1-117209/a-stampede-at-a-haitian-mountaintop-fortress-kills-at-least-25-people",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6192x3483+0+323/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2Fe9%2F780f003e4d96a12b0b4490e0afed%2Fap26103012533145.jpg",
+        "publishedAt": "2026-04-13T05:13:15Z",
+        "content": "PORT-AU-PRINCE, Haiti A stampede at a mountaintop fortress popular with tourists in northern Haiti has killed at least 25 people and injured dozens of others, authorities said, revising an earlier, h\u2026 [+1557 chars]"
     },
     {
         "source": {
@@ -66,6 +53,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Android Authority"
+        },
+        "author": null,
+        "title": "The foldable redesign we've been waiting to see from Samsung and Apple is already here - Android Authority",
+        "description": "HUAWEI has unveiled the Pura X Max, a foldable phone that effectively kicks off 2026's shift toward wider designs.",
+        "url": "https://www.androidauthority.com/huawei-pura-x-max-wide-foldable-3656828/",
+        "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/04/Huawei-Pura-X-Max-main-image.jpg",
+        "publishedAt": "2026-04-13T03:35:12Z",
+        "content": "<ul><li>HUAWEI has officially revealed the Pura X Max, a wide foldable phone that ditches the tall design seen on current devices.</li><li>The Pura X Max is expected to feature a 7.69-inch inner disp\u2026 [+2009 chars]"
+    },
+    {
+        "source": {
             "id": "al-jazeera-english",
             "name": "Al Jazeera English"
         },
@@ -92,42 +92,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "CBS Sports"
+            "id": "entertainment-weekly",
+            "name": "Entertainment Weekly"
         },
-        "author": null,
-        "title": "Atlanta Hawks vs. Miami Heat Live Score and Stats - April 12, 2026 Gametracker - CBS Sports",
-        "description": "Get real-time NBA Basketball coverage and scores as Atlanta Hawks takes on Miami Heat. We bring you the latest game previews, live stats, expert picks and recaps on CBSSports.com",
-        "url": "https://www.cbssports.com/nba/gametracker/recap/NBA_20260412_ATL@MIA/",
-        "urlToImage": "https://sportsfly.cbsistatic.com/fly-535/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
-        "publishedAt": "2026-04-13T01:45:21Z",
-        "content": "MIAMI (AP) Jaime Jaquez Jr. capped his sixth-man award candidacy by scoring 26 points off the bench, Bam Adebayo and Norman Powell each scored 25 and the Miami Heat tuned up for the play-in tournamen\u2026 [+1826 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "cleveland.com"
-        },
-        "author": "Chris Fedor, cleveland.com",
-        "title": "Cavs to play Toronto Raptors in first round of 2026 NBA Playoffs - Cleveland.com",
-        "description": "Despite a high probability of facing the Atlanta Hawks going into Sunday, the Toronto Raptors leapfrogged Atlanta and claimed the Eastern Conference\u2019s fifth seed on a frenzied final day of the regular season.",
-        "url": "https://www.cleveland.com/cavs/2026/04/cavs-to-play-toronto-raptors-in-first-round-of-nba-playoffs.html",
-        "urlToImage": "https://www.cleveland.com/resizer/v2/J33ZVATZONDNDH76XROA35Q4R4.jpg?auth=c1a878e7a979d8f548681a72336d0df3747677afca97900ea22c808a6547c368&width=1280&smart=true&quality=90",
-        "publishedAt": "2026-04-13T00:56:00Z",
-        "content": "CLEVELAND, Ohio The Cavs championship quest will begin against the Toronto Raptors. \r\nDespite a high probability of facing the Atlanta Hawks going into Sunday, the Toronto Raptors leapfrogged Atlanta\u2026 [+1818 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "Patrick Thomas",
-        "title": "JBS Reaches Labor Deal With Striking Meatpacking Workers - WSJ",
-        "description": "Agreement covering 3,800 employees includes pay bumps through 2027",
-        "url": "https://www.wsj.com/business/jbs-reaches-labor-deal-with-striking-meatpacking-workers-b4306e84",
-        "urlToImage": "https://images.wsj.net/im-47905041/social",
-        "publishedAt": "2026-04-13T00:34:00Z",
-        "content": "The local union for thousands of \r\nbeef processing plant workers in Colorado reached a new labor agreement with JBSJBS-0.54%decrease; red down pointing triangle\r\n, the worlds largest meat company, a \u2026 [+492 chars]"
+        "author": "https://www.facebook.com/entertainmentweekly",
+        "title": "'Euphoria' season 3 premiere recap: What happens after time jump? - Entertainment Weekly",
+        "description": "Here's what happens after the 'Euphoria' season 3 time jump, including Hunter Schafer and Eric Dane's absence from the premiere episode.",
+        "url": "https://ew.com/euphoria-season-3-premiere-what-happens-after-time-jump-11945740",
+        "urlToImage": "https://ew.com/thmb/SXNYVTgB6pnv8nSBf9kG_5rmKuY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Euphoria-season-3-Zenday-Sydney-Sweeney-Hunter-Schafer-040826-6d9d0fe88ff5477aa42286517000d4f7.jpg",
+        "publishedAt": "2026-04-13T02:00:00Z",
+        "content": "This article contains spoilers for Euphoria season 3, episode 1.\r\nEuphoria's major season 3 time jump has given its central characters about five years to process the eternal mystery: \"Is this f---in\u2026 [+6707 chars]"
     },
     {
         "source": {
@@ -145,19 +119,6 @@
     {
         "source": {
             "id": null,
-            "name": "Rolling Stone"
-        },
-        "author": "Jodi Guglielmi",
-        "title": "Britney Spears Voluntarily Checks Into Rehab Facility - Rolling Stone",
-        "description": "Britney Spears has voluntarily checked herself into a treatment center just over a month after she was arrested for suspicion of DUI.",
-        "url": "http://www.rollingstone.com/music/music-news/britney-spears-voluntarily-checks-into-rehab-1235545607/",
-        "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/04/GettyImages-1163685622.jpg?w=1600&h=900&crop=1",
-        "publishedAt": "2026-04-12T23:52:19Z",
-        "content": "Britney Spears has entered rehab following her arrest\u00a0on suspicion of driving under the influence. The singer voluntarily checked into the treatment facility, a rep for the singer tells Rolling Stone\u2026 [+1420 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "San Francisco Chronicle"
         },
         "author": "Greg Porter",
@@ -167,6 +128,19 @@
         "urlToImage": "https://s.hdnux.com/photos/01/65/75/21/30921799/5/rawImage.jpg",
         "publishedAt": "2026-04-12T23:31:42Z",
         "content": "Infared imagery of Super Typhoon Sinlaku on Sunday evening. The typhoon reached sustained winds of 180 mph, making it the strongest storm on Earth in 2026 so far.\r\nNOAA\r\n<ul><li>Super Typhoon Sinlaku\u2026 [+3119 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Anand Krishnamoorthy",
+        "title": "Oil Surges, US Futures Drop on Hormuz Blockade: Markets Wrap - Bloomberg.com",
+        "description": "Oil surged while stocks and bonds fell as a brief bout of market optimism unraveled after President Donald Trump ordered a blockade of the Strait of Hormuz, escalating tensions with Iran after weekend peace talks collapsed.",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-12/oil-surges-us-futures-drop-on-hormuz-blockade-markets-wrap",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_prY7aZHRHE/v0/1200x675.png",
+        "publishedAt": "2026-04-12T23:29:22Z",
+        "content": "Oil surged while stocks and bonds fell as a brief bout of market optimism unraveled after President Donald Trump ordered a blockade of the Strait of Hormuz, escalating tensions with Iran after weeken\u2026 [+299 chars]"
     },
     {
         "source": {
@@ -245,5 +219,31 @@
         "urlToImage": "https://assets.sfstandard.com/image/994911177489/image_p0d3ia6va54sl6814v8lshso4g/-C100.00%25x74.91%25%2C0.00%25%2C0.00%25-S1200x630-FPNG",
         "publishedAt": "2026-04-12T22:01:24Z",
         "content": "OpenAI CEO Sam Altmans home appears to have been the target of a second attack Sunday morning, a mere two days after a 20-year-old man allegedly threw a Molotov cocktail at the property, The Standard\u2026 [+2771 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Marcia Dunn",
+        "title": "NASA already has next Artemis flight in its sights following astronauts\u2019 triumphant moon flyby - AP News",
+        "description": "With NASA's lunar comeback a galactic-sized smash, the space agency already has the next Artemis flight in its sights. In a mission recently tacked on for next year, Artemis III\u2019s yet-to-be -named crew will practice docking their Orion capsule with a lunar la\u2026",
+        "url": "https://apnews.com/article/nasa-artemis-moon-astronauts-apollo-74008cb58e79ed525ae5e1fe08a04ad9",
+        "urlToImage": "https://dims.apnews.com/dims4/default/ff58b97/2147483647/strip/true/crop/5120x3412+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F54%2F61%2F7f2e920307415a8f0085371f0003%2F1f9e0b3127aa42189d266806440a87d9",
+        "publishedAt": "2026-04-12T21:23:00Z",
+        "content": "HOUSTON (AP) Never-before-glimpsed views of the moons far side. Check. Total solar eclipse gracing the lunar scene. Check. New distance record for humanity. Check. \r\nWith NASAs lunar comeback a galac\u2026 [+4475 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Anthony Ha",
+        "title": "Trump officials may be encouraging banks to test Anthropic\u2019s Mythos model - TechCrunch",
+        "description": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+        "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+        "publishedAt": "2026-04-12T21:14:38Z",
+        "content": "Treasury Secretary Scott Bessent and Federal Reserve Chair Jerome Powell summoned bank executives for a meeting this week where they encouraged the executives to use Anthropics new Mythos model to de\u2026 [+1012 chars]"
     }
 ]
