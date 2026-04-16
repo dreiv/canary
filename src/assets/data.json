@@ -1,16 +1,42 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Deadline"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Dominic Patten",
-        "title": "No Charges For Taylor Frankie Paul; DA Clears \u2018Bachelorette\u2019 Star Of Domestic Violence Claims - Deadline",
-        "description": "Taylor Frankie Paul isn't heading to court over domestic violence claims that saw the ABC reality show yanked from the schedule last month.",
-        "url": "http://deadline.com/2026/04/taylor-frankie-paul-no-charges-domestic-violence-1236860787/",
-        "urlToImage": "https://deadline.com/wp-content/uploads/2026/03/American-IdTaylor-Frankie-Paul-in-The-Bachelorette.jpg?w=1024",
-        "publishedAt": "2026-04-14T23:02:00Z",
-        "content": "The latest season of The Bachelorette may or may not be coming to a screen near you one day, but Taylor Frankie Paul isn\u2019t heading to court over two domestic violence claims that saw the ABC reality \u2026 [+2588 chars]"
+        "author": null,
+        "title": "House passes aviation safety bill in response to deadly midair collision near D.C. - CBS News",
+        "description": null,
+        "url": "https://www.cbsnews.com/news/house-passes-alert-act-aviation-safety-bill/",
+        "urlToImage": null,
+        "publishedAt": "2026-04-15T00:03:11Z",
+        "content": "Description: Group Number: Group Name: Ip Address: Username: Computer Name:"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Ben Bergman",
+        "title": "VCs are flooding Anthropic with offers to invest at up to an $800 billion valuation - Business Insider",
+        "description": "Anthropic has received multiple offers to invest at valuations as high as $800 billion in recent weeks, which would more than double its valuation.",
+        "url": "https://www.businessinsider.com/anthropic-with-offers-to-invest-at-up-to-800-billion-2026-4",
+        "urlToImage": "https://i.insider.com/69deca47ddf31b99606d402f?width=1200&format=jpeg",
+        "publishedAt": "2026-04-14T23:32:00Z",
+        "content": "Anthropic has fielded multiple offers from VCs valuing the startup behind Claude at as much as $800 billion in recent weeks, more than double its current valuation, according to multiple people famil\u2026 [+1688 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Boston Globe"
+        },
+        "author": null,
+        "title": "\u2018Heartbreaking reality\u2019: Hampshire College announces transition to closure - The Boston Globe",
+        "description": "The announcement marks the end of another tumultuous chapter in the ongoing saga of the liberal arts school.",
+        "url": "https://www.bostonglobe.com/2026/04/14/metro/hampshire-college-news/",
+        "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/IHSFA5GHBJKEB3BANO2PBB3EAI.JPG?auth=addcf2a4fff3a9821ddcae16b392208907faf61ac01f24dff30d2b7fc55e8195&width=1440",
+        "publishedAt": "2026-04-14T22:56:09Z",
+        "content": "Despite this herculean effort, the financial pressures on the Colleges operations have become increasingly complex, compounded by shifting external factors, president Jennifer Chrisler wrote in an em\u2026 [+5276 chars]"
     },
     {
         "source": {
@@ -53,16 +79,29 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
         },
-        "author": "Alayna Treene, Thomas Bordeaux, Avery Schmitz, Charbel Mallo, Catherine Nicholls, Elise Hammond, Jennifer Hansler, Kit Maher, Max Saltman, Dana Karni, Mohammed Tawfeeq, Aileen Graef, Brian Stelter, Tim Lister, Billy Stockwell, Tala Alrajjal, Sharon Braithwaite, Eyad Kourdi, Issy Ronald, Haley Britzky, Natasha Bertrand, Oren Liebermann, Olesya Dmitracova, Nina Giraldo, Hanna Ziady, Kaanita Iyer, Soph Warnes, Chris Isidore, Nadeen Ebrahim, Tamara Qiblawi, Sarah Tamimi, Tal Shalev, Brad Lendon, Simone McCarthy, Rebecca Wright, Ivan Watson, Kristie Lu Stout, Stephanie Yang, Gawon Bae, Teele Rebane, Angus Watson, Jessie Yeung, Donald Judd",
-        "title": "Live updates: Trump hints US-Iran talks could resume over next two days - CNN",
-        "description": "Vice President JD Vance is expected to lead a potential second round of negotiations with Iranian officials should a meeting happen before the ceasefire expires next week, sources told CNN. Follow for live news updates.",
-        "url": "https://www.cnn.com/2026/04/14/world/live-news/iran-war-blockade-us-trump",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-12t135436z-1625689504-rc2gnkaezcwq-rtrmadp-3-iran-crisis-hormuz.JPG?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-04-14T21:54:00Z",
-        "content": "President Donald Trump said Pope Leo XIV doesnt understand Irans nuclear threat.\r\nHe doesnt understand and shouldnt be talking about war, because he has no idea whats happening, he told the Italian n\u2026 [+1263 chars]"
+        "author": "WSJ",
+        "title": "\u2018Return to the Moon\u2019 Review: Artemis II\u2019s Achievement on PBS - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/arts-culture/television/return-to-the-moon-review-the-achievement-of-artemis-ii-on-pbs-4fc23ef4",
+        "urlToImage": null,
+        "publishedAt": "2026-04-14T21:13:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Awful Announcing"
+        },
+        "author": "Brendon Kleen",
+        "title": "Ian Eagle-Stan Van Gundy lead Prime Video\u2019s NBA Playoffs coverage - Awful Announcing",
+        "description": "Prime Video has announced its broadcast plans for the start of the NBA playoffs, including its No. 1 booth and \"Prime Vision\" alt feed.",
+        "url": "https://awfulannouncing.com/amazon/prime-video-ian-eagle-stan-van-gundy-booth-nba-playoffs-play-in-tournament.html",
+        "urlToImage": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2026/03/USATSI_27751262-scaled-e1772984895304.jpg",
+        "publishedAt": "2026-04-14T21:07:33Z",
+        "content": "Prime Video\u2019s NBA coverage has ramped up over the course of the season, and the streamer will take center stage this week as the league\u2019s Play-In Tournament\u2019s exclusive home.\r\nNBA on Prime will use t\u2026 [+2743 chars]"
     },
     {
         "source": {
@@ -106,28 +145,15 @@
     {
         "source": {
             "id": null,
-            "name": "9to5Mac"
+            "name": "CNBC"
         },
-        "author": "Marcus Mendes",
-        "title": "Apple says Jon Prosser has only partially complied with subpoenas in iOS 26 leak case - 9to5Mac",
-        "description": "In a joint status report, attorneys for Apple and Michael Ramacciotti updated the court on the latest developments in the trade secrets lawsuit over the leak of iOS 26 design details.",
-        "url": "https://9to5mac.com/2026/04/14/apple-says-jon-prosser-has-only-partially-complied-with-subpoenas-in-ios-26-leak-case/",
-        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/joe-prosser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "publishedAt": "2026-04-14T20:44:00Z",
-        "content": "In a joint status report, attorneys for Apple and Michael Ramacciotti updated the court on the latest developments in the trade secrets lawsuit over the leak of iOS 26 design details. Here\u2019s what\u2019s n\u2026 [+3842 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "WBUR"
-        },
-        "author": null,
-        "title": "Hampshire College in Amherst will permanently close in the fall - WBUR",
-        "description": "Founded in 1965 as a campus determined to \"radically reimagine liberal arts education,\" the small liberal arts college started facing significant financial headwinds seven years ago. It failed to find a \"strategic partner\" to help afford its operating expense\u2026",
-        "url": "https://www.wbur.org/news/2026/04/14/hampshire-college-closing-western-mass-chrisler-liberal-arts-school",
-        "urlToImage": "https://media.wbur.org/wp/2026/04/1004_hampshire-06-1000x641.jpg",
-        "publishedAt": "2026-04-14T20:29:57Z",
-        "content": "Hampshire College in Amherst announced Tuesday it will permanently close its doors at the end of this year, citing financial difficulties.\r\n\"Hampshire's board made this decision only after exploring \u2026 [+5271 chars]"
+        "author": "Sean Conlon, Fred Imbert",
+        "title": "S&P 500 marches higher one day after benchmark wipes out Iran war losses: Live updates - CNBC",
+        "description": "Wall Street once again proved resilient in the face of increased geopolitical uncertainty.",
+        "url": "https://www.cnbc.com/2026/04/13/stock-markets-today-live-updates.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108290489-1776091910945-gettyimages-2271153238-mms19230_ufjrpsvy.jpeg?v=1776091972&w=1920&h=1080",
+        "publishedAt": "2026-04-14T20:26:00Z",
+        "content": "Several Wall Street analysts initiated coverage of Janus Living with overweight and buy ratings on Tuesday. The real estate investment trust, a pure play on senior housing, began trading on the New Y\u2026 [+1423 chars]"
     },
     {
         "source": {
@@ -144,19 +170,6 @@
     },
     {
         "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Mia McCarthy, Meredith Lee Hill",
-        "title": "Johnson says he told Trump to take down image of president-as-Jesus - Politico",
-        "description": "\u201cI did ask him to delete it,\u201d the speaker said.",
-        "url": "https://www.politico.com/live-updates/2026/04/14/congress/johnson-trump-jesus-picture-00871804",
-        "urlToImage": "https://www.politico.com/dims4/default/d1ec6af/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F46%2Fb0%2Fdc34a6f14c9eb12ef43110f7102a%2Fu-s-congress-03617.jpg",
-        "publishedAt": "2026-04-14T20:24:09Z",
-        "content": null
-    },
-    {
-        "source": {
             "id": "ars-technica",
             "name": "Ars Technica"
         },
@@ -170,54 +183,41 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Chron.com"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "Gwen Howerton",
-        "title": "The Dallas Wings' two best players are about to have a big gay summer - Chron",
-        "description": "In Azzi Fudd, the Dallas Wings are getting one of the best college shooters who already has chemistry with their star player.",
-        "url": "https://www.chron.com/culture/article/azzi-fudd-bueckers-dallas-wings-22205905.php",
-        "urlToImage": "https://s.hdnux.com/photos/01/65/76/15/30925679/3/rawImage.jpg",
-        "publishedAt": "2026-04-14T19:54:23Z",
-        "content": "Azzi Fudd of UConn poses with WNBA Commissioner Cathy Engelbert after being selected with the 1st pick in the first round by the Dallas Wings during the 2026 WNBA Draft at The Shed on April 13, 2026 \u2026 [+5221 chars]"
-    },
-    {
-        "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Scott Wong, Kyle Stewart, Lizzie Jensen",
-        "title": "Reps. Eric Swalwell and Tony Gonzales officially resign amid misconduct claims - NBC News",
-        "description": "The California Democrat and the Texas Republican had both faced potential expulsion votes after they were accused of sexual misconduct with staff members.",
-        "url": "https://www.nbcnews.com/politics/congress/reps-tony-gonzales-eric-swalwell-officially-resign-misconduct-claims-rcna331765",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260412-3x2-split-swalwell-gonzales-vl-1252p-67a395.jpg",
-        "publishedAt": "2026-04-14T19:33:23Z",
-        "content": "WASHINGTON Both Rep. Eric Swalwell, D-Calif., and Rep. Tony Gonzales, R-Texas, resigned from Congress in disgrace Tuesday, pre-empting a push by their House colleagues to expel them from office.\r\nSub\u2026 [+6288 chars]"
+        "author": "Eva Roytburg",
+        "title": "From Molotov cocktails to data center shutdowns, the AI backlash is turning revolutionary - Fortune",
+        "description": "Gen Z is furious about AI, and so is the American countryside.",
+        "url": "https://fortune.com/2026/04/14/ai-backlash-revolutionary-sam-altman-molotov-cocktails-data-centers/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2197366854-e1776194877963.jpg?resize=1200,600",
+        "publishedAt": "2026-04-14T19:58:00Z",
+        "content": "For years, the resistance to artificial intelligence looked manageable. There were academics writing open letters, Hollywood writers striking over contract language, the think-tank reports warning of\u2026 [+7857 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "The Information"
+            "name": "The Cut"
         },
-        "author": "Yueqi Yang",
-        "title": "Crypto Firms Seek Access to Anthropic\u2019s Mythos While Shoring Up Defenses - The Information",
-        "description": "Major crypto exchanges and custodians including Coinbase and Binance are racing to prepare for powerful AI models like Anthropic\u2019s Mythos, which the AI firm says could be dangerously good at finding and exploiting software vulnerabilities. Coinbase, the bigge\u2026",
-        "url": "https://www.theinformation.com/articles/crypto-firms-seek-access-anthropics-mythos-shoring-defenses",
-        "urlToImage": "https://tii.imgix.net/production/articles/16928/d3c33502-16ff-4d5d-a629-14cd206e63a8.png?fm=jpg&auto=compress&w=1200&frame=0",
-        "publishedAt": "2026-04-14T18:48:00Z",
-        "content": "Exclusive: Handshake, Mercor Revenue Surges on Demand for Human Contractors to Train AI\u00a0Save 25% and read more"
+        "author": "Olivia Craighead",
+        "title": "Everything Lena Dunham Says About Adam Driver in Famesick - The Cut",
+        "description": "In her new memoir, \u2018Famesick,\u2019 Lena Dunham writes at length about her tumultuous personal and professional relationship with Adam Driver \u2014 including the time he \u2018hurled\u2019 a chair her way.",
+        "url": "http://www.thecut.com/article/what-does-lena-dunham-say-about-adam-driver-famesick.html",
+        "urlToImage": "https://pyxis.nymag.com/v1/imgs/b8d/872/8773b55a065f0efdbd1190539e33759b73-lena-dunham-adam-driver.1x.rsocial.w1200.jpg",
+        "publishedAt": "2026-04-14T19:32:37Z",
+        "content": "Happy New Lena Dunham Memoir Day to all those who celebrate. Dunhams latest book, Famesick, finds her reflecting on Girls, chronic illness, and her relationship with Jack Antonoff. Its all incredibly\u2026 [+6558 chars]"
     },
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
+            "id": null,
+            "name": "The Texas Tribune"
         },
-        "author": "WSJ",
-        "title": "Fed Nominee Kevin Warsh Details More Than $100 Million in Financial Holdings - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/finance/investing/fed-nominee-kevin-warsh-discloses-vast-wealth-15896865",
-        "urlToImage": null,
-        "publishedAt": "2026-04-14T18:42:00Z",
-        "content": null
+        "author": "Associated Press",
+        "title": "Camp Mystic official testifies that he didn\u2019t see flood warnings issued the day before storm hit - The Texas Tribune",
+        "description": "Edward Eastland, whose father died in the July 4 flood along with 27 campers and counselors, acknowledged in emotional testimony that staff should have acted sooner to evacuate campers.",
+        "url": "http://www.texastribune.org/2026/04/14/texas-camp-mystic-flood-civil-lawsuit-hearing-director-testimony/",
+        "urlToImage": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/04/camp_mystic_hearing_2_mlc_0204.jpg?fit=2560%2C1707&quality=100&ssl=1&w=1200&h=630",
+        "publishedAt": "2026-04-14T18:00:06Z",
+        "content": "Sign up for The Brief, The Texas Tribunes daily newsletter that keeps readers up to speed on the most essential Texas news.\r\nAudio recording is automated for accessibility. Humans wrote and edited th\u2026 [+7026 chars]"
     }
 ]
