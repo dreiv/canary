@@ -1,6 +1,32 @@
 [
     {
         "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": null,
+        "title": "Trump says Strait of Hormuz 'completely open' as US blockade on Iranian ports continues - Fox News",
+        "description": "Iranian Foreign Minister Seyed Abbas Araghchi announced Friday that the Strait of Hormuz is open through Iran's \"coordinated route.\" President Donald Trump said a blockade on Iranian ports will remain in effect.",
+        "url": "https://www.foxnews.com/live-news/trump-iran-us-war-israel-lebanon-ceasefire-strait-hormuz-blockade-april-17",
+        "urlToImage": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/04/52529c4de7d1146c3f36ba17bab68c20.jpg",
+        "publishedAt": "2026-04-18T04:34:40Z",
+        "content": "Israeli Prime Minister Benjamin Netanyahu said Friday that his country will provide an opportunity for a political and military solution with Lebanon where the IDF has been fighting the Iran-aligned \u2026 [+1609 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Abcnews.com"
+        },
+        "author": "ANDREW DALTON AP entertainment writer",
+        "title": "Rapper Tory Lanez sues California prison system for $100 million over stabbing by inmate - abcnews.com",
+        "description": "Rapper Tory Lanez has sued the California prison system, claiming he should not have been housed with an inmate who stabbed him 16 times last year",
+        "url": "https://abcnews.com/Entertainment/wireStory/rapper-tory-lanez-sues-california-prison-system-100-132158260",
+        "urlToImage": "https://i.abcnewsfe.com/a/db7b92a6-a973-4ad2-8abb-61e35bbcb7e5/wirestory_aa89834d5c1d654eb39dc53f343f3682_16x9.jpg?w=1600",
+        "publishedAt": "2026-04-18T04:31:12Z",
+        "content": "LOS ANGELES -- LOS ANGELES (AP) Rapper Tory Lanez has sued the California prison system, saying he never should have been housed with a fellow inmate who stabbed him 16 times last year. \r\nLanez, 33, \u2026 [+2814 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Heat.com"
         },
@@ -14,16 +40,29 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
+            "id": null,
+            "name": "Foxweather.com"
         },
-        "author": "Brian Stelter",
-        "title": "Federal judge blocks politically fraught TV station merger - CNN",
-        "description": "Nexstar\u2019s politically charged acquisition of a rival TV station owner, Tegna, has been halted by a federal judge in California.",
-        "url": "https://www.cnn.com/2026/04/17/media/nexstar-tegna-trump-merger-judge-california-bonta",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2267089029.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-04-18T02:13:00Z",
-        "content": "Nexstars politically charged acquisition of a rival TV station owner, Tegna, has been halted by a federal judge in California.\r\nFridays court action throws Nexstars takeover plans into doubt and sign\u2026 [+3347 chars]"
+        "author": null,
+        "title": "Live updates: Life-threatening storms target the Heartland, intense tornadoes and huge hail possible - FOX Weather",
+        "description": "A dangerous severe weather outbreak is unfolding across the Heartland as supercells threaten to produce intense tornadoes and destructive, softball-sized hail. Follow our live coverage for real-time radar analysis, local storm reports, and critical safety inf\u2026",
+        "url": "https://www.foxweather.com/live-news/live-updates-life-threatening-storms-target-the-heartland-intense-tornadoes-and-huge-hail-possible",
+        "urlToImage": "https://static.foxnews.com/static/orion/styles/img/fox-weather/og/og-fox-weather.png",
+        "publishedAt": "2026-04-18T03:55:15Z",
+        "content": "Governor Mike Kehoe has declared a State of Emergency in Missouri in preparation for 'potentially dangerous severe weather' forecast to slam the majority of the state.\r\nThis Executive Order is a proa\u2026 [+1371 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Emily Davies",
+        "title": "Trump came to Arizona to rally young voters. An older crowd greeted him. - The Washington Post",
+        "description": "Despite some empty seats, Trump projected confidence in his party\u2019s ability to win the midterm elections. Some in the crowd focused on GOP divisions.",
+        "url": "https://www.washingtonpost.com/politics/2026/04/17/trump-turning-point-arizona/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/HPVLW5ZMBQWMLGKE6YQWHFAKEE.JPG&w=1440",
+        "publishedAt": "2026-04-18T03:31:00Z",
+        "content": "PHOENIX The megachurch in Phoenix was supposed to be a venue for President Donald Trump to drum up support among the young voters who helped deliver him to the Oval Office. Instead, he found an audie\u2026 [+83 chars]"
     },
     {
         "source": {
@@ -53,29 +92,29 @@
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": null,
+            "name": "Variety"
         },
-        "author": "Maria Curi, Marc Caputo, Dave Lawler",
-        "title": "Scoop: Bessent and Wiles met Anthropic's Amodei in sign of thaw - Axios",
-        "description": "\"Every department other than War wants to use Anthropic.\"",
-        "url": "https://www.axios.com/2026/04/17/anthropic-white-house-wiles-bessent-amodei",
-        "urlToImage": "https://images.axios.com/mxT1sY1lgTXn3WhjoKZZooBL4VU=/0x130:4285x2541/1366x768/2026/04/17/1776458798008.jpeg",
-        "publishedAt": "2026-04-18T00:47:00Z",
-        "content": "\"This is a big problem. Everyone's complaining. There's all this drama. So this got elevated to Susie to hear Dario out, determine what is bullsh-t and start to plot a way forward,\" a Trump adviser t\u2026 [+3177 chars]"
+        "author": "Hunter Ingram",
+        "title": "\u2018Outlander\u2019 Shocker: Stars Break Down That Devastating Death, How It\u2019s Different From the Books and Why They Asked for a More Intimate Final Sex Scene - Variety",
+        "description": "'Outlander' favorite Fergus died in a fire on the show, a moment that changes course from the books.",
+        "url": "https://variety.com/2026/tv/features/outlander-fergus-dies-fire-saving-kids-sex-scene-1236724296/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2026/04/Outlander.png?w=1000&h=563&crop=1",
+        "publishedAt": "2026-04-18T01:01:00Z",
+        "content": "SPOILER ALERT: This post contains spoilers for \u201cEvidence of Things Not Seen,\u201d the seventh episode of Season 8 of \u201cOutlander,\u201d now streaming on Starz.\r\nC\u00e9sar Domboy wants \u201cOutlander\u201d fans to know one \u2026 [+8085 chars]"
     },
     {
         "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
+            "id": "politico",
+            "name": "Politico"
         },
-        "author": "Joe  Walsh, Melissa  Quinn, Kathryn  Watson",
-        "title": "How the dispute between Trump and Pope Leo escalated - CBS News",
-        "description": "President Trump has lobbed insults at Pope Leo XIV in response to his criticisms of the war in Iran, marking an unusually pronounced rupture between the leaders of the world's most powerful country and the world's largest Christian denomination.",
-        "url": "https://www.cbsnews.com/news/how-dispute-trump-pope-leo-escalated/",
-        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/13/627f2ed4-281a-4e2c-9143-7ce96c7c16b3/thumbnail/1200x630/8888644a7ae60e52149cd6f08389cfc3/untitled-design.jpg",
-        "publishedAt": "2026-04-18T00:42:00Z",
-        "content": "President Trump has been lobbing insults at Pope Leo XIV in response to his criticisms of the war in Iran and appeals for peace, marking an unusually pronounced rupture between the leaders of the wor\u2026 [+10122 chars]"
+        "author": "Sophia Cai",
+        "title": "Trump to release reading of scripture days after angering many Christians - Politico",
+        "description": "The president has prepared an Old Testament reading for an event at the Museum of the Bible.",
+        "url": "https://www.politico.com/news/2026/04/17/trump-scripture-angering-christians-00879747",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ff6%2Fdf%2F69f757a0469988a19267c290eb45%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2194393357",
+        "publishedAt": "2026-04-18T00:57:41Z",
+        "content": "Trumps roughly two-and-a-half-minute reading, which is slated to air Tuesday, comes after he angered many Christians with a social media post that appeared to depict him as Jesus and publicly quarrel\u2026 [+1558 chars]"
     },
     {
         "source": {
@@ -119,6 +158,19 @@
     {
         "source": {
             "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Pregnancy vaccine reduces baby hospital admissions for RSV by 80% - BBC",
+        "description": "A study confirms the vaccine gives excellent protection for babies against life-threatening chest infections.",
+        "url": "https://www.bbc.com/news/articles/c4g84nxwz8wo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4ad0/live/9f4a1170-3a67-11f1-88e7-17b97289f7a3.jpg",
+        "publishedAt": "2026-04-17T23:35:23Z",
+        "content": "A virus, called RSV, affects many babies in the first few months of life and can leave them gasping for breath and struggling to feed, with more than 20,000 babies ending up seriously ill in hospital\u2026 [+21 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Deadline"
         },
         "author": "Dade Hayes",
@@ -128,6 +180,19 @@
         "urlToImage": "https://deadline.com/wp-content/uploads/2026/04/QVC-Group.jpg?w=1024",
         "publishedAt": "2026-04-17T23:22:00Z",
         "content": "QVC Group, whose networks pioneered the concept of live TV shopping in the 1980s and built it into a mainstay of the late-20th century media business, has filed for Chapter 11bankruptcy.\r\nThe volunta\u2026 [+2127 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Financial Times"
+        },
+        "author": "Joe Miller, George Hammond",
+        "title": "Anthropic CEO to meet White House chief of staff as US seeks access to Mythos model - Financial Times",
+        "description": "Dario Amodei met with Susie Wiles despite lawsuits over whether AI lab is a national security threat",
+        "url": "https://www.ft.com/content/c9f5b690-a10e-4c66-9245-017f8bfbc7b4?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdad1aa9a-f621-4eb7-b188-fe6b066e4f15.jpg?source=next-barrier-page",
+        "publishedAt": "2026-04-17T22:10:14Z",
+        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
     },
     {
         "source": {
@@ -144,45 +209,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "HuffPost"
-        },
-        "author": null,
-        "title": "RFK Jr. Calls Tylenol Study Finding No Link To Autism \u2018Garbage\u2019 - HuffPost",
-        "description": "\u201cThe study is a garbage study; it should be retracted,\u201d said the health secretary, who has warned pregnant women about taking the painkiller.",
-        "url": "https://www.huffpost.com/entry/rfk-jr-tylenol-autism-study-garbage_n_69e26a60e4b0555d213b4442",
-        "urlToImage": "https://img.huffingtonpost.com/asset/69e28ddd1400009872eca64e.jpeg?cache=YKGv6Bb8rl&ops=500_281%2Cscalefit_1200_630",
-        "publishedAt": "2026-04-17T21:15:00Z",
-        "content": "Health Secretary Robert F. Kennedy Jr. rejected the findings of a recent Danish study that found no link between autism and Tylenol use during pregnancy, calling the research garbage and fraudulent.\r\u2026 [+3578 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "UK and France to lead defensive mission in Strait of Hormuz - BBC",
-        "description": "Sir Keir Starmer has said further details of the plan will come after a meeting in London next week.",
-        "url": "https://www.bbc.com/news/articles/c5yjz819vmgo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cef6/live/2f8ca090-3a86-11f1-8606-05fe34b06e1b.jpg",
-        "publishedAt": "2026-04-17T21:05:55Z",
-        "content": "Trump said he received a call from Nato offering help on Friday but, in a post on Truth Social, he wrote that he \"TOLD THEM TO STAY AWAY, UNLESS THEY JUST WANT TO LOAD UP THEIR SHIPS WITH OIL\"."
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "WTOP"
-        },
-        "author": "The Associated Press",
-        "title": "$13 train fare spikes to $150 for World Cup fans attending matches in New Jersey - WTOP",
-        "description": "Fans trying to get to MetLife Stadium from New York City can expect to shell out $150 for a round-trip train fare, transportation officials confirmed Friday.",
-        "url": "https://wtop.com/national/2026/04/13-train-fare-spikes-to-150-for-world-cup-fans-attending-games-in-new-jersey/",
-        "urlToImage": "https://wtop.com/wp-content/uploads/2026/04/WCup_NJ_Transit_Soccer_83591.jpg",
-        "publishedAt": "2026-04-17T20:52:27Z",
-        "content": "FILE - Fans play with a ball outside the Metlife Stadium prior to the Club World Cup final soccer match between Chelsea and PSG in East Rutherford, N.J., Sunday, July 13, 2025. (AP Photo/Pamela Smith\u2026 [+5220 chars]"
-    },
-    {
-        "source": {
             "id": "politico",
             "name": "Politico"
         },
@@ -193,44 +219,5 @@
         "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fd0%2Ff8%2F0b7a207147b78e6a94a0d9e7fcf3%2Fu-s-congress-79149.jpg",
         "publishedAt": "2026-04-17T20:24:38Z",
         "content": "I hope that we are arriving at an exit strategy here to bring this to a close to preserve our security interests and bring down the cost of gasoline, Sen. Josh Hawley (R-Mo.) told reporters this week\u2026 [+3365 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Minnesota Public Radio News"
-        },
-        "author": "MPR News Staff, Catharine Richert",
-        "title": "Tornadoes touch down in Rochester area - MPR News",
-        "description": "Severe thunderstorms produced tornadoes Friday afternoon in southeast Minnesota. The National Weather Service reported a damaging tornado in the Marion area southeast of Rochester just before 3 p.m. and another tornado near Plainview.",
-        "url": "https://www.mprnews.org/story/2026/04/17/tornadoes-touch-down-in-rochester-area",
-        "urlToImage": "https://img.apmcdn.org/ac379b0f6fa697797a8656d1f538cd4642c2f649/widescreen/45f3e7-20260417-rochesterarea03-2000.jpg",
-        "publishedAt": "2026-04-17T20:08:14Z",
-        "content": "When it comes to staying informed in Minnesota, our newsletters overdeliver. Sign-up now for headlines, breaking news, hometown stories, weather and much more. Delivered weekday mornings."
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Barak Ravid",
-        "title": "Trump shocked Netanyahu with post declaring Lebanon strikes \"prohibited\" - Axios",
-        "description": "Trump's post suggested he was giving Israel an order it had no choice but to obey.",
-        "url": "https://www.axios.com/2026/04/17/lebanon-strikes-israel-trump-prohibited",
-        "urlToImage": "https://images.axios.com/n06E5uVW7KT6O4Dx4YpD2p7Hr0c=/0x83:4000x2333/1366x768/2026/04/17/1776455189439.jpeg",
-        "publishedAt": "2026-04-17T19:57:35Z",
-        "content": "<ul><li>The implication of Trump's post that he was issuing an order that Israel had no choice but to obey would have been unthinkable under other U.S. administrations.</li><li>Netanyahu was personal\u2026 [+2469 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Common Dreams"
-        },
-        "author": "https://www.facebook.com/32109457015",
-        "title": "Israel Strikes Lebanon Less Than an Hour After Trump Says It's 'PROHIBITED' From More Attacks - Common Dreams",
-        "description": "\u200b\"This fragile truce must not be undermined, said the secretary general of the Norwegian Refugee Council.",
-        "url": "https://www.commondreams.org/news/israel-strikes-lebanon-less-than-an-hour-after-trump-says-it-s-prohibited-from-more-attacks",
-        "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=65565999&width=1200&height=600&coordinates=0%2C167%2C0%2C167",
-        "publishedAt": "2026-04-17T19:53:15Z",
-        "content": "Less than an hour after US President Donald Trump announced that Israel was \"PROHIBITED\" from attacking Lebanon under a 10-day ceasefire reached Friday, an Israeli drone strike reportedly killed at l\u2026 [+4625 chars]"
     }
 ]
